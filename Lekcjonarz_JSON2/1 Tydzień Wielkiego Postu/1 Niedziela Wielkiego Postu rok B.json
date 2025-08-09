@@ -38,37 +38,44 @@
     {
       "numer": "97",
       "piesn": "Bliskie jest królestwo Boże",
-      "opis": "Refren tej pieśni jest dosłownym cytatem z końcowych słów Ewangelii: \"nawracajmy się i wierzmy w Ewangelię\"."
+      "opis": "Refren tej pieśni jest dosłownym cytatem z wezwania Jezusa w Ewangelii: \"nawracajmy się i wierzmy w Ewangelię\".",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń mówi o wierności przymierzu z Bogiem, co nawiązuje do pierwszego czytania o przymierzu z Noem.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "103",
       "piesn": "Dałeś nam przykład",
-      "opis": "Pieśń ta odnosi się do czterdziestodniowego pobytu Jezusa na pustyni, co jest głównym tematem Ewangelii."
+      "opis": "Utwór wprost odnosi się do czterdziestodniowego pobytu Jezusa na pustyni, opisanego w Ewangelii.",
+      "moment": "komunia"
     },
     {
       "numer": "106",
       "piesn": "Nawróć się, ludu",
-      "opis": "Jest to bezpośrednia odpowiedź na wezwanie Jezusa z Ewangelii do nawrócenia i pokuty."
+      "opis": "Jest to pieśń wzywająca do pokuty i nawrócenia, co stanowi centralne przesłanie dzisiejszej Ewangelii.",
+      "moment": "uwielbienie"
     },
     {
       "numer": "118",
       "piesn": "Zmiłuj się Stwórco",
-      "opis": "Hymn ten, prosząc o miłosierdzie, nawiązuje do wierności Boga i Jego przymierza, o którym mowa w pierwszym czytaniu."
+      "opis": "Klasyczny hymn wielkopostny, który prosi o miłosierdzie i owocne przeżycie czasu pokuty.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Klasyczna pieśń pokutna, która dobrze oddaje ducha Wielkiego Postu i prośbę o miłosierdzie obecną w psalmie."
-    },
-    {
-      "numer": "108",
-      "piesn": "Padnijmy twarzą na ziemię",
-      "opis": "Wyraża postawę pokuty i błagania, do której wzywa nas okres Wielkiego Postu, zainaugurowany przez Jezusa na pustyni."
+      "opis": "Pieśń pokutna, która dobrze oddaje ducha Wielkiego Postu i prośbę o miłosierdzie obecną w psalmie.",
+      "moment": "ogolne"
     },
     {
       "numer": "111",
       "piesn": "Przepuść, Panie",
-      "opis": "Krótka, lecz wymowna suplikacja, która jest sercem wielkopostnej modlitwy o przebaczenie i nawrócenie."
+      "opis": "Krótka suplikacja jest sercem wielkopostnej modlitwy o przebaczenie i nawrócenie, do którego wzywa Chrystus.",
+      "moment": "ogolne"
     }
   ]
 }

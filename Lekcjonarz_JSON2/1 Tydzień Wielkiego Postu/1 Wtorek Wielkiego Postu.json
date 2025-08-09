@@ -30,34 +30,46 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "114",
-      "piesn": "Wydawajcie owoce",
-      "opis": "Jej tekst bezpośrednio wzywa do wzajemnego przebaczenia, co jest kluczowym warunkiem postawionym przez Jezusa w Ewangelii."
+      "numer": "115",
+      "piesn": "Wysłuchaj, Panie",
+      "opis": "Ta błagalna pieśń jest wyrazem postawy modlitewnej, do której zachęca Jezus w Ewangelii.",
+      "moment": "wejscie"
     },
     {
-      "numer": "621",
-      "piesn": "Przykazanie nowe daję wam",
-      "opis": "Pieśń ta, opisując cechy miłości, takie jak cierpliwość i niepamiętanie zła, stanowi doskonały komentarz do ewangelicznej nauki o przebaczaniu."
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Jej tekst bezpośrednio wzywa do wzajemnego przebaczenia, co jest kluczowym warunkiem postawionym przez Jezusa w Ewangelii.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Jest to modlitwa o przebaczenie, która odzwierciedla prośbę \"odpuść nam nasze winy\" z Modlitwy Pańskiej, której uczy Jezus."
+      "opis": "Jest to modlitwa o przebaczenie, która odzwierciedla prośbę \"odpuść nam nasze winy\" z Modlitwy Pańskiej, której uczy Jezus.",
+      "moment": "komunia"
     },
     {
-      "numer": "115",
-      "piesn": "Wysłuchaj, Panie",
-      "opis": "Ta błagalna pieśń jest wyrazem postawy modlitewnej, do której zachęca Jezus w Ewangelii, prosząc o przebaczenie grzechów."
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń ta, opisując cechy miłości, stanowi doskonały komentarz do ewangelicznej nauki o przebaczaniu.",
+      "moment": "uwielbienie"
     },
     {
       "numer": "118",
       "piesn": "Zmiłuj się Stwórco",
-      "opis": "Jako hymn wielkopostny, doskonale pasuje do charakteru dnia i prosi o Boże miłosierdzie oraz siłę do pokuty."
+      "opis": "Jako hymn wielkopostny, doskonale pasuje do charakteru dnia i prosi o Boże miłosierdzie oraz siłę do pokuty.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "112",
       "piesn": "Serce me do Ciebie wznoszę",
-      "opis": "Utwór ten jest muzycznym wyrazem postawy szukania Boga i modlitwy, o której naucza Jezus w Ewangelii."
+      "opis": "Utwór ten jest muzycznym wyrazem postawy szukania Boga i modlitwy, o której naucza Jezus w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Prosty i ufny charakter tej pieśni jest odpowiedzią na zachętę Jezusa do wytrwałej modlitwy, opartej na wierze w dobroć Ojca.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -32,32 +32,44 @@
     {
       "numer": "621",
       "piesn": "Przykazanie nowe daję wam",
-      "opis": "Pieśń o przykazaniu miłości jest kluczowa w kontekście Ewangelii, która radykalnie rozszerza to przykazanie na nieprzyjaciół."
-    },
-    {
-      "numer": "1",
-      "piesn": "Błogosławieni",
-      "opis": "Tekst o czynieniu pokoju i miłosierdziu doskonale rezonuje z Ewangelią o miłości nieprzyjaciół jako drodze do doskonałości."
+      "opis": "Pieśń o przykazaniu miłości jest kluczowa w kontekście Ewangelii, która radykalnie rozszerza to przykazanie na nieprzyjaciół.",
+      "moment": "wejscie"
     },
     {
       "numer": "114",
       "piesn": "Wydawajcie owoce",
-      "opis": "Wezwanie do cierpliwości i wybaczania sobie nawzajem jest praktycznym zastosowaniem miłości nieprzyjaciół, do której wzywa Jezus."
+      "opis": "Wezwanie do wybaczania sobie nawzajem jest praktycznym zastosowaniem miłości nieprzyjaciół, do której wzywa Jezus.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Tekst o czynieniu pokoju i miłosierdziu doskonale rezonuje z Ewangelią o miłości nieprzyjaciół jako drodze do doskonałości.",
+      "moment": "komunia"
     },
     {
       "numer": "102",
       "piesn": "Boże, w dobroci",
-      "opis": "Pieśń o Bożej dobroci, która jest wzorem dla naszej doskonałości, o której mówi Jezus: \"jak doskonały jest Ojciec wasz niebieski\"."
-    },
-    {
-      "numer": "99",
-      "piesn": "Boże, coś przyrzekł",
-      "opis": "Pieśń o odnowieniu serca jest dobrym tłem dla wezwania do doskonałości, która zaczyna się od wewnętrznej przemiany."
+      "opis": "Pieśń o Bożej dobroci, która jest wzorem dla naszej doskonałości, o której mówi Jezus: \"jak doskonały jest Ojciec wasz niebieski\".",
+      "moment": "uwielbienie"
     },
     {
       "numer": "118",
       "piesn": "Zmiłuj się Stwórco",
-      "opis": "Prośba o łaskę do przemiany życia jest niezbędna, aby móc sprostać wysokim wymaganiom Ewangelii o miłości nieprzyjaciół."
+      "opis": "Prośba o łaskę do przemiany życia jest niezbędna, aby móc sprostać wysokim wymaganiom Ewangelii o miłości nieprzyjaciół.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "99",
+      "piesn": "Boże, coś przyrzekł",
+      "opis": "Pieśń o odnowieniu serca jest dobrym tłem dla wezwania do doskonałości, która zaczyna się od wewnętrznej przemiany.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Wzywa do nawrócenia, którego szczytem jest miłość nieprzyjaciół, otwierająca drogę do królestwa Bożego.",
+      "moment": "ogolne"
     }
   ]
 }

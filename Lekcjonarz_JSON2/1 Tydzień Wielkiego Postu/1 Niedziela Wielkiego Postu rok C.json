@@ -38,32 +38,50 @@
     {
       "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Jest to muzyczna wersja Psalmu 91, który jest psalmem responsoryjnym w dzisiejszej liturgii."
+      "opis": "Jest to muzyczna wersja Psalmu 91, który jest psalmem responsoryjnym w dzisiejszej liturgii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Pieśń ta nawiązuje do przynoszenia darów Bogu, co łączy się z pierwszym czytaniem o ofiarowaniu pierwocin.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "103",
       "piesn": "Dałeś nam przykład",
-      "opis": "Pieśń ta wprost odnosi się do czterdziestodniowego postu Jezusa na pustyni, opisanego w Ewangelii."
-    },
-    {
-      "numer": "110",
-      "piesn": "Pokładam w Panu ufność",
-      "opis": "Wyraża zaufanie Bogu i Jego słowu, co jest kluczem do odparcia pokus przez Jezusa w Ewangelii."
+      "opis": "Utwór wprost odnosi się do czterdziestodniowego postu Jezusa na pustyni, opisanego w Ewangelii.",
+      "moment": "komunia"
     },
     {
       "numer": "118",
       "piesn": "Zmiłuj się Stwórco",
-      "opis": "Ogólny hymn wielkopostny, który wprowadza w okres pokuty i nawrócenia, a jego błagalny charakter pasuje do psalmu."
+      "opis": "Hymn ten, prosząc o miłosierdzie, doskonale oddaje pokutny charakter rozpoczynającego się okresu liturgicznego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń wzywa do życia wiarą, o której mówi drugie czytanie jako o drodze do zbawienia.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Klasyczna pieśń pokutna, która dobrze oddaje ducha Wielkiego Postu i prośbę o miłosierdzie."
+      "opis": "Klasyczna pieśń pokutna, która dobrze oddaje ducha Wielkiego Postu i prośbę o miłosierdzie.",
+      "moment": "ogolne"
     },
     {
-      "numer": "112",
-      "piesn": "Serce me do Ciebie wznoszę",
-      "opis": "Pieśń ta jest modlitwą o Boże prowadzenie, co łączy się z psalmem i postawą Jezusa na pustyni."
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Wyraża zaufanie Bogu i Jego słowu, co jest kluczem do odparcia pokus przez Jezusa w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Wzywa do postawy pokutnej, która jest odpowiedzią na usłyszane Słowo Boże i wejściem w czas Wielkiego Postu.",
+      "moment": "ogolne"
     }
   ]
 }

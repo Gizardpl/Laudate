@@ -30,34 +30,46 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "1",
-      "piesn": "Błogosławieni",
-      "opis": "Tekst tej pieśni, oparty na błogosławieństwach i uczynkach miłosierdzia, doskonale koresponduje z Ewangelią o Sądzie Ostatecznym."
-    },
-    {
-      "numer": "528",
-      "piesn": "Pan mnie woła",
-      "opis": "Pieśń w poruszający sposób mówi o odnajdywaniu Chrystusa w potrzebujących, co jest centralnym przesłaniem dzisiejszej Ewangelii."
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń wzywa do nawrócenia, które wyraża się w konkretnych czynach miłości, będących tematem Ewangelii.",
+      "moment": "wejscie"
     },
     {
       "numer": "114",
       "piesn": "Wydawajcie owoce",
-      "opis": "Wzywa do wydawania owoców nawrócenia, takich jak \"serdeczne miłosierdzie\" i \"dobroć\", co jest praktyczną realizacją przykazania miłości z czytań."
+      "opis": "Utwór zachęca do wydawania owoców nawrócenia, takich jak miłosierdzie i dobroć, które są kluczem do Królestwa Niebieskiego.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Tekst oparty na błogosławieństwach i uczynkach miłosierdzia doskonale koresponduje z Ewangelią o Sądzie Ostatecznym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "528",
+      "piesn": "Pan mnie woła",
+      "opis": "Pieśń w poruszający sposób mówi o odnajdywaniu Chrystusa w potrzebujących, co jest centralnym przesłaniem dzisiejszej Ewangelii.",
+      "moment": "uwielibienie"
     },
     {
       "numer": "621",
       "piesn": "Przykazanie nowe daję wam",
-      "opis": "Podkreśla przykazanie miłości wzajemnej, które jest fundamentem uczynków, z jakich będziemy sądzeni według Ewangelii."
+      "opis": "Podkreśla przykazanie miłości wzajemnej, które jest fundamentem uczynków, z jakich będziemy sądzeni według Ewangelii.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "106",
       "piesn": "Nawróć się, ludu",
-      "opis": "Wezwanie do nawrócenia w tej pieśni obejmuje także konkretne czyny: \"Tułaczy przyjmij do domu, łaknących obdaruj chlebem\", co bezpośrednio łączy się z Ewangelią."
+      "opis": "Wezwanie do nawrócenia w tej pieśni obejmuje także konkretne czyny: \"Tułaczy przyjmij do domu, łaknących obdaruj chlebem\", co bezpośrednio łączy się z Ewangelią.",
+      "moment": "ogolne"
     },
     {
       "numer": "118",
       "piesn": "Zmiłuj się Stwórco",
-      "opis": "Ogólny hymn wielkopostny prosi Boga o łaskę i siłę do przemiany życia zgodnie z Jego wolą, wyrażoną w przykazaniu miłości."
+      "opis": "Ogólny hymn wielkopostny prosi Boga o łaskę i siłę do przemiany życia zgodnie z Jego wolą, wyrażoną w przykazaniu miłości.",
+      "moment": "ogolne"
     }
   ]
 }

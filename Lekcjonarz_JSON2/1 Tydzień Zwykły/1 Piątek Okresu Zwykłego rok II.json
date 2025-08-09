@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410403.Piatek-I-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, I tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410403.Piatek-I-tydzien-zwykly-rok-II",
+  "tytul_dnia": "1 Piątek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Łk 7, 16",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nWielki prorok powstał między nami\n\ni Bóg nawiedził lud swój.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Wielki prorok powstał między nami\n\ni Bóg nawiedził lud swój."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 2, 1-12",
       "opis": "Chrystus ma władzę odpuszczania grzechów",
       "tekst": "Gdy po pewnym czasie Jezus wrócił do Kafarnaum, posłyszano, że jest w domu. Zebrało się zatem tylu ludzi, że nawet przed drzwiami nie było miejsca, a On głosił im naukę. I przyszli do Niego z paralitykiem, którego niosło czterech. Nie mogąc z powodu tłumu przynieść go do Niego, odkryli dach nad miejscem, gdzie Jezus się znajdował, i przez otwór spuścili nosze, na których leżał paralityk. Jezus, widząc ich wiarę, rzekł do paralityka: «Dziecko, odpuszczone są twoje grzechy». A siedziało tam kilku uczonych w Piśmie, którzy myśleli w sercach swoich: «Czemu On tak mówi? On bluźni. Któż może odpuszczać grzechy, prócz jednego Boga?» Jezus poznał zaraz w swym duchu, że tak myślą, i rzekł do nich: «Czemu myśli te nurtują w waszych sercach? Cóż jest łatwiej: powiedzieć paralitykowi: Odpuszczone są twoje grzechy, czy też powiedzieć: Wstań, weź swoje nosze i chodź? Otóż, żebyście wiedzieli, iż Syn Człowieczy ma na ziemi władzę odpuszczania grzechów – rzekł do paralityka: Mówię ci: Wstań, weź swoje nosze i idź do swego domu!» On wstał, wziął zaraz swoje nosze i wyszedł na oczach wszystkich. Zdumieli się wszyscy i wielbili Boga, mówiąc: «Nigdy jeszcze nie widzieliśmy czegoś podobnego». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ta jest odpowiedzią na pierwsze czytanie, w którym lud odrzuca Boga jako króla, a my wyznajemy, że to Chrystus jest naszym Królem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "694",
+      "piesn": "Przyjmij, Boże, tę ofiarę",
+      "opis": "Prosta pieśń ofiarna, która wyraża prośbę o umocnienie wiary, takiej, jaką wykazali przyjaciele paralityka.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w uzdrawiającą i odpuszczającą grzechy moc Chrystusa, objawioną w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Wyraża radość i uwielbienie Boga za Jego cuda, podobnie jak tłum, który wielbił Boga po uzdrowieniu paralityka.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Jest to modlitwa o królowanie Chrystusa w naszych sercach, co stanowi kontrast do postawy Izraelitów z pierwszego czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta wzywa do szukania pociechy i ratunku u Jezusa, co odzwierciedla postawę ludzi przynoszących paralityka.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Prośba o zmiłowanie i błogosławieństwo jest odpowiedzią na objawienie się mocy Bożej w odpuszczeniu grzechów.",
+      "moment": "ogolne"
     }
   ]
 }

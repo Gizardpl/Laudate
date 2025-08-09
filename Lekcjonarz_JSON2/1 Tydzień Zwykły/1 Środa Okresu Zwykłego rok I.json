@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410455.Sroda-I-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, I tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410455.Sroda-I-tydzien-zwykly-rok-I",
+  "tytul_dnia": "1 Środa Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. J 10, 27",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nMoje owce słuchają mego głosu,\n\nJa znam je, a one idą za Mną.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Moje owce słuchają mego głosu,\n\nJa znam je, a one idą za Mną."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 1, 29-39",
       "opis": "Jezus uzdrawia chorych",
       "tekst": "Po wyjściu z synagogi Jezus przyszedł z Jakubem i Janem do domu Szymona i Andrzeja. Teściowa zaś Szymona leżała w gorączce. Zaraz powiedzieli Mu o niej. On podszedł i podniósł ją, ująwszy za rękę, a opuściła ją gorączka. I usługiwała im. Z nastaniem wieczora, gdy słońce zaszło, przynosili do Niego wszystkich chorych i opętanych; i całe miasto zebrało się u drzwi. Uzdrowił wielu dotkniętych rozmaitymi chorobami i wiele złych duchów wyrzucił, lecz nie pozwalał złym duchom mówić, ponieważ Go znały. Nad ranem, kiedy jeszcze było ciemno, wstał, wyszedł i udał się na miejsce pustynne, i tam się modlił. Pośpieszył za Nim Szymon z towarzyszami, a gdy Go znaleźli, powiedzieli Mu: «Wszyscy Cię szukają». Lecz On rzekł do nich: «Pójdźmy gdzie indziej, do sąsiednich miejscowości, abym i tam mógł nauczać, bo po to wyszedłem». I chodził po całej Galilei, nauczając w ich synagogach i wyrzucając złe duchy. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta wzywa do szukania pomocy u Jezusa, podobnie jak ludzie z Kafarnaum, którzy przynosili do Niego swoich chorych.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Wyraża ofiarowanie Bogu naszych codziennych spraw i trudów, które Jezus uświęca swoją obecnością i działaniem.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w uzdrawiającą moc Chrystusa, który jest miłosiernym arcykapłanem, jak opisuje Go List do Hebrajczyków.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą pomoc i ratunek, która może być śpiewem teściowej Szymona i innych uzdrowionych.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Słowa Jezusa \"Pójdźmy gdzie indziej, abym i tam mógł nauczać\" są zapowiedzią misji głoszenia Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "625",
+      "piesn": "Spojrzyj z nieba wysokiego",
+      "opis": "Błagalny charakter pieśni dobrze współbrzmi z postawą ludzi, którzy z wiarą przynosili chorych do Jezusa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Prośba o zmiłowanie jest odpowiedzią na objawienie się mocy i miłosierdzia Boga w osobie Jezusa.",
+      "moment": "ogolne"
     }
   ]
 }

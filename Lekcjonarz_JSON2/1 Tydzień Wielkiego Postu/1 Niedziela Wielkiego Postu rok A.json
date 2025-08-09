@@ -7,7 +7,7 @@
       "typ": "PIERWSZE CZYTANIE",
       "sigla": "Rdz 2, 7-9; 3, 1-7",
       "opis": "Stworzenie i grzech pierwszych ludzi",
-      "tekst": "Pan Bóg ulepił człowieka z prochu ziemi i tchnął w jego nozdrza tchnienie życia, wskutek czego stał się człowiek istotą żywą. A zasadziwszy ogród w Edenie na wschodzie, Pan Bóg umieścił tam człowieka, którego ulepił. Na rozkaz Pana Boga wyrosły z gleby wszelkie drzewa miłe z wyglądu i smaczny owoc rodzące oraz drzewo życia w środku tego ogrodu i drzewo poznania dobra i zła. A wąż był bardziej przebiegły niż wszystkie zwierzęta lądowe, które Pan Bóg stworzył. On to rzekł do niewiasty: «Czy rzeczywiście Bóg powiedział: Nie jedzcie owoców ze wszystkich drzew tego ogrodu?» Niewiasta odpowiedziała wężowi: «Owoce z drzew tego ogrodu jeść możemy, tylko o owocach z drzewa, które jest w środku ogrodu, Bóg powiedział: Nie wolno wam jeść z niego, a nawet go dotykać, abyście nie pomarli». Wtedy rzekł wąż do niewiasty: «Na pewno nie umrzecie! Ale wie Bóg, że gdy spożycie owoc z tego drzewa, otworzą się wam oczy i tak jak Bóg będziecie znali dobro i zło». Wtedy niewiasta spostrzegła, że drzewo to ma owoce dobre do jedzenia, że jest ono rozkoszą dla oczu i że owoce tego drzewa nadają się do zdobycia wiedzy. Zerwała zatem z niego owoc, skosztowała i dała swemu mężowi, który był z nią, a on zjadł. A wtedy otworzyły się im obojgu oczy i poznali, że są nadzy; spletli więc gałązki figowe i zrobili sobie przepaski. Oto słowo Boże."
+      "tekst": "Pan Bóg ulepił człowieka z prochu ziemi i tchnął w jego nozdrza tchnienie życia, wskutek czego stał się człowiek istotą żywą. A zasadziwszy ogród w Edenie na wschodzie, Pan Bóg umieścił tam człowieka, którego ulepił. Na rozkaz Pana Boga wyrosły z gleby wszelkie drzewa miłe z wyglądu i smaczny owoc rodzące oraz drzewo życia w środku tego ogrodu i drzewo poznania dobra i zła. A wąż był bardziej przebiegły niż wszystkie zwierzęta lądowe, które Pan Bóg stworzył. On to rzekł do niewiasty: «Czy rzeczywiście Bóg powiedział: Nie jedzcie owoców ze wszystkich drzew tego ogrodu?» Niewiasta odpowiedziała wężowi: «Owoce z drzew tego ogrodu jeść możemy, tylko o owocach z drzewa, które jest w środku ogrodu, Bóg powiedział: Nie wolno wam jeść z niego, a nawet go dotykać, abyście nie pomarli». Wtedy rzekł wąż do niewiasty: «Na pewno nie umrzecie! Ale wie Bóg, że gdy spożyjecie owoc z tego drzewa, otworzą się wam oczy i tak jak Bóg będziecie znali dobro i zło». Wtedy niewiasta spostrzegła, że drzewo to ma owoce dobre do jedzenia, że jest ono rozkoszą dla oczu i że owoce tego drzewa nadają się do zdobycia wiedzy. Zerwała zatem z niego owoc, skosztowała i dała swemu mężowi, który był z nią, a on zjadł. A wtedy otworzyły się im obojgu oczy i poznali, że są nadzy; spletli więc gałązki figowe i zrobili sobie przepaski. Oto słowo Boże."
     },
     {
       "typ": "PSALM RESPONSORYJNY",
@@ -36,34 +36,52 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
-      "piesn": "Bądź mi litościw",
-      "opis": "Pieśń jest parafrazą Psalmu 51, który jest psalmem responsoryjnym w liturgii tego dnia."
-    },
-    {
       "numer": "103",
       "piesn": "Dałeś nam przykład",
-      "opis": "Utwór bezpośrednio nawiązuje do Ewangelii o czterdziestodniowym poście i kuszeniu Jezusa na pustyni."
-    },
-    {
-      "numer": "608",
-      "piesn": "Kto się w opiekę",
-      "opis": "Tekst pieśni oparty jest na Psalmie 91, który jest cytowany przez szatana w Ewangelii, a jej treść mówi o Bożej opiece w czasie próby."
-    },
-    {
-      "numer": "118",
-      "piesn": "Zmiłuj się Stwórco",
-      "opis": "Jest to klasyczny hymn wielkopostny, który doskonale oddaje pokutny charakter rozpoczynającego się okresu liturgicznego."
+      "opis": "Pieśń wprost nawiązuje do czterdziestodniowego postu Jezusa na pustyni, opisanego w Ewangelii.",
+      "moment": "wejscie"
     },
     {
       "numer": "105",
       "piesn": "Najwyższego majestatu",
-      "opis": "Pieśń wyraża żal za grzechy, nawiązując do pierwszego czytania o grzechu pierworodnym i jego konsekwencjach."
+      "opis": "Wyraża skruchę za grzechy, co jest odpowiedzią na pierwsze czytanie o upadku Adama i Ewy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Jest to parafraza Psalmu 91, który diabeł cytuje kusząc Jezusa, a który mówi o zaufaniu Bogu w próbie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Hymn ten prosi o Boże miłosierdzie i owocne przeżycie czasu pokuty, co stanowi istotę Wielkiego Postu.",
+      "moment": "uwielbienie"
     },
     {
       "numer": "115",
       "piesn": "Wysłuchaj, Panie",
-      "opis": "Modlitewny charakter tej pieśni dobrze koresponduje z błagalnym tonem psalmu i duchem całego Wielkiego Postu."
+      "opis": "Pieśń ma charakter błagalny, prosząc o przebaczenie grzechów, co jest głównym motywem okresu wielkopostnego.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to muzyczne opracowanie Psalmu 51, który jest psalmem responsoryjnym w dzisiejszej liturgii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Wyraża nadzieję w Boże miłosierdzie i odkupienie, o którym mówi drugie czytanie w kontekście grzechu Adama.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Wzywa do postawy pokutnej, która jest odpowiedzią na usłyszane Słowo Boże o grzechu i potrzebie zbawienia.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410445.Czwartek-I-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Czwartek, I tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410445.Czwartek-I-tydzien-zwykly-rok-I",
+  "tytul_dnia": "1 Czwartek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Mt 4, 23",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nJezus głosił Ewangelię o królestwie\n\ni leczył wszelkie choroby wśród ludu.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Jezus głosił Ewangelię o królestwie\n\ni leczył wszelkie choroby wśród ludu."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 1, 40-45",
       "opis": "Uzdrowienie trędowatego",
       "tekst": "Pewnego dnia przyszedł do Jezusa trędowaty i upadłszy na kolana, prosił Go: «Jeśli zechcesz, możesz mnie oczyścić ». A Jezus, zdjęty litością, wyciągnął rękę, dotknął go i rzekł do niego: «Chcę, bądź oczyszczony». Zaraz trąd go opuścił, i został oczyszczony. Jezus surowo mu przykazał i zaraz go odprawił, mówiąc mu: «Bacz, abyś nikomu nic nie mówił, ale idź, pokaż się kapłanowi i złóż za swe oczyszczenie ofiarę, którą przepisał Mojżesz, na świadectwo dla nich». Lecz on po wyjściu zaczął wiele opowiadać i rozgłaszać to, co zaszło, tak że Jezus nie mógł już jawnie wejść do miasta, lecz przebywał w miejscach pustynnych. A ludzie zewsząd schodzili się do Niego. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń jest zaproszeniem do uwielbienia Pana, co koresponduje z wezwaniem psalmisty: \"Przyjdźcie, uwielbiajmy Go, padając na twarze\".",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Wyraża ofiarowanie Bogu życia i trudów, jako odpowiedź na Jego głos i wezwanie do wierności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w uzdrawiającą moc Chrystusa, której doświadczył trędowaty z dzisiejszej Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą pomoc i ratunek, która może być śpiewem uzdrowionego trędowatego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża postawę zaufania i powierzenia się Bogu, do czego zachęca List do Hebrajczyków.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Wzywa do szukania pociechy i uzdrowienia u Jezusa, co jest głównym motywem spotkania z trędowatym.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "616",
+      "piesn": "Pan nie opuszcza nigdy",
+      "opis": "Podkreśla wierność Boga wobec tych, którzy Go szukają, co stanowi kontrast do niewierności Izraelitów na pustyni.",
+      "moment": "ogolne"
     }
   ]
 }

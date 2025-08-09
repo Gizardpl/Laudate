@@ -32,32 +32,44 @@
     {
       "numer": "115",
       "piesn": "Wysłuchaj, Panie",
-      "opis": "Pieśń ta jest modlitwą błagalną, która idealnie oddaje ducha modlitwy królowej Estery i nauki Jezusa o proszeniu Ojca."
+      "opis": "Pieśń jest modlitwą błagalną, która idealnie oddaje ducha modlitwy królowej Estery i nauki Jezusa o proszeniu Ojca.",
+      "moment": "wejscie"
     },
     {
-      "numer": "104",
-      "piesn": "Do Ciebie, Panie",
-      "opis": "Tekst pieśni jest prostą i ufną prośbą skierowaną do Boga, co jest głównym tematem wszystkich dzisiejszych czytań."
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Utwór wzywa do czynienia miłosierdzia, co jest praktycznym zastosowaniem \"złotej reguły\" z końca Ewangelii.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "112",
       "piesn": "Serce me do Ciebie wznoszę",
-      "opis": "Refren \"Serce me do Ciebie wznoszę, Panie, szukam Cię!\" doskonale koresponduje z zachętą Jezusa: \"szukajcie, a znajdziecie\"."
+      "opis": "Refren \"Panie, szukam Cię!\" doskonale koresponduje z zachętą Jezusa: \"szukajcie, a znajdziecie\".",
+      "moment": "komunia"
+    },
+    {
+      "numer": "107",
+      "piesn": "O Boże mój, o Zbawicielu mój",
+      "opis": "Modlitwa o czyste serce i radość zbawienia nawiązuje do słów aklamacji przed Ewangelią.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Prosty i ufny charakter tej pieśni jest odpowiedzią na zachętę Jezusa do wytrwałej modlitwy.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "110",
       "piesn": "Pokładam w Panu ufność",
-      "opis": "Utwór podkreśla zaufanie do Boga, które jest podstawą modlitwy, ukazanej zarówno w postawie Estery, jak i w nauczaniu Chrystusa."
-    },
-    {
-      "numer": "96",
-      "piesn": "Bądź mi litościw",
-      "opis": "Nawiązuje do aklamacji przed Ewangelią, która jest fragmentem Psalmu 51, prosząc o czyste serce i odnowę ducha."
+      "opis": "Utwór podkreśla zaufanie do Boga, które jest podstawą modlitwy, ukazanej zarówno w postawie Estery, jak i w nauczaniu Chrystusa.",
+      "moment": "ogolne"
     },
     {
       "numer": "113",
       "piesn": "Wstanę i pójdę",
-      "opis": "Wyraża postawę nawrócenia i powrotu do miłosiernego Ojca, który wysłuchuje próśb swoich dzieci, o czym zapewnia Ewangelia."
+      "opis": "Wyraża postawę nawrócenia i powrotu do miłosiernego Ojca, który wysłuchuje próśb swoich dzieci, o czym zapewnia Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

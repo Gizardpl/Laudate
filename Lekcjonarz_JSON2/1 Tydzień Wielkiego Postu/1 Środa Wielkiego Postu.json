@@ -32,37 +32,44 @@
     {
       "numer": "106",
       "piesn": "Nawróć się, ludu",
-      "opis": "Pieśń ta jest bezpośrednim echem wezwania Jonasza i postawy mieszkańców Niniwy z pierwszego czytania."
-    },
-    {
-      "numer": "96",
-      "piesn": "Bądź mi litościw",
-      "opis": "Jest to parafraza Psalmu 51, który jest psalmem responsoryjnym tego dnia, mówiącym o skrusze i prośbie o miłosierdzie."
-    },
-    {
-      "numer": "113",
-      "piesn": "Wstanę i pójdę",
-      "opis": "Wyraża postawę nawrócenia i powrotu do Ojca, o której mówią wszystkie czytania dnia."
-    },
-    {
-      "numer": "118",
-      "piesn": "Zmiłuj się Stwórco",
-      "opis": "Ogólny hymn wielkopostny, który prosi o miłosierdzie, co jest głównym tematem historii o Jonaszu i Niniwie."
+      "opis": "Pieśń ta jest bezpośrednim echem wezwania Jonasza i postawy mieszkańców Niniwy z pierwszego czytania.",
+      "moment": "wejscie"
     },
     {
       "numer": "108",
       "piesn": "Padnijmy twarzą na ziemię",
-      "opis": "Pieśń oddaje postawę pokutną mieszkańców Niniwy, którzy pościli i przyoblekli się w wory, błagając Boga o litość."
+      "opis": "Oddaje postawę pokutną mieszkańców Niniwy, którzy pościli i przyoblekli się w wory, błagając Boga o litość.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to parafraza Psalmu 51, który jest psalmem responsoryjnym tego dnia, mówiącym o skrusze i prośbie o miłosierdzie.",
+      "moment": "komunia"
     },
     {
       "numer": "100",
       "piesn": "Boże litościwy, zmiłuj się nade mną!",
-      "opis": "Kolejna pieśń oparta na Psalmie 51, podkreślająca prośbę o Boże miłosierdzie, które ocaliło Niniwę."
+      "opis": "Kolejna pieśń oparta na Psalmie 51, podkreślająca prośbę o Boże miłosierdzie, które ocaliło Niniwę.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wyraża postawę nawrócenia i powrotu do Ojca, o której mówią wszystkie czytania dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Ogólny hymn wielkopostny, który prosi o miłosierdzie, co jest głównym tematem historii o Jonaszu i Niniwie.",
+      "moment": "ogolne"
     },
     {
       "numer": "115",
       "piesn": "Wysłuchaj, Panie",
-      "opis": "Jest to modlitwa błagalna, która dobrze oddaje ducha żarliwej modlitwy Niniwitów i postawę, do której wzywa Wielki Post."
+      "opis": "Jest to modlitwa błagalna, która dobrze oddaje ducha żarliwej modlitwy Niniwitów i postawę, do której wzywa Wielki Post.",
+      "moment": "ogolne"
     }
   ]
-}  
+}

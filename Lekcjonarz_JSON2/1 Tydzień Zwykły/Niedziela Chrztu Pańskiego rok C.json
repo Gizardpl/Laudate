@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410446.Niedziela-Chrztu-Panskiego-rok-C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410446.Niedziela-Chrztu-Panskiego-rok-C",
   "tytul_dnia": "Niedziela Chrztu Pańskiego rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,14 +24,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Łk 3, 16",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nJan powiedział: «Idzie mocniejszy ode mnie;\n\nOn będzie was chrzcił Duchem Świętym i ogniem».\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Jan powiedział: «Idzie mocniejszy ode mnie;\n\nOn będzie was chrzcił Duchem Świętym i ogniem»."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Łk 3, 15-16. 21-22",
       "opis": "Chrzest Jezusa",
       "tekst": "Gdy lud oczekiwał z napięciem i wszyscy snuli domysły w swych sercach co do Jana, czy nie jest Mesjaszem, on tak przemówił do wszystkich: «Ja was chrzczę wodą; lecz idzie mocniejszy ode mnie, któremu nie jestem godzien rozwiązać rzemyka u sandałów. On będzie was chrzcił Duchem Świętym i ogniem». Kiedy cały lud przystępował do chrztu, Jezus także przyjął chrzest. A gdy się modlił, otworzyło się niebo i Duch Święty zstąpił nad Niego, w postaci cielesnej niby gołębica, a z nieba odezwał się głos: «Ty jesteś moim Synem umiłowanym, w Tobie mam upodobanie». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń ta wzywa Ducha Świętego, który w Ewangelii zstąpił na Jezusa podczas chrztu w Jordanie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "698",
+      "piesn": "Stwórca chleba, Stwórca wina",
+      "opis": "Wyraża wdzięczność za dary stworzenia, które składamy w ofierze, a które chrzest czyni nas godnymi ofiarować.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Nawiązuje do godności ludu ochrzczonych, którzy przez chrzest stają się ludem kapłańskim, królewskim i świętym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn ten jest wyrazem uwielbienia dla Trójcy Świętej, która objawiła się podczas chrztu Jezusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Chrzest jest początkiem misji, do której Jezus posyła swoich uczniów, aby nauczali i chrzcili wszystkie narody.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Sekwencja do Ducha Świętego przypomina o Jego zstąpieniu na Jezusa i na każdego ochrzczonego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń ta przypomina, że przez chrzest upodabniamy się do Chrystusa i stajemy się dziećmi Bożymi.",
+      "moment": "ogolne"
     }
   ]
 }
