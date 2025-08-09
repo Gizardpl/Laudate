@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430393.Niedziela-rok-B",
-  "tytul_dnia": "Niedziela rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430393.Niedziela-rok-B",
+  "tytul_dnia": "16 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 6, 30-34",
       "opis": "Jezus dobry pasterz",
       "tekst": "Apostołowie zebrali się u Jezusa i opowiedzieli Mu wszystko, co zdziałali i czego nauczali. A On rzekł do nich: «Pójdźcie wy sami osobno na pustkowie i wypocznijcie nieco». Tak wielu bowiem przychodziło i odchodziło, że nawet na posiłek nie mieli czasu.\nOdpłynęli więc łodzią na pustkowie, osobno. Lecz widziano ich odpływających. Wielu zauważyło to i zbiegli się tam pieszo ze wszystkich miast, a nawet ich wyprzedzili.\nGdy Jezus wysiadł, ujrzał wielki tłum. Zlitował się nad nimi, byli bowiem jak owce niemające pasterza. I zaczął ich nauczać o wielu sprawach.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, a jej temat doskonale pasuje do obrazu Jezusa jako Dobrego Pasterza.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "W odpowiedzi na troskę Jezusa, Dobrego Pasterza, ta pieśń jest ofiarowaniem naszego życia jako daru wdzięczności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Jezus, litując się nad tłumem, naucza go. Ta pieśń eucharystyczna ukazuje Go jako pokarm dający siłę i życie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Chrystus, nasz Pasterz i nasz Pokój, jednoczy nas w jedno Ciało, o czym mówi drugie czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Apostołowie, posłani przez Jezusa, wracają, by zdać Mu relację. Ta pieśń jest odnowieniem naszego misyjnego posłania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o opiece Bożej dobrze koresponduje z obrazem Boga-Pasterza, który chroni swoje owce.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pierwsze czytanie zapowiada Króla z rodu Dawida. Ta pieśń jest wyznaniem wiary w królowanie Chrystusa, Dobrego Pasterza.",
+      "moment": "ogolne"
     }
   ]
 }

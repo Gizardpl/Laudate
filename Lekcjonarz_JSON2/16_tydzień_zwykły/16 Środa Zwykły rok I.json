@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430389.Sroda-XVI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, XVI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430389.Sroda-XVI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "16 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -16,7 +17,7 @@
     },
     {
       "typ": "AKLAMACJA",
-      "sigla": "",
+      "sigla": "Mt 13, 1-9",
       "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
       "tekst": "Ziarnem jest słowo Boże, a siewcą jest Chrystus,\nkażdy, kto Go znajdzie, będzie żył na wieki."
     },
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 1-9",
       "opis": "Przypowieść o siewcy",
       "tekst": "Owego dnia Jezus wyszedł z domu i usiadł nad jeziorem. Wnet zebrały się koło Niego tłumy tak wielkie, że wszedł do łodzi i usiadł, a cały lud stał na brzegu. I mówił im wiele w przypowieściach tymi słowami:\n«Oto siewca wyszedł siać. A gdy siał, jedne ziarna padły na drogę, nadleciały ptaki i wydziobały je. Inne padły na grunt skalisty, gdzie niewiele miały ziemi; i wnet powschodziły, bo gleba nie była głęboka. Lecz gdy słońce wzeszło, przypaliły się i uschły, bo nie miały korzenia. Inne znowu padły między ciernie, a ciernie wybujały i zagłuszyły je. Inne wreszcie padły na ziemię żyzną i plon wydały, jedno stokrotny, drugie sześćdziesięciokrotny, a inne trzydziestokrotny. Kto ma uszy, niechaj słucha!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń jest dziękczynieniem za Bożą opatrzność, która karmi swój lud, co jest głównym tematem pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń wyraża pragnienie bycia 'żyzną glebą' dla Słowa Bożego, co jest centralnym przesłaniem przypowieści o siewcy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "234",
+      "piesn": "O Panie, Ty nam dajesz",
+      "opis": "Manna na pustyni była zapowiedzią Eucharystii - prawdziwego Chleba z nieba, który jest pokarmem dla naszej duszy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "156",
+      "piesn": "Bądźże pozdrowiona, Hostio żywa",
+      "opis": "Adoracja Chrystusa w Najświętszym Sakramencie jest odpowiedzią na Jego dar z samego siebie, zapowiedziany przez 'chleb aniołów'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "172",
+      "piesn": "Pan zstąpił z nieba",
+      "opis": "Pieśń ta łączy w sobie temat manny i Eucharystii, podkreślając, że Chrystus jest prawdziwym pokarmem z nieba.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec szemrania i braku zaufania Izraelitów, pieśń ta przypomina o konieczności ufności w Bożą opiekę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które będzie mogło przyjąć Słowo Boże i wydać plon, o czym mówi Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

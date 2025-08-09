@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430380.Sobota-XVI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, XVI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430380.Sobota-XVI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "16 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -12,7 +13,7 @@
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 84 (83), 3-4. 5-6a i 8a. 11 (R.: por. 2)",
       "opis": "",
-      "tekst": "Refren: Jak miła, Panie, jest świątynia Twoja.\nDusza moja stęskniona pragnie przedsionków Pańskich, *\nserce moje i ciało radośnie wołają do Boga żywego.\nNawet wróbel znajduje swój dom, a jaskółka gniazdo, †\ngdzie złoży swe pisklęta: *\nprzy ołtarzach Twoich, Panie Zastępów, Królu mój i Boże!\nRefren.\nSzczęśliwi, którzy mieszkają w domu Twoim, Panie, *\nnieustannie wielbiąc Ciebie.\nSzczęśliwi, których moc jest w Tobie. *\nMocy im będzie przybywać.\nRefren.\nDoprawdy, dzień jeden w przybytkach Twoich *\nlepszy jest niż innych tysiące.\nWolę stać w progu domu mojego Boga, *\nniż mieszkać w namiotach grzeszników.\nRefren."
+      "tekst": "Refren: Jak miła, Panie, jest świątynia Twoja.\nDusza moja stęskniona pragnie przedsiónków Pańskich, *\nserce moje i ciało radośnie wołają do Boga żywego.\nNawet wróbel znajduje swój dom, a jaskółka gniazdo, †\ngdzie złoży swe pisklęta: *\nprzy ołtarzach Twoich, Panie Zastępów, Królu mój i Boże!\nRefren.\nSzczęśliwi, którzy mieszkają w domu Twoim, Panie, *\nnieustannie wielbiąc Ciebie.\nSzczęśliwi, których moc jest w Tobie. *\nMocy im będzie przybywać.\nRefren.\nDoprawdy, dzień jeden w przybytkach Twoich *\nlepszy jest niż innych tysiące.\nWolę stać w progu domu mojego Boga, *\nniż mieszkać w namiotach grzeszników.\nRefren."
     },
     {
       "typ": "AKLAMACJA",
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 24-30",
       "opis": "Przypowieść o chwaście wśród zboża",
       "tekst": "Jezus opowiedział tłumom tę przypowieść:\n«Królestwo niebieskie podobne jest do człowieka, który posiał dobre nasienie na swojej roli. Lecz gdy ludzie spali, przyszedł jego nieprzyjaciel, nasiał chwastu między pszenicę i odszedł.\nA gdy zboże wyrosło i wypuściło kłosy, wtedy pojawił się i chwast. Słudzy gospodarza przyszli i zapytali go: „Panie, czy nie posiałeś dobrego nasienia na swej roli? Skąd więc wziął się na niej chwast?” Odpowiedział im: „Nieprzyjazny człowiek to sprawił”.\nRzekli mu słudzy: „Chcesz więc, żebyśmy poszli i zebrali go?” A on im odrzekł: „Nie, byście zbierając chwast, nie wyrwali razem z nim i pszenicy. Pozwólcie obojgu róść aż do żniwa; a w czasie żniwa powiem żeńcom: Zbierzcie najpierw chwast i powiążcie go w snopki na spalenie; pszenicę zaś zwieźcie do mego spichlerza”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń jest odpowiedzią na wezwanie do nawrócenia i poprawy postępowania, które Jeremiasz kieruje do ludu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o oczyszczenie z grzechów wymienionych w pierwszym czytaniu jest warunkiem godnego złożenia ofiary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń wyraża tęsknotę za przebywaniem w domu Bożym, o której mówi psalmista, w przeciwieństwie do tych, którzy czynią go 'jaskinią zbójców'.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem czci dla Boga, którego świątynia ma być domem modlitwy, a nie miejscem fałszywego kultu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec przestrogi przed złem (chwastem) w świecie, pieśń ta jest deklaracją wyboru życia zgodnego z wolą Bożą.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Kościół, rola Boża, jest miejscem, gdzie dobro i zło istnieją obok siebie aż do czasu żniwa. Pieśń wzywa do jedności w dobrym.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Przypowieść o chwaście uczy cierpliwości Boga. Ta pieśń jest aktem zaufania Jego miłosierdziu i ostatecznej sprawiedliwości.",
+      "moment": "ogolne"
     }
   ]
 }

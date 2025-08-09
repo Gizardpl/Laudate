@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430388.Czwartek-XVI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Czwartek, XVI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430388.Czwartek-XVI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "16 Czwartek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 10-17",
       "opis": "Dlaczego Jezus naucza w przypowieściach?",
       "tekst": "Uczniowie przystąpili do Jezusa i zapytali: «Dlaczego mówisz do nich w przypowieściach?»\nOn im odpowiedział: «Wam dano poznać tajemnice królestwa niebieskiego, im zaś nie dano. Bo kto ma, temu będzie dodane, i w nadmiarze mieć będzie; kto zaś nie ma, temu zabiorą nawet to, co ma. Dlatego mówię do nich w przypowieściach, że patrząc, nie widzą, i słuchając, nie słyszą ani nie rozumieją. Tak spełnia się na nich przepowiednia Izajasza:\n„Słuchać będziecie, a nie zrozumiecie, patrzeć będziecie, a nie zobaczycie. Bo stwardniało serce tego ludu, ich uszy stępiały i oczy swe zamknęli, żeby oczami nie widzieli ani uszami nie słyszeli, ani swym sercem nie rozumieli, i nie nawrócili się, abym ich uzdrowił”. Lecz szczęśliwe oczy wasze, że widzą, i uszy wasze, że słyszą. Bo zaprawdę, powiadam wam: Wielu proroków i sprawiedliwych pragnęło ujrzeć to, na co wy patrzycie, a nie ujrzeli; i usłyszeć to, co wy słyszycie, a nie usłyszeli».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Uroczysty hymn Te Deum doskonale oddaje atmosferę teofanii na Synaju i jest odpowiedzią na majestat Boga.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją przyjęcia Bożego Prawa, które zostało objawione na Synaju i w pełni ukazane w Jezusie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "226",
+      "piesn": "Kłaniam się Tobie",
+      "opis": "Wobec tajemnicy Królestwa, o której mówi Ewangelia, ta pieśń wyraża postawę adoracji i wiary, która widzi więcej niż oczy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "434",
+      "piesn": "Kleszczmy rękoma",
+      "opis": "Jest to radosna pieśń chwały, która dobrze koresponduje z hymnem z Księgi Daniela, wychwalającym Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by głosić tajemnice Królestwa, które zostały nam objawione, a były zakryte dla wielu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pan, który zstąpił na Synaj, w Jezusie objawia się jako Król, którego tajemnice poznajemy dzięki wierze.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Ewangelia mówi o zatwardziałości serca, a ta pieśń pokutna prosi o serce czyste i otwarte na słowo Boże.",
+      "moment": "ogolne"
     }
   ]
 }

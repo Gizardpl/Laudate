@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430386.Sobota-XVI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, XVI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430386.Sobota-XVI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "16 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 24-30",
       "opis": "Przypowieść o chwaście wśród zboża",
       "tekst": "Jezus opowiedział tłumom tę przypowieść:\n«Królestwo niebieskie podobne jest do człowieka, który posiał dobre nasienie na swojej roli. Lecz gdy ludzie spali, przyszedł jego nieprzyjaciel, nasiał chwastu między pszenicę i odszedł.\nA gdy zboże wyrosło i wypuściło kłosy, wtedy pojawił się i chwast. Słudzy gospodarza przyszli i zapytali go: „Panie, czy nie posiałeś dobrego nasienia na swej roli? Skąd więc wziął się na niej chwast?” Odpowiedział im: „Nieprzyjazny człowiek to sprawił”.\nRzekli mu słudzy: „Chcesz więc, żebyśmy poszli i zebrali go?” A on im odrzekł: „Nie, byście zbierając chwast, nie wyrwali razem z nim i pszenicy. Pozwólcie obojgu róść aż do żniwa; a w czasie żniwa powiem żeńcom: Zbierzcie najpierw chwast i powiążcie go w snopki na spalenie; pszenicę zaś zwieźcie do mego spichlerza”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Pieśń jest osobistym odnowieniem przymierza z Bogiem, na wzór przymierza zawartego przez Izraelitów na Synaju.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "Psalm wzywa do składania ofiary dziękczynnej, a ta pieśń jest ofiarowaniem naszego życia w jedności z ofiarą Chrystusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Jeden chleb",
+      "opis": "Krew przymierza z pierwszego czytania jest zapowiedzią Krwi Chrystusa, która gromadzi nas w jedno Ciało.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń dziękczynna, która jest wypełnieniem wezwania psalmisty: 'Składaj Bogu dziękczynną ofiarę'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec rzeczywistości zła (chwastu) w świecie, ta pieśń jest deklaracją wyboru Boga i Jego królestwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Przypowieść o chwaście uczy cierpliwości Boga wobec grzeszników, a ta pieśń jest prośbą o Jego miłosierdzie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Przymierze zawarte u stóp Synaju uczyniło z Izraela jeden lud. Ta pieśń mówi o jedności nowego ludu Bożego.",
+      "moment": "ogolne"
     }
   ]
 }

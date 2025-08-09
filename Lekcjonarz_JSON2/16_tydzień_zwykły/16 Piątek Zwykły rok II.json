@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430381.Piatek-XVI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, XVI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430381.Piatek-XVI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "16 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 18-23",
       "opis": "Wyjaśnienie przypowieści o siewcy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Posłuchajcie przypowieści o siewcy. Do każdego, kto słucha słowa o królestwie, a nie rozumie go, przychodzi Zły i porywa to, co zasiane jest w jego sercu. Takiego człowieka oznacza ziarno posiane na drodze.\nPosiane na grunt skalisty oznacza tego, kto słucha słowa i natychmiast z radością je przyjmuje; ale nie ma w sobie korzenia i jest niestały. Gdy przyjdzie ucisk lub prześladowanie z powodu słowa, zaraz się załamuje.\nPosiane między ciernie oznacza tego, kto słucha słowa, lecz troski doczesne i ułuda bogactwa zagłuszają słowo, tak że zostaje bezowocne.\nPosiane wreszcie na ziemię żyzną oznacza tego, kto słucha słowa i rozumie je. On też wydaje plon: jeden stokrotny, drugi sześćdziesięciokrotny, inny trzydziestokrotny».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Pieśń ta jest echem zarówno pierwszego czytania, jak i psalmu, które mówią o Bogu jako pasterzu gromadzącym swój lud.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń wyraża pragnienie bycia 'żyzną glebą', która przyjmuje Słowo Boże i wydaje owoc, co jest głównym tematem Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "W odpowiedzi na wezwanie do nawrócenia 'synów wiarołomnych', pieśń ta jest prośbą o miłosierdzie i czyste serce.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "434",
+      "piesn": "Kleszczmy rękoma",
+      "opis": "Psalm mówi o radości i weselu na Syjonie. Ta pieśń jest radosnym uwielbieniem Boga za Jego dary i obietnice.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Zapowiedź zgromadzenia wszystkich narodów w Jerozolimie (I czytanie) jest misyjnym wezwaniem dla Kościoła.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Nawiązuje do obietnicy powrotu na Syjon i tęsknoty za niebieską Jerozolimą, która będzie 'Tronem Pana'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które będzie mogło przyjąć Słowo Boże i nie ulec 'zatwardziałości przewrotnych serc'.",
+      "moment": "ogolne"
     }
   ]
 }

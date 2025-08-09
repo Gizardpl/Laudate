@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430387.Piatek-XVI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Piątek, XVI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430387.Piatek-XVI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "16 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 13, 18-23",
       "opis": "Wyjaśnienie przypowieści o siewcy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Posłuchajcie przypowieści o siewcy. Do każdego, kto słucha słowa o królestwie, a nie rozumie go, przychodzi Zły i porywa to, co zasiane jest w jego sercu. Takiego człowieka oznacza ziarno posiane na drodze.\nPosiane na grunt skalisty oznacza tego, kto słucha słowa i natychmiast z radością je przyjmuje; ale nie ma w sobie korzenia i jest niestały. Gdy przyjdzie ucisk lub prześladowanie z powodu słowa, zaraz się załamuje.\nPosiane między ciernie oznacza tego, kto słucha słowa, lecz troski doczesne i ułuda bogactwa zagłuszają słowo, tak że zostaje bezowocne.\nPosiane wreszcie na ziemię żyzną oznacza tego, kto słucha słowa i rozumie je. On też wydaje plon: jeden stokrotny, drugi sześćdziesięciokrotny, inny trzydziestokrotny».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest odpowiedzią na dar Przykazań, wyrażając pragnienie życia zgodnie z wolą Bożą.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność przykazaniom jest podstawą życia chrześcijańskiego, a ta pieśń jest aktem odnowienia przyrzeczeń chrzcielnych.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń wyraża tęsknotę za Bogiem, a jej słowa o byciu 'żyzną glebą' bezpośrednio nawiązują do Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "428",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Psalm sławi Prawo Pańskie jako 'słodsze od miodu'. Ta pieśń uwielbia Jezusa, który jest wcielonym Słowem i Prawem.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by siać Słowo Boże i świadczyć o Prawie Pańskim, które daje życie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które będzie żyzną glebą dla Słowa Bożego i będzie zdolne zachowywać przykazania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Przykazania Boże, a zwłaszcza przykazanie miłości, są fundamentem jedności wspólnoty Kościoła.",
+      "moment": "ogolne"
     }
   ]
 }

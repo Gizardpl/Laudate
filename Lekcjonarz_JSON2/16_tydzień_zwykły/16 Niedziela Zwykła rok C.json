@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430392.16-Niedziela-Zwykla-rok-C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430392.16-Niedziela-Zwykla-rok-C",
   "tytul_dnia": "16 Niedziela Zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 10, 38-42",
       "opis": "Marta i Maria przyjmują Chrystusa",
       "tekst": "Jezus przyszedł do jednej wsi. Tam pewna niewiasta, imieniem Marta, przyjęła Go w swoim domu. Miała ona siostrę, imieniem Maria, która usiadłszy u nóg Pana, słuchała Jego słowa.\nMarta zaś uwijała się około rozmaitych posług. A stanąwszy przy Nim, rzekła: «Panie, czy Ci to obojętne, że moja siostra zostawiła mnie samą przy usługiwaniu? Powiedz jej, żeby mi pomogła».\nA Pan jej odpowiedział: «Marto, Marto, martwisz się i niepokoisz o wiele, a potrzeba mało albo tylko jednego. Maria obrała najlepszą cząstkę, której nie będzie pozbawiona».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do spotkania z Jezusem, na wzór gościnności Abrahama, Marty i Marii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Wobec daru obecności Chrystusa, pieśń ta wyraża chęć ofiarowania Mu tego co najlepsze, podobnie jak Abraham.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Eucharystia jest 'najlepszą cząstką', o której mówi Jezus w Ewangelii, pokarmem, który daje życie i jednoczy z Bogiem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Uroczysty hymn Te Deum jest wyrazem wdzięczności za dar Słowa Bożego i obecności Chrystusa w naszym życiu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pieśń ta wzywa do postawy służby i miłości, która łączy w sobie aktywność Marty i zasłuchanie Marii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Bogiem i pragnienie przebywania w Jego obecności, co jest istotą postawy Marii z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nawiązuje do gościnności, która tworzy wspólnotę i otwiera na przyjęcie Boga, co jest motywem przewodnim czytań.",
+      "moment": "ogolne"
     }
   ]
 }

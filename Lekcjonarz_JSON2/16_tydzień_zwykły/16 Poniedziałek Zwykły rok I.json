@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/430391.Poniedzialek-XVI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Poniedziałek, XVI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430391.Poniedzialek-XVI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "16 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 12, 38-42",
       "opis": "Znak Jonasza",
       "tekst": "Niektórzy z uczonych w Piśmie i faryzeuszów rzekli do Jezusa: «Nauczycielu, chcielibyśmy zobaczyć jakiś znak od Ciebie». Lecz On im odpowiedział: «Plemię przewrotne i wiarołomne żąda znaku, ale żaden znak nie będzie mu dany, prócz znaku proroka Jonasza.\nAlbowiem jak Jonasz był trzy dni i trzy noce we wnętrznościach wielkiej ryby, tak Syn Człowieczy będzie trzy dni i trzy noce w łonie ziemi.\nLudzie z Niniwy powstaną na sądzie przeciw temu plemieniu i potępią je, ponieważ oni wskutek nawoływania Jonasza się nawrócili; a oto tu jest coś więcej niż Jonasz.\nKrólowa z południa powstanie na sądzie przeciw temu plemieniu i potępi je; ponieważ ona z krańców ziemi przybyła słuchać mądrości Salomona, a oto tu jest coś więcej niż Salomon».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu w obliczu zagrożenia, podobnie jak Mojżesz zachęcał do tego Izraelitów przed przejściem przez morze.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za Boże ocalenie, które jest głównym tematem pierwszego czytania i psalmu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "364",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Znak Jonasza, czyli zmartwychwstanie, jest centralnym wydarzeniem naszej wiary, które świętujemy w tej radosnej pieśni.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Uroczysty hymn Te Deum jest doskonałym sposobem na uwielbienie Boga za Jego potęgę i zbawcze dzieła, opisane w czytaniach.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "368",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń ta bezpośrednio odnosi się do znaku Jonasza, głosząc zwycięstwo Chrystusa nad śmiercią, piekłem i szatanem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec szemrania Izraelitów i przewrotności faryzeuszy, pieśń ta jest aktem skruchy i prośbą o nawrócenie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest wyrazem wiary w jedynego Boga, który okazał swą moc wobec Egipcjan i objawił się w pełni w Jezusie.",
+      "moment": "ogolne"
     }
   ]
 }
