@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413379.IV-Niedziela-Adwentu-rok-B",
-  "tytul_dnia": "IV Niedziela Adwentu rok B",
+  "tytul_dnia": "4 Niedziela Adwentu rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 1, 26-38",
       "opis": "Maryja pocznie i porodzi Syna",
       "tekst": "Bóg posłał anioła Gabriela do miasta w Galilei, zwanego Nazaret, do dziewicy poślubionej mężowi imieniem Józef, z rodu Dawida; a dziewicy było na imię Maryja. Wszedłszy do Niej, anioł rzekł: «Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławiona jesteś między niewiastami ». Ona zmieszała się na te słowa i rozważała, co by miało znaczyć to pozdrowienie.\nLecz Anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga. Oto poczniesz i porodzisz Syna, któremu nadasz imię Jezus. Będzie on wielki i zostanie nazwany Synem Najwyższego, a Pan Bóg da Mu tron Jego praojca, Dawida. Będzie panował nad domem Jakuba na wieki, a Jego panowaniu nie będzie końca».\nNa to Maryja rzekła do Anioła: «Jakże się to stanie, skoro nie znam męża?»\nAnioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i moc Najwyższego okryje Cię cieniem. Dlatego też Święte, które się narodzi, będzie nazwane Synem Bożym. A oto również krewna Twoja, Elżbieta, poczęła w swej starości syna i jest już w szóstym miesiącu ta, którą miano za niepłodną. Dla Boga bowiem nie ma nic niemożliwego».\nNa to rzekła Maryja: «Oto ja służebnica Pańska, niech mi się stanie według słowa twego».\nWtedy odszedł od Niej Anioł.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "12",
+      "piesn": "Archanioł Boży Gabryjel",
+      "opis": "Pieśń ta jest muzycznym opisem sceny Zwiastowania z Ewangelii, co czyni ją idealną na rozpoczęcie liturgii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "29",
+      "piesn": "Zdrowaś bądź Maryja",
+      "opis": "Pieśń o charakterze maryjnym i ofiarnym, w której wraz z Maryją oddajemy się Bogu, mówiąc 'Oto ja służebnica Pańska'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "20",
+      "piesn": "Matko Odkupiciela",
+      "opis": "Antyfona ta podkreśla rolę Maryi w dziele zbawienia, która poprzez swoje 'tak' stała się Matką Syna Bożego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "25",
+      "piesn": "Po upadku człowieka grzesznego",
+      "opis": "Pieśń jest dziękczynieniem za Zwiastowanie, które jest wypełnieniem obietnic danych Dawidowi, o czym mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "18",
+      "piesn": "Gwiazdo morza głębokiego",
+      "opis": "Pieśń maryjna, która prosi Maryję, Matkę, o wstawiennictwo, jest odpowiednia na zakończenie Mszy, posyłając nas w świat z Jej opieką.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Wielka antyfona 'O Emmanuelu' wzywa Króla i Prawodawcę, którego panowanie zapowiada anioł w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "22",
+      "piesn": "Niebiosa, rosę spuśćcie",
+      "opis": "Ta klasyczna pieśń adwentowa wyraża tęsknotę za Zbawicielem, którego przyjście zwiastuje anioł Gabriel.",
+      "moment": "ogolne"
     }
   ]
 }

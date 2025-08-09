@@ -1,12 +1,13 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413380.IV-Niedziela-Adwentu-rok-A",
-  "tytul_dnia": "IV Niedziela Adwentu rok A",
+  "tytul_dnia": "4 Niedziela Adwentu rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
       "sigla": "Iz 7, 10-14",
       "opis": "Panna pocznie i porodzi Syna",
-      "tekst": "Pan przemówił do Achaza tymi słowami: «Proś dla siebie o znak od Pana, Boga twego, czy to głęboko w Szeolu, czy to wysoko w górze!»\nLecz Achaz odpowiedział: «Nie będę prosił i nie będę wystawiał Pana na próbę».\nWtedy rzekł Izajasz: «Słuchajcie więc, domu Dawidowy: Czyż mało wam uprzykrzać się ludziom, iż uprzykrzacie się także mojemu Bogu? Dlatego Pan sam da wam znak: Oto , i nazwie Go imieniem Emmanuel».\nOto słowo Boże."
+      "tekst": "Pan przemówił do Achaza tymi słowami: «Proś dla siebie o znak od Pana, Boga twego, czy to głęboko w Szeolu, czy to wysoko w górze!»\nLecz Achaz odpowiedział: «Nie będę prosił i nie będę wystawiał Pana na próbę».\nWtedy rzekł Izajasz: «Słuchajcie więc, domu Dawidowy: Czyż mało wam uprzykrzać się ludziom, iż uprzykrzacie się także mojemu Bogu? Dlatego Pan sam da wam znak: Oto Panna pocznie i porodzi Syna, i nazwie Go imieniem Emmanuel».\nOto słowo Boże."
     },
     {
       "typ": "PSALM RESPONSORYJNY",
@@ -31,6 +32,50 @@
       "sigla": "Mt 1, 18-24",
       "opis": "Jezus urodzi się z Maryi zaślubionej Józefowi, potomkowi Dawida",
       "tekst": "Z narodzeniem Jezusa Chrystusa było tak. Po zaślubinach Matki Jego, Maryi, z Józefem, wpierw nim zamieszkali razem, znalazła się brzemienną za sprawą Ducha Świętego. Mąż Jej, Józef, który był człowiekiem sprawiedliwym i nie chciał narazić Jej na zniesławienie, zamierzał oddalić Ją potajemnie.\nGdy powziął tę myśl, oto Anioł Pański ukazał mu się we śnie i rzekł: «Józefie, synu Dawida, nie bój się wziąć do siebie Maryi, twej Małżonki; albowiem z Ducha Świętego jest to, co się w Niej poczęło. Porodzi Syna, któremu nadasz imię Jezus, on bowiem zbawi swój lud od jego grzechów». A stało się to wszystko, aby się wypełniło słowo Pańskie powiedziane przez Proroka: «Oto dziewica pocznie i porodzi Syna, któremu nadadzą imię Emmanuel», to znaczy Bóg z nami.\nZbudziwszy się ze snu, Józef uczynił tak, jak mu polecił Anioł Pański: wziął swoją Małżonkę do siebie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "24",
+      "piesn": "Oto Panna pocznie",
+      "opis": "Refren tej pieśni jest dosłownym cytatem z pierwszego czytania i proroctwa, które wypełnia się w Ewangelii, co czyni ją idealną na wejście.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "411",
+      "piesn": "Józefie, święty patronie",
+      "opis": "Ewangelia ukazuje postać św. Józefa i jego posłuszeństwo woli Bożej. W tej pieśni prosimy go o wstawiennictwo i opiekę.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Antyfona 'O Emmanuelu' jest wołaniem o przyjście 'Boga z nami', co jest centralnym przesłaniem dzisiejszej Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "12",
+      "piesn": "Archanioł Boży Gabryjel",
+      "opis": "Chociaż Ewangelia skupia się na Józefie, ta pieśń przypomina o Zwiastowaniu Maryi, które poprzedziło wydarzenia opisane w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "17",
+      "piesn": "Grzechem Adama ludzie uwikłani",
+      "opis": "Pieśń ta mówi o Dziewicy wybranej, przez którą Słowo stało się Ciałem, co stanowi podsumowanie tajemnicy dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "W ostatnią niedzielę Adwentu ta pieśń jest wyrazem ostatecznego przygotowania na bliskie już przyjście Pana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "27",
+      "piesn": "Spuśćcie nam na ziemskie niwy",
+      "opis": "Klasyczna pieśń adwentowa, która w kontekście dzisiejszych czytań ukazuje spełnienie się odwiecznych próśb o Zbawiciela.",
+      "moment": "ogolne"
     }
   ]
 }
