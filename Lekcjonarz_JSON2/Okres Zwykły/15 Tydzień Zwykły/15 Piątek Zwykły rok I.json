@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426787.Piatek-XV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Piątek, XV tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426787.Piatek-XV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "15 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -24,7 +25,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 12, 1-8",
       "opis": "Syn Człowieczy jest Panem szabatu",
-      "tekst": "Pewnego razu Jezus przechodził w szabat pośród zbóż. Uczniowie Jego, odczuwając głód, zaczęli zrywać kłosy i jeść ziarna.\nGdy to ujrzeli faryzeusze, rzekli Mu: «Oto twoi uczniowie czynią to, czego nie wolno czynić w szabat». A On im odpowiedział: «Czy nie czytaliście, co uczynił Dawid, gdy poczuł głód, on i jego towarzysze? Jak wszedł do domu Bożego i jadł chleby pokładne, których nie było wolno jeść ani jemu, ani jego towarzyszom, lecz tylko kapłanom?\nAlbo nie czytaliście w Prawie, że w dzień szabatu kapłani naruszają w świątyni spoczynek szabatu, a są bez winy? Oto powiadam wam: Tu jest coś większego niż świątynia.\nGdybyście zrozumieli, co znaczy: „Chcę raczej miłosierdzia niż ofiary”, nie potępialibyście niewinnych. Albowiem ».\nOto słowo Pańskie."
+      "tekst": "Pewnego razu Jezus przechodził w szabat pośród zbóż. Uczniowie Jego, odczuwając głód, zaczęli zrywać kłosy i jeść ziarna.\nGdy to ujrzeli faryzeusze, rzekli Mu: «Oto twoi uczniowie czynią to, czego nie wolno czynić w szabat». A On im odpowiedział: «Czy nie czytaliście, co uczynił Dawid, gdy poczuł głód, on i jego towarzysze? Jak wszedł do domu Bożego i jadł chleby pokładne, których nie było wolno jeść ani jemu, ani jego towarzyszom, lecz tylko kapłanom?\nAlbo nie czytaliście w Prawie, że w dzień szabatu kapłani naruszają w świątyni spoczynek szabatu, a są bez winy? Oto powiadam wam: Tu jest coś większego niż świątynia.\nGdybyście zrozumieli, co znaczy: „Chcę raczej miłosierdzia niż ofiary”, nie potępialibyście niewinnych. Albowiem Syn Człowieczy jest Panem szabatu».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń wyznaje panowanie Chrystusa, który w Ewangelii objawia się jako Pan szabatu, większy niż świątynia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "173",
+      "piesn": "Panie, ofiarujem Tobie",
+      "opis": "Pieśń eucharystyczna, która nawiązuje do ofiary Baranka Paschalnego i ofiary pochwalnej z psalmu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "156",
+      "piesn": "Bądźże pozdrowiona, Hostio żywa",
+      "opis": "Baranek Paschalny jest zapowiedzią Chrystusa, Baranka Bożego, którego przyjmujemy w Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "165",
+      "piesn": "Ojcze z niebios",
+      "opis": "Pieśń dziękczynna za dar zbawienia, który jest owocem Paschy Chrystusa, zapowiedzianej w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "172",
+      "piesn": "Pan zstąpił z nieba",
+      "opis": "Pieśń podsumowuje tajemnicę Eucharystii jako wypełnienie Paschy i daru Chleba Życia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Jezus uczy, że miłosierdzie jest ważniejsze niż ofiara, a ta pieśń jest wezwaniem do życia miłością.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to pieśń o zaufaniu Bożemu miłosierdziu, które jest kluczem do zrozumienia Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

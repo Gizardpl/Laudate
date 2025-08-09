@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426784.Wtorek-XV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, XV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426784.Wtorek-XV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "15 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 20-24",
       "opis": "Jezus gromi oporne miasta",
       "tekst": "Jezus począł czynić wyrzuty miastom, w których dokonało się najwięcej Jego cudów, że się nie nawróciły.\n«Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się cuda, które u was się dokonały, już dawno w worze i w popiele by się nawróciły. Toteż powiadam wam: Tyrowi i Sydonowi lżej będzie w dzień sądu niż wam.\nA ty, Kafarnaum, czy aż do nieba masz być wyniesione? Aż do Otchłani zejdziesz. Bo gdyby w Sodomie działy się cuda, które się w tobie dokonały, przetrwałaby aż do dnia dzisiejszego. Toteż powiadam wam: Ziemi sodomskiej lżej będzie w dzień sądu niż tobie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń jest wyrazem zaufania Bogu, do którego wzywa prorok Izajasz: 'Jeżeli nie uwierzycie, nie ostoicie się'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec groźby sądu nad miastami, o której mówi Jezus, ta pieśń jest aktem skruchy i prośbą o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory, której zabrakło mieszkańcom miast galilejskich, a która jest warunkiem nawrócenia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest uwielbieniem dla Boga, który, jak mówi psalm, jest obroną swego miasta i umacnia je na wieki.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Pieśń pokutna, która jest odpowiedzią na wezwanie Jezusa do nawrócenia w worze i popiele.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec odrzucenia cudów Jezusa, pieśń ta jest aktem wiary i wyboru Boga ponad wszystko.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "510",
+      "piesn": "Boże, coś Polskę",
+      "opis": "Modlitwa za Ojczyznę, aby była wierna Bogu i nie odrzucała Jego znaków, jak miasta z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

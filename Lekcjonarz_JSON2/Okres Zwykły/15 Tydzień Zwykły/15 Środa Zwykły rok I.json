@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426789.Sroda-XV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, XV tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426789.Sroda-XV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "15 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 25-27",
       "opis": "Tajemnice królestwa objawione prostaczkom",
       "tekst": "W owym czasie Jezus przemówił tymi słowami:\n«Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nWszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn i ten, komu Syn zechce objawić».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "226",
+      "piesn": "Kłaniam się Tobie",
+      "opis": "Pieśń adoracyjna, która oddaje postawę Mojżesza, zdejmującego sandały i zasłaniającego twarz przed Bogiem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec objawienia się jedynego Boga, ta pieśń jest aktem wyznania wiary i ofiarowania Mu swojego życia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory i uniżenia, która jest warunkiem przyjęcia objawienia, danego prostaczkom.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń jest parafrazą psalmu 103, który jest psalmem responsoryjnym tego dnia i wychwala Boże miłosierdzie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Mojżesz został posłany, by wyprowadzić lud z niewoli. My jesteśmy posłani, by głosić Ewangelię o zbawieniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Obietnica 'Ja będę z tobą' dana Mojżeszowi jest źródłem ufności, którą wyraża ta pieśń.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest uwielbieniem Boga, który objawia się człowiekowi i powołuje go do wielkich dzieł.",
+      "moment": "ogolne"
     }
   ]
 }

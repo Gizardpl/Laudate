@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426790.Wtorek-XV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, XV tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426790.Wtorek-XV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "15 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 20-24",
       "opis": "Jezus gromi oporne miasta",
       "tekst": "Jezus począł czynić wyrzuty miastom, w których dokonało się najwięcej Jego cudów, że się nie nawróciły.\n«Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się cuda, które u was się dokonały, już dawno w worze i w popiele by się nawróciły. Toteż powiadam wam: Tyrowi i Sydonowi lżej będzie w dzień sądu niż wam.\nA ty, Kafarnaum, czy aż do nieba masz być wyniesione? Aż do Otchłani zejdziesz. Bo gdyby w Sodomie działy się cuda, które się w tobie dokonały, przetrwałaby aż do dnia dzisiejszego. Toteż powiadam wam: Ziemi sodomskiej lżej będzie w dzień sądu niż tobie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń mówi o Bożej opiece, która ocaliła Mojżesza i jest nadzieją dla wszystkich uciśnionych.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec groźby sądu nad miastami, o której mówi Jezus, ta pieśń jest aktem skruchy i prośbą o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory i uznania własnej grzeszności, która jest warunkiem nawrócenia, do którego wzywa Jezus.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, wysłuchuje biednych i nie gardzi swoimi więźniami.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Pieśń pokutna, która jest odpowiedzią na wezwanie Jezusa do nawrócenia i odrzucenia zatwardziałości serca.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec odrzucenia cudów Jezusa przez miasta galilejskie, pieśń ta jest aktem wiary i wyboru Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem czci dla Boga, którego opatrzność czuwała nad Mojżeszem i który wzywa nas do nawrócenia.",
+      "moment": "ogolne"
     }
   ]
 }

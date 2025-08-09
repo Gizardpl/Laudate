@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426782.Czwartek-XV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Czwartek, XV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426782.Czwartek-XV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "15 Czwartek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 28-30",
       "opis": "Jezus cichy i pokornego serca",
       "tekst": "Jezus przemówił tymi słowami:\n«Przyjdźcie do Mnie wszyscy, którzy utrudzeni i obciążeni jesteście, a Ja was pokrzepię. Weźcie na siebie moje jarzmo i uczcie się ode Mnie, bo jestem cichy i pokornego serca, a znajdziecie ukojenie dla dusz waszych. Albowiem słodkie jest moje jarzmo, a moje brzemię lekkie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest bezpośrednią odpowiedzią na wezwanie Jezusa z Ewangelii i aklamacji: 'Przyjdźcie do Mnie wszyscy'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec doświadczenia ucisku, o którym mówią czytania, ta pieśń jest prośbą o Boże miłosierdzie i pokój.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Jezus, który daje pokrzepienie utrudzonym, ofiaruje się nam w Eucharystii jako pokarm i źródło ukojenia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, spogląda z nieba, by usłyszeć jęki uwięzionych.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Pieśń jest aktem zawierzenia Jezusowi, który jest naszą nadzieją i pokrzepieniem w trudnościach.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "350",
+      "piesn": "Najświętsze Serce Boże",
+      "opis": "Nawiązuje do słów Jezusa 'uczcie się ode Mnie, bo jestem cichy i pokornego serca'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Wyraża tęsknotę za Bogiem i nadzieję na zmartwychwstanie, o której z wiarą mówi prorok Izajasz.",
+      "moment": "ogolne"
     }
   ]
 }

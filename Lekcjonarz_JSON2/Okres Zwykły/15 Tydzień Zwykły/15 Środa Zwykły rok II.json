@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426783.Sroda-XV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, XV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426783.Sroda-XV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "15 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 25-27",
       "opis": "Tajemnice królestwa objawione prostaczkom",
       "tekst": "W owym czasie Jezus przemówił tymi słowami:\n«Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nWszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn i ten, komu Syn zechce objawić».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża ufność w Bożą sprawiedliwość i opiekę, o której zapewnia psalmista wbrew pysze ciemiężycieli.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec Bożego sądu nad narodami, ta pieśń jest aktem pokory i prośby o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Ewangelia mówi o objawieniu tajemnic prostaczkom. Ta pieśń wyraża postawę pokory, która otwiera na Boże dary.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn Te Deum jest uwielbieniem dla Boga, Pana Zastępów, którego wielkość i sprawiedliwość opisują czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń wyznaje panowanie Chrystusa, który objawia Ojca i jest prawdziwym władcą, w przeciwieństwie do pysznego króla Asyrii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Jezus objawia nam Ojca, rozpraszając ciemności pychy i niewiary, o których mówią czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Wobec ziemskich potęg, które Bóg wykorzystuje jako narzędzia, ta pieśń jest wyznaniem wiary w jedyne i wieczne królestwo Chrystusa.",
+      "moment": "ogolne"
     }
   ]
 }

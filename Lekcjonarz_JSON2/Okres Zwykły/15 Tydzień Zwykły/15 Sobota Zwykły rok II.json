@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426780.Sobota-XV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, XV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426780.Sobota-XV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "15 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 12, 14-21",
       "opis": "Jezus cichy i pokornego serca",
       "tekst": "Faryzeusze wyszli i odbyli naradę przeciw Jezusowi, w jaki sposób Go zgładzić.\nGdy się Jezus dowiedział o tym, oddalił się stamtąd. A wielu poszło za Nim i uzdrowił ich wszystkich. Lecz zabronił im surowo, żeby Go nie ujawniali. Tak miało się spełnić słowo proroka Izajasza:\n«Oto mój Sługa, którego wybrałem;\nUmiłowany mój, w którym moje serce ma upodobanie.\nPołożę ducha mojego na Nim, a On zapowie Prawo narodom.\nNie będzie się spierał ani krzyczał i nikt nie usłyszy na ulicach Jego głosu.\nTrzciny zgniecionej nie złamie ani knota tlejącego nie dogasi, aż zwycięsko sąd przeprowadzi.\nW Jego imieniu narody nadzieję pokładać będą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna, która jest odpowiedzią na grzechy ucisku i niesprawiedliwości opisane w pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Wobec grzechów pychy i nieprawości, ta pieśń jest prośbą o czyste serce, które miłe jest Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "350",
+      "piesn": "Najświętsze Serce Boże",
+      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę. Ta pieśń jest aktem czci dla Jego Serca, które jest źródłem miłości.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, jest opiekunem sieroty i nie zapomina o ubogich.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Postawa Sługi Pańskiego z Ewangelii jest wzorem miłości i miłosierdzia, do którego wzywa ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec zagrożenia ze strony faryzeuszy, pieśń ta wyraża ufność w Bożą opiekę, której doświadczał Jezus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Pieśń jest aktem zawierzenia Jezusowi, który jest nadzieją narodów i obrońcą uciśnionych.",
+      "moment": "ogolne"
     }
   ]
 }
