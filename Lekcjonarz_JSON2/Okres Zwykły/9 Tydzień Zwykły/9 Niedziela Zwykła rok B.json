@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416270.9-Niedziela-zwykla-rok-B",
-  "tytul_dnia": "9. Niedziela zwykła, rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416270.9-Niedziela-zwykla-rok-B",
+  "tytul_dnia": "9 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -27,16 +28,54 @@
       "tekst": "Słowo Twoje, Panie, jest prawdą,\nuświęć nas w prawdzie."
     },
     {
-      "typ": "EWANGELIA DŁUŻSZA",
-      "sigla": "Mk 2, 23 – 3, 6",
+      "typ": "EWANGELIA",
+      "sigla": "Mk 2, 23 – 3, 6 (krótsza: Mk 2, 23-28)",
       "opis": "Jezus jest Panem szabatu",
       "tekst": "Pewnego razu, gdy Jezus przechodził w szabat pośród zbóż, uczniowie Jego zaczęli po drodze zrywać kłosy. Na to faryzeusze mówili do Niego: «Patrz, czemu oni czynią w szabat to, czego nie wolno?»\nOn im odpowiedział: «Czy nigdy nie czytaliście, co uczynił Dawid, kiedy znalazł się w potrzebie i poczuł głód, on i jego towarzysze? Jak wszedł do domu Bożego za Abiatara, najwyższego kapłana, i jadł chleby pokładne, które tylko kapłanom jeść wolno; i dał również swoim towarzyszom».\nI dodał: «To szabat został ustanowiony dla człowieka, a nie człowiek dla szabatu. Zatem Syn Człowieczy jest Panem także szabatu».\nWszedł znowu do synagogi. Był tam człowiek, który miał uschniętą rękę. A śledzili Go, czy uzdrowi go w szabat, żeby Go oskarżyć.\nOn zaś rzekł do człowieka z uschłą ręką: «Podnieś się na środek!» A do nich powiedział: «Co wolno w szabat: uczynić coś dobrego, czy coś złego? Życie uratować czy zabić?» Lecz oni milczeli. Wtedy spojrzawszy na nich dokoła z gniewem, zasmucony z powodu zatwardziałości ich serc, rzekł do człowieka: «Wyciągnij rękę!» Wyciągnął, i ręka jego stała się znów zdrowa.\nA faryzeusze wyszli i ze zwolennikami Heroda zaraz się naradzali przeciwko Niemu, w jaki sposób Go zgładzić.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Wyraża radość z przebywania w domu Pańskim w dzień święty, co jest głównym tematem pierwszego czytania.",
+      "moment": "wejscie"
     },
     {
-      "typ": "EWANGELIA KRÓTSZA",
-      "sigla": "Mk 2, 23-28",
-      "opis": "Jezus jest Panem szabatu",
-      "tekst": "Pewnego razu, gdy Jezus przechodził w szabat pośród zbóż, uczniowie Jego zaczęli po drodze zrywać kłosy. Na to faryzeusze mówili do Niego: «Patrz, czemu oni czynią w szabat to, czego nie wolno?»\nOn im odpowiedział: «Czy nigdy nie czytaliście, co uczynił Dawid, kiedy znalazł się w potrzebie i poczuł głód, on i jego towarzysze? Jak wszedł do domu Bożego za Abiatara, najwyższego kapłana, i jadł chleby pokładne, które tylko kapłanom jeść wolno; i dał również swoim towarzyszom».\nI dodał: «To szabat został ustanowiony dla człowieka, a nie człowiek dla szabatu. Zatem Syn Człowieczy jest Panem także szabatu».\nOto słowo Pańskie."
+      "numer": "688",
+      "piesn": "Boże, lud Twój",
+      "opis": "Pieśń ta jest aktem oddania czci Bogu w zgromadzeniu liturgicznym, co jest istotą świętowania dnia Pańskiego.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "263",
+      "piesn": "Pan zstąpił z nieba",
+      "opis": "Jest to pieśń eucharystyczna, która podkreśla spotkanie z Chrystusem, Panem szabatu, w Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń ta jest radosnym hymnem, który odpowiada na wezwanie psalmu: 'Śpiewajcie Bogu, naszemu Obrońcy'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Jest to modlitwa o jedność i miłość, które są owocem prawdziwego świętowania dnia Pańskiego.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Uniwersalna pieśń chwały, która dobrze wpisuje się w radosny charakter dnia Pańskiego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń ta jest osobistym wyznaniem wiary i dziękczynieniem, które jest istotą świętowania szabatu.",
+      "moment": "ogolne"
     }
   ]
 }

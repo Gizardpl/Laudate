@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416278.Wtorek-IX-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, IX tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416278.Wtorek-IX-tydzien-zwykly-rok-I",
+  "tytul_dnia": "9 Wtorek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 13-17",
       "opis": "Podatek należny cezarowi",
       "tekst": "Uczeni w Piśmie i starsi posłali do Jezusa kilku faryzeuszów i zwolenników Heroda, którzy mieli podchwycić Go w mowie. Ci przyszli i rzekli do Niego: «Nauczycielu, wiemy, że jesteś prawdomówny i na nikim ci nie zależy. Bo nie oglądasz się na osobę ludzką, lecz drogi Bożej w prawdzie nauczasz. Czy wolno płacić podatek cezarowi, czy nie? Mamy płacić czy nie płacić?»\nLecz On poznał ich obłudę i rzekł do nich: «Czemu wystawiacie Mnie na próbę? Przynieście mi denara; chcę zobaczyć». Przynieśli, a On ich zapytał: «Czyj jest ten obraz i napis?»\nOdpowiedzieli Mu: «Cezara».\nWówczas Jezus rzekł do nich: «Oddajcie więc cezarowi to, co należy do cezara, a Bogu to, co należy do Boga».\nI byli pełni podziwu dla Niego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń ta jest echem psalmu, który opisuje błogosławieństwo człowieka sprawiedliwego, jakim był Tobiasz.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę oddania Bogu tego, co Boże, o czym naucza Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "589",
+      "piesn": "Boże, kocham Cię!",
+      "opis": "Jest to prosty akt miłości, który jest najwyższą formą oddania Bogu tego, co Mu się należy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą sprawiedliwość i opiekę, której doświadczał Tobiasz mimo cierpienia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "638",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń ta jest manifestem oddania Bogu należnego Mu miejsca w życiu osobistym i społecznym.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Podkreśla wartość zaufania Panu, które było siłą Tobiasza w jego trudnych doświadczeniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Stawia pytanie o to, co powinniśmy oddać Bogu, na które Ewangelia daje jasną odpowiedź.",
+      "moment": "ogolne"
     }
   ]
 }

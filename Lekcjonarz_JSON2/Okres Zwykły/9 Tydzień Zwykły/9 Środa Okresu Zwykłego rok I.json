@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416281.Sroda-IX-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, IX tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416281.Sroda-IX-tydzien-zwykly-rok-I",
+  "tytul_dnia": "9 Środa Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 18-27",
       "opis": "Zmartwychwstanie umarłych",
       "tekst": "Przyszli do Jezusa saduceusze, którzy twierdzą, że nie ma zmartwychwstania, i pytali Go w ten sposób: «Nauczycielu, Mojżesz tak nam przepisał: „Jeśli umrze czyjś brat i pozostawi żonę, a nie zostawi dziecka, niech jego brat pojmie ją za żonę i wzbudzi potomstwo swemu bratu”.\nOtóż było siedmiu braci. Pierwszy pojął żonę, a umierając, nie zostawił potomstwa. Drugi ją pojął za żonę i też zmarł bez potomstwa; tak samo trzeci. I siedmiu ich nie zostawiło potomstwa. W końcu po wszystkich umarła także kobieta. Przy zmartwychwstaniu więc, gdy powstaną, którego z nich będzie żoną? Bo siedmiu miało ją za żonę».\nJezus im rzekł: «Czyż nie dlatego jesteście w błędzie, że nie rozumiecie Pisma ani mocy Bożej? Gdy bowiem powstaną z martwych, nie będą się ani żenić, ani za mąż wychodzić, ale będą jak aniołowie w niebie. Co się zaś tyczy umarłych, że zmartwychwstaną, to czy nie czytaliście w księdze Mojżesza, tam gdzie mowa o krzewie, jak Bóg powiedział do niego: „Ja jestem Bóg Abrahama, Bóg Izaaka i Bóg Jakuba”? Nie jest On Bogiem umarłych, lecz żywych. Jesteście w wielkim błędzie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń ta, będąca parafrazą psalmu responsoryjnego, jest modlitwą ufności w Bogu pośród utrapień.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Wyraża zaufanie Bogu, które było udziałem Tobiasza i Sary w ich cierpieniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Jest to pieśń o nadziei zmartwychwstania, która jest odpowiedzią na naukę Jezusa z Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Boże wysłuchanie modlitw, co jest zapowiedzią rozwiązania problemów Tobiasza i Sary.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta posyła wiernych ze świadectwem o Chrystusie, który jest zmartwychwstaniem i życiem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Podkreśla wartość zaufania Bogu, który jest Bogiem żywych, a nie umarłych.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Pieśń błagalna, która dobrze oddaje ducha modlitw Tobiasza i Sary w ich utrapieniu.",
+      "moment": "ogolne"
     }
   ]
 }

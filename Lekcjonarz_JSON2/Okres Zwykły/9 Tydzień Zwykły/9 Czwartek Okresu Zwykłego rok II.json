@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416996.Czwartek-IX-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Czwartek, IX tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416996.Czwartek-IX-tydzien-zwykly-rok-II",
+  "tytul_dnia": "9 Czwartek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 28b-34",
       "opis": "Przykazanie miłości",
       "tekst": "Jeden z uczonych w Piśmie podszedł do Jezusa i zapytał Go: «Które jest pierwsze ze wszystkich przykazań?»\nJezus odpowiedział: «Pierwsze jest: „Słuchaj, Izraelu, Pan Bóg nasz jest jedynym Panem. Będziesz miłował Pana, Boga swego, całym swoim sercem, całą swoją duszą, całym swoim umysłem i całą swoją mocą”. Drugie jest to: „Będziesz miłował swego bliźniego jak siebie samego”. Nie ma innego przykazania większego od tych».\nRzekł Mu uczony w Piśmie: «Bardzo dobrze, Nauczycielu, słusznie powiedziałeś, bo Jeden jest i nie ma innego prócz Niego. Miłować Go całym sercem, całym umysłem i całą mocą i miłować bliźniego jak siebie samego znaczy daleko więcej niż wszystkie całopalenia i ofiary».\nJezus, widząc, że rozumnie odpowiedział, rzekł do niego: «Niedaleko jesteś od królestwa Bożego». I nikt już nie odważył się Go więcej pytać.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń ta jest echem psalmu, w którym prosimy Boga o poznanie Jego dróg i prowadzenie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Nawiązuje bezpośrednio do Ewangelii, która przedstawia przykazanie miłości jako najważniejsze.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Jest to pieśń o miłości, która jest owocem wierności Bogu, o której mówi pierwsze czytanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń dziękczynna za dar miłości i wierności Boga, który dochowuje wiary nawet gdy my jej odmawiamy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to prośba o siłę do życia przykazaniami miłości w codziennym trudzie i pracy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Medytacyjny kanon, który podkreśla, że Bóg jest obecny tam, gdzie jest miłość.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to modlitwa o wierność, do której wzywa św. Paweł w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

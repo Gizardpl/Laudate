@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416997.Sroda-IX-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, IX tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416997.Sroda-IX-tydzien-zwykly-rok-II",
+  "tytul_dnia": "9 Środa Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 18-27",
       "opis": "Zmartwychwstanie umarłych",
       "tekst": "Przyszli do Jezusa saduceusze, którzy twierdzą, że nie ma zmartwychwstania, i pytali Go w ten sposób: «Nauczycielu, Mojżesz tak nam przepisał: „Jeśli umrze czyjś brat i pozostawi żonę, a nie zostawi dziecka, niech jego brat pojmie ją za żonę i wzbudzi potomstwo swemu bratu”.\nOtóż było siedmiu braci. Pierwszy pojął żonę, a umierając, nie zostawił potomstwa. Drugi ją pojął za żonę i też zmarł bez potomstwa; tak samo trzeci. I siedmiu ich nie zostawiło potomstwa. W końcu po wszystkich umarła także kobieta. Przy zmartwychwstaniu więc, gdy powstaną, którego z nich będzie żoną? Bo siedmiu miało ją za żonę».\nJezus im rzekł: «Czyż nie dlatego jesteście w błędzie, że nie rozumiecie Pisma ani mocy Bożej? Gdy bowiem powstaną z martwych, nie będą się ani żenić, ani za mąż wychodzić, ale będą jak aniołowie w niebie. Co się zaś tyczy umarłych, że zmartwychwstaną, to czy nie czytaliście w księdze Mojżesza, tam gdzie mowa o krzewie, jak Bóg powiedział do niego: „Ja jestem Bóg Abrahama, Bóg Izaaka i Bóg Jakuba”? Nie jest On Bogiem umarłych, lecz żywych. Jesteście w wielkim błędzie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń ta jest echem psalmu, w którym wierny wznosi oczy ku Bogu w oczekiwaniu na Jego miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Wyraża postawę wierności i odwagi w świadectwie, do której wzywa św. Paweł w pierwszym czytaniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w Chrystusa Zmartwychwstałego, który jest Bogiem żywych, a nie umarłych.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń dziękczynna za dar powołania i łaski, o której pisze św. Paweł do Tymoteusza.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta posyła wiernych ze świadectwem o Chrystusie, który zniweczył śmierć i rzucił światło na życie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "769",
+      "piesn": "Pan jest mocą",
+      "opis": "Podkreśla, że Bóg daje ducha mocy, a nie bojaźni, co jest kluczowe w posłudze ewangelizacyjnej.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to modlitwa o wiarę w zmartwychwstanie, której brakowało saduceuszom w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

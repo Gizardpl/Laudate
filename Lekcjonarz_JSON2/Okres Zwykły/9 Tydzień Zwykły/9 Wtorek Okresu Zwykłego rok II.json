@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416998.Wtorek-IX-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, IX tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416998.Wtorek-IX-tydzien-zwykly-rok-II",
+  "tytul_dnia": "9 Wtorek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 13-17",
       "opis": "Podatek należny cezarowi",
       "tekst": "Uczeni w Piśmie i starsi posłali do Jezusa kilku faryzeuszów i zwolenników Heroda, którzy mieli podchwycić Go w mowie. Ci przyszli i rzekli do Niego: «Nauczycielu, wiemy, że jesteś prawdomówny i na nikim ci nie zależy. Bo nie oglądasz się na osobę ludzką, lecz drogi Bożej w prawdzie nauczasz. Czy wolno płacić podatek cezarowi, czy nie? Mamy płacić czy nie płacić?»\nLecz On poznał ich obłudę i rzekł do nich: «Czemu wystawiacie Mnie na próbę? Przynieście mi denara; chcę zobaczyć». Przynieśli, a On ich zapytał: «Czyj jest ten obraz i napis?»\nOdpowiedzieli Mu: «Cezara».\nWówczas Jezus rzekł do nich: «Oddajcie więc cezarowi to, co należy do cezara, a Bogu to, co należy do Boga».\nI byli pełni podziwu dla Niego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Pieśń ta oddaje ducha pierwszego czytania i psalmu, mówiących o oczekiwaniu na nową ziemię i przemijalności życia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę oddania Bogu tego, co Boże, o czym naucza Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Jest to modlitwa o bliskość z Bogiem, która jest celem życia chrześcijanina oczekującego na przyjście Pana.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Hymn ten jest wyrazem chwały dla wiecznego Boga, który jest naszą ucieczką, jak mówi psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "638",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń ta jest manifestem oddania Bogu należnego Mu miejsca w życiu osobistym i społecznym.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "631",
+      "piesn": "Wszystkie nasze dzienne sprawy",
+      "opis": "Jest to modlitwa o uświęcenie codzienności w perspektywie oczekiwania na dzień Pański.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Wyraża eschatologiczną tęsknotę za przyjściem Pana, o której mówi pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

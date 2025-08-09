@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416291.Sobota-IX-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, IX tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416291.Sobota-IX-tydzien-zwykly-rok-I",
+  "tytul_dnia": "9 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 12, 38-44",
       "opis": "Jałmużna ubogiej wdowy",
       "tekst": "Jezus, nauczając rzesze, mówił:\n«Strzeżcie się uczonych w Piśmie. Z upodobaniem chodzą oni w powłóczystych szatach, lubią pozdrowienia na rynku, pierwsze krzesła w synagogach i zaszczytne miejsca na ucztach. Objadają domy wdów i dla pozoru odprawiają długie modlitwy. Ci tym surowszy dostaną wyrok».\nPotem, usiadłszy naprzeciw skarbony, przypatrywał się, jak tłum wrzucał drobne pieniądze do skarbony. Wielu bogatych wrzucało wiele. Przyszła też jedna uboga wdowa i wrzuciła dwa pieniążki, czyli jeden grosz.\nWtedy przywołał swoich uczniów i rzekł do nich: «Zaprawdę, powiadam wam: Ta uboga wdowa wrzuciła najwięcej ze wszystkich, którzy kładli do skarbony. Wszyscy bowiem wrzucali z tego, co im zbywało; ona zaś ze swego niedostatku wrzuciła wszystko, co miała na swe utrzymanie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Nawiązuje do aklamacji oraz postawy ubogiej wdowy z Ewangelii, która jest błogosławiona w swoim ubóstwie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę ubogiej wdowy, która oddała Bogu wszystko, co miała, czyli całą siebie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "261",
+      "piesn": "Pan Jezus już się zbliża",
+      "opis": "Oddaje prostotę i szczerość serca, z jaką uboga wdowa złożyła swój dar, a z jaką my powinniśmy przyjmować Komunię.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń dziękczynna, która jest echem wezwania archanioła Rafała do uwielbiania Boga za Jego dzieła.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Jest to wezwanie do czynienia miłosierdzia i dawania jałmużny, o czym nauczał anioł Rafał.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Rafale święty",
+      "opis": "Bezpośrednio odnosi się do postaci archanioła Rafała z pierwszego czytania, dziękując za jego opiekę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Prosta pieśń dziękczynna, która dobrze oddaje ducha pierwszego czytania i psalmu.",
+      "moment": "ogolne"
     }
   ]
 }
