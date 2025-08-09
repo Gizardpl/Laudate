@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410980.II-Niedziela-Zwykla-rok-B",
-  "tytul_dnia": "II Niedziela Zwykła, rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410980.II-Niedziela-Zwykla-rok-B",
+  "tytul_dnia": "2 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,14 +24,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. J 1, 41b. 17b",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nZnaleźliśmy Mesjasza, to znaczy Chrystusa.\n\nŁaska i prawda przyszły przez Niego.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Znaleźliśmy Mesjasza, to znaczy Chrystusa.\n\nŁaska i prawda przyszły przez Niego."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "J 1, 35-42",
       "opis": "Powołanie pierwszych uczniów",
       "tekst": "Jan stał wraz z dwoma swoimi uczniami i gdy zobaczył przechodzącego Jezusa, rzekł: «Oto Baranek Boży». Dwaj uczniowie usłyszeli, jak mówił, i poszli za Jezusem. Jezus zaś, odwróciwszy się i ujrzawszy, że oni idą za Nim, rzekł do nich: «Czego szukacie?» Oni powiedzieli do Niego: «Rabbi! – to znaczy: Nauczycielu – gdzie mieszkasz?» Odpowiedział im: «Chodźcie, a zobaczycie». Poszli więc i zobaczyli, gdzie mieszka, i tego dnia pozostali u Niego. Było to około godziny dziesiątej. Jednym z dwóch, którzy to usłyszeli od Jana i poszli za Nim, był Andrzej, brat Szymona Piotra. Ten spotkał najpierw swego brata i rzekł do niego: «Znaleźliśmy Mesjasza» – to znaczy: Chrystusa. I przyprowadził go do Jezusa. A Jezus, wejrzawszy na niego, powiedział: «Ty jesteś Szymon, syn Jana; ty będziesz nazywał się Kefas» – to znaczy: Piotr. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta jest zaproszeniem do pójścia za Jezusem, tak jak uczynili to pierwsi uczniowie w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża oddanie całego siebie Bogu, co jest odpowiedzią na powołanie i naukę o ciele jako świątyni Ducha Świętego.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Pójście za Jezusem prowadzi do wspólnoty z Nim przy stole eucharystycznym, gdzie On karmi swój lud.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Jest to pieśń dziękczynna za dar powołania i łaski, o których mówią wszystkie czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Powołanie uczniów jest początkiem ich misji, by przyprowadzać innych do Chrystusa, tak jak Andrzej przyprowadził Piotra.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża postawę słuchania i gotowości, jaką miał Samuel, a do której zaproszeni są wszyscy powołani.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Jest to wyznanie wiary w Chrystusa, którego uczniowie rozpoznali jako Mesjasza i za którym poszli.",
+      "moment": "ogolne"
     }
   ]
 }

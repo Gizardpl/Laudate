@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/411054.Sobota-II-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, II tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411054.Sobota-II-tydzien-zwykly-rok-II",
+  "tytul_dnia": "2 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Dz 16, 14b",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nOtwórz, Panie, nasze serca,\n\nabyśmy uważnie słuchali słów Syna Twojego.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Otwórz, Panie, nasze serca,\n\nabyśmy uważnie słuchali słów Syna Twojego."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 3, 20-21",
       "opis": "Rodzina niepokoi się o Jezusa",
       "tekst": "Jezus przyszedł do domu, a tłum znów się zbierał, tak że nawet posilić się nie mogli. Gdy to posłyszeli Jego bliscy, wybrali się, żeby Go powstrzymać. Mówiono bowiem: «Odszedł od zmysłów». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta jest zaproszeniem do szukania pociechy u Jezusa w chwilach trudnych, jak lament Dawida czy niezrozumienie Jezusa przez bliskich.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Wyraża ofiarowanie Bogu naszych trudów i smutków, o których mowa w psalmie i pierwszym czytaniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w Jezusa, który jest naszą mocą, nawet gdy inni Go nie rozumieją, jak w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń dziękczynna za Bożą opiekę, o którą prosi psalmista w imieniu udręczonego ludu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "625",
+      "piesn": "Spojrzyj z nieba wysokiego",
+      "opis": "Błagalny charakter pieśni oddaje ducha psalmu, który jest wołaniem do Boga o odnowę i zbawienie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, która jest jedynym ratunkiem w doświadczeniach opisanych w czytaniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń o zaufaniu Bożej Opatrzności jest pocieszeniem w obliczu klęski i śmierci, o których mowa w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

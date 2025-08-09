@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/411050.Sroda-II-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, II tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411050.Sroda-II-tydzien-zwykly-rok-II",
+  "tytul_dnia": "2 Środa Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Mt 4, 23",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nJezus głosił Ewangelię o królestwie\n\ni leczył wszelkie choroby wśród ludu.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Jezus głosił Ewangelię o królestwie\n\ni leczył wszelkie choroby wśród ludu."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 3, 1-6",
       "opis": "Uzdrowienie w dzień szabatu",
       "tekst": "W dzień szabatu Jezus wszedł do synagogi. Był tam człowiek, który miał uschniętą rękę. A śledzili Go, czy uzdrowi go w szabat, żeby Go oskarżyć. On zaś rzekł do człowieka z uschłą ręką: «Podnieś się na środek!» A do nich powiedział: «Co wolno w szabat: uczynić coś dobrego czy coś złego? Życie uratować czy zabić? » Lecz oni milczeli. Wtedy spojrzawszy na nich dokoła z gniewem, zasmucony z powodu zatwardziałości ich serc, rzekł do człowieka: «Wyciągnij rękę!» Wyciągnął, i ręka jego stała się znów zdrowa. A faryzeusze wyszli i ze zwolennikami Heroda zaraz się naradzali przeciwko Niemu, w jaki sposób Go zgładzić. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta mówi o zaufaniu Panu, który jest obrońcą, co doskonale oddaje postawę Dawida przed walką z Goliatem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Wyraża ofiarowanie Bogu naszych trudów i zmagań, w których On, jak Dawidowi, daje nam zwycięstwo.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w uzdrawiającą moc Chrystusa, który w szabat przywrócił zdrowie człowiekowi z uschniętą ręką.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń uwielbienia za zwycięstwo, które Pan daje swojemu ludowi, tak jak w walce z Goliatem i w uzdrowieniu chorego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "616",
+      "piesn": "Pan nie opuszcza nigdy",
+      "opis": "Podkreśla wierność Boga wobec tych, którzy Go szukają i w Nim pokładają nadzieję, jak Dawid.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest zaproszeniem do Jezusa, który ma moc uzdrawiania i ratowania życia, nawet wbrew ludzkim przepisom.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "590",
+      "piesn": "Boże mocny, Boże cudów",
+      "opis": "Pieśń sławi Boga za Jego cuda, a za taki cud należy uznać zwycięstwo Dawida i uzdrowienie w szabat.",
+      "moment": "ogolne"
     }
   ]
 }

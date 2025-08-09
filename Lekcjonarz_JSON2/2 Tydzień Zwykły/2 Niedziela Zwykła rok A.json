@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/410939.II-Niedziela-zwykla-rok-A",
-  "tytul_dnia": "II Niedziela zwykła, rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/410939.II-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "2 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,14 +24,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "J 1, 14a. 12a",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nSłowo stało się ciałem i zamieszkało między nami.\n\nWszystkim, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Słowo stało się ciałem i zamieszkało między nami.\n\nWszystkim, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "J 1, 29-34",
       "opis": "Duch Święty spoczął na Jezusie",
       "tekst": "Jan zobaczył podchodzącego ku niemu Jezusa i rzekł: «Oto Baranek Boży, który gładzi grzech świata. To jest Ten, o którym powiedziałem: „Po mnie przyjdzie Mąż, który mnie przewyższył godnością, gdyż był wcześniej ode mnie”. Ja Go przedtem nie znałem, ale przyszedłem chrzcić wodą w tym celu, aby On się objawił Izraelowi». Jan dał takie świadectwo: «Ujrzałem Ducha, który zstępował z nieba jak gołębica i spoczął na Nim. Ja Go przedtem nie znałem, ale Ten, który mnie posłał, abym chrzcił wodą, powiedział do mnie: „Ten, nad którym ujrzysz Ducha zstępującego i spoczywającego na Nim, jest Tym, który chrzci Duchem Świętym”. Ja to ujrzałem i daję świadectwo, że On jest Synem Bożym». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta wzywa do głoszenia zbawienia, które Chrystus, Sługa Pański z pierwszego czytania, przynosi aż po krańce ziemi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Jest to ofiarowanie darów w duchu posłuszeństwa woli Bożej, o którym mówi psalm responsoryjny.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "260",
+      "piesn": "Oto Święte Ciało Pana",
+      "opis": "Nawiązuje bezpośrednio do świadectwa Jana Chrzciciela z Ewangelii: \"Oto Boży jest Baranek, który gładzi grzechy\".",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn ten jest wyrazem uwielbienia dla Syna Bożego, o którym świadczy Jan Chrzciciel i którego chwałę głoszą niebiosa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna, która jest odpowiedzią na proroctwo Izajasza, że zbawienie Boże dotrze aż do krańców ziemi.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Modlitwa do Ducha Świętego, który zstąpił na Jezusa w Ewangelii i uświęca wierzących, o których mówi drugie czytanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Jest to wyznanie wiary w Chrystusa, Baranka Bożego, który jest naszą drogą, prawdą i życiem.",
+      "moment": "ogolne"
     }
   ]
 }

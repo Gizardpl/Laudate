@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/411047.Wtorek-II-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, II tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411047.Wtorek-II-tydzien-zwykly-rok-II",
+  "tytul_dnia": "2 Wtorek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Ef 1, 17-18",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nNiech Ojciec Pana naszego, Jezusa Chrystusa, przeniknie nasze serca swoim światłem,\n\nabyśmy wiedzieli, czym jest nadzieja naszego powołania.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Niech Ojciec Pana naszego, Jezusa Chrystusa, przeniknie nasze serca swoim światłem,\n\nabyśmy wiedzieli, czym jest nadzieja naszego powołania."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 2, 23-28",
       "opis": "Szabat został ustanowiony dla człowieka, a nie człowiek dla szabatu",
       "tekst": "Pewnego razu, gdy Jezus przechodził w szabat pośród zbóż, uczniowie Jego zaczęli po drodze zrywać kłosy. Na to faryzeusze mówili do Niego: «Patrz, czemu oni czynią w szabat to, czego nie wolno?» On im odpowiedział: «Czy nigdy nie czytaliście, co uczynił Dawid, kiedy znalazł się w potrzebie i poczuł głód, on i jego towarzysze? Jak wszedł do domu Bożego za Abiatara, najwyższego kapłana, i jadł chleby pokładne, które tylko kapłanom jeść wolno; i dał również swoim towarzyszom». I dodał: «To szabat został ustanowiony dla człowieka, a nie człowiek dla szabatu. Zatem Syn Człowieczy jest Panem także szabatu». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest zaproszeniem do oddania czci Bogu, który jest Panem szabatu i który wybiera sobie sługi, jak Dawida.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "698",
+      "piesn": "Stwórca chleba, Stwórca wina",
+      "opis": "Nawiązuje do chlebów pokładnych z Ewangelii, które Dawid spożywał, a które są zapowiedzią Eucharystii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w Chrystusa, Pana szabatu, który patrzy w serce, a nie na to, co dostępne dla oczu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń uwielbia Chrystusa Króla, którego zapowiedzią był król Dawid, namaszczony przez Samuela.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wyraża przylgnięcie do Chrystusa, który jest Panem i nadaje sens Prawu, jak uczy Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Mówi o zaufaniu Bogu, który wybiera i prowadzi swoje sługi, tak jak prowadził Dawida.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Wyraża ufność w Bożą Opatrzność, która kieruje losami ludzi i wybiera na króla najmniejszego z synów Jessego.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/411030.Piatek-II-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Piątek, II tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411030.Piatek-II-tydzien-zwykly-rok-I",
+  "tytul_dnia": "2 Piątek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. 2 Kor 5, 19",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nW Chrystusie Bóg pojednał świat z sobą,\n\nnam zaś przekazał słowo jednania.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "W Chrystusie Bóg pojednał świat z sobą,\n\nnam zaś przekazał słowo jednania."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 3, 13-19",
       "opis": "Jezus wybiera dwunastu Apostołów",
       "tekst": "Jezus wszedł na górę i przywołał do siebie tych, których sam chciał, a oni przyszli do Niego. I ustanowił Dwunastu, aby Mu towarzyszyli, by mógł wysyłać ich na głoszenie nauki i by mieli władzę wypędzać złe duchy. Ustanowił więc Dwunastu: Szymona, któremu nadał imię Piotr; dalej Jakuba, syna Zebedeusza, i Jana, brata Jakuba, którym nadał przydomek Boanerges, to znaczy synowie gromu; dalej Andrzeja, Filipa, Bartłomieja, Mateusza, Tomasza, Jakuba, syna Alfeusza, Tadeusza, Szymona Gorliwego i Judasza Iskariotę, który właśnie Go wydał. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest echem powołania Dwunastu, których Jezus ustanowił, aby wysyłać ich na głoszenie nauki.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Wyraża ofiarowanie Bogu naszych myśli, słów i czynów, jako odpowiedź na powołanie do bycia z Jezusem.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Powołanie Dwunastu jest fundamentem Kościoła – ludu kapłańskiego, który w Eucharystii jednoczy się ze swoim Panem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Jest to pieśń uwielbienia, która zapowiada powszechność zbawienia w Nowym Przymierzu, którego pośrednikiem jest Chrystus.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "609",
+      "piesn": "Niechaj z nami będzie Pan",
+      "opis": "Pieśń ta jest prośbą o obecność Pana, który powołał Dwunastu, aby Mu towarzyszyli.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wyznanie wiary w Chrystusa jest odpowiedzią na Jego powołanie i wejście na drogę bycia Jego uczniem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń przypomina o misterium Wcielenia, które jest podstawą Nowego Przymierza, opisanego w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

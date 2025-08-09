@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/411041.Sobota-II-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, II tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411041.Sobota-II-tydzien-zwykly-rok-I",
+  "tytul_dnia": "2 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Dz 16, 14b",
-      "opis": "",
-      "tekst": "Aklamacja: Alleluja, alleluja, alleluja.\nOtwórz, Panie, nasze serca,\n\nabyśmy uważnie słuchali słów Syna Twojego.\nAklamacja: Alleluja, alleluja, alleluja."
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Otwórz, Panie, nasze serca,\n\nabyśmy uważnie słuchali słów Syna Twojego."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mk 3, 20-21",
       "opis": "Rodzina niepokoi się o Jezusa",
       "tekst": "Jezus przyszedł do domu, a tłum znów się zbierał, tak że nawet posilić się nie mogli. Gdy to posłyszeli Jego bliscy, wybrali się, żeby Go powstrzymać. Mówiono bowiem: «Odszedł od zmysłów». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta jest radosnym wezwaniem do uwielbienia Pana, który króluje nad narodami, co jest głównym tematem psalmu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Nawiązuje do Chrystusa Arcykapłana, który przez swoją Krew uczynił nas ludem kapłańskim, zdolnym składać ofiarę Bogu żywemu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "234",
+      "piesn": "Chwal, Syjonie, Zbawiciela",
+      "opis": "Sekwencja eucharystyczna, która sławi ofiarę Chrystusa, doskonalszą od ofiar Starego Przymierza, o których mówi pierwsze czytanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń uwielbia Chrystusa Króla, który zasiada na swym świętym tronie, jak opiewa to psalm responsoryjny.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Wzywa do głoszenia chwały Króla wszechmocy, co jest odpowiedzią na niezrozumienie i odrzucenie Jezusa przez Jego bliskich.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Jest to hymn pochwalny na cześć Pana, którego wielkość i królowanie podkreśla dzisiejszy psalm.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "Nawiązuje do kapłaństwa Chrystusa i kapłaństwa służebnego, przez które uobecnia się Jego jedyna ofiara.",
+      "moment": "ogolne"
     }
   ]
 }
