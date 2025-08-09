@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426608.Poniedzialek-XIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, XIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426608.Poniedzialek-XIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "13 Poniedziałek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 18-22",
       "opis": "Trzeba porzucić wszystko, aby iść za Jezusem",
       "tekst": "Gdy Jezus zobaczył tłum dokoła siebie, kazał odpłynąć na drugą stronę. A przystąpił pewien uczony w Piśmie i rzekł do Niego: «Nauczycielu, pójdę za Tobą, dokądkolwiek się udasz».\nJezus mu odpowiedział: «Lisy mają nory, a ptaki podniebne – gniazda, lecz Syn Człowieczy nie ma miejsca, gdzie by głowę mógł położyć».\nKtoś inny spośród uczniów rzekł do Niego: «Panie, pozwól mi najpierw pójść i pogrzebać mojego ojca». Lecz Jezus mu odpowiedział: «Pójdź za Mną, a zostaw umarłym grzebanie ich umarłych!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec surowego sądu Bożego zapowiedzianego przez proroka Amosa, pieśń ta jest aktem skruchy i prośby o miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pójście za Jezusem wymaga ofiary i porzucenia wszystkiego. Ta pieśń jest wyrazem oddania się Chrystusowi jako naszemu Wodzowi.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory wobec radykalnych wymagań Jezusa, który 'nie ma miejsca, gdzie by głowę mógł położyć'.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Psalm mówi, że ofiarą miłą Bogu jest dziękczynienie. Ta pieśń jest wyrazem wdzięczności za dar powołania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą wezwania 'Pójdź za Mną'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Wobec grzechów wymienionych w pierwszym czytaniu i psalmie, ta pieśń jest prośbą o oczyszczenie i nowe serce.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Wezwanie Jezusa do pójścia za Nim jest jednocześnie posłaniem do głoszenia Ewangelii, o czym przypomina ta pieśń.",
+      "moment": "ogolne"
     }
   ]
 }

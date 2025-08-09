@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426607.Wtorek-XIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "13 Wtorek Zwykły rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Am 3, 1-8; 4, 11-12",
+      "opis": "Proroctwo przeciw królestwu Izraela",
+      "tekst": "«Słuchajcie tego słowa, które mówi Pan do was, synowie Izraela, do całego pokolenia, które Ja wyprowadziłem z ziemi egipskiej: Jedynie was znałem ze wszystkich narodów na ziemi, dlatego was nawiedzę karą za wszystkie wasze winy.\nCzyż wędruje dwu razem, jeśli się wzajem nie znają? Czyż ryczy lew w lesie, nie mając zdobyczy? Czyż lwiątko wydaje głos ze swego legowiska, jeśli niczego nie schwytało? Czyż spada ptak na ziemię, jeśli nie było zastawionego sidła? Czyż się unosi pułapka nad ziemią, zanim coś schwytała? Czyż dmie się w trąbę w mieście, a lud nie zadrży? Czyż zdarza się w mieście nieszczęście, by Pan tego nie sprawił? Bo Pan Bóg nie uczyni niczego, nie objawiwszy swej tajemnicy sługom swym, prorokom. Gdy lew zaryczy, któż się nie ulęknie? Gdy Pan Bóg przemówi, któż nie będzie prorokować?\nSpustoszyłem was, jak podczas Bożego spustoszenia Sodomy i Gomory; staliście się jak głownia wyciągnięta z ognia; ale do Mnie nie powróciliście – mówi Pan. Dlatego tak uczynię tobie, Izraelu, a ponieważ tak ci uczynię, przygotuj się, by stawić się przed Bogiem twym, Izraelu!»\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 5, 5-6a. 6b-7. 8 (R.: por. 9a)",
+      "opis": "",
+      "tekst": "Refren: Prowadź mnie, Panie, w swej sprawiedliwości.\nTy nie jesteś Bogiem, *\nktóremu miła nieprawość,\nzły nie może przebywać u Ciebie, *\nnie ostoją się przed Tobą nieprawi.\nRefren.\nNienawidzisz wszystkich, *\nktórzy zło czynią.\nZgubę zsyłasz na każdego, kto kłamie. *\nPan brzydzi się człowiekiem podstępnym i krwawym.\nRefren.\nJa zaś dzięki obfitości Twojej łaski *\nwejdę do Twojego domu,\nupadnę przed świętym przybytkiem Twoim, *\nprzejęty Twą bojaźnią.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Ps 130 (129), 5",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Pokładam nadzieję w Panu,\nufam Jego słowu."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 8, 23-27",
+      "opis": "Uciszenie burzy na jeziorze",
+      "tekst": "Gdy Jezus wszedł do łodzi, poszli za Nim Jego uczniowie. A oto zerwała się wielka burza na jeziorze, tak że fale zalewały łódź; On zaś spał. Wtedy przystąpili do Niego i obudzili Go, mówiąc: «Panie, ratuj, giniemy!»\nA On im rzekł: «Czemu bojaźliwi jesteście, ludzie małej wiary?» Potem, powstawszy, zgromił wichry i jezioro, i nastała głęboka cisza.\nA ludzie pytali zdumieni: «Kimże On jest, że nawet wichry i jezioro są Mu posłuszne?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu, którego zabrakło uczniom w łodzi, a do którego wzywa prorok w obliczu kary.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec zapowiedzi kary za grzechy z pierwszego czytania, ta pieśń jest prośbą o miłosierdzie i ocalenie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę bojaźni i wiary wobec Jezusa, który ucisza burzę i objawia swoją boską moc.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest sprawiedliwy, ale i pełen łaski, jak wyznaje psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń głosi panowanie Chrystusa nad żywiołami i całym stworzeniem, co objawiło się w uciszeniu burzy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to pieśń o zaufaniu, które jest odpowiedzią na pytanie Jezusa: 'Czemu bojaźliwi jesteście, ludzie małej wiary?'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Wobec groźby sądu, o której mówi prorok Amos, ta pieśń pokutna prosi o oczyszczenie i nowe serce.",
+      "moment": "ogolne"
+    }
+  ]
+}

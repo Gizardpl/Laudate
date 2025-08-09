@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426604.Piatek-XIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, XIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426604.Piatek-XIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "13 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 9-13",
       "opis": "Powołanie Mateusza",
       "tekst": "Jezus, wychodząc z Kafarnaum, ujrzał człowieka imieniem Mateusz, siedzącego na komorze celnej, i rzekł do niego: «Pójdź za Mną!» A on wstał i poszedł za Nim.\nGdy Jezus siedział w domu za stołem, przyszło wielu celników i grzeszników i zasiadło wraz z Jezusem i Jego uczniami. Widząc to, faryzeusze mówili do Jego uczniów: «Dlaczego wasz Nauczyciel jada wspólnie z celnikami i grzesznikami?»\nOn, usłyszawszy to, rzekł: «Nie potrzebują lekarza zdrowi, lecz ci, którzy się źle mają. Idźcie i starajcie się zrozumieć, co znaczy: „Chcę raczej miłosierdzia niż ofiary”. Bo nie przyszedłem, aby powołać sprawiedliwych, ale grzeszników».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń jest odpowiedzią na wezwanie Jezusa 'Pójdź za Mną!', skierowane do Mateusza i do każdego z nas.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec grzechów niesprawiedliwości opisanych przez Amosa, ta pieśń jest prośbą o miłosierdzie, którego Bóg pragnie bardziej niż ofiary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę grzesznika, który, jak Mateusz, zostaje powołany i zaproszony do stołu z Jezusem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia za dar Słowa Bożego, za którym tęskni dusza psalmisty i którego głód zapowiada prorok.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pieśń ta jest doskonałym komentarzem do słów Jezusa: 'Chcę raczej miłosierdzia niż ofiary'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Nawiązuje do psalmu, który mówi o tęsknocie duszy za Bogiem i Jego przykazaniami.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest zaproszeniem skierowanym do grzeszników, których Jezus przyszedł powołać, a nie sprawiedliwych.",
+      "moment": "ogolne"
     }
   ]
 }

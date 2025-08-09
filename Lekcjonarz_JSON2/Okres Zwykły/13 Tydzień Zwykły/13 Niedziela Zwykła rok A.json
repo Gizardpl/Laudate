@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426235.Niedziela-rok-A",
-  "tytul_dnia": "Niedziela rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426235.Niedziela-rok-A",
+  "tytul_dnia": "13 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -30,7 +31,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 10, 37-42",
       "opis": "Kto was przyjmuje, Mnie przyjmuje",
-      "tekst": "Jezus powiedział do swoich apostołów:\n«Kto kocha ojca lub matkę bardziej niż Mnie, nie jest Mnie godzien. I kto kocha syna lub córkę bardziej niż Mnie, nie jest Mnie godzien. Kto nie bierze swego krzyża, a idzie za Mną, nie jest Mnie godzien. Kto chce znaleźć swe życie, straci je, a kto straci swe życie z mego powodu, znajdzie je.\n; a kto Mnie przyjmuje, przyjmuje Tego, który Mnie posłał. Kto przyjmuje proroka jako proroka, nagrodę proroka otrzyma. Kto przyjmuje sprawiedliwego jako sprawiedliwego, nagrodę sprawiedliwego otrzyma.\nKto poda kubek świeżej wody do picia jednemu z tych najmniejszych, dlatego że jest uczniem, zaprawdę, powiadam wam, nie utraci swojej nagrody».\nOto słowo Pańskie."
+      "tekst": "Jezus powiedział do swoich apostołów:\n«Kto kocha ojca lub matkę bardziej niż Mnie, nie jest Mnie godzien. I kto kocha syna lub córkę bardziej niż Mnie, nie jest Mnie godzien. Kto nie bierze swego krzyża, a idzie za Mną, nie jest Mnie godzien. Kto chce znaleźć swe życie, straci je, a kto straci swe życie z mego powodu, znajdzie je.\nKto was przyjmuje, Mnie przyjmuje; a kto Mnie przyjmuje, przyjmuje Tego, który Mnie posłał. Kto przyjmuje proroka jako proroka, nagrodę proroka otrzyma. Kto przyjmuje sprawiedliwego jako sprawiedliwego, nagrodę sprawiedliwego otrzyma.\nKto poda kubek świeżej wody do picia jednemu z tych najmniejszych, dlatego że jest uczniem, zaprawdę, powiadam wam, nie utraci swojej nagrody».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest odpowiedzią na radykalne wezwanie Jezusa, by kochać Go ponad wszystko i wszystkich.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "353",
+      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
+      "opis": "Pieśń nawiązuje do słów Ewangelii o konieczności wzięcia swojego krzyża i naśladowania Chrystusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Przyjęcie proroka, jak uczyniła Szunemitka, jest obrazem przyjęcia Chrystusa w Eucharystii, który obdarza nas życiem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Psalm responsoryjny jest hymnem na cześć łaski i wierności Pana, a ta pieśń jest jego parafrazą.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Gościnność okazana prorokowi i 'jednemu z najmniejszych' jest wyrazem miłości, do której wzywa ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Drugie czytanie mówi o nowym życiu w Chrystusie, które rozpoczęło się na chrzcie. Ta pieśń jest odnowieniem przyrzeczeń chrzcielnych.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Przyjmując uczniów Jezusa, przyjmujemy Jego samego. Ta pieśń mówi o jedności Kościoła, który jest Ciałem Chrystusa.",
+      "moment": "ogolne"
     }
   ]
 }

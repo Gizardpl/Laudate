@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426611.Czwartek-XIII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Czwartek, XIII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426611.Czwartek-XIII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "13 Czwartek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. 2 Kor 5, 19",
-      "opis": "Alleluja, alleluja, alleluja.",
-      "tekst": "Aklamacja:\nW Chrystusie Bóg pojednał świat z sobą,\nnam zaś przekazał słowo jednania.\nAklamacja:"
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "W Chrystusie Bóg pojednał świat z sobą,\nnam zaś przekazał słowo jednania."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mt 9, 1-8",
       "opis": "Jezus uzdrawia paralityka i odpuszcza mu grzechy",
       "tekst": "Jezus wsiadł do łodzi, przeprawił się z powrotem i przyszedł do swego miasta. A oto przynieśli Mu paralityka, leżącego na łożu. Jezus, widząc ich wiarę, rzekł do paralityka: «Ufaj, synu! Odpuszczone są ci twoje grzechy».\nNa to pomyśleli sobie niektórzy z uczonych w Piśmie: On bluźni.\nA Jezus, znając ich myśli, rzekł: «Dlaczego złe myśli nurtują w waszych sercach? Cóż bowiem łatwiej jest powiedzieć: „Odpuszczone są ci twoje grzechy”, czy też powiedzieć: „Wstań i chodź!” Otóż żebyście wiedzieli, iż Syn Człowieczy ma na ziemi władzę odpuszczania grzechów» – rzekł do paralityka: «Wstań, weź swoje łoże i idź do swego domu!»\nOn wstał i poszedł do domu.\nA tłumy ogarnął lęk na ten widok, i wielbiły Boga, który takiej mocy udzielił ludziom.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu, które było fundamentem posłuszeństwa Abrahama i wiary ludzi przynoszących paralityka.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "Ofiara Abrahama jest zapowiedzią doskonałej ofiary Chrystusa, którą uobecniamy na ołtarzu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża wiarę w uzdrawiającą i odpuszczającą grzechy moc Jezusa, objawioną w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalmista, ratuje życie od śmierci i jest łaskawy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Pieśń jest aktem zawierzenia Jezusowi, który ma moc odpuszczania grzechów i uzdrawiania, co jest centralnym tematem Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność Abrahama jest wzorem naszej wierności Bogu, której przyrzekliśmy na chrzcie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Tłumy wielbiły Boga za moc udzieloną ludziom. Ten hymn jest naszym włączeniem się w to uwielbienie.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426603.Sobota-XIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, XIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426603.Sobota-XIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "13 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 14-17",
       "opis": "Nie można stosować zwyczajów Starego Przymierza do Nowego",
       "tekst": "Po powrocie Jezusa z krainy Gadareńczyków podeszli do Niego uczniowie Jana i zapytali: «Dlaczego my i faryzeusze dużo pościmy, Twoi zaś uczniowie nie poszczą?»\nJezus im rzekł: «Czy goście weselni mogą się smucić, dopóki pan młody jest z nimi? Lecz przyjdzie czas, kiedy zabiorą im pana młodego, a wtedy będą pościć.\nNikt nie przyszywa łaty z surowego sukna do starego ubrania, gdyż łata obrywa ubranie, i gorsze staje się przedarcie. Nie wlewają też młodego wina do starych bukłaków. W przeciwnym razie bukłaki pękają, wino wycieka, a bukłaki przepadają. Ale młode wino wlewają do nowych bukłaków, a tak jedno i drugie się zachowuje».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za Bożą dobroć, która obiecuje odnowę i obfitość plonów, o czym mówi prorok Amos.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Nowe wino Nowego Przymierza wymaga nowych bukłaków – nowego serca, wiernego Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Jezus, Pan Młody, gromadzi gości weselnych we wspólnocie Kościoła, by cieszyć się Jego obecnością.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który głosi pokój swojemu ludowi i obdarza go szczęściem, jak mówi psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń wyznaje wiarę w Chrystusa, który przynosi nowość Królestwa Bożego, o której mowa w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Nawiązuje do obietnicy powrotu z niewoli i odbudowy z ruin, wyrażając tęsknotę za ostatecznym zjednoczeniem z Bogiem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Bogiem i Jego pokojem, który jest owocem spotkania łaski i wierności z psalmu.",
+      "moment": "ogolne"
     }
   ]
 }

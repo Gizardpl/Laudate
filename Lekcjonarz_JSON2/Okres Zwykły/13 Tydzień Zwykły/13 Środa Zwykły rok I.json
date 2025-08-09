@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426612.Sroda-XIII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, XIII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426612.Sroda-XIII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "13 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 28-34",
       "opis": "Wypędzenie złych duchów",
       "tekst": "Gdy Jezus przybył na drugi brzeg do kraju Gadareńczyków, wyszli Mu naprzeciw z grobowców dwaj opętani, tak bardzo niebezpieczni, że nikt nie mógł przejść tamtą drogą. Zaczęli krzyczeć: «Czego chcesz od nas, Jezusie, Synu Boży? Przyszedłeś tu przed czasem dręczyć nas?»\nA opodal nich pasła się duża trzoda świń. Złe duchy zaczęły Go prosić: «Jeżeli nas wyrzucasz, to poślij nas w tę trzodę świń». Rzekł do nich: «Idźcie!» Wyszły więc i weszły w świnie. I naraz cała trzoda ruszyła pędem po urwistym zboczu do jeziora i zginęła w wodach.\nPasterze zaś uciekli i przyszedłszy do miasta, rozpowiedzieli wszystko, a także zdarzenie z opętanymi. Wtedy całe miasto wyszło na spotkanie Jezusa; a gdy Go ujrzeli, prosili, żeby opuścił ich granice.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu, który, jak w pierwszym czytaniu, słyszy płacz uciśnionych i przychodzi z pomocą.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za Bożą opatrzność i opiekę, której doświadczyła Hagar i jej syn na pustyni.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory wobec Jezusa, który ma władzę nad złymi duchami i jest Synem Bożym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, wysłuchuje wołania biedaka i uwalnia od ucisku.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń głosi zwycięstwo Chrystusa nad mocami zła, co zostało objawione w uzdrowieniu opętanych.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec odrzucenia Jezusa przez mieszkańców kraju Gadareńczyków, pieśń ta jest deklaracją wyboru Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to akt zawierzenia Jezusowi, który jest potężniejszy od wszelkiego zła i przynosi wyzwolenie.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426614.Poniedzialek-XIII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Poniedziałek, XIII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426614.Poniedzialek-XIII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "13 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 18-22",
       "opis": "Trzeba porzucić wszystko, aby iść za Jezusem",
       "tekst": "Gdy Jezus zobaczył tłum dokoła siebie, kazał odpłynąć na drugą stronę. A przystąpił pewien uczony w Piśmie i rzekł do Niego: «Nauczycielu, pójdę za Tobą, dokądkolwiek się udasz».\nJezus mu odpowiedział: «Lisy mają nory, a ptaki podniebne – gniazda, lecz Syn Człowieczy nie ma miejsca, gdzie by głowę mógł położyć».\nKtoś inny spośród uczniów rzekł do Niego: «Panie, pozwól mi najpierw pójść i pogrzebać mojego ojca». Lecz Jezus mu odpowiedział: «Pójdź za Mną, a zostaw umarłym grzebanie ich umarłych!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń wzywa do pójścia za Chrystusem, co jest głównym tematem dzisiejszej Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Wobec radykalnego wezwania Jezusa do porzucenia wszystkiego, ta pieśń jest aktem ofiarowania Mu całego naszego życia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory i uniżenia, która jest konieczna, by pójść za bezdomnym Synem Człowieczym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń jest parafrazą psalmu 103, który jest psalmem responsoryjnym tego dnia i sławi Boże miłosierdzie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą wezwania 'Pójdź za Mną'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wytrwała modlitwa wstawiennicza Abrahama jest przykładem zaufania Bożej opatrzności, o której mówi ta pieśń.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wstawiennictwo Abrahama za grzeszną Sodomą jest wzorem modlitwy o miłosierdzie, którą podejmuje ta pieśń.",
+      "moment": "ogolne"
     }
   ]
 }

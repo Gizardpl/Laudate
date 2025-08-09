@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426613.Wtorek-XIII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, XIII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426613.Wtorek-XIII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "13 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,8 +24,52 @@
     {
       "typ": "EWANGELIA",
       "sigla": "Mt 8, 23-27",
-      "opis": "",
-      "tekst": "Uciszenie burzy na jeziorze\nGdy Jezus wszedł do łodzi, poszli za Nim Jego uczniowie.\nA oto zerwała się wielka burza na jeziorze, tak że fale zalewały łódź; On zaś spał. Wtedy przystąpili do Niego i obudzili Go, mówiąc: «Panie, ratuj, giniemy!»\nA On im rzekł: «Czemu bojaźliwi jesteście, ludzie małej wiary?» Potem, powstawszy, zgromił wichry i jezioro, i nastała głęboka cisza.\nA ludzie pytali zdumieni: «Kimże On jest, że nawet wichry i jezioro są Mu posłuszne?»\nOto słowo Pańskie."
+      "opis": "Uciszenie burzy na jeziorze",
+      "tekst": "Gdy Jezus wszedł do łodzi, poszli za Nim Jego uczniowie.\nA oto zerwała się wielka burza na jeziorze, tak że fale zalewały łódź; On zaś spał. Wtedy przystąpili do Niego i obudzili Go, mówiąc: «Panie, ratuj, giniemy!»\nA On im rzekł: «Czemu bojaźliwi jesteście, ludzie małej wiary?» Potem, powstawszy, zgromił wichry i jezioro, i nastała głęboka cisza.\nA ludzie pytali zdumieni: «Kimże On jest, że nawet wichry i jezioro są Mu posłuszne?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu w obliczu zagrożeń, tak jak Lot został ocalony od zagłady, a uczniowie uratowani na jeziorze.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec sądu nad Sodomą i Gomorą, ta pieśń pokutna jest prośbą o Boże miłosierdzie i ocalenie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę bojaźni i wiary wobec Jezusa, który ucisza burzę i objawia swoją boską moc.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Psalmista pragnie postępować w prawdzie Bożej. Ta pieśń jest uwielbieniem za Bożą łaskawość, która nas prowadzi.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń głosi panowanie Chrystusa nad żywiołami i całym stworzeniem, co objawiło się w uciszeniu burzy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to pieśń o zaufaniu, które jest odpowiedzią na pytanie Jezusa: 'Czemu bojaźliwi jesteście, ludzie małej wiary?'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "W życiowych burzach i ciemnościach grzechu, Jezus jest naszą światłością i pewnym ratunkiem.",
+      "moment": "ogolne"
     }
   ]
 }

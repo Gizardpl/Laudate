@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426609.Sobota-XIII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, XIII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426609.Sobota-XIII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "13 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 14-17",
       "opis": "Nie można stosować zwyczajów Starego Przymierza do Nowego",
       "tekst": "Po powrocie Jezusa z krainy Gadareńczyków podeszli do Niego uczniowie Jana i zapytali: «Dlaczego my i faryzeusze dużo pościmy, Twoi zaś uczniowie nie poszczą?»\nJezus im rzekł: «Czy goście weselni mogą się smucić, dopóki pan młody jest z nimi? Lecz przyjdzie czas, kiedy zabiorą im pana młodego, a wtedy będą pościć.\nNikt nie przyszywa łaty z surowego sukna do starego ubrania, gdyż łata obrywa ubranie, i gorsze staje się przedarcie. Nie wlewają też młodego wina do starych bukłaków. W przeciwnym razie bukłaki pękają, wino wycieka, a bukłaki przepadają. Ale młode wino wlewają do nowych bukłaków, a tak jedno i drugie się zachowuje».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Pana, co doskonale koresponduje z treścią psalmu responsoryjnego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Mimo ludzkich podstępów, Bóg realizuje swój plan zbawienia, błogosławiąc Jakubowi. Ta pieśń jest dziękczynieniem za Jego dobroć.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Jezus, Pan Młody, gromadzi gości weselnych w nowej wspólnocie Kościoła, o czym mówi ta pieśń.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "434",
+      "piesn": "Kleszczmy rękoma",
+      "opis": "Radosny charakter pieśni pasuje do obrazu uczty weselnej z Ewangelii i wezwania do chwalenia Pana z psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń wyznaje wiarę w Chrystusa, który przynosi 'nowe wino' Nowego Przymierza, o którym mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za nowością, którą przynosi Chrystus, Pan Młody z dzisiejszej Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec podstępu Jakuba, pieśń ta może być wyrazem naszej prośby o przebaczenie za nasze grzechy i słabości.",
+      "moment": "ogolne"
     }
   ]
 }
