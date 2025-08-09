@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413118.Poniedzialek-II-tygodnia-wielkanocnego",
-  "tytul_dnia": "Poniedziałek II tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413118.Poniedzialek-II-tygodnia-wielkanocnego",
+  "tytul_dnia": "2 Poniedziałek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,26 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Kol 3, 1",
-      "opis": "",
-      "tekst": ""
-    },
-    {
-      "typ": "AKLAMACJA: ALLELUJA, ALLELUJA, ALLELUJA.",
-      "sigla": "",
-      "opis": "",
+      "opis": "Alleluja, alleluja, alleluja.",
       "tekst": "Jeśli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze,\n\ngdzie przebywa Chrystus, zasiadający po prawicy Boga."
-    },
-    {
-      "typ": "AKLAMACJA: ALLELUJA, ALLELUJA, ALLELUJA.",
-      "sigla": "",
-      "opis": "",
-      "tekst": ""
     },
     {
       "typ": "EWANGELIA",
       "sigla": "J 3, 1-8",
       "opis": "Jeśli się ktoś nie narodzi z wody i z Ducha, nie może wejść do królestwa Bożego",
       "tekst": "Był wśród faryzeuszów pewien człowiek, imieniem Nikodem, dostojnik żydowski. Ten przyszedł do Jezusa nocą i powiedział Mu: «Rabbi, wiemy, że od Boga przyszedłeś jako nauczyciel. Nikt bowiem nie mógłby czynić takich znaków, jakie Ty czynisz, gdyby Bóg nie był z nim». W odpowiedzi rzekł do niego Jezus: «Zaprawdę, zaprawdę, powiadam ci, jeśli się ktoś nie narodzi powtórnie, nie może ujrzeć królestwa Bożego». Nikodem powiedział do Niego: «Jakżeż może się człowiek narodzić, będąc starcem? Czyż może powtórnie wejść do łona swej matki i narodzić się?» Jezus odpowiedział: «Zaprawdę, zaprawdę, powiadam ci, jeśli się ktoś nie narodzi z wody i z Ducha, nie może wejść do królestwa Bożego. To, co się z ciała narodziło, jest ciałem, a to, co się z Ducha narodziło, jest duchem.  Nie dziw się, że powiedziałem ci: Trzeba wam się powtórnie narodzić. Wiatr wieje tam, gdzie chce, i szum jego słyszysz, lecz nie wiesz, skąd przychodzi i dokąd podąża. Tak jest z każdym, który narodził się z Ducha». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Pieśń ta jest modlitwą o dary Ducha Świętego, który napełnił apostołów odwagą i o którym Jezus mówi Nikodemowi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Wyraża radość ze Zmartwychwstania, które jest źródłem nowego życia z Ducha, o którym naucza Ewangelia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Hymn do Ducha Świętego nawiązuje do Jego stwórczej mocy, odradzającej człowieka w sakramencie chrztu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Pieśń głosi królowanie Chrystusa, przeciw któremu, jak mówi psalm, spiskują władcy ziemi.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Nowe narodziny z Ducha są początkiem misji, do której posłani są wszyscy ochrzczeni, aby głosić Ewangelię.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa jest źródłem odwagi dla apostołów, którzy proszą Boga o moc do głoszenia słowa.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Mówi o nowym życiu, które otrzymujemy w \"paschalnym źródle\", co bezpośrednio odnosi się do nauki o chrzcie z Ewangelii.",
+      "moment": "ogólne"
     }
   ]
 }

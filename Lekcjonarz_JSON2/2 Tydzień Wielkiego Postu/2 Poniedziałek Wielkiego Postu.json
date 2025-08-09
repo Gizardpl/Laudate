@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412885.Poniedzialek-II-tygodnia-Wielkiego-Postu",
-  "tytul_dnia": "Poniedziałek II tygodnia Wielkiego Postu",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412885.Poniedzialek-II-tygodnia-Wielkiego-Postu",
+  "tytul_dnia": "2 Poniedziałek Wielkiego Postu",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. J 6, 63c. 68c",
-      "opis": "",
-      "tekst": "Aklamacja: Chwała Tobie, Królu wieków.\nSłowa Twoje, Panie, są duchem i życiem.\n\nTy masz słowa życia wiecznego.\nAklamacja: Chwała Tobie, Królu wieków."
+      "opis": "Aklamacja: Chwała Tobie, Królu wieków.",
+      "tekst": "Słowa Twoje, Panie, są duchem i życiem.\n\nTy masz słowa życia wiecznego."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Łk 6, 36-38",
       "opis": "Odpuszczajcie, a będzie wam odpuszczone",
       "tekst": "Jezus powiedział do swoich uczniów:\n\n«Bądźcie miłosierni, jak Ojciec wasz jest miłosierny. Nie sądźcie, a nie będziecie sądzeni; nie potępiajcie, a nie będziecie potępieni; odpuszczajcie, a będzie wam odpuszczone. Dawajcie, a będzie wam dane; miarę dobrą, ubitą, utrzęsioną i wypełnioną ponad brzegi wsypią w zanadrza wasze. Odmierzą wam bowiem taką miarą, jaką wy mierzycie». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "Litania ta jest echem modlitwy Daniela z pierwszego czytania, w której wyznaje grzechy ludu i prosi o litość.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń ta wzywa do konkretnych czynów miłosierdzia i przebaczenia, o których naucza Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Utwór ten skupia się na dobroci i miłosierdziu Boga, do naśladowania którego wzywa nas dzisiejsza Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to klasyczna pieśń pokutna, która wyraża postawę skruchy i prośby o miłosierdzie, obecną w czytaniach.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
+      "opis": "Ta krótka suplikacja jest doskonałym podsumowaniem ducha dnia, prosząc o przebaczenie, byśmy sami mogli przebaczać.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
+      "opis": "Pieśń jest prośbą o oczyszczenie z grzechów, co jest warunkiem otrzymania miłosierdzia od Ojca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Wzywa do postawy pokory i błagania, która jest odpowiedzią na słowa o Bożej sprawiedliwości i miłosierdziu.",
+      "moment": "ogolne"
     }
   ]
 }

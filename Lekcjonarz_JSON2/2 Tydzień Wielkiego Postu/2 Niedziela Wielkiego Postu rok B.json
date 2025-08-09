@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412883.II-Niedziela-Wielkiego-Postu-rok-B",
-  "tytul_dnia": "II Niedziela Wielkiego Postu rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412883.II-Niedziela-Wielkiego-Postu-rok-B",
+  "tytul_dnia": "2 Niedziela Wielkiego Postu rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 9, 2-10",
       "opis": "Pielgrzymując na ziemi uczestniczymy w życiu wiecznym",
       "tekst": "Jezus wziął z sobą Piotra, Jakuba i Jana i zaprowadził ich samych osobno na górę wysoką. Tam się przemienił wobec nich. Jego odzienie stało się lśniąco białe, tak jak żaden na ziemi folusznik wybielić nie zdoła. I ukazał się im Eliasz z Mojżeszem, którzy rozmawiali z Jezusem. Wtedy Piotr rzekł do Jezusa: «Rabbi, dobrze, że tu jesteśmy; postawimy trzy namioty: jeden dla Ciebie, jeden dla Mojżesza i jeden dla Eliasza». Nie wiedział bowiem, co powiedzieć, tak byli przestraszeni. I zjawił się obłok, osłaniający ich, a z obłoku odezwał się głos: «To jest mój Syn umiłowany, Jego słuchajcie!» I zaraz potem, gdy się rozejrzeli, nikogo już nie widzieli przy sobie, tylko samego Jezusa. A gdy schodzili z góry, przykazał im, aby nikomu nie rozpowiadali o tym, co widzieli, zanim Syn Człowieczy nie powstanie z martwych. Zachowali to polecenie, rozprawiając tylko między sobą, co znaczy „powstać z martwych”. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "103",
+      "piesn": "Dałeś nam przykład",
+      "opis": "Pieśń ta łączy czas Wielkiego Postu z drogą Chrystusa, której ważnym etapem jest umocnienie uczniów przez Przemienienie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "109",
+      "piesn": "Pan Jezus grzechy nasze",
+      "opis": "Ofiara Abrahama z pierwszego czytania jest zapowiedzią ofiary Chrystusa na krzyżu, o której mówi ta pieśń.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "306",
+      "piesn": "Najsłodszy Jezu",
+      "opis": "Jest to pieśń bezpośrednio odnosząca się do tajemnicy Przemienienia Pańskiego, opisanej w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "307",
+      "piesn": "O Jezu, Światło ze Światłości",
+      "opis": "Hymn ten jest uwielbieniem Chrystusa, którego chwała objawiła się na górze Tabor uczniom.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "308",
+      "piesn": "Ty, któryś Synem jest Boga",
+      "opis": "Pieśń ta stanowi podsumowanie teologiczne wydarzenia Przemienienia i jest dobrym akcentem na zakończenie liturgii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna, która wpisuje się w charakter Wielkiego Postu, w którym rozważamy tajemnicę Przemienienia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "115",
+      "piesn": "Wysłuchaj, Panie",
+      "opis": "Błagalny charakter pieśni jest wyrazem postawy, która pozwala usłyszeć głos Ojca: \"Jego słuchajcie\".",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413127.Piatek-II-tygodnia-wielkanocnego",
-  "tytul_dnia": "Piątek II tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413127.Piatek-II-tygodnia-wielkanocnego",
+  "tytul_dnia": "2 Piątek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 6, 1-15",
       "opis": "Rozmnożenie chleba",
       "tekst": "Jezus udał się na drugi brzeg Jeziora Galilejskiego, czyli Tyberiadzkiego. Szedł za Nim wielki tłum, bo oglądano znaki, jakie czynił dla tych, którzy chorowali. Jezus wszedł na wzgórze i usiadł tam ze swoimi uczniami. A zbliżało się święto żydowskie, Pascha. Kiedy więc Jezus podniósł oczy i ujrzał, że liczne tłumy schodzą się do Niego, rzekł do Filipa: «Gdzie kupimy chleba, aby oni się najedli?» A mówił to, wystawiając go na próbę. Wiedział bowiem, co ma czynić. Odpowiedział Mu Filip: «Za dwieście denarów nie wystarczy chleba, aby każdy z nich mógł choć trochę otrzymać». Jeden z Jego uczniów, Andrzej, brat Szymona Piotra, rzekł do Niego: «Jest tu jeden chłopiec, który ma pięć chlebów jęczmiennych i dwie ryby, lecz cóż to jest dla tak wielu?» Jezus zaś rzekł: «Każcie ludziom usiąść». A w miejscu tym było wiele trawy. Usiedli więc mężczyźni, a liczba ich dochodziła do pięciu tysięcy. Jezus więc wziął chleby i odmówiwszy dziękczynienie, rozdał siedzącym; podobnie uczynił i z rybami, rozdając tyle, ile kto chciał. A gdy się nasycili, rzekł do uczniów: «Zbierzcie pozostałe ułomki, aby nic nie zginęło». Zebrali więc i ułomkami z pięciu chlebów jęczmiennych, pozostałymi po spożywających, napełnili dwanaście koszów. A kiedy ludzie spostrzegli, jaki znak uczynił Jezus, mówili: «Ten prawdziwie jest prorokiem, który ma przyjść na świat». Gdy więc Jezus poznał, że mieli przyjść i porwać Go, aby Go obwołać królem, sam usunął się znów na górę. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Pieśń ta bezpośrednio nawiązuje do cudu rozmnożenia chleba na pustkowiu, opisanego w dzisiejszej Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "250",
+      "piesn": "Karmisz, Panie",
+      "opis": "Wyraża wdzięczność za dar Eucharystii, której zapowiedzią jest cudowne nakarmienie tłumów.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Refren \"Przyjdź, Chlebie Żywy\" jest modlitwą o pokarm eucharystyczny, zapowiedziany przez rozmnożenie chleba.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "248",
+      "piesn": "Jezusowi cześć i chwała",
+      "opis": "Jest to pieśń uwielbienia dla Jezusa, który troszczy się o potrzeby ludu i karmi go cudownym chlebem.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń głosi zwycięstwo Chrystusa, którego dzieła, jak mówi Gamaliel, nie można zniszczyć, bo pochodzi od Boga.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Nawiązuje do Uczty Pańskiej, której prefiguracją jest nakarmienie pięciu tysięcy mężczyzn na pustkowiu.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "275",
+      "piesn": "To Ty, o Panie, Chlebie nasz",
+      "opis": "Identyfikuje Jezusa jako Chleb dający życie wieczne, co jest teologiczną głębią cudu rozmnożenia chleba.",
+      "moment": "ogólne"
     }
   ]
 }

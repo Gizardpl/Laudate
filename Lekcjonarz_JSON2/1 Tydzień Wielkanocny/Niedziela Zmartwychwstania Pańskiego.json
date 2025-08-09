@@ -17,15 +17,9 @@
     },
     {
       "typ": "DRUGIE CZYTANIE",
-      "sigla": "Kol 3, 1-4",
-      "opis": "Dążcie tam, gdzie jest Chrystus",
-      "tekst": "Bracia:\n\nJeśli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze, gdzie przebywa Chrystus, zasiadający po prawicy Boga. Dążcie do tego, co w górze, nie do tego, co na ziemi. Umarliście bowiem i wasze życie jest ukryte z Chrystusem w Bogu. Gdy się ukaże Chrystus, nasze Życie, wtedy i wy razem z Nim ukażecie się w chwale. Oto słowo Boże. albo do wyboru:"
-    },
-    {
-      "typ": "DRUGIE CZYTANIE",
-      "sigla": "1 Kor 5, 6b-8",
-      "opis": "Wyrzućcie stary kwas",
-      "tekst": "Bracia:\n\nCzyż nie wiecie, że odrobina kwasu całe ciasto zakwasza? Wyrzućcie więc stary kwas, abyście się stali nowym ciastem, bo przecież przaśni jesteście. Chrystus bowiem został złożony w ofierze jako nasza Pascha. Tak przeto odprawiajmy święto nasze, nie przy użyciu starego kwasu złości i przewrotności, lecz na przaśnym chlebie czystości i prawdy. Oto słowo Boże."
+      "sigla": "Kol 3, 1-4 lub 1 Kor 5, 6b-8",
+      "opis": "Dążcie tam, gdzie jest Chrystus albo Wyrzućcie stary kwas",
+      "tekst": "Bracia:\n\nJeśli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze, gdzie przebywa Chrystus, zasiadający po prawicy Boga. Dążcie do tego, co w górze, nie do tego, co na ziemi. Umarliście bowiem i wasze życie jest ukryte z Chrystusem w Bogu. Gdy się ukaże Chrystus, nasze Życie, wtedy i wy razem z Nim ukażecie się w chwale. Oto słowo Boże. \n\nalbo do wyboru:\n\nBracia:\n\nCzyż nie wiecie, że odrobina kwasu całe ciasto zakwasza? Wyrzućcie więc stary kwas, abyście się stali nowym ciastem, bo przecież przaśni jesteście. Chrystus bowiem został złożony w ofierze jako nasza Pascha. Tak przeto odprawiajmy święto nasze, nie przy użyciu starego kwasu złości i przewrotności, lecz na przaśnym chlebie czystości i prawdy. Oto słowo Boże."
     },
     {
       "typ": "SEKWENCJA",
@@ -48,39 +42,52 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "186",
-      "piesn": "Niech w święto radosne",
-      "opis": "Jest to tekst obowiązkowej Sekwencji na dzisiejszą uroczystość, co czyni ją idealnym wyborem."
-    },
-    {
       "numer": "193",
       "piesn": "Wesoły nam dzień dziś nastał",
-      "opis": "Tradycyjna i radosna pieśń wielkanocna, która doskonale oddaje uroczysty charakter Niedzieli Zmartwychwstania."
+      "opis": "Tradycyjna i radosna pieśń o poranku wielkanocnym, doskonale wprowadza w uroczysty charakter celebracji Zmartwychwstania Pańskiego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "186",
+      "piesn": "Niech w święto radosne",
+      "opis": "Jest to tekst obowiązkowej Sekwencji na dzisiejszą uroczystość, która mówi o \"Paschalnej Ofierze\".",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "179",
       "piesn": "Chrystus zmartwychwstał jest",
-      "opis": "Pieśń ta, będąca jedną z najstarszych polskich pieśni wielkanocnych, opowiada historię pustego grobu, nawiązując do Ewangelii."
-    },
-    {
-      "numer": "198",
-      "piesn": "Zwycięzca śmierci",
-      "opis": "Utwór podkreśla triumf Chrystusa nad śmiercią, piekłem i szatanem, co jest centralnym przesłaniem dzisiejszej uroczystości."
+      "opis": "Pieśń ta opowiada historię pustego grobu, nawiązując do Ewangelii i jednocząc wiernych we wspólnym wyznaniu wiary.",
+      "moment": "komunia"
     },
     {
       "numer": "173",
       "piesn": "Alleluja! Biją dzwony",
-      "opis": "Wyraża powszechną radość ze Zmartwychwstania Pańskiego, która ogarnia cały świat i każdego wierzącego."
+      "opis": "Utwór ten wyraża powszechną, eksplozywną radość ze Zmartwychwstania Pańskiego, która ogarnia cały świat.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o charakterze triumfalnym, podkreśla zwycięstwo Chrystusa i posyła wiernych, by żyli nowym życiem w Zmartwychwstałym.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "197",
       "piesn": "Zmartwychpowstał Pan prawdziwie",
-      "opis": "Refren pieśni jest odpowiedzią na wielkanocne pozdrowienie, co czyni ją szczególnie odpowiednią na ten dzień."
+      "opis": "Refren pieśni jest odpowiedzią na wielkanocne pozdrowienie, co czyni ją szczególnie odpowiednią na ten dzień.",
+      "moment": "ogólne"
     },
     {
       "numer": "188",
       "piesn": "Otrzyjcie już łzy",
-      "opis": "Pieśń ta opowiada o wydarzeniach poranka wielkanocnego, w tym o świadectwie niewiast, co łączy się z postacią Marii Magdaleny z Ewangelii."
+      "opis": "Pieśń ta opowiada o wydarzeniach poranka wielkanocnego, w tym o świadectwie niewiast, co łączy się z postacią Marii Magdaleny z Ewangelii.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Utwór w sposób majestatyczny głosi fundamentalną prawdę o zwycięstwie życia nad śmiercią.",
+      "moment": "ogólne"
     }
   ]
 }
