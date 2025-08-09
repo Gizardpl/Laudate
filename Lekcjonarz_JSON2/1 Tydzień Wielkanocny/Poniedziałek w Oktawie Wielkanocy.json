@@ -32,32 +32,44 @@
     {
       "numer": "193",
       "piesn": "Wesoły nam dzień dziś nastał",
-      "opis": "Pieśń wyraża wielką radość, która towarzyszyła niewiastom odchodzącym od grobu, o czym wspomina dzisiejsza Ewangelia."
+      "opis": "Pieśń wyraża wielką radość, która towarzyszyła niewiastom odchodzącym od grobu, o czym wspomina dzisiejsza Ewangelia.",
+      "moment": "wejscie"
     },
     {
-      "numer": "184",
-      "piesn": "Nie zna śmierci Pan żywota",
-      "opis": "Słowa pieśni korespondują z mową św. Piotra, który głosi, że Bóg wskrzesił Jezusa, zerwawszy więzy śmierci."
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Utwór ten podkreśla ofiarę Chrystusa, o której z mocą świadczy Piotr w Dziejach Apostolskich.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "179",
       "piesn": "Chrystus zmartwychwstał jest",
-      "opis": "Tekst pieśni wspomina o trzech Maryjach idących do grobu, co tematycznie łączy się z Ewangelią o spotkaniu niewiast ze Zmartwychwstałym."
+      "opis": "Tekst pieśni wspomina o trzech Maryjach idących do grobu, co tematycznie łączy się z Ewangelią o spotkaniu niewiast ze Zmartwychwstałym.",
+      "moment": "komunia"
     },
     {
-      "numer": "197",
-      "piesn": "Zmartwychpowstał Pan prawdziwie",
-      "opis": "Utwór jest proklamacją wiary w Zmartwychwstanie, którą Piotr odważnie głosi w Dziejach Apostolskich."
+      "numer": "174",
+      "piesn": "Alleluja! Jezus żyje, już",
+      "opis": "Prosta i radosna pieśń jest proklamacją prawdy o Zmartwychwstaniu, którą Piotr odważnie głosi w Dziejach Apostolskich.",
+      "moment": "uwielbienie"
     },
     {
       "numer": "188",
       "piesn": "Otrzyjcie już łzy",
-      "opis": "Pieśń opowiada o wydarzeniach wielkanocnego poranka i jest pieśnią pocieszenia, podobnie jak słowa Jezusa do niewiast: \"Nie bójcie się!\"."
+      "opis": "Pieśń opowiada o wydarzeniach wielkanocnego poranka i jest pieśnią pocieszenia, podobnie jak słowa Jezusa do niewiast: \"Nie bójcie się!\".",
+      "moment": "rozeslanie"
     },
     {
-      "numer": "182",
-      "piesn": "Minęły cienie i mroki nocy",
-      "opis": "Treść pieśni o zwycięstwie światła nad mrokiem doskonale oddaje charakter okresu wielkanocnego i głosi prawdę o nowym życiu w Chrystusie."
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Słowa pieśni korespondują z mową św. Piotra, który głosi, że Bóg wskrzesił Jezusa, zerwawszy więzy śmierci.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Utwór jest proklamacją wiary w Zmartwychwstanie, którą niewiasty zaniosły apostołom.",
+      "moment": "ogólne"
     }
   ]
 }

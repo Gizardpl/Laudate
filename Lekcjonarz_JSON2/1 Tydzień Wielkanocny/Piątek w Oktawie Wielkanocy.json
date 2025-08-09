@@ -32,37 +32,44 @@
     {
       "numer": "189",
       "piesn": "Pan zmartwychwstał",
-      "opis": "Słowa \"Pan zmartwychwstał i jest z nami\" idealnie oddają sens Ewangelii o ukazaniu się Jezusa uczniom nad Jeziorem Tyberiadzkim."
-    },
-    {
-      "numer": "183",
-      "piesn": "Nadzieja nasza w Zmartwychwstałym",
-      "opis": "Pieśń ta wyraża istotę wiary apostołów, którzy w Zmartwychwstałym odnajdują nadzieję i odwagę do świadectwa, o czym mówią Dzieje Apostolskie."
+      "opis": "Słowa \"Pan zmartwychwstał i jest z nami\" idealnie oddają sens Ewangelii o ukazaniu się Jezusa uczniom nad Jeziorem Tyberiadzkim.",
+      "moment": "wejscie"
     },
     {
       "numer": "262",
       "piesn": "Pan wieczernik przygotował",
-      "opis": "Opis posiłku przygotowanego przez Jezusa na brzegu jeziora ma wyraźne odniesienia eucharystyczne, co czyni tę pieśń bardzo stosowną."
-    },
-    {
-      "numer": "178",
-      "piesn": "Chrystus Pan zmartwychwstał",
-      "opis": "Jest to radosne ogłoszenie prawdy, którą Piotr i Jan z mocą głoszą przed Sanhedrynem w pierwszym czytaniu."
-    },
-    {
-      "numer": "195",
-      "piesn": "Wysławiajmy Chrysta Pana",
-      "opis": "Utwór jest hymnem chwały na cześć Zmartwychwstałego, którego moc objawia się w cudownym połowie ryb i w odwadze apostołów."
+      "opis": "Opis posiłku przygotowanego przez Jezusa na brzegu jeziora ma wyraźne odniesienia eucharystyczne, co czyni tę pieśń bardzo stosowną.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "242",
       "piesn": "Jeden chleb",
-      "opis": "Nawiązuje do wspólnotowego wymiaru posiłku z Jezusem i Eucharystii, która buduje Kościół i jednoczy wiernych."
+      "opis": "Nawiązuje do wspólnotowego wymiaru posiłku z Jezusem, który jednoczy uczniów i jest zapowiedzią Eucharystii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Utwór jest hymnem chwały na cześć Zmartwychwstałego, którego moc objawia się w cudownym połowie ryb.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "178",
+      "piesn": "Chrystus Pan zmartwychwstał",
+      "opis": "Jest to radosne ogłoszenie prawdy, którą Piotr i Jan z mocą głoszą przed Sanhedrynem w pierwszym czytaniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "183",
+      "piesn": "Nadzieja nasza w Zmartwychwstałym",
+      "opis": "Pieśń ta wyraża istotę wiary apostołów, którzy w Zmartwychwstałym odnajdują nadzieję i odwagę do świadectwa.",
+      "moment": "ogólne"
     },
     {
       "numer": "198",
       "piesn": "Zwycięzca śmierci",
-      "opis": "Pieśń podkreśla zwycięstwo Chrystusa, które jest źródłem zbawienia, o czym Piotr mówi w Dziejach Apostolskich: \"nie ma w żadnym innym zbawienia\"."
+      "opis": "Pieśń podkreśla zwycięstwo Chrystusa, które jest źródłem zbawienia, o czym Piotr mówi w Dziejach Apostolskich: \"nie ma w żadnym innym zbawienia\".",
+      "moment": "ogólne"
     }
   ]
 }

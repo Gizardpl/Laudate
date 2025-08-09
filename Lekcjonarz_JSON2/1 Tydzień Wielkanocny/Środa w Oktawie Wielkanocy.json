@@ -32,37 +32,44 @@
     {
       "numer": "240",
       "piesn": "Jakże pójdziemy za Tobą, Chrystusie",
-      "opis": "Trzecia zwrotka tej pieśni jest niemal modlitwą uczniów z Emaus: \"Daj nam Cię poznać po chleba łamaniu... Pozostań z nami\"."
+      "opis": "Trzecia zwrotka tej pieśni jest niemal modlitwą uczniów z Emaus: \"Daj nam Cię poznać po chleba łamaniu... Pozostań z nami\".",
+      "moment": "wejscie"
     },
     {
-      "numer": "188",
-      "piesn": "Otrzyjcie już łzy",
-      "opis": "Pieśń w szóstej zwrotce wprost opowiada historię uczniów idących do Emaus, co czyni ją idealnym wyborem na dziś."
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Pieśń ta, mówiąc o ofierze Chrystusa, podkreśla istotę \"łamania chleba\", przez które uczniowie poznali Pana.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "262",
       "piesn": "Pan wieczernik przygotował",
-      "opis": "Opis rozpoznania Pana \"przy łamaniu chleba\" w Ewangelii nadaje tej pieśni eucharystycznej szczególnego znaczenia."
+      "opis": "Opis rozpoznania Pana \"przy łamaniu chleba\" w Ewangelii nadaje tej pieśni eucharystycznej szczególnego znaczenia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Pieśń w szóstej zwrotce wprost opowiada historię uczniów idących do Emaus, co czyni ją idealnym wyborem na dziś.",
+      "moment": "uwielbienie"
     },
     {
       "numer": "189",
       "piesn": "Pan zmartwychwstał",
-      "opis": "Słowa \"Pan zmartwychwstał i jest z nami\" doskonale oddają doświadczenie uczniów, którzy spotkali żywego Jezusa w drodze."
+      "opis": "Słowa \"Pan zmartwychwstał i jest z nami\" doskonale oddają doświadczenie uczniów, którzy spotkali żywego Jezusa w drodze.",
+      "moment": "rozeslanie"
     },
     {
       "numer": "247",
       "piesn": "Jezusa ukrytego",
-      "opis": "Pieśń mówi o wierze w Jezusa ukrytego w Sakramencie, co jest paralelą do wiary uczniów, którym otworzyły się oczy na Jego obecność."
+      "opis": "Pieśń mówi o wierze w Jezusa ukrytego w Sakramencie, co jest paralelą do wiary uczniów, którym otworzyły się oczy na Jego obecność.",
+      "moment": "ogólne"
     },
     {
       "numer": "778",
       "piesn": "Zostań tu",
-      "opis": "Prosty kanon z Taizé nawiązuje do prośby uczniów: \"Zostań z nami, gdyż ma się ku wieczorowi\"."
-    },
-    {
-      "numer": "193",
-      "piesn": "Wesoły nam dzień dziś nastał",
-      "opis": "Wyraża radość ze Zmartwychwstania, która ostatecznie napełniła serca uczniów po spotkaniu z Panem."
+      "opis": "Prosty kanon z Taizé nawiązuje do prośby uczniów: \"Zostań z nami, gdyż ma się ku wieczorowi\".",
+      "moment": "ogólne"
     }
   ]
 }
