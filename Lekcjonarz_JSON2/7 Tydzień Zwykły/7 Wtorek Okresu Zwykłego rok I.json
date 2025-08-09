@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416146.Wtorek-VII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, VII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416146.Wtorek-VII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "7 Wtorek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 9, 30-37",
       "opis": "Druga zapowiedź męki i wezwanie do pokory",
       "tekst": "Jezus i Jego uczniowie przemierzali Galileę, On jednak nie chciał, żeby ktoś o tym wiedział. Pouczał bowiem swoich uczniów i mówił im: «Syn Człowieczy będzie wydany w ręce ludzi. Ci Go zabiją, lecz zabity, po trzech dniach zmartwychwstanie». Oni jednak nie rozumieli tych słów, a bali się Go pytać.\nTak przyszli do Kafarnaum. Gdy był już w domu, zapytał ich: «O czym to rozprawialiście w drodze?» Lecz oni milczeli, w drodze bowiem posprzeczali się między sobą o to, kto z nich jest największy.\nOn usiadł, przywołał Dwunastu i rzekł do nich: «Jeśli ktoś chce być pierwszym, niech będzie ostatnim ze wszystkich i sługą wszystkich». Potem wziął dziecko, postawił je przed nimi i objąwszy je ramionami, rzekł do nich: «Kto jedno z tych dzieci przyjmuje w imię moje, Mnie przyjmuje; a kto Mnie przyjmuje, nie przyjmuje Mnie, lecz Tego, który Mnie posłał».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta jest wyrazem zaufania Bogu w doświadczeniach, co jest głównym tematem pierwszego czytania i psalmu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wyraża postawę pokory i uniżenia, do której wzywa Jezus w Ewangelii, stawiając za wzór dziecko.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Nawiązuje do sceny z Ewangelii, gdzie Jezus stawia dziecko za wzór i utożsamia się z nim.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą opiekę i wyzwolenie, o których z ufnością mówi psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to prośba o Boże prowadzenie drogą pokory i służby, którą Jezus wskazuje jako drogę do wielkości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Podkreśla szczęście płynące z zaufania Bożej Opatrzności, nawet w trudnych doświadczeniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie przylgnięcia do Pana, o którym mówi pierwsze czytanie jako o warunku ostatecznego wywyższenia.",
+      "moment": "ogolne"
     }
   ]
 }

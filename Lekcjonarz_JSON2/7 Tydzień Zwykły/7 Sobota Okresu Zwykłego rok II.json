@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416136.Sobota-VII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, VII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416136.Sobota-VII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "7 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 10, 13-16",
       "opis": "Jezus błogosławi dzieci",
       "tekst": "Przynosili Jezusowi dzieci, żeby ich dotknął; lecz uczniowie szorstko zabraniali im tego.\nA Jezus, widząc to, oburzył się i rzekł do nich: «Pozwólcie dzieciom przychodzić do Mnie, nie przeszkadzajcie im; do takich bowiem należy królestwo Boże. Zaprawdę, powiadam wam: Kto nie przyjmie królestwa Bożego jak dziecko, ten nie wejdzie do niego».\nI biorąc je w objęcia, kładł na nie ręce i błogosławił je.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń ta bezpośrednio nawiązuje do sceny błogosławienia dzieci przez Jezusa, opisanej w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę dziecięcego oddania się Bogu, do której zachęca Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "261",
+      "piesn": "Pan Jezus już się zbliża",
+      "opis": "Oddaje prostotę i radość dziecka, które z czystym sercem przyjmuje Jezusa w Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna za dar modlitwy i sakramentów, o których mocy mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "347",
+      "piesn": "Maryjo, coś jest w niebie",
+      "opis": "Pieśń ta jest modlitwą o zachowanie postawy dziecka Bożego przez całe życie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Prosta, dziecięca modlitwa do Boga Ojca, która pasuje do tematyki Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Wyraża pragnienie przygotowania serca na przyjęcie Jezusa z dziecięcą prostotą i czystością.",
+      "moment": "ogolne"
     }
   ]
 }

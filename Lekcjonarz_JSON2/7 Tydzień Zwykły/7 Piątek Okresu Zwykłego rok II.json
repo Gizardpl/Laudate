@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416137.Piatek-VII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, VII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416137.Piatek-VII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "7 Piątek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 10, 1-12",
       "opis": "Nierozerwalność małżeństwa",
       "tekst": "Jezus przyszedł w granice Judei i Zajordania. A tłumy znowu ściągały do Niego i znów je nauczał, jak miał w zwyczaju.\nI przystąpili do Niego faryzeusze, a chcąc Go wystawić na próbę, pytali Go, czy wolno mężowi oddalić żonę.\nOdpowiadając, zapytał ich: «Co wam przykazał Mojżesz?»\nOni rzekli: «Mojżesz pozwolił napisać list rozwodowy i oddalić».\nWówczas Jezus rzekł do nich: «Przez wzgląd na zatwardziałość serc waszych napisał wam to przykazanie. Lecz na początku stworzenia Bóg stworzył ich jako mężczyznę i kobietę: dlatego opuści człowiek ojca swego i matkę i złączy się ze swoją żoną, i będą oboje jednym ciałem. A tak już nie są dwojgiem, lecz jednym ciałem. Co więc Bóg złączył, tego niech człowiek nie rozdziela».\nW domu uczniowie raz jeszcze pytali Go o to. Powiedział im: «Kto oddala swoją żonę, a bierze inną, popełnia względem niej cudzołóstwo. I jeśli żona opuści swego męża, a wyjdzie za innego, popełnia cudzołóstwo».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta podkreśla wartość wspólnoty i wierności, co jest dobrym wprowadzeniem do tematyki nierozerwalności małżeństwa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Nawiązuje do wezwania do cierpliwości i miłości wzajemnej, które są fundamentem trwałego małżeństwa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Podkreśla jedność, do której powołani są małżonkowie, stając się 'jednym ciałem' w Chrystusie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "767",
+      "piesn": "Misericordias Domini",
+      "opis": "Jest to pieśń uwielbienia za miłosierdzie Pana, o którym mówi psalm i które jest wzorem dla relacji międzyludzkich.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to modlitwa o błogosławieństwo dla codziennego trudu budowania wiernych relacji w małżeństwie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Jest to prośba o jedność w miłości, która jest istotą powołania małżeńskiego, o którym naucza Jezus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Podkreśla wartość wytrwałości i zaufania Bogu, do czego zachęca św. Jakub w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

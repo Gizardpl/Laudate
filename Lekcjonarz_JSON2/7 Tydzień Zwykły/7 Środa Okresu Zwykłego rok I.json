@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416145.Sroda-VII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, VII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416145.Sroda-VII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "7 Środa Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 9, 38-40",
       "opis": "Kto nie jest przeciwko nam, ten jest z nami",
       "tekst": "Apostoł Jan rzekł do Jezusa: «Nauczycielu, widzieliśmy kogoś, kto nie chodzi z nami, jak w Twoje imię wyrzucał złe duchy, i zaczęliśmy mu zabraniać, bo nie chodzi z nami».\nLecz Jezus odrzekł: «Przestańcie zabraniać mu, bo nikt, kto uczyni cud w imię moje, nie będzie mógł zaraz źle mówić o Mnie. Kto bowiem nie jest przeciwko nam, ten jest z nami».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest zaproszeniem do zjednoczenia się w chwaleniu Pana, co jest odpowiedzią na Ewangelię o jedności w czynieniu dobra.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Jest to modlitwa o jedność wszystkich, którzy działają w imię Chrystusa, nawet jeśli 'nie chodzą z nami'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Podkreśla jedność Kościoła, która przekracza ludzkie podziały, o czym naucza Jezus w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń ta jest modlitwą o jedność i pokój w Kościele, co jest owocem mądrości Bożej, a nie ludzkiej.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to prośba o błogosławieństwo dla pracy i świadectwa, które ma być otwarte na wszystkich ludzi dobrej woli.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża pragnienie uczenia się dróg Pańskich, które są drogami mądrości i pokoju, jak mówi psalm.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń ta jest wyznaniem wiary w Chrystusa, który jest jedyną drogą, ale działa także przez tych, którzy nie należą do ścisłego grona uczniów.",
+      "moment": "ogolne"
     }
   ]
 }

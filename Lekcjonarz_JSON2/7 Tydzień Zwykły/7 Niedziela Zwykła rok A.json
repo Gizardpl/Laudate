@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416150.7-Niedziela-zwykla-rok-A",
-  "tytul_dnia": "7. Niedziela zwykła, rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416150.7-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "7 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,56 @@
       "sigla": "Mt 5, 38-48",
       "opis": "Przykazanie miłości nieprzyjaciół",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Oko za oko i ząb za ząb”. A Ja wam powiadam: Nie stawiajcie oporu złemu: lecz jeśli cię ktoś uderzy w prawy policzek, nadstaw mu i drugi. Temu, kto chce prawować się z tobą i wziąć twoją szatę, odstąp i płaszcz. Zmusza cię ktoś, żeby iść z nim tysiąc kroków, idź dwa tysiące. Daj temu, kto cię prosi, i nie odwracaj się od tego, kto chce pożyczyć od ciebie.\nSłyszeliście, że powiedziano: „Będziesz miłował swego bliźniego”, a nieprzyjaciela swego będziesz nienawidził.\nA Ja wam powiadam: Miłujcie waszych nieprzyjaciół i módlcie się za tych, którzy was prześladują, abyście się stali synami Ojca waszego, który jest w niebie; ponieważ On sprawia, że słońce Jego wschodzi nad złymi i nad dobrymi, i On zsyła deszcz na sprawiedliwych i niesprawiedliwych.\nJeśli bowiem miłujecie tych, którzy was miłują, cóż za nagrodę mieć będziecie? Czyż i celnicy tego nie czynią? I jeśli pozdrawiacie tylko swych braci, cóż szczególnego czynicie? Czyż i poganie tego nie czynią?\nBądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Idealnie wprowadza w tematykę dnia, która koncentruje się na przykazaniu miłości bliźniego i nieprzyjaciół.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń ta jest ofiarowaniem Bogu pragnienia życia według nowego, doskonałego prawa miłości, które głosi Jezus.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Medytacyjny kanon podkreśla, że Bóg jest obecny tam, gdzie jest miłość, co jest sednem dzisiejszych czytań.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "767",
+      "piesn": "Misericordias Domini",
+      "opis": "Jest to pieśń uwielbienia za miłosierdzie Pana, które mamy naśladować w naszym życiu, jak uczy Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń na rozesłanie, która jest modlitwą o jedność w miłości, będącą owocem doskonałości na wzór Ojca.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Nawiązuje do kontekstu Kazania na Górze, z którego pochodzi dzisiejsza Ewangelia, i opisuje postawy człowieka doskonałego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "760",
+      "piesn": "Bóg jest miłością",
+      "opis": "Prosta i głęboka pieśń, która streszcza przesłanie o naśladowaniu Boga w miłości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Pieśń ta jest echem psalmu, który wysławia miłosierdzie Boże jako wzór dla naszego postępowania.",
+      "moment": "ogolne"
     }
   ]
 }
