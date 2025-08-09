@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418126.24-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "24 Niedziela zwykła, Rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418126.24-Niedziela-zwykla-Rok-A",
+  "tytul_dnia": "24 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 18, 21-35",
       "opis": "Przypowieść o nielitościwym dłużniku",
       "tekst": "Piotr podszedł do Jezusa i zapytał: «Panie, ile razy mam przebaczyć, jeśli mój brat zawini względem mnie? Czy aż siedem razy?»\nJezus mu odrzekł: «Nie mówię ci, że aż siedem razy, lecz aż siedemdziesiąt siedem razy. Dlatego podobne jest królestwo niebieskie do króla, który chciał się rozliczyć ze swymi sługami. Gdy zaczął się rozliczać, przyprowadzono mu jednego, który był mu winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprzedać go razem z żoną, dziećmi i całym jego mieniem, aby dług w ten sposób odzyskać.\nWtedy sługa padł mu do stóp i prosił go: „Panie, okaż mi cierpliwość, a wszystko ci oddam”. Pan ulitował się nad owym sługą, uwolnił go i dług mu darował.\nLecz gdy sługa ów wyszedł, spotkał jednego ze współsług, który mu był winien sto denarów. Chwycił go i zaczął dusić, mówiąc: „Oddaj, coś winien!” Jego współsługa padł przed nim i prosił go: „Okaż mi cierpliwość, a oddam tobie”. On jednak nie chciał, lecz poszedł i wtrącił go do więzienia, dopóki nie odda długu.\nWspółsłudzy jego, widząc, co się działo, bardzo się zasmucili. Poszli i opowiedzieli swemu panu wszystko, co zaszło.\nWtedy pan jego, wezwawszy go, rzekł mu: „Sługo niegodziwy! Darowałem ci cały ten dług, ponieważ mnie prosiłeś. Czyż więc i ty nie powinieneś był ulitować się nad swoim współsługą, jak ja ulitowałem się nad tobą?” I uniósłszy się gniewem, pan jego kazał wydać go katom, dopóki mu nie odda całego długu.\nPodobnie uczyni wam Ojciec mój niebieski, jeżeli każdy z was nie przebaczy z serca swemu bratu».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża postawę skruchy i prośby o miłosierdzie, co jest głównym tematem czytań o potrzebie przebaczenia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Treść pieśni bezpośrednio nawiązuje do obowiązku wzajemnego przebaczenia i miłości, o którym mówi Ewangelia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "201",
+      "piesn": "Ku Tobie, Panie",
+      "opis": "Pieśń jest modlitwą o przebaczenie i Boże miłosierdzie, które otrzymujemy w Komunii Świętej, by móc przebaczać innym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "199",
+      "piesn": "Bądź uwielbiony, miłosierny Boże",
+      "opis": "Hymn ten jest doskonałym uwielbieniem miłosierdzia Bożego, które jest wychwalane w psalmie responsoryjnym.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń ta jest przypomnieniem przykazania miłości, którego szczytowym wyrazem jest gotowość do przebaczenia 'siedemdziesiąt siedem razy'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna, która pomaga wzbudzić w sercu postawę skruszonego dłużnika z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "207",
+      "piesn": "O, miłosierdzia, miłosierdzia Panie",
+      "opis": "Pieśń jest gorącym błaganiem o miłosierdzie, które jest warunkiem otrzymania przebaczenia od Boga.",
+      "moment": "ogolne"
     }
   ]
 }

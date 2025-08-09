@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418115.Wtorek-24-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 24 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418115.Wtorek-24-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "24 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 11-17",
       "opis": "Wskrzeszenie młodzieńca z Nain",
       "tekst": "Jezus udał się do pewnego miasta, zwanego Nain; a podążali z Nim Jego uczniowie i tłum wielki. Gdy przybliżył się do bramy miejskiej, właśnie wynoszono umarłego – jedynego syna matki, a ta była wdową. Towarzyszył jej spory tłum z miasta.\nNa jej widok Pan zlitował się nad nią i rzekł do niej: «Nie płacz». Potem przystąpił, dotknął się mar – a ci, którzy je nieśli, przystanęli – i rzekł: «Młodzieńcze, tobie mówię, wstań!» A zmarły usiadł i zaczął mówić; i oddał go jego matce.\nWszystkich zaś ogarnął strach; wielbili Boga i mówili: «Wielki prorok powstał wśród nas, i Bóg nawiedził lud swój». I rozeszła się ta wieść o Nim po całej Judei i po całej okolicznej krainie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń o jedności Kościoła jako jednego Ciała Chrystusa jest idealnym wprowadzeniem do liturgii opartej na pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "W ofierze uczestniczy cały Kościół, Ciało Chrystusa, złożone z wielu członków obdarzonych różnymi charyzmatami.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta wskazuje na Chrystusa jako Głowę Kościoła, który w Ewangelii objawia się jako Pan życia i śmierci.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem uwielbienia całego Kościoła, o którym mówi św. Paweł, za cud życia przywrócony przez Jezusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń jest modlitwą o jedność dla Kościoła, Ciała Chrystusa, co jest głównym tematem nauczania św. Pawła.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Wobec cudu wskrzeszenia, pieśń ta wyraża chrześcijańską nadzieję na zmartwychwstanie i oglądanie Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Miłość i dobroć są spoiwem Mistycznego Ciała Chrystusa, o którym naucza pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

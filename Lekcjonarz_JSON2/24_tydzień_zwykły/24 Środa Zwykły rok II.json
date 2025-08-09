@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418114.Sroda-24-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 24 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418114.Sroda-24-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "24 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 31-35",
       "opis": "Duch przekory przeszkodą w przyjęciu królestwa Bożego",
       "tekst": "Jezus powiedział do tłumów:\n«Z kim mam porównać ludzi tego pokolenia? Do kogo są podobni? Podobni są do dzieci przesiadujących na rynku, które głośno przymawiają jedne drugim: „Przygrywaliśmy wam, a nie tańczyliście; biadaliśmy, a wy nie płakaliście”.\nPrzyszedł bowiem Jan Chrzciciel: nie jadł chleba i nie pił wina; a wy mówicie: „Zły duch go opętał”. Przyszedł Syn Człowieczy: je i pije; a wy mówicie: „Oto żarłok i pijak, przyjaciel celników i grzeszników”. A jednak wszystkie dzieci mądrości przyznały jej słuszność».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń ta, będąca parafrazą Hymnu o miłości, doskonale pasuje do pierwszego czytania i wprowadza w najdoskonalszą drogę, jaką jest miłość.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń podkreśla, że Bóg jest obecny tam, gdzie jest miłość - droga doskonalsza, wskazana przez św. Pawła.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "245",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Przyjęcie Jezusa w Komunii jest najgłębszym doświadczeniem miłości, o której mówi Hymn z pierwszego czytania.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "290",
+      "piesn": "Kochajmy Pana",
+      "opis": "Pieśń jest wezwaniem do miłości Boga, która jest odpowiedzią na Jego miłość i łaskę, o których mówi psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Modlitwa o zjednoczenie w miłości jest konkretnym sposobem na przezwyciężenie ducha przekory i podziałów, o których mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "589",
+      "piesn": "Boże, kocham Cię!",
+      "opis": "Prosta aklamacja miłości jest odpowiedzią na najgłębsze pragnienie Boga i człowieka, ukazane w Hymnie o miłości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta przypomina, że obok wiary i miłości, nadzieja jest jedną z trzech cnót teologalnych, które trwają na wieki.",
+      "moment": "ogolne"
     }
   ]
 }

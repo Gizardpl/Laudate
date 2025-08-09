@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418123.Poniedzialek-24-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 24 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418123.Poniedzialek-24-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "24 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 1-10",
       "opis": "Uzdrowienie sługi setnika",
       "tekst": "Gdy Jezus dokończył wszystkich swoich mów do słuchającego Go ludu, wszedł do Kafarnaum. Sługa pewnego setnika, szczególnie przez niego ceniony, chorował i bliski był śmierci. Skoro setnik posłyszał o Jezusie, wysłał do Niego starszyznę żydowską z prośbą, żeby przyszedł i uzdrowił mu sługę.\nCi zjawili się u Jezusa i prosili Go usilnie: «Godzien jest, żebyś mu to wyświadczył – mówili – miłuje bowiem nasz naród i sam zbudował nam synagogę». Jezus przeto zdążał z nimi.\nA gdy był już niedaleko domu, setnik wysłał do Niego przyjaciół ze słowami: «Panie, nie trudź się, bo nie jestem godzien, abyś wszedł pod dach mój. I dlatego ja sam nie uważałem się za godnego przyjść do Ciebie. Lecz powiedz słowo, a mój sługa odzyska zdrowie. Bo i ja, choć podlegam władzy, mam pod sobą żołnierzy. Mówię temu: „Idź!” – a idzie; drugiemu: „Przyjdź!” – a przychodzi; a mojemu słudze: „Zrób to!” – a robi».\nGdy Jezus to usłyszał, zadziwił się nad nim, i zwróciwszy się do tłumu, który szedł za Nim, rzekł: «Powiadam wam: Tak wielkiej wiary nie znalazłem nawet w Izraelu».\nA gdy wysłańcy wrócili do domu, zastali sługę zdrowego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń ta jest prośbą o wiarę, której niezwykły przykład dał setnik z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "W ofierze składamy nasze prośby i błagania za wszystkich ludzi, do czego zachęca pierwsze czytanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "699",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Słowa tej pieśni są echem słów setnika z Ewangelii, które powtarzamy przed przyjęciem Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Dziękczynienie za dar wiary i za Jezusa, jedynego pośrednika, o którym mówi św. Paweł, jest stosowną pieśnią uwielbienia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa za Kościół i świat, do której wzywa pierwsze czytanie, jest dobrym zwieńczeniem liturgii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary w moc Chrystusa, którą w Ewangelii rozpoznał pogański setnik.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "635",
+      "piesn": "Boże, coś Polskę",
+      "opis": "Pieśń ta jest przykładem modlitwy za naród i sprawujących władzę, do której zachęca św. Paweł w Liście do Tymoteusza.",
+      "moment": "ogolne"
     }
   ]
 }

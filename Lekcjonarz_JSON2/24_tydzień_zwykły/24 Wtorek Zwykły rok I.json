@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418122.Wtorek-24-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 24 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418122.Wtorek-24-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "24 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 11-17",
       "opis": "Wskrzeszenie młodzieńca z Nain",
       "tekst": "Jezus udał się do pewnego miasta, zwanego Nain; a podążali z Nim Jego uczniowie i tłum wielki. Gdy przybliżył się do bramy miejskiej, właśnie wynoszono umarłego – jedynego syna matki, a ta była wdową. Towarzyszył jej spory tłum z miasta.\nNa jej widok Pan zlitował się nad nią i rzekł do niej: «Nie płacz». Potem przystąpił, dotknął się mar – a ci, którzy je nieśli, przystanęli – i rzekł: «Młodzieńcze, tobie mówię, wstań!» A zmarły usiadł i zaczął mówić; i oddał go jego matce.\nWszystkich zaś ogarnął strach; wielbili Boga i mówili: «Wielki prorok powstał wśród nas, i Bóg nawiedził lud swój». I rozeszła się ta wieść o Nim po całej Judei i po całej okolicznej krainie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do spotkania z Jezusem, który, jak w Ewangelii, przynosi pociechę i życie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "W kontekście pierwszego czytania o biskupach i diakonach, ta pieśń o kapłaństwie jest odpowiednia na przygotowanie darów.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "202",
+      "piesn": "Miłosierdzia, Jezu mój",
+      "opis": "Pieśń jest wołaniem o miłosierdzie, które Jezus okazuje wdowie z Nain, wskrzeszając jej syna.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Chrystus, który zwyciężył śmierć, jest nadzieją dla wszystkich, co w sposób cudowny ukazuje Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń o zmartwychwstaniu jest wyrazem wiary w moc Chrystusa, który jest Panem życia i śmierci.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "223",
+      "piesn": "Kapłańskie Serce Jezusa",
+      "opis": "Ta pieśń, modlitwa za kapłanów, nawiązuje do wymagań stawianych im w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "305",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Pieśń jest wołaniem o litość, którą Jezus okazał w Ewangelii, litując się nad płaczącą matką.",
+      "moment": "ogolne"
     }
   ]
 }

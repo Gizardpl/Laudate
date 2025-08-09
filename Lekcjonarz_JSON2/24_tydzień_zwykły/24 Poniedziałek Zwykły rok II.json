@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418116.Poniedzialek-24-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Poniedziałek, 24 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418116.Poniedzialek-24-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "24 Poniedziałek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 1-10",
       "opis": "Uzdrowienie sługi setnika",
       "tekst": "Gdy Jezus dokończył wszystkich swoich mów do słuchającego Go ludu, wszedł do Kafarnaum. Sługa pewnego setnika, szczególnie przez niego ceniony, chorował i bliski był śmierci. Skoro setnik posłyszał o Jezusie, wysłał do Niego starszyznę żydowską z prośbą, żeby przyszedł i uzdrowił mu sługę.\nCi zjawili się u Jezusa i prosili Go usilnie: «Godzien jest, żebyś mu to wyświadczył – mówili – miłuje bowiem nasz naród i sam zbudował nam synagogę». Jezus przeto zdążał z nimi.\nA gdy był już niedaleko domu, setnik wysłał do Niego przyjaciół ze słowami: «Panie, nie trudź się, bo nie jestem godzien, abyś wszedł pod dach mój. I dlatego ja sam nie uważałem się za godnego przyjść do Ciebie. Lecz powiedz słowo, a mój sługa odzyska zdrowie. Bo i ja, choć podlegam władzy, mam pod sobą żołnierzy. Mówię temu: „Idź!” – a idzie; drugiemu: „Przyjdź!” – a przychodzi; a mojemu słudze: „Zrób to!” – a robi».\nGdy Jezus to usłyszał, zadziwił się nad nim, i zwróciwszy się do tłumu, który szedł za Nim, rzekł: «Powiadam wam: Tak wielkiej wiary nie znalazłem nawet w Izraelu».\nA gdy wysłańcy wrócili do domu, zastali sługę zdrowego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń ta jest prośbą o wiarę, której wzór daje setnik z Ewangelii, i która jest podstawą godnego udziału w Eucharystii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń przypomina, że Eucharystia jest sakramentem jedności i miłości, co stanowi odpowiedź na problem podziałów w Koryncie opisany w pierwszym czytaniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "699",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Słowa pieśni są echem słów setnika, które Kościół włączył do liturgii jako bezpośrednie przygotowanie do Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "236",
+      "piesn": "Chwała i dziękczynienie",
+      "opis": "Akt strzelisty jest doskonałym sposobem na uwielbienie Jezusa w Najświętszym Sakramencie, o którym mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń o jednoczącej mocy Eucharystii jest przesłaniem na rozejście, by budować wspólnotę, o której pisze św. Paweł.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "270",
+      "piesn": "Przed tak wielkim Sakramentem",
+      "opis": "Pieśń eucharystyczna podkreśla tajemnicę wiary, którą z taką mocą wyznał setnik w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "277",
+      "piesn": "U drzwi Twoich stoję, Panie",
+      "opis": "Wyznanie niegodności zawarte w tej pieśni nawiązuje do postawy setnika i jest właściwą postawą wobec tajemnicy Eucharystii.",
+      "moment": "ogolne"
     }
   ]
 }
