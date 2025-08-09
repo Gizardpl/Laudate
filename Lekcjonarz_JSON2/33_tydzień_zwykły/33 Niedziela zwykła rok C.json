@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414175.33-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "33 Niedziela zwykła, Rok C",
+  "tytul_dnia": "33 Niedziela zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -18,7 +19,7 @@
       "typ": "DRUGIE CZYTANIE",
       "sigla": "2 Tes 3, 7-12",
       "opis": "Kto nie chce pracować, niech też nie je",
-      "tekst": "Bracia:\nSami wiecie, jak należy nas naśladować, bo nie wzbudzaliśmy wśród was niepokoju ani u nikogo nie jedliśmy za darmo chleba, ale pracowaliśmy w trudzie i zmęczeniu, we dnie i w nocy, aby dla nikogo z was nie być ciężarem. Nie żebyśmy nie mieli do tego prawa, lecz po to, aby dać wam samych siebie za przykład do naśladowania. Albowiem gdy byliśmy u was, nakazywaliśmy wam tak: !\nSłyszymy bowiem, że niektórzy wśród was postępują wbrew porządkowi: wcale nie pracują, lecz zajmują się rzeczami niepotrzebnymi. Tym przeto nakazujemy i napominamy ich w Panu Jezusie Chrystusie, aby pracując ze spokojem, własny chleb jedli.\nOto słowo Boże."
+      "tekst": "Bracia:\nSami wiecie, jak należy nas naśladować, bo nie wzbudzaliśmy wśród was niepokoju ani u nikogo nie jedliśmy za darmo chleba, ale pracowaliśmy w trudzie i zmęczeniu, we dnie i w nocy, aby dla nikogo z was nie być ciężarem. Nie żebyśmy nie mieli do tego prawa, lecz po to, aby dać wam samych siebie za przykład do naśladowania. Albowiem gdy byliśmy u was, nakazywaliśmy wam tak: Kto nie chce pracować, niech też nie je!\nSłyszymy bowiem, że niektórzy wśród was postępują wbrew porządkowi: wcale nie pracują, lecz zajmują się rzeczami niepotrzebnymi. Tym przeto nakazujemy i napominamy ich w Panu Jezusie Chrystusie, aby pracując ze spokojem, własny chleb jedli.\nOto słowo Boże."
     },
     {
       "typ": "AKLAMACJA",
@@ -31,6 +32,50 @@
       "sigla": "Łk 21, 5-19",
       "opis": "Jezus zapowiada prześladowania swoich wyznawców",
       "tekst": "Gdy niektórzy mówili o świątyni, że jest przyozdobiona pięknymi kamieniami i darami, Jezus powiedział: «Przyjdzie czas, kiedy z tego, na co patrzycie, nie zostanie kamień na kamieniu, który by nie był zwalony».\nZapytali Go: «Nauczycielu, kiedy to nastąpi? I jaki będzie znak, gdy to się dziać zacznie?»\nJezus odpowiedział: «Strzeżcie się, żeby was nie zwiedziono. Wielu bowiem przyjdzie pod moim imieniem i będą mówić: „To ja jestem” oraz: „Nadszedł czas”. Nie podążajcie za nimi! I nie trwóżcie się, gdy posłyszycie o wojnach i przewrotach. To najpierw „musi się stać”, ale nie zaraz nastąpi koniec».\nWtedy mówił do nich: «Powstanie naród przeciw narodowi” i królestwo przeciw królestwu. Wystąpią silne trzęsienia ziemi, a miejscami głód i zaraza; ukażą się straszne zjawiska i wielkie znaki na niebie. Lecz przed tym wszystkim podniosą na was ręce i będą was prześladować. Wydadzą was do synagog i do więzień oraz z powodu mojego imienia wlec was będą przed królów i namiestników. Będzie to dla was sposobność do składania świadectwa. Postanówcie sobie w sercu nie obmyślać naprzód swej obrony. Ja bowiem dam wam wymowę i mądrość, której żaden z waszych prześladowców nie będzie mógł się oprzeć ani sprzeciwić. A wydawać was będą nawet rodzice i bracia, krewni i przyjaciele i niektórych z was o śmierć przyprawią. I z powodu mojego imienia będziecie w nienawiści u wszystkich. Ale włos z głowy wam nie spadnie. Przez swoją wytrwałość ocalicie wasze życie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę doskonale pasuje do Ewangelii, w której Jezus zapewnia uczniów o swojej pomocy w czasie prześladowań.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Wobec zapowiedzi prześladowań, ale i obietnicy Słońca Sprawiedliwości, ta pieśń jest prośbą o błogosławieństwo na trud codziennej pracy i świadectwa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu zapowiedzi wojen i kataklizmów, ta pieśń jest wyznaniem wiary, że naszą jedyną i trwałą nadzieją jest Chrystus.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń jest radosnym hymnem na cześć Pana, który, jak mówi psalm, nadchodzi, aby sprawiedliwie sądzić ziemię.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Ewangelia wzywa do wytrwałości. Ta pieśń jest prośbą o umocnienie wiary, która pozwoli przetrwać czas próby i ocalić życie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń o ufności w Bożą opatrzność, która chroni wiernych, tak jak obiecuje Jezus w Ewangelii: 'włos z głowy wam nie spadnie'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, która jest źródłem siły i wytrwałości w trudnościach, zapowiedzianych w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

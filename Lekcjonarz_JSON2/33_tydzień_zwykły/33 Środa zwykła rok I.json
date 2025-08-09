@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414184.Sroda-33-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Środa, 33 tydzień zwykły, Rok I",
+  "tytul_dnia": "33 Środa zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 19, 11-28",
       "opis": "Przypowieść o dziesięciu minach",
       "tekst": "Jezus opowiedział przypowieść, ponieważ był blisko Jeruzalem, a oni myśleli, że królestwo Boże zaraz się zjawi.\nMówił więc: «Pewien człowiek szlachetnego rodu udał się do dalekiego kraju, aby uzyskać dla siebie godność królewską i wrócić. Przywołał więc dziesięciu sług swoich, dał im dziesięć min i rzekł do nich: „Obracajcie nimi, aż wrócę”. Ale jego współobywatele nienawidzili go i wysłali za nim poselstwo z oświadczeniem: „Nie chcemy, żeby ten królował nad nami”.\nGdy po otrzymaniu godności królewskiej wrócił, kazał przywołać do siebie te sługi, którym dał pieniądze, aby się dowiedzieć, co każdy zyskał.\nStawił się więc pierwszy i rzekł: „Panie, twoja mina przysporzyła dziesięć min”. Odpowiedział mu: „Dobrze, sługo dobry; ponieważ w drobnej rzeczy okazałeś się wierny, sprawuj władzę nad dziesięciu miastami”.\nTakże drugi przyszedł i rzekł: „Panie, twoja mina przyniosła pięć min”. Temu też powiedział: „I ty miej władzę nad pięciu miastami”.\nNastępny przyszedł i rzekł: „Panie, oto twoja mina, którą trzymałem zawiniętą w chustce. Lękałem się bowiem ciebie, bo jesteś człowiekiem surowym: bierzesz, czego nie położyłeś, i żniesz, czego nie posiałeś”. Odpowiedział mu: „Według słów twoich sądzę cię, zły sługo! Wiedziałeś, że jestem człowiekiem surowym: biorę, gdzie nie położyłem, i żnę, gdzie nie posiałem. Czemu więc nie dałeś moich pieniędzy do banku? A ja po powrocie byłbym je z zyskiem odebrał”. Do obecnych zaś rzekł: „Zabierzcie mu minę i dajcie temu, który ma dziesięć min”.\nOdpowiedzieli mu: „Panie, ma już dziesięć min”. „Powiadam wam: Każdemu, kto ma, będzie dodane; a temu, kto nie ma, zabiorą nawet to, co ma. Tych zaś przeciwników moich, którzy nie chcieli, żebym panował nad nimi, przyprowadźcie tu i pościnajcie w moich oczach”».\nPo tych słowach szedł naprzód, zdążając do Jerozolimy.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "574",
+      "piesn": "Wielbimy Ciebie, wszechmogący Boże",
+      "opis": "Pieśń o męczennikach jest doskonałym wprowadzeniem do liturgii, która w pierwszym czytaniu ukazuje heroiczny przykład siedmiu braci i ich matki.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "W kontekście przypowieści o minach, ta pieśń jest modlitwą o błogosławieństwo dla naszej pracy i trudów, aby przyniosły owoc dla Królestwa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Psalm responsoryjny i pierwsze czytanie wyrażają głęboką wiarę w zmartwychwstanie. Ta pieśń jest naszym wyznaniem tej samej nadziei.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "575",
+      "piesn": "Witaj, święty męczenniku",
+      "opis": "Dziękczynienie za dar męczenników, których wiara w zmartwychwstanie, jak słyszymy w psalmie, pozwalała im z radością oddać życie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest prośbą o wiarę i wytrwałość, byśmy byli wiernymi sługami z przypowieści o minach i jak mężni męczennicy z pierwszego czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Przypowieść z Ewangelii mówi o człowieku szlachetnego rodu, który otrzymuje godność królewską. Ta pieśń jest aklamacją na cześć Chrystusa Króla.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest wyznaniem wierności Chrystusowi wbrew przeciwnościom, na wzór męczenników machabejskich z pierwszego czytania.",
+      "moment": "ogolne"
     }
   ]
 }

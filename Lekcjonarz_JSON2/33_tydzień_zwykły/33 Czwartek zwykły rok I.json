@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414193.Czwartek-33-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 33 tydzień zwykły, Rok I",
+  "tytul_dnia": "33 Czwartek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 19, 41-44",
       "opis": "Zapowiedź zburzenia Jerozolimy",
       "tekst": "Gdy Jezus był już blisko Jerozolimy, na widok miasta zapłakał nad nim i rzekł: «O gdybyś i ty poznało w ten dzień to, co służy pokojowi! Ale teraz zostało to zakryte przed twoimi oczami.\nBo przyjdą na ciebie dni, gdy twoi nieprzyjaciele otoczą cię wałem, oblegną cię i ścisną zewsząd. Powalą na ziemię ciebie i twoje dzieci z tobą, a nie zostawią w tobie kamienia na kamieniu za to, żeś nie rozpoznało czasu twojego nawiedzenia».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń ta jest wyrazem wierności Bogu i Jego prawu, nawet w obliczu prześladowań, co doskonale oddaje postawę Matatiasza z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Matatiasz i jego synowie porzucili wszystko dla wierności przymierzu. Ta pieśń jest aktem ofiarowania naszego życia Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Wobec płaczu Jezusa nad Jerozolimą, która nie rozpoznała czasu nawiedzenia, ta pieśń jest wezwaniem do nawrócenia i przyjęcia łaski.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynienie za Bożą sprawiedliwość i ocalenie, o którym mówi psalmista, wzywający do składania Bogu dziękczynnej ofiary.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu jest odpowiedzią na lament Jezusa i zachętą, byśmy rozpoznali czas naszego nawiedzenia i wrócili do Ojca.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "W kontekście zagrożenia i ucieczki Matatiasza, ta pieśń jest wyrazem ufności w Bożą opiekę nad tymi, którzy pozostają Mu wierni.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, które jest motywacją do wierności w trudnych czasach, opisanych w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

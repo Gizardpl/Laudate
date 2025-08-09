@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414206.Czwartek-33-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 33 tydzień zwykły, Rok II",
+  "tytul_dnia": "33 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 19, 41-44",
       "opis": "Zapowiedź zburzenia Jerozolimy",
       "tekst": "Gdy Jezus był już blisko Jerozolimy, na widok miasta zapłakał nad nim i rzekł: «O gdybyś i ty poznało w ten dzień to, co służy pokojowi! Ale teraz zostało to zakryte przed twoimi oczami.\nBo przyjdą na ciebie dni, gdy twoi nieprzyjaciele otoczą cię wałem, oblegną cię i ścisną zewsząd. Powalą na ziemię ciebie i twoje dzieci z tobą, a nie zostawią w tobie kamienia na kamieniu za to, żeś nie rozpoznało czasu twojego nawiedzenia».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "278",
+      "piesn": "Upadnij na kolana",
+      "opis": "Pieśń jest aktem adoracji Boga, na wzór Starców z Apokalipsy, którzy upadają przed Barankiem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Bądźże pozdrowiona",
+      "opis": "W tej pieśni pozdrawiamy Baranka Bożego ukrytego w Hostii, Tego, który w pierwszym czytaniu jest godzien otworzyć zapieczętowaną księgę.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "260",
+      "piesn": "Oto Święte Ciało Pana",
+      "opis": "Pieśń nazywa Jezusa w Eucharystii 'Bożym Barankiem', co bezpośrednio nawiązuje do wizji z Apokalipsy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Dziękczynienie za to, że Baranek uczynił nas 'królestwem i kapłanami', co jest treścią nowej pieśni śpiewanej w niebie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Wobec płaczu Jezusa nad Jerozolimą, która nie rozpoznała czasu nawiedzenia, ta pieśń jest wezwaniem do nawrócenia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga, którą w niebie oddają Mu wszystkie stworzenia, jak opisuje to Apokalipsa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń wzywa cały świat do radosnego śpiewu na cześć Pana, podobnie jak czynią to zbawieni w wizji niebiańskiej liturgii.",
+      "moment": "ogolne"
     }
   ]
 }

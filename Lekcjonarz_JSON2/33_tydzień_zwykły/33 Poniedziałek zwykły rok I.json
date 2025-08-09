@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414179.Poniedzialek-33-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 33 tydzień zwykły, Rok I",
+  "tytul_dnia": "33 Poniedziałek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 18, 35-43",
       "opis": "Uzdrowienie niewidomego pod Jerychem",
       "tekst": "Kiedy Jezus przybliżał się do Jerycha, jakiś niewidomy siedział przy drodze i żebrał. Gdy usłyszał przeciągający tłum, wypytywał się, co to się dzieje. Powiedzieli mu, że Jezus z Nazaretu przechodzi. Wtedy zaczął wołać: «Jezusie, Synu Dawida, ulituj się nade mną!» Ci, co szli na przedzie, nastawali na niego, żeby umilkł. Lecz on jeszcze głośniej wołał: «Jezusie, Synu Dawida, ulituj się nade mną!»\nJezus przystanął i kazał przyprowadzić go do siebie. A gdy się przybliżył, zapytał go: «Co chcesz, abym ci uczynił?» On odpowiedział: «Panie, żebym przejrzał». Jezus mu odrzekł: «Przejrzyj, twoja wiara cię uzdrowiła». Natychmiast przejrzał i szedł za Nim, wielbiąc Boga. Także cały lud, który to widział, oddał chwałę Bogu.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "765",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Aklamacja i Ewangelia mówią o Jezusie jako o Światłości, która przywraca wzrok. Ta pieśń jest modlitwą o duchowe przejrzenie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń jest wołaniem o Bożą pomoc i miłosierdzie, podobnym do krzyku niewidomego z Ewangelii: 'Jezusie, Synu Dawida, ulituj się nade mną!'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Niewidomy pod Jerychem z wiarą przychodzi do Jezusa po uzdrowienie. Ta pieśń jest zaproszeniem, byśmy i my szukali u Niego pociechy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Po uzdrowieniu niewidomy 'szedł za Nim, wielbiąc Boga'. Ta pieśń jest naszym dziękczynieniem za cuda, których Bóg dokonuje w naszym życiu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pierwsze czytanie opisuje czas prześladowań, w którym wielu pozostało wiernych Prawu. Ta pieśń jest wyznaniem wierności Chrystusowi i Jego Kościołowi.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "W kontekście prześladowań z pierwszego czytania i trudności, jakie napotykał niewidomy, ta pieśń jest wyrazem ufności w Bożą opiekę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, które jest motywacją do wierności w trudnych czasach, opisanych w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

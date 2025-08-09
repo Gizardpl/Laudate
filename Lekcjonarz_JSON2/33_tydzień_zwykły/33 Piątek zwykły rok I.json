@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414194.Piatek-33-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 33 tydzień zwykły, Rok I",
+  "tytul_dnia": "33 Piątek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 19, 45-48",
       "opis": "Jezus wypędza przekupniów ze świątyni",
       "tekst": "Jezus wszedł do świątyni i zaczął wyrzucać sprzedających w niej. Mówił do nich: «Napisane jest: „Mój dom będzie domem modlitwy”, a wy uczyniliście go jaskinią zbójców».\nI nauczał codziennie w świątyni. Lecz arcykapłani i uczeni w Piśmie oraz przywódcy ludu czyhali na Jego życie. Tylko nie wiedzieli, co by mogli uczynić, cały lud bowiem słuchał Go z zapartym tchem.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża radość z przebywania w domu Bożym, nawiązując do radości ludu z ponownego poświęcenia świątyni w pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "W kontekście oczyszczenia świątyni przez Jezusa, składamy w ofierze dary chleba i wina, prosząc, by nasza ofiara była czysta.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Jezus oczyszcza świątynię materialną. Ta pieśń jest modlitwą o przygotowanie naszych serc na Jego przyjście, by stały się Jego domem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Pieśń jest radosnym hymnem chwały, podobnym do tego, który lud śpiewał podczas poświęcenia ołtarza w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa za Kościół, który jest nową świątynią i domem modlitwy, o co upominał się Jezus w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywająca do oddania czci Bogu w Jego domu, co jest centralnym tematem obu czytań.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "688",
+      "piesn": "Boże, lud Twój",
+      "opis": "Pieśń na wejście, która podkreśla, że w świątyni lud wznosi serce do Boga, co stanowi tło dla wydarzeń z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

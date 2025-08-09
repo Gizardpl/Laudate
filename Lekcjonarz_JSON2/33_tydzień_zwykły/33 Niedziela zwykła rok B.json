@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414174.33-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "33 Niedziela zwykła, Rok B",
+  "tytul_dnia": "33 Niedziela zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 13, 24-32",
       "opis": "Sąd ostateczny",
       "tekst": "Jezus powiedział do swoich uczniów:\n«W owe dni, po wielkim ucisku, „słońce się zaćmi i księżyc nie da swego blasku. Gwiazdy będą spadać z nieba i moce na niebie” zostaną wstrząśnięte. Wówczas ujrzą Syna Człowieczego, przychodzącego w obłokach z wielką mocą i chwałą. Wtedy pośle On aniołów i „zgromadzi swoich wybranych z czterech stron świata, od krańca ziemi po kraniec nieba”.\nA od figowca uczcie się przez podobieństwo. Kiedy już jego gałąź nabrzmiewa sokami i wypuszcza liście, poznajecie, że blisko jest lato. Tak i wy, gdy ujrzycie te wydarzenia, wiedzcie, że to blisko jest, u drzwi.\nZaprawdę, powiadam wam: Nie przeminie to pokolenie, aż się to wszystko stanie. Niebo i ziemia przeminą, ale słowa moje nie przeminą. Lecz o dniu owym lub godzinie nikt nie wie, ani aniołowie w niebie, ani Syn, tylko Ojciec».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń wyraża wiarę w zmartwychwstanie i nadzieję na życie wieczne, co jest głównym tematem pierwszego czytania z Księgi Daniela.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Wobec zapowiedzi przemijania nieba i ziemi, ta pieśń jest wyznaniem, że naszą prawdziwą ojczyzną jest dom Ojca w niebie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu eschatologicznych zapowiedzi, ta pieśń jest wyznaniem wiary, że Chrystus jest naszą nadzieją i pojednaniem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę, która jest naszą tarczą w czasie ucisku, o którym wspomina Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń jest aklamacją na cześć Chrystusa Króla, który przyjdzie w chwale sądzić żywych i umarłych, jak zapowiada Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga, który jest Panem historii i ostatecznym celem naszego życia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Choć to pieśń wielkanocna, jej treść o zwycięstwie nad śmiercią i nadziei zmartwychwstania doskonale koresponduje z czytaniami.",
+      "moment": "ogolne"
     }
   ]
 }

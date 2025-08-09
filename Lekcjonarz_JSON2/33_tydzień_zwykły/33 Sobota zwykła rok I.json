@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414195.Sobota-33-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 33 tydzień zwykły, Rok I",
+  "tytul_dnia": "33 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 20, 27-40",
       "opis": "Uduchowione życie zmartwychwstałych",
       "tekst": "Podeszło do Jezusa kilku saduceuszów, którzy twierdzą, że nie ma zmartwychwstania, i zagadnęli Go w ten sposób:\n«Nauczycielu, Mojżesz tak nam przepisał: „Jeśli umrze czyjś brat, który miał żonę, a był bezdzietny, niech jego brat pojmie ją za żonę i niech wzbudzi potomstwo swemu bratu”. Otóż było siedmiu braci. Pierwszy pojął żonę i zmarł bezdzietnie. Pojął ją drugi, a potem trzeci, i tak wszyscy pomarli, nie zostawiwszy dzieci. W końcu umarła ta kobieta. Przy zmartwychwstaniu więc którego z nich będzie żoną? Wszyscy siedmiu bowiem mieli ją za żonę».\nJezus im odpowiedział: «Dzieci tego świata żenią się i za mąż wychodzą. Lecz ci, którzy uznani zostaną za godnych udziału w świecie przyszłym i w powstaniu z martwych, ani się żenić nie będą, ani za mąż wychodzić. Już bowiem umrzeć nie mogą, gdyż są równi aniołom i są dziećmi Bożymi, będąc uczestnikami zmartwychwstania. A że umarli zmartwychwstają, to i Mojżesz zaznaczył tam, gdzie jest mowa o krzewie, gdy Pana nazywa „Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba”. Bóg nie jest Bogiem umarłych, lecz żywych; wszyscy bowiem dla Niego żyją».\nNa to rzekli niektórzy z uczonych w Piśmie: «Nauczycielu, dobrze powiedziałeś». I już o nic nie śmieli Go pytać.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń wyraża wiarę w zmartwychwstanie i nadzieję na oglądanie Boga, co jest głównym tematem pouczenia Jezusa w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "652",
+      "piesn": "U Ciebie, Boże",
+      "opis": "W obliczu śmierci i sądu, o których przypominają czytania, ta pieśń jest aktem ofiarowania i ufnego powierzenia się miłosierdziu Bożemu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Pieśń wielkanocna przypomina, że Chrystus pokonał śmierć, dając nam nadzieję na zmartwychwstanie, o którym naucza w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu, w którym wierny chwali Pana za ocalenie i raduje się Jego pomocą.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa nad śmiercią jest posłaniem nadziei i zachętą do prowadzenia nowego życia w oczekiwaniu na zmartwychwstanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga żywych, o którym mówi Jezus, i dziękczynieniem za obietnicę życia wiecznego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "178",
+      "piesn": "Chrystus Pan zmartwychwstał",
+      "opis": "Prosta i radosna pieśń wielkanocna, która w kontekście Ewangelii przypomina o fundamencie naszej wiary w zmartwychwstanie.",
+      "moment": "ogolne"
     }
   ]
 }

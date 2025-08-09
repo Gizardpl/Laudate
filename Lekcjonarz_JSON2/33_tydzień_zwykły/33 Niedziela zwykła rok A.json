@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414172.33-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "33 Niedziela zwykła, Rok A",
+  "tytul_dnia": "33 Niedziela zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Mt 25, 14-15. 19-21",
       "opis": "",
       "tekst": "Jezus opowiedział swoim uczniom następującą przypowieść:\n«Podobnie jest z królestwem niebieskim jak z pewnym człowiekiem, który mając się udać w podróż, przywołał swoje sługi i przekazał im swój majątek. Jednemu dał pięć talentów, drugiemu dwa, trzeciemu jeden, każdemu według jego zdolności, i odjechał. Po dłuższym czasie powrócił pan owych sług i zaczął rozliczać się z nimi.\nWówczas przyszedł ten, który otrzymał pięć talentów. Przyniósł drugie pięć i rzekł: „Panie, przekazałeś mi pięć talentów, oto drugie pięć talentów zyskałem”. Rzekł mu Pan: „Dobrze, sługo dobry i wierny! Byłeś wierny w rzeczach niewielu, nad wieloma cię postawię: wejdź do radości twego Pana!”»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest modlitwą o błogosławieństwo w pracy i trudzie, co nawiązuje do przypowieści o talentach i poematu o dzielnej niewieście.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W kontekście przypowieści o talentach, ta pieśń jest aktem ofiarowania Bogu naszych zdolności i całego życia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń przypomina, że w Komunii stajemy się jednym Ciałem, wezwanym do przynoszenia owocu, o którym mówi aklamacja i Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Dziękczynienie za dary i łaski (talenty), które otrzymaliśmy od Boga i które mamy pomnażać w oczekiwaniu na Jego przyjście.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Drugie czytanie wzywa do czuwania. Ta pieśń jest prośbą o wiarę i siłę, by być gotowym na niespodziewane przyjście Pana.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Psalm i pierwsze czytanie ukazują ideał życia rodzinnego opartego na bojaźni Bożej. Ta pieśń podkreśla, że wszyscy tworzymy Bożą rodzinę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "702",
+      "piesn": "Dziękczynne pieśni śpiewajmy",
+      "opis": "Pieśń jest wyrazem wdzięczności za dar Eucharystii i posłaniem, by zanieść otrzymaną łaskę światu, pomnażając otrzymane talenty.",
+      "moment": "ogolne"
     }
   ]
 }
