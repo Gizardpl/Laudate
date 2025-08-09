@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413312.I-Niedziela-Adwentu-rok-A",
-  "tytul_dnia": "I Niedziela Adwentu rok A",
+  "tytul_dnia": "1 Niedziela Adwentu rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 24, 37-44",
       "opis": "Potrzeba czujności w oczekiwaniu na przyjście Chrystusa",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jak było za dni Noego, tak będzie z przyjściem Syna Człowieczego. Albowiem jak w czasie przed potopem jedli i pili, żenili się i za mąż wydawali aż do dnia, kiedy Noe wszedł do arki, i nie spostrzegli się, aż przyszedł potop i pochłonął wszystkich, tak również będzie z przyjściem Syna Człowieczego. Wtedy dwóch będzie w polu: jeden będzie wzięty, drugi zostawiony. Dwie będą mleć na żarnach: jedna będzie wzięta, druga zostawiona.\nCzuwajcie więc, bo nie wiecie, w którym dniu Pan wasz przyjdzie. A to rozumiejcie: gdyby gospodarz wiedział, o jakiej porze nocy nadejdzie złodziej, na pewno by czuwał i nie pozwoliłby włamać się do swego domu. Dlatego i wy bądźcie gotowi, bo o godzinie, której się nie domyślacie, Syn Człowieczy przyjdzie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Pieśń ta wzywa do czuwania i gotowości ('Ze snu powstać już pora!'), co jest głównym przesłaniem Ewangelii i drugiego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "W kontekście ofiarowania ta pieśń przypomina, że nasze przygotowanie polega na prostowaniu dróg życia w oczekiwaniu na Pana.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń wyraża postawę adwentowego oczekiwania i gotowości na przyjście Pana, który umacnia nas w Komunii Świętej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Po przyjęciu Komunii, ta pieśń jest radosnym dziękczynieniem, które odzwierciedla radość psalmisty idącego do domu Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest modlitwą o przyjście Pana, co stanowi doskonałe podsumowanie adwentowego wezwania do czuwania i gotowości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach, zwłaszcza dla czyniących pokój, nawiązuje do wizji powszechnego pokoju z pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "6",
+      "piesn": "Pan jest blisko",
+      "opis": "Krótka, medytacyjna pieśń, która streszcza istotę Adwentu – radosne i pełne nadziei oczekiwanie na bliskiego już Pana.",
+      "moment": "ogolne"
     }
   ]
 }

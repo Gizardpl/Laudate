@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413304.Sobota-I-tygodnia-Adwentu",
-  "tytul_dnia": "Sobota I tygodnia Adwentu",
+  "tytul_dnia": "1 Sobota Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 35 – 10, 1. 5a. 6-8",
       "opis": "Jezus lituje się nad znękanymi",
       "tekst": "Jezus obchodził wszystkie miasta i wioski. Nauczał w tamtejszych synagogach, głosił Ewangelię o królestwie i leczył wszystkie choroby i wszystkie słabości.\nA widząc tłumy, litował się nad nimi, bo byli znękani i porzuceni, jak owce niemające pasterza. Wtedy rzekł do swych uczniów: «Żniwo wprawdzie wielkie, ale robotników mało. Proście Pana żniwa, żeby wyprawił robotników na swoje żniwo».\nWtedy przywołał do siebie dwunastu swoich uczniów i udzielił im władzy nad duchami nieczystymi, aby je wypędzali i leczyli wszystkie choroby i wszelkie słabości. Tych to dwunastu wysłał Jezus i dał im takie wskazania: «Idźcie do owiec, które poginęły z domu Izraela. Idźcie i głoście: Bliskie już jest królestwo niebieskie. Uzdrawiajcie chorych, wskrzeszajcie umarłych, oczyszczajcie trędowatych, wypędzajcie złe duchy. Darmo otrzymaliście, darmo dawajcie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "566",
+      "piesn": "Patronie misji",
+      "opis": "Wspomnienie św. Franciszka Ksawerego, wielkiego misjonarza. Ta pieśń jest modlitwą przez jego wstawiennictwo i wprowadza w misyjny wymiar Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "225",
+      "piesn": "Nadziejo Izraela",
+      "opis": "Pieśń jest modlitwą o robotników na żniwo Pańskie, o co prosi Jezus w Ewangelii, co idealnie pasuje do ofiarowania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest muzycznym opracowaniem misyjnego nakazu Jezusa z Ewangelii, który posyła swoich uczniów do głoszenia królestwa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Psalm responsoryjny wzywa do chwalenia Pana, a ta pieśń jest radosnym hymnem dziękczynnym za Jego dzieła zbawienia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, który lituje się nad tłumem i posyła swoich uczniów, by nieśli uzdrowienie i dobrą nowinę.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Ewangelia ukazuje Jezusa jako pasterza litującego się nad owcami. Ta pieśń wyraża naszą ufność w Jego pasterską opiekę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń adwentowa, która w kontekście Ewangelii przypomina, że oczekiwanie na Pana wiąże się z misją głoszenia Jego bliskości.",
+      "moment": "ogolne"
     }
   ]
 }

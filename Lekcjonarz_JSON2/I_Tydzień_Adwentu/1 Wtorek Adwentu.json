@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413308.Wtorek-I-tygodnia-Adwentu",
-  "tytul_dnia": "Wtorek I tygodnia Adwentu",
+  "tytul_dnia": "1 Wtorek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -24,7 +25,51 @@
       "typ": "EWANGELIA",
       "sigla": "Łk 10, 21-24",
       "opis": "Jezus rozradował się w Duchu Świętym",
-      "tekst": "Jezus rozradował się w duchu Świętym i rzekł: «Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nOjciec mój przekazał Mi wszystko. Nikt też nie wie, kim jest Syn, tylko Ojciec; ani kim jest Ojciec, tylko Syn i ten, komu Syn zechce objawić».\nPotem zwrócił się do samych uczniów i rzekł: «Szczęśliwe oczy, które widzą to, co wy widzicie. Bo powiadam wam: Wielu proroków i królów pragnęło ujrzeć to, co wy widzicie, a nie ujrzeli, i usłyszeć, co słyszycie, a nie usłyszeli».\nOto słowo Pańskie."
+      "tekst": "Jezus rozradował się w duchu Świętym i rzekł: «Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nOjciec mój przekazał Mi wszystko. Nikt też nie wie, kim jest Syn, tylko Ojciec; ani kim jest Ojciec, tylko Syn i ten, komu Syn zechce objawić».\nPotem zwrócił się do samych uczniów i rzekł: «Szczęśliwe oczy, które widzą to, co wy widzicie. Bo powiadam wam: Wielu proroków i królów pragnęło ujrzeć to, co wy widzieli, a nie ujrzeli, i usłyszeć, co słyszycie, a nie usłyszeli».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "565",
+      "piesn": "Ten, co pierwszy z uczniów Jana",
+      "opis": "Pieśń ku czci św. Andrzeja Apostoła, patrona dnia, jest najbardziej odpowiednia na rozpoczęcie liturgii jego święta.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Pierwsze czytanie mówi o Duchu Pańskim, który spocznie na Mesjaszu. Ta pieśń jest prośbą o dary tego samego Ducha.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ewangelia mówi o objawieniu tajemnic prostaczkom, a pieśń o błogosławieństwach podkreśla wartość ubóstwa i cichości w oczach Bożych.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń jest radosnym hymnem na cześć przychodzącego Króla, którego sprawiedliwe i pełne pokoju rządy zapowiada Izajasz i Psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Zakończenie liturgii pieśnią o charakterze misyjnym przypomina o powołaniu św. Andrzeja i każdego z nas do głoszenia Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "W kontekście Adwentu i święta Apostoła, pieśń ta jest wołaniem o przyjście Tego, którego głosił św. Andrzej.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "573",
+      "piesn": "Chwała wam apostołowie",
+      "opis": "W święto Apostoła, ta pieśń oddaje cześć wszystkim dwunastu, którzy jako pierwsi zostali obdarzeni poznaniem tajemnic Bożych.",
+      "moment": "ogolne"
     }
   ]
 }

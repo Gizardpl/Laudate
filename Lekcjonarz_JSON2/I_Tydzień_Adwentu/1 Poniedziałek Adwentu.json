@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413309.Poniedzialek-I-Tygodnia-Adwentu",
-  "tytul_dnia": "Poniedziałek I Tygodnia Adwentu",
+  "tytul_dnia": "1 Poniedziałek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 5-11",
       "opis": "Wielu ze Wschodu i Zachodu przyjdzie do królestwa niebieskiego",
       "tekst": "Gdy Jezus wszedł do Kafarnaum, zwrócił się do Niego setnik i prosił Go, mówiąc: «Panie, sługa mój leży w domu sparaliżowany i bardzo cierpi». Rzekł mu Jezus: «Przyjdę i uzdrowię go».\nLecz setnik odpowiedział: «Panie, nie jestem godzien, abyś wszedł pod dach mój, ale powiedz tylko słowo, a mój sługa odzyska zdrowie. Bo i ja, choć podlegam władzy, mam pod sobą żołnierzy. Mówię temu: „idź!” – a idzie; drugiemu: „Przyjdź!” – a przychodzi; a słudze: „zrób to!” – a robi».\nGdy Jezus to usłyszał, zadziwił się i rzekł do tych, którzy szli za Nim: «Zaprawdę, powiadam wam: u nikogo w Izraelu nie znalazłem tak wielkiej wiary. Lecz powiadam wam: Wielu przyjdzie ze Wschodu i z Zachodu i zasiądą do stołu z Abrahamem, Izaakiem i Jakubem w królestwie niebieskim».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń jest radosnym wezwaniem, które koresponduje z refrenem psalmu 'Idźmy z radością na spotkanie Pana'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "699",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Słowa setnika z Ewangelii, pełne wiary i pokory, stały się modlitwą Kościoła przed Komunią. Ta pieśń je przypomina w momencie ofiarowania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń wyraża tęsknotę za przyjściem Pana, którego wiarę i moc podziwiamy w Ewangelii o uzdrowieniu sługi setnika.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta, jako dziękczynienie, podkreśla, że Pan przychodzi, by zbawić wszystkich, także pogan, o czym mówi Jezus w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pierwsze czytanie mówi o królestwie pokoju. Pieśń o błogosławieństwach, zwłaszcza dla czyniących pokój, jest doskonałym posłaniem na zakończenie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń wzywa do przygotowania na przyjście Zbawiciela, do którego z wiarą zwrócił się setnik z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "6",
+      "piesn": "Pan jest blisko",
+      "opis": "Krótka, medytacyjna pieśń, która przypomina o bliskości Pana i potrzebie czuwania, co jest istotą Adwentu.",
+      "moment": "ogolne"
     }
   ]
 }
