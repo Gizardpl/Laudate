@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414671.Piatek-32-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Piątek, 32 tydzień zwykły, Rok II",
+  "tytul_dnia": "32 Piątek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 17, 26-37",
       "opis": "Dzień Syna Człowieczego nadejdzie niespodziewanie",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jak działo się za dni Noego, tak będzie również za dni Syna Człowieczego: jedli i pili, żenili się i za mąż wychodziły aż do dnia, kiedy Noe wszedł do arki; a przyszedł potop i wygubił wszystkich. Podobnie jak działo się za czasów Lota: jedli i pili, kupowali i sprzedawali, sadzili i budowali, lecz w dniu, kiedy Lot wyszedł z Sodomy, spadł z nieba „deszcz ognia i siarki” i wygubił wszystkich; tak samo będzie w dniu, kiedy Syn Człowieczy się objawi.\nW owym dniu, kto będzie na dachu, a jego rzeczy w mieszkaniu, niech nie schodzi, by je zabrać; a kto na polu, niech również nie wraca do siebie. Miejcie w pamięci żonę Lota. Kto będzie się starał zachować swoje życie, straci je; a kto je straci, zachowa je.\nPowiadam wam: Tej nocy dwóch będzie na jednym posłaniu: jeden będzie wzięty, a drugi zostawiony. Dwie będą razem mleć na żarnach: jedna będzie wzięta, a druga zostawiona».\nPytali Go: «Gdzie, Panie?» On im odpowiedział: «Gdzie jest padlina, tam zgromadzą się i sępy».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie podkreśla przykazanie wzajemnej miłości, które mieliśmy od początku. Ta pieśń jest jego muzycznym wyrazem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec przestrogi przed utratą wiecznej nagrody i nagłym przyjściem Pana, ta pieśń jest aktem ofiarowania i zawierzenia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Ewangelia mówi o nagłym przyjściu Pana i przemijalności ziemskich spraw. Ta pieśń przypomina, że naszą prawdziwą ojczyzną jest niebo.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Dziękczynienie za dar nauki Chrystusa, w której, jak mówi pierwsze czytanie, należy trwać, aby mieć Ojca i Syna.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "603",
+      "piesn": "Gdy mnie ranna zorza budzi",
+      "opis": "Pieśń ta, mówiąc o niepewności jutra, zachęca do powierzania się Bogu w każdej chwili, co jest odpowiedzią na wezwanie do czujności z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "653",
+      "piesn": "W gniewu dzień",
+      "opis": "Sekwencja 'Dies irae', choć za zmarłych, wstrząsająco opisuje dzień sądu, o którym Jezus ostrzega w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Tekst 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest doskonałym podsumowaniem pierwszego czytania o miłości wzajemnej.",
+      "moment": "ogolne"
     }
   ]
 }

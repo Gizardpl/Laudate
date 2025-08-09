@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414672.Czwartek-32-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 32 tydzień zwykły, Rok II",
+  "tytul_dnia": "32 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 17, 20-25",
       "opis": "Królestwo Boże jest pośród was",
       "tekst": "Jezus zapytany przez faryzeuszów, kiedy przyjdzie królestwo Boże, odpowiedział im: «Królestwo Boże nie przyjdzie w sposób dostrzegalny; i nie powiedzą: „Oto tu jest” albo: „Tam”. Oto bowiem królestwo Boże pośród was jest».\nDo uczniów zaś rzekł: «Przyjdzie czas, kiedy zapragniecie ujrzeć choćby jeden z dni Syna Człowieczego, a nie zobaczycie. Powiedzą wam: „Oto tam” lub: „Oto tu”. Nie chodźcie tam i nie biegnijcie za nimi. Bo jak błyskawica, gdy zabłyśnie, jaśnieje od jednego krańca widnokręgu aż do drugiego, tak będzie z Synem Człowieczym w dniu Jego.\nWpierw jednak musi wiele wycierpieć i być odrzuconym przez to pokolenie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie jest apelem o miłość i przyjęcie drugiego człowieka jako brata. Ta pieśń jest muzycznym wyrazem tego przykazania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec prawdy, że królestwo Boże jest pośród nas, ta pieśń jest aktem ofiarowania całego życia Bogu, by budować to królestwo.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Ewangelia mówi o dniach Syna Człowieczego. Ta pieśń jest wyznaniem wiary, że Chrystus jest naszą nadzieją, a Jego miłość jest prawem życia w Jego królestwie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar wiary, życia wiecznego i Kościoła, który jest zalążkiem królestwa Bożego na ziemi.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy przez naszą pracę i świadectwo miłości, o której mówi św. Paweł, objawiali światu królestwo Boże.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Tekst 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest doskonałym podsumowaniem listu do Filemona i nauki o Królestwie Bożym.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń o jedności w miłości, która jest fundamentem Królestwa Bożego, o którym poucza Jezus w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

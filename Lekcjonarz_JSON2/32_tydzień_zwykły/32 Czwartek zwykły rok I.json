@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414679.Czwartek-32-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 32 tydzień zwykły, Rok I",
+  "tytul_dnia": "32 Czwartek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 17, 20-25",
       "opis": "Królestwo Boże jest pośród was",
       "tekst": "Jezus zapytany przez faryzeuszów, kiedy przyjdzie królestwo Boże, odpowiedział im: «Królestwo Boże nie przyjdzie w sposób dostrzegalny; i nie powiedzą: „Oto tu jest” albo: „Tam”. Oto bowiem królestwo Boże pośród was jest».\nDo uczniów zaś rzekł: «Przyjdzie czas, kiedy zapragniecie ujrzeć choćby jeden z dni Syna Człowieczego, a nie zobaczycie. Powiedzą wam: „Oto tam” lub: „Oto tu”. Nie chodźcie tam i nie biegnijcie za nimi. Bo jak błyskawica, gdy zabłyśnie, jaśnieje od jednego krańca widnokręgu aż do drugiego, tak będzie z Synem Człowieczym w dniu Jego.\nWpierw jednak musi wiele wycierpieć i być odrzuconym przez to pokolenie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń jest wyrazem poszukiwania Boga, a pierwsze czytanie mówi, że Mądrość daje się znaleźć tym, którzy jej szukają.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "216",
+      "piesn": "Duchu Święty, przyjdź, prosimy",
+      "opis": "Wobec pochwały Mądrości z pierwszego czytania, ta pieśń jest prośbą o Ducha Świętego, który jest źródłem wszelkiej mądrości.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń ta mówi o Królestwie Bożym, które jest pośród nas, co jest głównym tematem Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Dziękczynienie za dar Bożej Mądrości, która, jak mówi pierwsze czytanie, jest odblaskiem wieczystej światłości i obrazem dobroci Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń jest prośbą o królowanie Chrystusa w naszych sercach, co jest istotą Królestwa Bożego, o którym naucza Jezus.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wobec zapowiedzi cierpienia Syna Człowieczego, ta pieśń jest wyznaniem, że Chrystus jest naszą drogą, prawdą i życiem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń jest wezwaniem do Ducha Świętego, który w pierwszym czytaniu jest utożsamiany z Mądrością Bożą.",
+      "moment": "ogolne"
     }
   ]
 }

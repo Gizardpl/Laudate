@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414686.32-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "32 Niedziela zwykła, Rok C",
+  "tytul_dnia": "32 Niedziela zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Łk 20, 27. 34-38",
       "opis": "",
       "tekst": "Jezus powiedział do saduceuszów, którzy twierdzą, że nie ma zmartwychwstania: «Dzieci tego świata żenią się i za mąż wychodzą. Lecz ci, którzy uznani zostaną za godnych udziału w świecie przyszłym i w powstaniu z martwych, ani się żenić nie będą, ani za mąż wychodzić. Już bowiem umrzeć nie mogą, gdyż są równi aniołom i są dziećmi Bożymi, będąc uczestnikami zmartwychwstania.\nA że umarli zmartwychwstają, to i Mojżesz zaznaczył tam, gdzie jest mowa o krzewie, gdy Pana nazywa „Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba”. Bóg nie jest Bogiem umarłych, lecz żywych; wszyscy bowiem dla Niego żyją».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń wyraża wiarę w zmartwychwstanie, co jest głównym tematem wszystkich czytań, od męczenników machabejskich po naukę Jezusa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "574",
+      "piesn": "Wielbimy Ciebie, wszechmogący Boże",
+      "opis": "W tej pieśni oddajemy cześć Bogu za dar męczenników, których przykład wierności aż do śmierci, oparty na nadziei zmartwychwstania, ukazuje pierwsze czytanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Pieśń wielkanocna przypomina, że Chrystus pokonał śmierć, dając nam nadzieję na zmartwychwstanie, o którym naucza w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "174",
+      "piesn": "Alleluja! Jezus żyje, już",
+      "opis": "Dziękczynienie za zwycięstwo Chrystusa nad śmiercią, które jest gwarancją naszego zmartwychwstania i życia wiecznego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa nad śmiercią jest posłaniem nadziei i zachętą do prowadzenia nowego życia w oczekiwaniu na zmartwychwstanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga żywych, o którym mówi Jezus, i dziękczynieniem za obietnicę życia wiecznego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "178",
+      "piesn": "Chrystus Pan zmartwychwstał",
+      "opis": "Prosta i radosna pieśń wielkanocna, która w kontekście Ewangelii przypomina o fundamencie naszej wiary w zmartwychwstanie.",
+      "moment": "ogolne"
     }
   ]
 }

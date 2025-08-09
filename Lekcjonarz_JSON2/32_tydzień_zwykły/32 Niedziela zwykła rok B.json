@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414687.32-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "32 Niedziela zwykła, Rok B",
+  "tytul_dnia": "32 Niedziela zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Mk 12, 41-44",
       "opis": "",
       "tekst": "Jezus, usiadłszy naprzeciw skarbony, przypatrywał się, jak tłum wrzucał drobne pieniądze do skarbony. Wielu bogatych wrzucało wiele. Przyszła też jedna uboga wdowa i wrzuciła dwa pieniążki, czyli jeden grosz.\nWtedy przywołał swoich uczniów i rzekł do nich: «Zaprawdę, powiadam wam: Ta uboga wdowa wrzuciła najwięcej ze wszystkich, którzy kładli do skarbony. Wszyscy bowiem wrzucali z tego, co im zbywało; ona zaś ze swego niedostatku wrzuciła wszystko, co miała na swe utrzymanie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Aklamacja przed Ewangelią cytuje błogosławieństwo dla ubogich w duchu, a ta pieśń jest jego pięknym rozwinięciem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń doskonale oddaje postawę obu wdów z czytań, które z ufnością oddały Bogu wszystko, co miały.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "237",
+      "piesn": "Duszo Chrystusowa",
+      "opis": "W Komunii przyjmujemy jedyną ofiarę Chrystusa, o której mówi drugie czytanie. Ta pieśń jest aktem zjednoczenia się z tą ofiarą.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Dziękczynienie za Bożą opatrzność, która, jak pokazuje historia wdowy z Sarepty, troszczy się o ubogich i ufających Mu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo, abyśmy potrafili dzielić się z innymi tak, jak uboga wdowa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opatrzność, która była udziałem wdowy z Sarepty i jest wzorem dla nas.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń wyraża wdzięczność za Boże dary i pyta, co możemy oddać w zamian. Postawa wdowy z Ewangelii jest na to odpowiedzią.",
+      "moment": "ogolne"
     }
   ]
 }

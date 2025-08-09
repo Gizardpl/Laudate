@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414688.32-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "32 Niedziela zwykła, Rok A",
+  "tytul_dnia": "32 Niedziela zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 25, 1-13",
       "opis": "Przypowieść o dziesięciu pannach",
       "tekst": "Jezus opowiedział swoim uczniom tę przypowieść:\n«Podobne będzie królestwo niebieskie do dziesięciu panien, które wzięły swoje lampy i wyszły na spotkanie pana młodego. Pięć z nich było nierozsądnych, a pięć roztropnych. Nierozsądne wzięły lampy, ale nie wzięły z sobą oliwy. Roztropne zaś razem z lampami zabrały również oliwę w swoich naczyniach. Gdy się pan młody opóźniał, senność ogarnęła wszystkie i posnęły.\nLecz o północy rozległo się wołanie: „Oto pan młody idzie, wyjdźcie mu na spotkanie!” Wtedy powstały wszystkie owe panny i opatrzyły swe lampy. A nierozsądne rzekły do roztropnych: „Użyczcie nam swej oliwy, bo nasze lampy gasną”. Odpowiedziały roztropne: „Mogłoby i nam, i wam nie wystarczyć. Idźcie raczej do sprzedających i kupcie sobie”.\nGdy one szły kupić, nadszedł pan młody. Te, które były gotowe, weszły z nim na ucztę weselną, i drzwi zamknięto. Nadchodzą w końcu i pozostałe panny, prosząc: „Panie, panie, otwórz nam!” Lecz on odpowiedział: „Zaprawdę, powiadam wam, nie znam was”. Czuwajcie więc, bo nie znacie dnia ani godziny».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, wyrażając tęsknotę za Bogiem, która jest początkiem poszukiwania Mądrości z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W kontekście czuwania na przyjście Pana, ta pieśń jest aktem ofiarowania swojego życia, by być gotowym na spotkanie z Nim.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "261",
+      "piesn": "Pan Jezus już się zbliża",
+      "opis": "Pieśń mówi o gotowości na przyjście Jezusa, co jest głównym tematem przypowieści o pannach roztropnych, które były gotowe na spotkanie z oblubieńcem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Dziękczynienie za nadzieję zmartwychwstania, o której zapewnia św. Paweł w drugim czytaniu, jest pocieszeniem w oczekiwaniu na przyjście Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "631",
+      "piesn": "Wszystkie nasze dzienne sprawy",
+      "opis": "Pieśń wieczorna, wzywająca do czuwania i powierzania się Bogu, jest doskonałym posłaniem na zakończenie Mszy, w której słyszymy 'Czuwajcie!'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "778",
+      "piesn": "Zostań tu",
+      "opis": "Krótka, medytacyjna pieśń, która jest odpowiedzią na wezwanie Jezusa do czuwania i modlitwy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "603",
+      "piesn": "Gdy mnie ranna zorza budzi",
+      "opis": "Pieśń o porannym oddaniu się Bogu i czuwaniu w ciągu dnia, co jest realizacją wezwania z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

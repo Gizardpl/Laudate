@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414670.Sobota-32-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Sobota, 32 tydzień zwykły, Rok II",
+  "tytul_dnia": "32 Sobota zwykła rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 18, 1-8",
       "opis": "Wytrwałość w modlitwie",
       "tekst": "Jezus opowiedział swoim uczniom przypowieść o tym, że zawsze powinni się modlić i nie ustawać: «W pewnym mieście żył sędzia, który Boga się nie bał i nie liczył się z ludźmi. W tym samym mieście żyła wdowa, która przychodziła do niego z prośbą: „Obroń mnie przed moim przeciwnikiem!” Przez pewien czas nie chciał; lecz potem rzekł do siebie: „Chociaż Boga się nie boję ani z ludźmi się nie liczę, to jednak, ponieważ naprzykrza mi się ta wdowa, wezmę ją w obronę, żeby nie nachodziła mnie bez końca i nie zadręczała mnie”».\nI Pan dodał: «Słuchajcie, co mówi ten niesprawiedliwy sędzia. A Bóg, czyż nie weźmie w obronę swoich wybranych, którzy dniem i nocą wołają do Niego, i czy będzie zwlekał w ich sprawie? Powiadam wam, że prędko weźmie ich w obronę. Czy jednak Syn Człowieczy znajdzie wiarę na ziemi, gdy przyjdzie?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Pieśń jest błaganiem o Boże zmiłowanie, co jest postawą wytrwałej wdowy z Ewangelii, która wołała do sędziego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "628",
+      "piesn": "Ty, wszechmocny Panie",
+      "opis": "W tej pieśni zanosimy nasze prośby do Boga, który, jak zapewnia Jezus w Ewangelii, zawsze wysłuchuje swoich wybranych.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń jest wyrazem wytrwałej modlitwy i wołania do Pana, do czego zachęca Jezus w przypowieści.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Psalm responsoryjny mówi o błogosławieństwie dla człowieka, który służy Panu. Ta pieśń jest prośbą o Bożą pomoc w naszej służbie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Ewangelia kończy się pytaniem o wiarę. Ta pieśń jest naszą odpowiedzią i prośbą o jej umocnienie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Pieśń błagalna, która jest echem wołania wdowy i wszystkich, którzy dniem i nocą wołają do Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Pieśń jest wyrazem ufności w Boże prowadzenie i opiekę, o którą prosimy w wytrwałej modlitwie.",
+      "moment": "ogolne"
     }
   ]
 }

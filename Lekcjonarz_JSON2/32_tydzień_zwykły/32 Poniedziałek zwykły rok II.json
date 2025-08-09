@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414675.Poniedzialek-32-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Poniedziałek, 32 tydzień zwykły, Rok II",
+  "tytul_dnia": "32 Poniedziałek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 17, 1-6",
       "opis": "Obowiązek przebaczania",
       "tekst": "Jezus powiedział do swoich uczniów: «Niepodobna, żeby nie przyszły zgorszenia; lecz biada temu, przez którego przychodzą. Byłoby lepiej dla niego, gdyby kamień młyński zawieszono mu u szyi i wrzucono go w morze, niż żeby miał być powodem grzechu dla jednego z tych małych. Uważajcie na siebie!\nJeśli brat twój zawini, upomnij go; i jeśli będzie żałował, przebacz mu. I jeśliby siedem razy na dzień zawinił przeciw tobie i siedem razy zwrócił się do ciebie, mówiąc: „Żałuję tego”, przebacz mu».\nApostołowie prosili Pana: «Dodaj nam wiary». Pan rzekł: «Gdybyście mieli wiarę jak ziarnko gorczycy, powiedzielibyście tej morwie: „Wyrwij się z korzeniem i przesadź się w morze”, a byłaby wam posłuszna».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest bezpośrednią odpowiedzią na prośbę Apostołów z Ewangelii: 'Dodaj nam wiary'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "201",
+      "piesn": "Ku Tobie, Panie",
+      "opis": "Ewangelia wzywa do przebaczenia bratu. Ta pieśń jest modlitwą o przebaczenie naszych win, byśmy i my potrafili przebaczać.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Wiara, o którą proszą Apostołowie, jest fundamentem życia chrześcijańskiego. Ta pieśń jest osobistym wyznaniem tej wiary.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Dziękczynienie za dar wiary i miłości, które pozwalają nam przezwyciężać zgorszenia i trwać w jedności.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy idąc w świat, byli ludem czystego serca, jak opisuje psalmista i św. Paweł w liście do Tytusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Wezwanie do przebaczenia z Ewangelii jest częścią przykazania miłości, które jest tematem tej pieśni.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pierwsze czytanie mówi o ustanowieniu prezbiterów. Ta pieśń podkreśla kapłański wymiar całego Ludu Bożego.",
+      "moment": "ogolne"
     }
   ]
 }

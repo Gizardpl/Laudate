@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414673.Sroda-32-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 32 tydzień zwykły, Rok II",
+  "tytul_dnia": "32 Środa zwykła rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 17, 11-19",
       "opis": "Niewdzięczność uzdrowionych z trądu",
       "tekst": "Zdarzyło się, że Jezus, zmierzając do Jeruzalem, przechodził przez pogranicze Samarii i Galilei. Gdy wchodzili do pewnej wsi, wyszło naprzeciw Niego dziesięciu trędowatych. Zatrzymali się z daleka i głośno zawołali: «Jezusie, Mistrzu, ulituj się nad nami!»\nNa ten widok rzekł do nich: «Idźcie, pokażcie się kapłanom!» A gdy szli, zostali oczyszczeni.\nWtedy jeden z nich, widząc, że jest uzdrowiony, wrócił, chwaląc Boga donośnym głosem, padł na twarz u Jego nóg i dziękował Mu. A był to Samarytanin.\nJezus zaś rzekł: «Czyż nie dziesięciu zostało oczyszczonych? Gdzie jest dziewięciu? Czy się nie znalazł nikt, kto by wrócił i oddał chwałę Bogu, tylko ten cudzoziemiec?» Do niego zaś rzekł: «Wstań, idź, twoja wiara cię uzdrowiła».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Pieśń ta jest parafrazą psalmu responsoryjnego, wyrażającą ufność w Bożą opiekę, która uzdrawia i prowadzi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "702",
+      "piesn": "Dziękczynne pieśni śpiewajmy",
+      "opis": "Wobec uzdrowienia trędowatych, ta pieśń jest naszym aktem dziękczynienia za niezliczone dary i miłosierdzie Boże.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Ewangelia pokazuje, że Jezus lituje się nad chorymi. Ta pieśń jest zaproszeniem do Niego po pociechę i uzdrowienie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Na wzór uzdrowionego Samarytanina, który wrócił, by wielbić Boga, ta pieśń jest wyrazem naszej wdzięczności za otrzymane łaski.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń dziękczynna, która jest odpowiedzią na pytanie Jezusa: 'Czy się nie znalazł nikt, kto by wrócił i oddał chwałę Bogu?'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "615",
+      "piesn": "Pan mój, Wódz i Pasterz",
+      "opis": "Kolejna pieśń pasterska, która podkreśla ufność w Bożą opiekę, o której mówi psalm responsoryjny.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń pyta, jak możemy odwdzięczyć się Bogu za Jego dary. Postawa wdzięczności uzdrowionego Samarytanina jest na to odpowiedzią.",
+      "moment": "ogolne"
     }
   ]
 }
