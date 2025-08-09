@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413349.III-Niedziela-Adwentu-rok-A",
-  "tytul_dnia": "III Niedziela Adwentu rok A",
+  "tytul_dnia": "3 Niedziela Adwentu rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 11, 2-11",
       "opis": "Na Chrystusie spełniają się proroctwa",
       "tekst": "Gdy Jan usłyszał w więzieniu o czynach Chrystusa, posłał swoich uczniów z zapytaniem: «Czy Ty jesteś Tym, który ma przyjść, czy też innego mamy oczekiwać?» Jezus im odpowiedział: «Idźcie i oznajmijcie Janowi to, co słyszycie i na co patrzycie: niewidomi wzrok odzyskują, chromi chodzą, trędowaci zostają oczyszczeni, głusi słyszą, umarli zmartwychwstają, ubogim głosi się Ewangelię. A błogosławiony jest ten, kto nie zwątpi we Mnie».\nGdy oni odchodzili, Jezus zaczął mówić do tłumów o Janie: «Co wyszliście obejrzeć na pustyni? Trzcinę kołyszącą się na wietrze? Ale co wyszliście zobaczyć? Człowieka w miękkie szaty ubranego? Oto w domach królewskich są ci, którzy miękkie szaty noszą. Po co więc wyszliście? Zobaczyć proroka? Tak, powiadam wam, nawet więcej niż proroka. On jest tym, o którym napisano: „Oto Ja posyłam mego wysłańca przed Tobą, aby przygotował Ci drogę”. Zaprawdę, powiadam wam: Między narodzonymi z niewiast nie powstał większy od Jana Chrzciciela. Lecz najmniejszy w królestwie niebieskim większy jest niż on».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pierwsze czytanie wzywa do radości i wesela, a ta pieśń jest radosnym hymnem na cześć przychodzącego Króla, co doskonale oddaje nastrój Niedzieli Gaudete.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Pieśń jest odpowiedzią na pytanie uczniów Jana z Ewangelii 'Czy Ty jesteś Tym, który ma przyjść?' i wyraża naszą gotowość na Jego przyjście.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Jezus w Ewangelii przez swoje czyny objawia się jako Zbawiciel. Ta pieśń jest wołaniem o Jego uzdrawiającą obecność w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta, jako radosne dziękczynienie, podkreśla, że Pan nadchodzi, by nas zbawić, co jest centralną obietnicą dzisiejszych czytań.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "6",
+      "piesn": "Pan jest blisko",
+      "opis": "Drugie czytanie przypomina, że 'przyjście Pana jest już bliskie'. Ta krótka antyfona jest doskonałym posłaniem na dalsze oczekiwanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń wzywa do przygotowania serc, nawiązując do misji Jana Chrzciciela, który przygotowywał drogę Panu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "16",
+      "piesn": "Głos wdzięczny z nieba wychodzi",
+      "opis": "Pieśń opowiada o przyjściu Zbawiciela, który rozprasza ciemności, co jest echem proroctwa Izajasza o uzdrowieniu niewidomych i głuchych.",
+      "moment": "ogolne"
     }
   ]
 }

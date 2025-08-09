@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413345.Wtorek-III-tygodnia-Adwentu",
-  "tytul_dnia": "Wtorek III tygodnia Adwentu",
+  "tytul_dnia": "3 Wtorek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 21, 28-32",
       "opis": "Grzesznicy uwierzyli Janowi",
       "tekst": "Jezus powiedział do arcykapłanów i starszych ludu: «Co myślicie? Pewien człowiek miał dwóch synów. Zwrócił się do pierwszego i rzekł: „Dziecko, idź i pracuj dzisiaj w winnicy”. Ten odpowiedział: „Idę, panie!”, lecz nie poszedł. Zwrócił się do drugiego i to samo powiedział. Ten odparł: „Nie chcę”. Później jednak opamiętał się i poszedł. Który z tych dwóch spełnił wolę ojca?» Mówią Mu: «Ten drugi».\nWtedy Jezus rzekł do nich: «Zaprawdę, powiadam wam: Celnicy i nierządnice wchodzą przed wami do królestwa niebieskiego. Przyszedł bowiem do was Jan drogą sprawiedliwości, a wy mu nie uwierzyliście. Uwierzyli mu zaś celnicy i nierządnice. Wy patrzyliście na to, ale nawet później nie opamiętaliście się, żeby mu uwierzyć».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Pieśń ta wzywa Pana i zachęca do nawrócenia, co jest głównym tematem przypowieści o dwóch synach w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu, która odzwierciedla postawę drugiego syna z przypowieści - tego, który najpierw odmówił, ale potem się opamiętał i poszedł.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Pieśń wyraża ufność w Boże miłosierdzie, które jest dostępne dla pokornych i biednych, o których mówi pierwsze czytanie i psalm.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "Litania ta jest wołaniem o Boże miłosierdzie, o które proszą ubodzy i skruszeni w sercu, jak ci z psalmu i Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta, wzywając do prostowania dróg życia, jest adwentowym wezwaniem do nawrócenia, które jest warunkiem wejścia do królestwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest wezwaniem do nawrócenia, które Bóg obiecuje wysłuchać, co jest głównym przesłaniem pierwszego czytania i Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach, szczególnie dla ubogich i cichych, nawiązuje do pierwszego czytania o ludzie pokornym i biednym.",
+      "moment": "ogolne"
     }
   ]
 }

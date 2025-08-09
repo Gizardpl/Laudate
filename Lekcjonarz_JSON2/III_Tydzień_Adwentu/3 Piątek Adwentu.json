@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413342.Piatek-III-tygodnia-Adwentu",
-  "tytul_dnia": "Piątek III tygodnia Adwentu",
+  "tytul_dnia": "3 Piątek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 5, 33-36",
       "opis": "Jan był lampą, co płonie i świeci",
       "tekst": "Jezus powiedział do Żydów:\n«Wysłaliście poselstwo do Jana, i on dał świadectwo prawdzie. Ja nie zważam na świadectwo człowieka, ale mówię to, abyście byli zbawieni. On był lampą, co płonie i świeci, wy zaś chcieliście radować się krótki czas jego światłem.\nJa mam świadectwo większe od Janowego. Są to dzieła, które ojciec dał Mi do wypełnienia; dzieła, które czynię, świadczą o Mnie, że ojciec Mnie posłał».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Wielka antyfona na 17 grudnia 'O Mądrości' jest tradycyjną pieśnią rozpoczynającą drugą część Adwentu, idealnie wprowadzając w liturgię dnia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Pieśń ta jest echem zarówno pierwszego czytania o zbawieniu dla wszystkich narodów, jak i psalmu 'Niech wszystkie ludy sławią Ciebie, Boże'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "765",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Ewangelia mówi o Janie Chrzcicielu jako o 'lampie, co płonie i świeci', ale to Jezus jest prawdziwą Światłością, co wyraża ta pieśń.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "475",
+      "piesn": "Zwiastun wschodzącego Słońca",
+      "opis": "Pieśń poświęcona Janowi Chrzcicielowi, który dał świadectwo prawdzie, stanowi piękne dziękczynienie za jego misję.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "3",
+      "piesn": "Oto Pan Bóg przyjdzie",
+      "opis": "Antyfona ta, zapowiadająca przyjście Pana i wielką światłość, dobrze podsumowuje adwentowe oczekiwanie na zbawienie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Pieśń ta, a zwłaszcza jej refren 'Gotujmy drogę Panu', nawiązuje do misji Jana Chrzciciela, świadka Prawdy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "6",
+      "piesn": "Pan jest blisko",
+      "opis": "Pieśń ta podkreśla bliskość przyjścia Pana, co jest głównym tematem drugiej części Adwentu.",
+      "moment": "ogolne"
     }
   ]
 }

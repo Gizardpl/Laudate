@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413343.Czwartek-III-tygodnia-Adwentu",
-  "tytul_dnia": "Czwartek III tygodnia Adwentu",
+  "tytul_dnia": "3 Czwartek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 7, 24-30",
       "opis": "Jan przygotowuje drogę Chrystusowi",
       "tekst": "Gdy wysłannicy Jana odeszli, Jezus zaczął mówić do tłumów o Janie: «Co wyszliście zobaczyć na pustyni? Trzcinę kołyszącą się na wietrze? ale co wyszliście zobaczyć? Człowieka w miękkie szaty ubranego? Oto w pałacach królewskich przebywają ci, którzy noszą okazałe stroje i żyją w zbytkach. Ale co wyszliście zobaczyć? Proroka? Tak, mówię wam, nawet więcej niż proroka. On jest tym, o którym napisano: „Oto posyłam mego wysłańca przed Tobą, aby przygotował Ci drogę”. Powiadam wam bowiem: Między narodzonymi z niewiast nie ma większego od Jana. Lecz najmniejszy w królestwie Bożym większy jest niż on».\nI cały lud, który Go słuchał, a nawet celnicy przyznawali słuszność Bogu, przyjmując chrzest Janowy. Faryzeusze zaś i uczeni w Prawie udaremnili zamiar Boży względem siebie, nie przyjmując chrztu od niego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' jest bezpośrednim nawiązaniem do misji Jana Chrzciciela, o której mówi Ewangelia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń wzywa do przygotowania na przyjście Pana, co jest głównym tematem adwentu i nauczania Jana Chrzciciela.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Wobec świadectwa Jana o nadchodzącym Mesjaszu, ta pieśń jest naszym osobistym wołaniem o Jego przyjście do naszych serc.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pierwsze czytanie wzywa do radości i wesela, a ta pieśń jest radosnym hymnem na cześć przychodzącego Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "475",
+      "piesn": "Zwiastun wschodzącego Słońca",
+      "opis": "Pieśń poświęcona Janowi Chrzcicielowi, którego wielkość podkreśla Jezus w Ewangelii, jest doskonałym podsumowaniem dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta wzywa do prostowania dróg życia, co jest echem nauczania Jana Chrzciciela i przygotowaniem na bliskie przyjście Pana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń adwentowa, która w kontekście Ewangelii przypomina o potrzebie przygotowania serc na spotkanie z Chrystusem.",
+      "moment": "ogolne"
     }
   ]
 }
