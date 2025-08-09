@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414874.Poniedzialek-31-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Poniedziałek, 31 tydzień zwykły, Rok II",
+  "tytul_dnia": "31 Poniedziałek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 14, 12-14",
       "opis": "Bezinteresowna miłość bliźniego",
       "tekst": "Jezus powiedział do pewnego przywódcy faryzeuszów, który Go zaprosił:\n«Gdy wydajesz obiad albo wieczerzę, nie zapraszaj swoich przyjaciół ani braci, ani krewnych, ani zamożnych sąsiadów, aby cię i oni nawzajem nie zaprosili, i miałbyś odpłatę. Lecz kiedy urządzasz przyjęcie, zaproś ubogich, ułomnych, chromych i niewidomych. A będziesz szczęśliwy, ponieważ nie mają czym tobie się odwdzięczyć; odpłatę bowiem otrzymasz przy zmartwychwstaniu sprawiedliwych».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach, zwłaszcza dla miłosiernych, jest doskonałym wprowadzeniem do Ewangelii o bezinteresownej miłości bliźniego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "W odpowiedzi na Ewangelię o miłości do ubogich, ta pieśń jest aktem ofiarowania naszej woli, by żyć przykazaniem miłości.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Krótka pieśń 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest kwintesencją dzisiejszej Ewangelii i pierwszego czytania.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Dziękczynienie za dar wspólnoty, o której jedność i miłość apeluje św. Paweł w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, byśmy potrafili w naszym życiu realizować wezwanie do miłości ubogich i potrzebujących.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pierwsze czytanie jest wezwaniem do jedności i pokory. Ta pieśń jest modlitwą o te dary dla całego Kościoła.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar wspólnoty Kościoła, w której uczymy się miłości, o której mówią czytania.",
+      "moment": "ogolne"
     }
   ]
 }

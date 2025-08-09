@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414882.31-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "31 Niedziela zwykła, Rok B",
+  "tytul_dnia": "31 Niedziela zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 12, 28b-34",
       "opis": "Największe przykazanie",
       "tekst": "Jeden z uczonych w Piśmie podszedł do Jezusa i zapytał Go: «Które jest pierwsze ze wszystkich przykazań?»\nJezus odpowiedział: «Pierwsze jest: „Słuchaj, Izraelu, Pan Bóg nasz jest jedynym Panem. Będziesz miłował Pana, Boga swego, całym swoim sercem, całą swoją duszą, całym swoim umysłem i całą swoją mocą”. Drugie jest to: „Będziesz miłował swego bliźniego jak siebie samego”. Nie ma innego przykazania większego od tych».\nRzekł Mu uczony w Piśmie: «Bardzo dobrze, Nauczycielu, słusznie powiedziałeś, bo Jeden jest i nie ma innego prócz Niego. Miłować Go całym sercem, całym umysłem i całą mocą i miłować bliźniego jak siebie samego znaczy daleko więcej niż wszystkie całopalenia i ofiary».\nJezus, widząc, że rozumnie odpowiedział, rzekł do niego: «Niedaleko jesteś od królestwa Bożego». I nikt już nie odważył się Go więcej pytać.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "589",
+      "piesn": "Boże, kocham Cię!",
+      "opis": "Pieśń jest prostym i żarliwym wyznaniem miłości do Boga, co stanowi istotę pierwszego przykazania, o którym mówią czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "W odpowiedzi na Ewangelię o przykazaniu miłości Boga i bliźniego, ta pieśń jest aktem ofiarowania naszej woli, by żyć tymi przykazaniami.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "237",
+      "piesn": "Duszo Chrystusowa",
+      "opis": "Drugie czytanie mówi o jedynej ofierze Chrystusa, Arcykapłana. Ta pieśń jest aktem zjednoczenia się z tą ofiarą i miłością, która ją motywowała.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem najwyższej chwały dla jedynego Boga, którego mamy miłować z całego serca, jak przypomina Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Tekst 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest doskonałym podsumowaniem i posłaniem na zakończenie Mszy o przykazaniu miłości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem wiary w Chrystusa, który uczy nas miłości do Boga i bliźniego jako drogi do królestwa Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar wiary i życia, które są owocami miłości Boga, o której mówią czytania.",
+      "moment": "ogolne"
     }
   ]
 }

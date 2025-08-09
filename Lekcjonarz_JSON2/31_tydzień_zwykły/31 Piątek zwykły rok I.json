@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414876.Piatek-31-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 31 tydzień zwykły, Rok I",
+  "tytul_dnia": "31 Piątek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 16, 1-8",
       "opis": "Przypowieść o nieuczciwym rządcy",
       "tekst": "Jezus powiedział do swoich uczniów: «Pewien bogaty człowiek miał rządcę, którego oskarżono przed nim, że trwoni jego majątek. Przywołał więc go do siebie i rzekł mu: „Cóż to słyszę o tobie? Zdaj sprawę z twego zarządzania, bo już nie będziesz mógł zarządzać”.\nNa to rządca rzekł sam do siebie: „Co ja pocznę, skoro mój pan odbiera mi zarządzanie? Kopać nie mogę, żebrać się wstydzę. Wiem już, co uczynię, żeby mnie ludzie przyjęli do swoich domów, gdy będę odsunięty od zarządzania”.\nPrzywołał więc do siebie każdego z dłużników swego pana i zapytał pierwszego: „Ile jesteś winien mojemu panu?” Ten odpowiedział: „Sto beczek oliwy”. On mu rzekł: „Weź swoje zobowiązanie, siadaj prędko i napisz: pięćdziesiąt”. Następnie pytał drugiego: „A ty ile jesteś winien?” Ten odrzekł: „Sto korców pszenicy”. Mówi mu: „Weź swoje zobowiązanie i napisz: osiemdziesiąt”.\nPan pochwalił nieuczciwego rządcę, że roztropnie postąpił. Bo synowie tego świata roztropniejsi są w stosunkach z podobnymi sobie ludźmi niż synowie światłości».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń jest radosnym wezwaniem do głoszenia zbawienia Pana, co jest głównym tematem psalmu i działalności apostolskiej św. Pawła.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "W kontekście przypowieści o rządcy, ta pieśń przypomina, że wszystko, co posiadamy, jest darem Boga i mamy tym mądrze zarządzać.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Ewangelia wzywa do roztropności w sprawach doczesnych, aby zyskać życie wieczne. Ta pieśń jest wyznaniem wiary w Tego, który jest naszą wieczną nagrodą.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Dziękczynienie za dzieło głoszenia Ewangelii przez apostołów, dzięki któremu, jak mówi psalm, wszystkie krańce ziemi ujrzały zbawienie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna, która jest echem apostolskiej gorliwości św. Pawła z pierwszego czytania i posłaniem dla nas.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili roztropnie postępować w naszym życiu, jak zachęca Ewangelia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar wiary i Kościoła, który jest owocem pracy apostołów, takich jak św. Paweł.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414883.31-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "31 Niedziela zwykła, Rok A",
+  "tytul_dnia": "31 Niedziela zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 23, 1-12",
       "opis": "Obłuda faryzeuszów",
       "tekst": "Jezus przemówił do tłumów i do swych uczniów tymi słowami: «Na katedrze Mojżesza zasiedli uczeni w Piśmie i faryzeusze. Czyńcie więc i zachowujcie wszystko, co wam polecą, lecz uczynków ich nie naśladujcie. Mówią bowiem, ale sami nie czynią. Wiążą ciężary wielkie i nie do uniesienia i kładą je ludziom na ramiona, lecz sami palcem ruszyć ich nie chcą.\nWszystkie swe uczynki spełniają w tym celu, żeby się ludziom pokazać. Rozszerzają swoje filakterie i wydłużają frędzle u płaszczów. Lubią zaszczytne miejsca na ucztach i pierwsze krzesła w synagogach. Chcą, by ich pozdrawiano na rynkach i żeby ludzie nazywali ich Rabbi. A wy nie pozwalajcie nazywać się Rabbi, albowiem jeden jest wasz Nauczyciel, a wy wszyscy jesteście braćmi. Nikogo też na ziemi nie nazywajcie waszym ojcem; jeden bowiem jest Ojciec wasz, Ten w niebie. Nie chciejcie również, żeby was nazywano mistrzami, bo jeden jest tylko wasz Mistrz, Chrystus.\nNajwiększy z was niech będzie waszym sługą. Kto się wywyższa, będzie poniżony, a kto się poniża, będzie wywyższony».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu jedynemu Bogu, co jest odpowiedzią na Ewangelię, w której Jezus mówi: 'jeden jest wasz Nauczyciel, Chrystus'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec przestrogi przed pychą i obłudą, ta pieśń jest aktem pokornego ofiarowania siebie Bogu, który jest naszym jedynym Ojcem.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "771",
+      "piesn": "Ty dasz mi pokój serca",
+      "opis": "Psalm responsoryjny mówi o uciszeniu duszy i złożeniu nadziei w Panu. Ta pieśń jest modlitwą o pokój serca, który płynie z zaufania Bogu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Dziękczynienie za dar Chrystusa - jedynego Nauczyciela i Mistrza, który w przeciwieństwie do faryzeuszy, prowadzi nas drogą prawdy i pokory.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo, abyśmy potrafili służyć innym w pokorze, jak naucza Jezus: 'Największy z was niech będzie waszym sługą'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pierwsze czytanie piętnuje niewiernych kapłanów, a drugie ukazuje wzór apostoła. Ta pieśń przypomina o powszechnym kapłaństwie całego Ludu Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "760",
+      "piesn": "Bóg jest miłością",
+      "opis": "Święty Paweł w drugim czytaniu pisze o miłości i życzliwości. Ta pieśń przypomina, że źródłem prawdziwej służby jest miłość pochodząca od Boga.",
+      "moment": "ogolne"
     }
   ]
 }

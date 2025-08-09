@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414875.Sobota-31-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 31 tydzień zwykły, Rok I",
+  "tytul_dnia": "31 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 16, 9-15",
       "opis": "Nie można służyć Bogu i Mamonie",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Pozyskujcie sobie przyjaciół niegodziwą mamoną, aby gdy wszystko się skończy, przyjęto was do wiecznych przybytków.\nKto w bardzo małej sprawie jest wierny, ten i w wielkiej będzie wierny; a kto w bardzo małej sprawie jest nieuczciwy, ten i w wielkiej nieuczciwy będzie. Jeśli więc w zarządzaniu niegodziwą mamoną nie okazaliście się wierni, to kto wam prawdziwe dobro powierzy? Jeśli w zarządzaniu cudzym dobrem nie okazaliście się wierni, to któż wam da wasze?\nŻaden sługa nie może dwom panom służyć. Gdyż albo jednego będzie nienawidził, a drugiego miłował; albo z tamtym będzie trzymał, a tym wzgardzi. Nie możecie służyć Bogu i Mamonie!»\nSłuchali tego wszystkiego chciwi na grosz faryzeusze i podrwiwali sobie z Niego. Powiedział więc do nich: «To wy właśnie wobec ludzi udajecie sprawiedliwych, ale Bóg zna wasze serca. To bowiem, co za wielkie uchodzi między ludźmi, obrzydliwością jest w oczach Bożych».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem wiary w Chrystusa, któremu pragniemy wiernie służyć, odrzucając służbę Mamonie, o czym mówi Ewangelia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec przestrogi Jezusa przed służbą dwom panom, ta pieśń jest aktem ofiarowania całego życia jedynemu Panu, Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń wyraża wdzięczność za Boże dary i pyta, jak możemy się odwdzięczyć. Ewangelia uczy, że wierność w małych rzeczach jest drogą do wielkich.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, w której chwalimy Boga za Jego wielkość i potęgę.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo na trud wierności w codziennych sprawach, do której wzywa Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pierwsze czytanie ukazuje żywą wspólnotę Kościoła, pełną wzajemnej miłości i troski. Ta pieśń jest modlitwą o jedność i pokój dla tej wspólnoty.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "W kontekście licznych pozdrowień z pierwszego czytania, ta pieśń jest modlitwą o jedność wszystkich wierzących w jednym Kościele.",
+      "moment": "ogolne"
     }
   ]
 }

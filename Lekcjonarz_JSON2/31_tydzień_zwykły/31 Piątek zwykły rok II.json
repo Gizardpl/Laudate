@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414870.Piatek-31-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Piątek, 31 tydzień zwykły, Rok II",
+  "tytul_dnia": "31 Piątek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 16, 1-8",
       "opis": "Przypowieść o nieuczciwym rządcy",
       "tekst": "Jezus powiedział do swoich uczniów: «Pewien bogaty człowiek miał rządcę, którego oskarżono przed nim, że trwoni jego majątek. Przywołał więc go do siebie i rzekł mu: „Cóż to słyszę o tobie? Zdaj sprawę z twego zarządzania, bo już nie będziesz mógł zarządzać”.\nNa to rządca rzekł sam do siebie: „Co ja pocznę, skoro mój pan odbiera mi zarządzanie? Kopać nie mogę, żebrać się wstydzę. Wiem już, co uczynię, żeby mnie ludzie przyjęli do swoich domów, gdy będę odsunięty od zarządzania”.\nPrzywołał więc do siebie każdego z dłużników swego pana i zapytał pierwszego: „Ile jesteś winien mojemu panu?” Ten odpowiedział: „Sto beczek oliwy”. On mu rzekł: „Weź swoje zobowiązanie, siadaj prędko i napisz: pięćdziesiąt”. Następnie pytał drugiego: „A ty ile jesteś winien?” Ten odrzekł: „Sto korców pszenicy”. Mówi mu: „Weź swoje zobowiązanie i napisz: osiemdziesiąt”.\nPan pochwalił nieuczciwego rządcę, że roztropnie postąpił. Bo synowie tego świata roztropniejsi są w stosunkach z podobnymi sobie ludźmi niż synowie światłości».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Pieśń ta wprost nawiązuje do pierwszego czytania, które mówi: 'Nasza bowiem ojczyzna jest w niebie'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "W kontekście przypowieści o rządcy, ta pieśń przypomina, że wszystko, co posiadamy, jest darem Boga i mamy tym mądrze zarządzać.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary i nadziei w Panu, do którego należymy i którego wyczekujemy jako Zbawcy, jak mówi św. Paweł.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar życia wiecznego i Kościoła, który jest naszą drogą do niebieskiej ojczyzny.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy, naśladując Chrystusa i Jego świętych, trwali mocno w Panu, jak zachęca św. Paweł.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża tęsknotę za domem Pana, co jest echem psalmu responsoryjnego i myśli o niebieskiej ojczyźnie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Pieśń jest prośbą o Boże prowadzenie w ziemskiej pielgrzymce do domu Ojca w niebie.",
+      "moment": "ogolne"
     }
   ]
 }

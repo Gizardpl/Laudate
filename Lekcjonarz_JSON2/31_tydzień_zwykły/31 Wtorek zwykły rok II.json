@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414873.Wtorek-31-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 31 tydzień zwykły, Rok II",
+  "tytul_dnia": "31 Wtorek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 14, 15-24",
       "opis": "Przypowieść o zaproszonych na ucztę",
       "tekst": "Gdy Jezus siedział przy stole, jeden ze współbiesiadników rzekł do Niego: «Szczęśliwy ten, kto będzie ucztował w królestwie Bożym».\nOn zaś mu powiedział: «Pewien człowiek wyprawił wielką ucztę i zaprosił wielu. Kiedy nadeszła pora uczty, posłał swego sługę, aby powiedział zaproszonym: „Przyjdźcie, bo już wszystko jest gotowe”. Wtedy zaczęli się wszyscy jednomyślnie wymawiać. Pierwszy kazał mu powiedzieć: „Kupiłem pole, muszę wyjść je obejrzeć; proszę cię, uważaj mnie za usprawiedliwionego”. Drugi rzekł: „Kupiłem pięć par wołów i idę je wypróbować; proszę cię, uważaj mnie za usprawiedliwionego”. Jeszcze inny rzekł: „Poślubiłem żonę i dlatego nie mogę przyjść”.\nSługa powrócił i oznajmił to swemu panu. Wtedy rozgniewany gospodarz nakazał swemu słudze: „Wyjdź co prędzej na ulice i w zaułki miasta i sprowadź tu ubogich, ułomnych, niewidomych i chromych!” Sługa oznajmił: „Panie, stało się, jak rozkazałeś, a jeszcze jest miejsce”. Na to pan rzekł do sługi: „Wyjdź na drogi i między opłotki i przynaglaj do wejścia, aby mój dom był zapełniony.\nAlbowiem powiadam wam: Żaden z owych ludzi, którzy byli zaproszeni, nie skosztuje mojej uczty”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Pieśń wprost nawiązuje do przypowieści z Ewangelii o uczcie, na którą gospodarz zaprasza wszystkich, zwłaszcza ubogich i chromych.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na zaproszenie na ucztę, ta pieśń jest aktem ofiarowania Bogu całego siebie, by z czystym sercem uczestniczyć w Jego królestwie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Aklamacja i Ewangelia są zaproszeniem na ucztę. Ta pieśń jest naszą odpowiedzią na to zaproszenie i prośbą o pokrzepienie w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "702",
+      "piesn": "Dziękczynne pieśni śpiewajmy",
+      "opis": "Dziękczynienie za dar Eucharystii - uczty, na którą Bóg zaprasza nas wszystkich, a o której mówi Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Hymn o kenozie Chrystusa z pierwszego czytania ukazuje Go jako Sługę. Pieśń ta jest uwielbieniem Chrystusa, który uniżył samego siebie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń podkreśla, że w Eucharystii tworzymy jedno ciało w Chrystusie, co jest owocem Jego uniżenia i ofiary.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "271",
+      "piesn": "Przyjdźcie do mnie wszyscy",
+      "opis": "Pieśń jest zaproszeniem Jezusa, które koresponduje z zaproszeniem na ucztę z Ewangelii, skierowanym do wszystkich utrudzonych.",
+      "moment": "ogolne"
     }
   ]
 }
