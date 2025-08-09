@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413388.19-grudnia",
-  "tytul_dnia": "19 grudnia",
+  "tytul_dnia": "19 grudnia - Dzień powszedni w okresie Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 1, 5-25",
       "opis": "Archanioł Gabriel zapowiada narodzenie Jana Chrzciciela",
       "tekst": "Za czasów Heroda, króla Judei, żył pewien kapłan, imieniem Zachariasz, z oddziału Abiasza. Miał on żonę z rodu Aarona, a na imię było jej Elżbieta. Oboje byli sprawiedliwi wobec Boga i postępowali nienagannie według wszystkich przykazań i przepisów Pańskich. Nie mieli jednak dziecka, ponieważ Elżbieta była niepłodna; oboje zaś już posunęli się w latach.\nKiedy Zachariasz według wyznaczonej dla swego oddziału kolei pełnił służbę kapłańską przed Bogiem, jemu zgodnie ze zwyczajem kapłańskim przypadł w udziale los, żeby wejść do przybytku Pańskiego i złożyć ofiarę kadzenia. A cały lud modlił się na zewnątrz w czasie ofiary kadzenia.\nWtedy ukazał mu się anioł Pański, stojący po prawej stronie ołtarza kadzenia. Przeraził się na ten widok Zachariasz i strach padł na niego. Lecz anioł rzekł do niego: «Nie bój się, Zachariaszu! Twoja prośba została wysłuchana: żona twoja, Elżbieta, urodzi ci syna i nadasz mu imię Jan. Będzie to dla ciebie radość i wesele; i wielu cieszyć się będzie z jego narodzin. Będzie bowiem wielki w oczach Pana; wina i sycery pić nie będzie i już w łonie matki napełniony zostanie Duchem Świętym. Wielu spośród synów Izraela nawróci do Pana, ich Boga; on sam pójdzie przed Nim w duchu i z mocą Eliasza, żeby serca ojców nakłonić ku dzieciom, a nieposłusznych do rozwagi sprawiedliwych, by przygotować Panu lud doskonały». Na to rzekł Zachariasz do Anioła: «Po czym to poznam? Bo sam jestem już stary i moja żona jest w podeszłym wieku».\nOdpowiedział mu Anioł: «Ja jestem Gabriel, stojący przed Bogiem. I zostałem posłany, aby mówić z tobą i oznajmić ci tę radosną nowinę. A oto będziesz niemy i nie będziesz mógł mówić aż do dnia, w którym się to stanie, bo nie uwierzyłeś moim słowom, które się spełnią w swoim czasie».\nLud tymczasem czekał na Zachariasza i dziwił się, że tak długo zatrzymuje się w przybytku. Kiedy wyszedł, nie mógł do nich mówić, zrozumieli więc, że miał widzenie w przybytku. On zaś dawał im znaki i pozostał niemy.\nA gdy upłynęły dni jego posługi kapłańskiej, powrócił do swego domu. Potem żona jego, Elżbieta, poczęła i kryła się z tym przez pięć miesięcy, mówiąc: «Tak uczynił mi Pan wówczas, kiedy wejrzał łaskawie, by zdjąć ze mnie hańbę wśród ludzi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' to istota misji Jana Chrzciciela, którego narodziny zapowiada Ewangelia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń wzywa do przygotowania serc na przyjście Pana, co jest odpowiedzią na radosną nowinę o narodzinach poprzednika.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Zwiastowanie narodzin Jana jest bezpośrednią zapowiedzią przyjścia Jezusa. Ta pieśń jest wołaniem o Jego obecność.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Ewangelia mówi, że narodziny Jana będą 'radością i weselem'. Ta pieśń jest wyrazem tej radości z powodu bliskiego zbawienia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Wielka antyfona na 19 grudnia 'O Korzeniu Jessego' jest wołaniem o przyjście Tego, którego poprzedzał Jan.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "13",
+      "piesn": "Boże wieczny, Boże żywy",
+      "opis": "Pieśń jest wołaniem o przyjście Zbawiciela, podobnym do prośby Zachariasza, która została wysłuchana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń wzywa do przygotowania na przyjście Pana, którego drogę ma przygotować zapowiedziany w Ewangelii Jan Chrzciciel.",
+      "moment": "ogolne"
     }
   ]
 }

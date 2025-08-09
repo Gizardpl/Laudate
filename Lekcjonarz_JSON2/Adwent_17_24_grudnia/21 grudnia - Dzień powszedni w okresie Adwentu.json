@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413386.21-grudnia",
-  "tytul_dnia": "21 grudnia",
+  "tytul_dnia": "21 grudnia - Dzień powszedni w okresie Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 1, 39-45",
       "opis": "Maryja jest Matką oczekiwanego Mesjasza",
       "tekst": "W tym czasie Maryja wybrała się i poszła z pośpiechem w góry do pewnego miasta w ziemi Judy. Weszła do domu Zachariasza i pozdrowiła Elżbietę.\nGdy Elżbieta usłyszała pozdrowienie Maryi, poruszyło się dzieciątko w jej łonie, a duch Święty napełnił Elżbietę. Wydała ona głośny okrzyk i powiedziała: «Błogosławiona jesteś między niewiastami i błogosławiony jest owoc Twojego łona. A skądże mi to, że Matka mojego Pana przychodzi do mnie? Oto bowiem, skoro głos Twego pozdrowienia zabrzmiał w moich uszach, poruszyło się z radości dzieciątko w moim łonie. Błogosławiona jest, która uwierzyła, że spełnią się słowa powiedziane Jej od Pana».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "322",
+      "piesn": "Błogosławiona jesteś, Maryjo",
+      "opis": "Pieśń jest echem słów Elżbiety z Ewangelii, która nazywa Maryję błogosławioną z powodu Jej wiary i macierzyństwa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "29",
+      "piesn": "Zdrowaś bądź Maryja",
+      "opis": "Pieśń jest rozwinięciem pozdrowienia anielskiego i pozdrowienia Elżbiety, które słyszymy w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Ewangelia o Nawiedzeniu podkreśla godność Maryi jako Matki Pana, a ta pieśń jest aktem czci i zawierzenia Jej opiece.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Czytania (zwłaszcza z Sofoniasza) i Ewangelia przepełnione są radością ze zbliżającego się przyjścia Pana, co doskonale wyraża ta pieśń.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Wielka antyfona na 21 grudnia 'O Wschodzie ranny' wzywa Światłość wiekuistą, której nosicielką jest Maryja idąca do Elżbiety.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "12",
+      "piesn": "Archanioł Boży Gabryjel",
+      "opis": "Pieśń przypomina o Zwiastowaniu, które poprzedzało i umożliwiło scenę Nawiedzenia opisaną w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "20",
+      "piesn": "Matko Odkupiciela",
+      "opis": "Antyfona ta podkreśla rolę Maryi w dziele zbawienia jako Tej, która zrodziła światu Zbawiciela.",
+      "moment": "ogolne"
     }
   ]
 }

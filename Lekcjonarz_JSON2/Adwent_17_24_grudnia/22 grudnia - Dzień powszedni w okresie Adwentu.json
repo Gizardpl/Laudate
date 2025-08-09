@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413385.22-grudnia",
-  "tytul_dnia": "22 grudnia",
+  "tytul_dnia": "22 grudnia - Dzień powszedni w okresie Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 1, 46-56",
       "opis": "Maryja dziękuje za wcielenie Syna Bożego",
       "tekst": "W owym czasie Maryja rzekła:\n«Wielbi dusza moja Pana\ni raduje się duch mój w Bogu, zbawicielu moim.\nBo wejrzał na uniżenie swojej Służebnicy.\nOto bowiem odtąd błogosławić mnie będą\nwszystkie pokolenia,\ngdyż wielkie rzeczy uczynił mi Wszechmocny,\na Jego imię jest święte.\nJego miłosierdzie z pokolenia na pokolenie\nnad tymi, którzy się Go boją.\nOkazał moc swego ramienia,\nrozproszył pyszniących się zamysłami serc swoich.\nStrącił władców z tronu,\na wywyższył pokornych.\nGłodnych nasycił dobrami,\na bogatych z niczym odprawił.\nUjął się za swoim sługą, Izraelem,\npomny na swe miłosierdzie.\nJak obiecał naszym ojcom,\nAbrahamowi i jego potomstwu na wieki».\nMaryja pozostała u Elżbiety około trzech miesięcy; potem wróciła do domu.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "701",
+      "piesn": "Chrystus Pan karmi nas",
+      "opis": "Pieśń ta jest parafrazą hymnu 'Magnificat' z dzisiejszej Ewangelii, co czyni ją idealną na rozpoczęcie liturgii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "369",
+      "piesn": "O Maryjo, przyjm w ofierze",
+      "opis": "Na wzór Anny z pierwszego czytania, która ofiarowała Bogu swego syna, i Maryi, która cała oddała się Bogu, my również składamy Mu w darze nasze serca.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "20",
+      "piesn": "Matko Odkupiciela",
+      "opis": "Antyfona ta jest modlitwą do Matki Zbawiciela, której hymn uwielbienia rozważamy w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "324",
+      "piesn": "Bogurodzica",
+      "opis": "Najstarsza polska pieśń maryjna jest wspaniałym hymnem uwielbienia na cześć Bożej Rodzicielki, której hymn 'Magnificat' jest czytany w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Wielka antyfona na 22 grudnia 'O Królu narodów' jest wołaniem o przyjście Zbawiciela, którego wielkość wysławia Maryja.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "29",
+      "piesn": "Zdrowaś bądź Maryja",
+      "opis": "Pieśń ta rozwija treść pozdrowienia anielskiego i sławi Maryję, która w 'Magnificat' dziękuje Bogu za Jego wielkie dzieła.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Pieśń jest aktem zawierzenia Maryi, której postawę wiary i uwielbienia podziwiamy w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

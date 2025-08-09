@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413383.24-grudnia",
-  "tytul_dnia": "24 grudnia",
+  "tytul_dnia": "24 grudnia - Dzień powszedni w okresie Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 1, 67-79",
       "opis": "Nawiedzi nas z wysoka Wschodzące Słońce",
       "tekst": "Zachariasz, ojciec Jana, został napełniony Duchem Świętym i zaczął prorokować, mówiąc:\n«Błogosławiony Pan, Bóg Izraela,\nbo lud swój nawiedził i wyzwolił,\ni wzbudził dla nas moc zbawczą\nw domu swego sługi, Dawida:\nJak zapowiedział od dawna\nprzez usta swych świętych proroków,\nże nas wybawi od naszych nieprzyjaciół\ni z ręki wszystkich, którzy nas nienawidzą;\nŻe naszym ojcom okaże miłosierdzie\ni wspomni na swe święte przymierze –\nna przysięgę, którą złożył\nojcu naszemu, Abrahamowi.\nDa nam, że z mocy nieprzyjaciół wyrwani,\nsłużyć Mu będziemy bez trwogi,\nw pobożności i sprawiedliwości przed Nim\npo wszystkie dni nasze.\nA ty, dziecię, zwać się będziesz\nprorokiem Najwyższego,\ngdyż pójdziesz przed Panem przygotować Mu drogi;\nJego ludowi dasz poznać zbawienie\nprzez odpuszczenie grzechów,\nDzięki serdecznej litości naszego Boga,\nz jaką nas nawiedzi z wysoka Wschodzące Słońce,\nby oświecić tych,\nco w mroku i cieniu śmierci mieszkają,\naby nasze kroki skierować na drogę pokoju».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "3",
+      "piesn": "Oto Pan Bóg przyjdzie",
+      "opis": "W ostatnim dniu Adwentu ta antyfona wprost zapowiada przyjście Pana i wielką światłość, o której prorokuje Zachariasz.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Pieśń jest ostatnim wołaniem o przyjście Pana, a refren 'Gotujmy drogę Panu' przypomina o misji Jana, syna Zachariasza.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "17",
+      "piesn": "Grzechem Adama ludzie uwikłani",
+      "opis": "Pieśń mówi o spełnieniu obietnic i przyjściu Zbawiciela, co jest treścią proroctwa Zachariasza i obietnicy danej Dawidowi.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Hymn Zachariasza jest pieśnią uwielbienia, a ta pieśń wzywa całe stworzenie do radości z powodu nadchodzącego królowania Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "27",
+      "piesn": "Spuśćcie nam na ziemskie niwy",
+      "opis": "Pieśń ta, jako ostatnie wołanie Adwentu, wyraża tęsknotę za Zbawicielem, który jest 'Wschodzącym Słońcem' z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "W Wigilię Bożego Narodzenia ta pieśń jest ostatecznym wezwaniem do przygotowania serc na przyjęcie Gościa tak wielkiego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "15",
+      "piesn": "Czekam na Ciebie",
+      "opis": "Pieśń wyraża osobistą tęsknotę i oczekiwanie na narodziny Jezusa, co jest istotą Wigilii.",
+      "moment": "ogolne"
     }
   ]
 }
