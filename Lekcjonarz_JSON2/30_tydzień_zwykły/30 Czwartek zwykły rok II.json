@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415412.Czwartek-30-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 30 tydzień zwykły, Rok II",
+  "tytul_dnia": "30 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,8 +24,52 @@
     {
       "typ": "EWANGELIA",
       "sigla": "Łk 13, 31-35",
-      "opis": "",
+      "opis": "Jezus wierny swojemu posłannictwu",
       "tekst": "Jezus wierny swojemu posłannictwu\nW tym czasie przyszli niektórzy faryzeusze i rzekli do Jezusa: «Wyjdź i uchodź stąd, bo Herod chce Cię zabić».\nLecz On im odpowiedział: «Idźcie i powiedzcie temu lisowi: Oto wyrzucam złe duchy i dokonuję uzdrowień dziś i jutro, a trzeciego dnia będę u kresu. Jednak dziś, jutro i pojutrze muszę być w drodze, bo rzecz to niemożliwa, żeby prorok zginął poza Jeruzalem.\nJeruzalem, Jeruzalem! Ty zabijasz proroków i kamienujesz tych, którzy do ciebie są posłani. Ile razy chciałem zgromadzić twoje dzieci, jak ptak swoje pisklęta pod skrzydła, a nie chcieliście. Oto dom wasz tylko dla was pozostanie.\nMówię zaś wam: nie ujrzycie Mnie, aż nadejdzie czas, gdy powiecie: „Błogosławiony Ten, który przychodzi w imię Pańskie”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę, która jest naszą zbroją w duchowej walce, o której mówi pierwsze czytanie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Wobec zagrożenia ze strony Heroda i lamentu nad Jerozolimą, ta pieśń jest aktem ofiarowania i zawierzenia Bożej opatrzności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu duchowej walki i przeciwności, ta pieśń jest wyznaniem wiary, że Chrystus jest naszą nadzieją i ostatecznym zwycięstwem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, w którym wierny chwali Pana, swoją Opokę i Wybawcę.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest wyznaniem wierności Chrystusowi wbrew przeciwnościom, co jest postawą, do której wzywa św. Paweł, mówiąc o duchowej walce.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "769",
+      "piesn": "Pan jest mocą",
+      "opis": "Krótka, medytacyjna pieśń, która streszcza przesłanie pierwszego czytania: 'Bądźcie mocni w Panu – siłą Jego potęgi'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Aklamacja i Ewangelia mówią o Chrystusie Królu. Ta pieśń jest aklamacją na cześć Tego, który przychodzi w imię Pańskie.",
+      "moment": "ogolne"
     }
   ]
 }

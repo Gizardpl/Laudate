@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415413.Sroda-30-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 30 tydzień zwykły, Rok II",
+  "tytul_dnia": "30 Środa zwykła rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,8 +24,52 @@
     {
       "typ": "EWANGELIA",
       "sigla": "Łk 13, 22-30",
-      "opis": "",
+      "opis": "Powszechne wezwanie do zbawienia",
       "tekst": "Powszechne wezwanie do zbawienia\nJezus przemierzał miasta i wsie, nauczając i odbywając swą podróż do Jerozolimy. Raz ktoś Go zapytał: «Panie, czy tylko nieliczni będą zbawieni?»\nOn rzekł do nich: «Usiłujcie wejść przez ciasne drzwi; gdyż wielu, powiadam wam, będzie chciało wejść, a nie zdołają. Skoro Pan domu wstanie i drzwi zamknie, wówczas, stojąc na dworze, zaczniecie kołatać do drzwi i wołać: „Panie, otwórz nam!”, lecz On wam odpowie: „Nie wiem, skąd jesteście”. Wtedy zaczniecie mówić: „Przecież jadaliśmy i piliśmy z Tobą, i na ulicach naszych nauczałeś”. Lecz On rzecze: „Powiadam wam, nie wiem, skąd jesteście. Odstąpcie ode Mnie wszyscy, którzy dopuszczacie się niesprawiedliwości!” Tam będzie płacz i zgrzytanie zębów, gdy ujrzycie Abrahama, Izaaka i Jakuba, i wszystkich proroków w królestwie Bożym, a siebie samych precz wyrzuconych. Przyjdą ze wschodu i zachodu, z północy i południa i siądą za stołem w królestwie Bożym. Tak oto są ostatni, którzy będą pierwszymi, i są pierwsi, którzy będą ostatnimi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu i wejścia do Jego domu, co nawiązuje do Ewangelii o 'ciasnych drzwiach' do królestwa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pierwsze czytanie zawiera wskazówki dotyczące życia rodzinnego. Ta pieśń jest modlitwą o jedność i miłość w rodzinach, które są obrazem Kościoła.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Ewangelia mówi o uczcie w królestwie Bożym. Komunia Święta jest zapowiedzią tej uczty, na którą zaproszeni są ludzie ze wszystkich stron świata.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, w której chwalimy Boga za Jego sprawiedliwość, potęgę i chwałę Jego królestwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili wejść przez 'ciasne drzwi', o których mówi Jezus w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą do Ojca, drogą, która prowadzi przez 'ciasne drzwi' Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "W kontekście rad dotyczących życia rodzinnego i społecznego, pieśń o błogosławieństwach ukazuje drogę do prawdziwego szczęścia w królestwie Bożym.",
+      "moment": "ogolne"
     }
   ]
 }

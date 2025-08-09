@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415417.Piatek-30-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 30 tydzień zwykły, Rok I",
+  "tytul_dnia": "30 Piątek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 14, 1-6",
       "opis": "Pan Jezus uzdrawia w szabat",
       "tekst": "Gdy Jezus przyszedł do domu pewnego przywódcy faryzeuszów, aby w szabat spożyć posiłek, oni Go śledzili.\nA oto zjawił się przed Nim pewien człowiek chory na wodną puchlinę. Wtedy Jezus zapytał uczonych w Prawie i faryzeuszów: «Czy wolno w szabat uzdrawiać, czy też nie?» Lecz oni milczeli. On zaś dotknął go, uzdrowił i odprawił.\nA do nich rzekł: «Któż z was, jeśli jego syn albo wół wpadnie do studni, nie wyciągnie go zaraz, nawet w dzień szabatu?» I nie zdołali Mu na to odpowiedzieć.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do Jezusa, który w Ewangelii objawia się jako uzdrowiciel, litujący się nad chorym człowiekiem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec miłości św. Pawła, który pragnąłby być odłączonym od Chrystusa dla zbawienia braci, ta pieśń jest aktem ofiarowania siebie Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Jezus jest Dobrym Pasterzem, który troszczy się o swoje owce, uzdrawiając je nawet w szabat, jak pokazuje Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Psalm responsoryjny wzywa do chwalenia Pana. Ta pieśń jest radosnym hymnem na cześć Boga, który objawił swoje słowo Izraelowi.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo, byśmy potrafili naśladować miłosierdzie Chrystusa, który uzdrawia w szabat.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar Kościoła, który, jak mówi psalm, jest obdarowany słowem Bożym i Jego prawami.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "201",
+      "piesn": "Ku Tobie, Panie",
+      "opis": "Pieśń jest modlitwą o przebaczenie i ocalenie, co jest wyrazem miłosierdzia, którego domaga się Jezus w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

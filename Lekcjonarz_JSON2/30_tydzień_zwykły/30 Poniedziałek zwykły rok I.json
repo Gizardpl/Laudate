@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415422.Poniedzialek-30-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 30 tydzień zwykły, Rok I",
+  "tytul_dnia": "30 Poniedziałek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 13, 10-17",
       "opis": "Uzdrowienie w szabat",
       "tekst": "Jezus nauczał w szabat w jednej z synagog. A była tam kobieta, która od osiemnastu lat miała ducha niemocy: była pochylona i w żaden sposób nie mogła się wyprostować.\nGdy Jezus ją zobaczył, przywołał ją i rzekł do niej: «Niewiasto, jesteś wolna od swej niemocy». Położył na nią ręce, a natychmiast wyprostowała się i chwaliła Boga.\nLecz przełożony synagogi, oburzony tym, że Jezus uzdrowił w szabat, rzekł do ludu: «Jest sześć dni, w które należy pracować. W te więc przychodźcie i leczcie się, a nie w dzień szabatu!»\nPan mu odpowiedział: «Obłudnicy, czyż każdy z was nie odwiązuje w szabat wołu lub osła od żłobu i nie prowadzi, by go napoić? A owej córki Abrahama, którą Szatan osiemnaście lat trzymał na uwięzi, czy nie należało uwolnić od tych więzów w dzień szabatu?» Na te słowa wstyd ogarnął wszystkich Jego przeciwników, a lud cały cieszył się ze wszystkich wspaniałych czynów, dokonywanych przez Niego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do Jezusa, który w Ewangelii uwalnia kobietę od niemocy, dając jej zdrowie duszy i ciała.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Pierwsze czytanie mówi o Duchu Świętym, który czyni nas dziećmi Bożymi. Ta pieśń jest prośbą o Jego dary i obecność.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "221",
+      "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
+      "opis": "W Komunii przyjmujemy Chrystusa, a ta pieśń jest modlitwą do Ducha Świętego, który prowadzi nas do zjednoczenia z Bogiem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Uzdrowiona kobieta 'chwaliła Boga'. Ta pieśń jest naszym dziękczynieniem za Boże zbawienie, o którym mówi psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy, uwolnieni z więzów grzechu, mogli żyć jako prawdziwe dzieci Boże.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar bycia dziećmi Bożymi, o którym mówi św. Paweł w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń jest wezwaniem do Ducha Świętego, który, jak mówi pierwsze czytanie, prowadzi nas i daje życie.",
+      "moment": "ogolne"
     }
   ]
 }

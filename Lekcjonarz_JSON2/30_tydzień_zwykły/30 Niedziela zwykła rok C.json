@@ -1,12 +1,13 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415423.30-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "30 Niedziela zwykła, Rok C",
+  "tytul_dnia": "30 Niedziela zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
       "sigla": "Syr 35, 12-14. 16-18",
       "opis": "Modlitwa pokornego przeniknie obłoki",
-      "tekst": "Pan jest sędzią, który nie ma względu na osoby. Nie będzie miał On względu na osobę przeciw biednemu, owszem, wysłucha prośby pokrzywdzonego. Nie zlekceważy błagania sieroty ani wdowy, kiedy się skarży.\nKto służy Bogu, z upodobaniem zostanie przyjęty, a błaganie jego dosięgnie obłoków.  i nie dozna pociechy, zanim nie osiągnie celu. Nie odstąpi, aż wejrzy Najwyższy i ujmie się za sprawiedliwymi, i wyda słuszny wyrok.\nOto słowo Boże."
+      "tekst": "Pan jest sędzią, który nie ma względu na osoby. Nie będzie miał On względu na osobę przeciw biednemu, owszem, wysłucha prośby pokrzywdzonego. Nie zlekceważy błagania sieroty ani wdowy, kiedy się skarży.\nKto służy Bogu, z upodobaniem zostanie przyjęty, a błaganie jego dosięgnie obłoków. Modlitwa pokornego przeniknie obłoki i nie dozna pociechy, zanim nie osiągnie celu. Nie odstąpi, aż wejrzy Najwyższy i ujmie się za sprawiedliwymi, i wyda słuszny wyrok.\nOto słowo Boże."
     },
     {
       "typ": "PSALM RESPONSORYJNY",
@@ -31,6 +32,50 @@
       "sigla": "Łk 18, 9-14",
       "opis": "Wysłuchana modlitwa skruszonego grzesznika",
       "tekst": "Jezus opowiedział niektórym, co dufni byli w siebie, że są sprawiedliwi, a innymi gardzili, tę przypowieść:\n«Dwóch ludzi przyszło do świątyni, żeby się modlić, jeden faryzeusz, a drugi celnik. Faryzeusz stanął i tak w duszy się modlił: „Boże, dziękuję Ci, że nie jestem jak inni ludzie: zdziercy, niesprawiedliwi, cudzołożnicy, albo jak i ten celnik. Zachowuję post dwa razy w tygodniu, daję dziesięcinę ze wszystkiego, co nabywam”.\nA celnik stał z daleka i nie śmiał nawet oczu wznieść ku niebu, lecz bił się w piersi, mówiąc: „Boże, miej litość dla mnie, grzesznika!”\nPowiadam wam: Ten odszedł do domu usprawiedliwiony, nie tamten. Każdy bowiem, kto się wywyższa, będzie poniżony, a kto się uniża, będzie wywyższony».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "105",
+      "piesn": "Najwyższego majestatu",
+      "opis": "Pieśń wyraża postawę pokory i skruchy, podobną do modlitwy celnika z Ewangelii, który nie śmiał oczu wznieść ku niebu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu jest aktem ofiarowania skruszonego serca, które, jak mówi pierwsze czytanie, Bóg z upodobaniem przyjmuje.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń, będąca parafrazą Psalmu 51, jest modlitwą grzesznika proszącego o miłosierdzie, tak jak celnik w świątyni.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "Dziękczynienie za Boże miłosierdzie, które wysłuchuje modlitwy pokornych, o czym zapewniają wszystkie czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili żyć w postawie pokory i wierności Bogu, jak św. Paweł z drugiego czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ewangelia mówi o wywyższeniu uniżonych. Ta pieśń o błogosławieństwach, zwłaszcza dla ubogich i cichych, idealnie pasuje do tej tematyki.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "W kontekście świadectwa św. Pawła o Bożej pomocy w trudnościach, ta pieśń jest wyrazem ufności w opiekę Pana.",
+      "moment": "ogolne"
     }
   ]
 }

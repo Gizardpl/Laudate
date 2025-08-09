@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415421.Wtorek-30-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 30 tydzień zwykły, Rok I",
+  "tytul_dnia": "30 Wtorek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 13, 18-21",
       "opis": "Przypowieści o ziarnku gorczycy i o zaczynie",
       "tekst": "Jezus mówił: «Do czego podobne jest królestwo Boże i z czym mam je porównać? Podobne jest do ziarnka gorczycy, które ktoś wziął i posiał w swoim ogrodzie. Wyrosło i stało się wielkim drzewem, tak że ptaki podniebne zagnieździły się na jego gałęziach».\nI mówił dalej: «Z czym mam porównać królestwo Boże? Podobne jest do zaczynu, który pewna kobieta wzięła i włożyła w trzy miary mąki, aż wszystko się zakwasiło».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu i wejścia do Jego domu, co jest zapowiedzią wejścia do Królestwa Bożego, o którym mówi Ewangelia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Wobec obrazu wzrastającego królestwa, ta pieśń jest prośbą o błogosławieństwo, abyśmy i my mogli wzrastać i przynosić owoc.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Przypowieść o zaczynie jest obrazem jednoczącej mocy królestwa. Ta pieśń mówi o Eucharystii, która nas jednoczy w jedno Ciało.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Dziękczynienie za wielkie rzeczy, które Pan uczynił dla nas, o czym śpiewa psalmista, a co jest zapowiedzią pełni chwały dzieci Bożych.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą do królestwa, które wzrasta jak ziarno gorczycy, by dać schronienie wszystkim.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pierwsze czytanie mówi o nadziei zbawienia. Ta pieśń jest wyznaniem, że naszą nadzieją na odkupienie ciała jest Chrystus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar bycia dziećmi Bożymi i nadzieję przyszłej chwały, o których pisze św. Paweł w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

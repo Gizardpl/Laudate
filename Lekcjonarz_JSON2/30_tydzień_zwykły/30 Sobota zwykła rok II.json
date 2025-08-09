@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415410.Sobota-30-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Sobota, 30 tydzień zwykły, Rok II",
+  "tytul_dnia": "30 Sobota zwykła rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 14, 1. 7-11",
       "opis": "Przypowieść o zaproszonych na ucztę",
       "tekst": "Gdy Jezus przyszedł do domu pewnego przywódcy faryzeuszów, aby w szabat spożyć posiłek, oni Go śledzili. \\Potem opowiedział zaproszonym przypowieść, gdy zauważył, jak sobie pierwsze miejsca wybierali. Tak mówił do nich:\n«Jeśli cię ktoś zaprosi na ucztę, nie zajmuj pierwszego miejsca, by przypadkiem ktoś znamienitszy od ciebie nie był zaproszony przez niego. Wówczas przyjdzie ten, kto was obu zaprosił, i powie ci: „Ustąp temu miejsca”, a wtedy musiałbyś ze wstydem zająć ostatnie miejsce. Lecz gdy będziesz zaproszony, idź i usiądź na ostatnim miejscu. A gdy przyjdzie ten, który cię zaprosił, powie ci: „Przyjacielu, przesiądź się wyżej”. I spotka cię zaszczyt wobec wszystkich współbiesiadników.\nKażdy bowiem, kto się wywyższa, będzie poniżony, a kto się uniża, będzie wywyższony».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ewangelia mówi o wywyższeniu uniżonych. Ta pieśń o błogosławieństwach, zwłaszcza dla cichych i pokornych, idealnie wprowadza w tę tematykę.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec słów św. Pawła 'Dla mnie żyć – to Chrystus', ta pieśń jest aktem ofiarowania siebie Bogu i wyboru Chrystusa jako jedynej wartości.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń jest parafrazą Psalmu 63, ale doskonale oddaje też treść psalmu responsoryjnego, mówiącego o tęsknocie duszy za Bogiem żywym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynienie za dar życia w Chrystusie, które, jak mówi św. Paweł, jest naszym największym zyskiem.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą, a życie z Nim polega na naśladowaniu Jego pokory, o której naucza w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie zjednoczenia z Chrystusem, które jest głównym motywem życia św. Pawła, opisanym w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar wiary i życia wiecznego, o którym z radością pisze św. Paweł do Filipian.",
+      "moment": "ogolne"
     }
   ]
 }

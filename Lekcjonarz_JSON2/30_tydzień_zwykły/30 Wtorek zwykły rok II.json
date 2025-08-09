@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415414.Wtorek-30-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 30 tydzień zwykły, Rok II",
+  "tytul_dnia": "30 Wtorek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 13, 18-21",
       "opis": "Przypowieści o ziarnku gorczycy i o zaczynie",
       "tekst": "Jezus mówił: «Do czego podobne jest królestwo Boże i z czym mam je porównać? Podobne jest do ziarnka gorczycy, które ktoś wziął i posiał w swoim ogrodzie. Wyrosło i stało się wielkim drzewem, tak że ptaki podniebne zagnieździły się na jego gałęziach».\nI mówił dalej: «Z czym mam porównać królestwo Boże? Podobne jest do zaczynu, który pewna kobieta wzięła i włożyła w trzy miary mąki, aż wszystko się zakwasiło».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta doskonale wpisuje się w treść pierwszego czytania o małżeństwie jako obrazie miłości Chrystusa i Kościoła.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Wobec obrazu wzrastającego królestwa, ta pieśń jest prośbą o błogosławieństwo, abyśmy i my mogli wzrastać i przynosić owoc w naszych rodzinach i wspólnotach.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Przypowieść o zaczynie jest obrazem jednoczącej mocy królestwa. Ta pieśń mówi o Eucharystii, która nas jednoczy w jedno Ciało - Kościół.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar Kościoła - Ciała Chrystusa, którego tajemnicę miłości ukazuje św. Paweł w obrazie małżeństwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń jest modlitwą o jedność i pokój dla Kościoła, który, jak ziarno gorczycy, ma wzrastać i dawać schronienie wszystkim.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "W kontekście pierwszego czytania o miłości małżeńskiej, ta pieśń jest modlitwą o jedność wszystkich wierzących w miłości Chrystusa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Psalm mówi o szczęściu człowieka, który służy Panu. Pieśń o błogosławieństwach jest nowotestamentowym rozwinięciem tej myśli.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415416.Sobota-30-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 30 tydzień zwykły, Rok I",
+  "tytul_dnia": "30 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 14, 1. 7-11",
       "opis": "Przypowieść o zaproszonych na ucztę",
       "tekst": "Gdy Jezus przyszedł do domu pewnego przywódcy faryzeuszów, aby w szabat spożyć posiłek, oni Go śledzili. Potem opowiedział zaproszonym przypowieść, gdy zauważył, jak sobie pierwsze miejsca wybierali. Tak mówił do nich:\n«Jeśli cię ktoś zaprosi na ucztę, nie zajmuj pierwszego miejsca, by przypadkiem ktoś znamienitszy od ciebie nie był zaproszony przez niego. Wówczas przyjdzie ten, kto was obu zaprosił, i powie ci: „Ustąp temu miejsca”, a wtedy musiałbyś ze wstydem zająć ostatnie miejsce. Lecz gdy będziesz zaproszony, idź i usiądź na ostatnim miejscu. A gdy przyjdzie ten, który cię zaprosił, powie ci: „Przyjacielu, przesiądź się wyżej”. I spotka cię zaszczyt wobec wszystkich współbiesiadników.\nKażdy bowiem, kto się wywyższa, będzie poniżony, a kto się uniża, będzie wywyższony».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ewangelia mówi o wywyższeniu uniżonych. Ta pieśń o błogosławieństwach, zwłaszcza dla cichych i pokornych, idealnie wprowadza w tę tematykę.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec nauki Jezusa o pokorze, ta pieśń jest aktem ofiarowania siebie Bogu, prosząc o serce wolne od pychy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Ewangelia mówi o uczcie. Komunia jest uczestnictwem w uczcie Pańskiej, na której ostatni stają się pierwszymi.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za nieodwołalne dary łaski i wezwanie Boże, o których zapewnia św. Paweł w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili żyć w pokorze, do której wzywa Ewangelia, i być wierni Bożemu wybraniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Psalm responsoryjny i pierwsze czytanie mówią o wierności Boga swojemu ludowi. Ta pieśń jest wyrazem ufności w tę niezawodną opiekę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą, a życie z Nim polega na naśladowaniu Jego pokory, o której naucza w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

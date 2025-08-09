@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415425.30-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "30 Niedziela zwykła, Rok A",
+  "tytul_dnia": "30 Niedziela zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 22, 34-40",
       "opis": "Największe przykazanie",
       "tekst": "Gdy faryzeusze posłyszeli, że zamknął usta saduceuszom, zebrali się razem, a jeden z nich, uczony w Prawie, wystawiając Go na próbę, zapytał: «Nauczycielu, które przykazanie w Prawie jest największe?»\nOn mu odpowiedział: «„Będziesz miłował Pana Boga swego całym swoim sercem, całą swoją duszą i całym swoim umysłem”. To jest największe i pierwsze przykazanie.\nDrugie podobne jest do niego: „Będziesz miłował swego bliźniego jak siebie samego”. Na tych dwóch przykazaniach zawisło całe Prawo i Prorocy».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "589",
+      "piesn": "Boże, kocham Cię!",
+      "opis": "Pieśń jest prostym i żarliwym wyznaniem miłości do Boga, co stanowi istotę pierwszego przykazania, o którym mówi Ewangelia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "W odpowiedzi na Ewangelię o przykazaniu miłości Boga i bliźniego, ta pieśń jest aktem ofiarowania naszej woli, by żyć tymi przykazaniami.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Krótka pieśń 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest kwintesencją dzisiejszej Ewangelii i pierwszego czytania o miłości bliźniego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem najwyższej chwały dla jedynego Boga, którego mamy miłować z całego serca, jak przypomina Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili w naszym życiu realizować wezwanie do miłości, zwłaszcza wobec ubogich i przybyszów.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem wiary w Chrystusa, który uczy nas miłości do Boga i bliźniego jako drogi do królestwa Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar wiary, która, jak mówi drugie czytanie, jest owocem nawrócenia się do Boga żywego i prawdziwego.",
+      "moment": "ogolne"
     }
   ]
 }
