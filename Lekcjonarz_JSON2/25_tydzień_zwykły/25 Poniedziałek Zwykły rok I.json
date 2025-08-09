@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418024.Poniedzialek-25-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 25 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418024.Poniedzialek-25-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "25 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -23,8 +24,52 @@
     {
       "typ": "EWANGELIA",
       "sigla": "Łk 8, 16-18",
-      "opis": "",
-      "tekst": "Przypowieść o lampie\nJezus powiedział do tłumów:\n«Nikt nie zapala lampy i nie przykrywa jej garncem ani nie stawia pod łóżkiem; lecz umieszcza na świeczniku, aby widzieli światło ci, którzy wchodzą. Nie ma bowiem nic skrytego, co by nie miało być ujawnione, ani nic tajemnego, co by nie było poznane i na jaw nie wyszło. Uważajcie więc, jak słuchacie. Bo kto ma, temu będzie dane; a kto nie ma, temu zabiorą nawet to, co mu się wydaje, że ma».\nOto słowo Pańskie."
+      "opis": "Przypowieść o lampie",
+      "tekst": "Jezus powiedział do tłumów:\n«Nikt nie zapala lampy i nie przykrywa jej garncem ani nie stawia pod łóżkiem; lecz umieszcza na świeczniku, aby widzieli światło ci, którzy wchodzą. Nie ma bowiem nic skrytego, co by nie miało być ujawnione, ani nic tajemnego, co by nie było poznane i na jaw nie wyszło. Uważajcie więc, jak słuchacie. Bo kto ma, temu będzie dane; a kto nie ma, temu zabiorą nawet to, co mu się wydaje, że ma».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń jest zaproszeniem do domu Pańskiego, co nawiązuje do powrotu z niewoli i odbudowy świątyni z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa za Kościół, nową Jerozolimę, jest odpowiedzią na Boże dzieło odbudowy opisane w Księdze Ezdrasza.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Eucharystia jest światłem, które Kościół stawia na świeczniku, aby oświecało wszystkich, jak mówi Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń ta oddaje wielką radość powracających z wygnania, o której śpiewa psalm responsoryjny.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń misyjna jest prośbą o błogosławieństwo na trud bycia światłem dla świata, do czego wzywa Ewangelia i aklamacja.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Radosna pieśń o królowaniu Pana pasuje do atmosfery dziękczynienia za powrót z niewoli i odnowę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Prosta pieśń dziękczynna jest odpowiedzią na wielkie dzieła, które Pan uczynił dla swojego ludu, jak opisuje psalm.",
+      "moment": "ogolne"
     }
   ]
 }

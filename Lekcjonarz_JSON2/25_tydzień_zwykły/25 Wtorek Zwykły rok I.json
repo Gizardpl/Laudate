@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418023.Wtorek-25-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 25 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418023.Wtorek-25-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "25 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 8, 19-21",
       "opis": "Krewni Chrystusa",
       "tekst": "Przyszli do Jezusa Jego Matka i bracia, lecz nie mogli dostać się do Niego z powodu tłumu.\nOznajmiono Mu: «Twoja Matka i bracia stoją na dworze i chcą się widzieć z Tobą». Lecz On im odpowiedział: «Moją matką i moimi braćmi są ci, którzy słuchają słowa Bożego i wypełniają je».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża radość z przebywania w domu Pana, co jest echem psalmu i pierwszego czytania o odbudowie i poświęceniu świątyni.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "691",
+      "piesn": "Z pokorą upadamy",
+      "opis": "Pieśń jest aktem pokory i ofiarowania w domu Bożym, co odpowiada postawie ludu podczas poświęcenia świątyni.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia tworzy nową rodzinę Bożą, o której mówi Jezus w Ewangelii – tych, którzy słuchają Słowa i je wypełniają.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa za Kościół, który jest nową świątynią i domem Pana, jest doskonałym uwielbieniem po Komunii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Maryja jest najdoskonalszym wzorem słuchania i wypełniania Słowa Bożego, co czyni Ją Matką Chrystusa w sposób duchowy, o czym mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Refren psalmu 'Idźmy z radością' znajduje swoje rozwinięcie w tej pieśni, która zaprasza do domu Pana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Prośba o umocnienie wiary jest kluczowa, abyśmy mogli, jak zachęca Ewangelia, słuchać Słowa Bożego i je wypełniać.",
+      "moment": "ogolne"
     }
   ]
 }

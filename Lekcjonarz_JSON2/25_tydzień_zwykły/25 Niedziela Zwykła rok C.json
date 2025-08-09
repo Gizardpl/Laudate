@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418025.25-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "25 Niedziela zwykła, Rok C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418025.25-Niedziela-zwykla-Rok-C",
+  "tytul_dnia": "25 Niedziela Zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Łk 16, 10-13",
       "opis": "",
       "tekst": "Jezus powiedział do uczniów:\n«Kto w bardzo małej sprawie jest wierny, ten i w wielkiej będzie wierny; a kto w bardzo małej sprawie jest nieuczciwy, ten i w wielkiej nieuczciwy będzie. Jeśli więc w zarządzaniu niegodziwą mamoną nie okazaliście się wierni, to kto wam prawdziwe dobro powierzy? Jeśli w zarządzaniu cudzym dobrem nie okazaliście się wierni, to któż wam da wasze?\nŻaden sługa nie może dwom panom służyć. Gdyż albo jednego będzie nienawidził, a drugiego miłował; albo z tamtym będzie trzymał, a tym wzgardzi. Nie możecie służyć Bogu i Mamonie!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwie ubogich stanowi doskonałe wprowadzenie w liturgię, która potępia gnębienie biednych i przywiązanie do bogactw.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Czwarta zwrotka tej pieśni mówi o odkupieniu grzechów przez jałmużnę i miłosierdzie, co jest praktyczną odpowiedzią na Ewangelię.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Aklamacja mówi o Chrystusie, który stał się ubogi; przyjęcie Go w Komunii jest źródłem siły do służenia Bogu, a nie mamonie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "776",
+      "piesn": "Wielbić Pana chcę",
+      "opis": "Prosta pieśń uwielbienia jest odpowiedzią na Psalm 113, który sławi Boga wywyższającego ubogich.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "528",
+      "piesn": "Pan mnie woła",
+      "opis": "Pieśń ta jest mocnym wezwaniem do dostrzegania potrzebujących i służenia im, co stanowi sedno dzisiejszych czytań.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "94",
+      "piesn": "O człowiecze, wspomnij sobie",
+      "opis": "Treść pieśni przypomina o marności dóbr doczesnych i konieczności szukania pojednania z Bogiem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń wyraża, że Bogu nie zależy na ofiarach materialnych, lecz na wdzięcznym sercu, co koresponduje z przestrogą przed służbą mamonie.",
+      "moment": "ogolne"
     }
   ]
 }

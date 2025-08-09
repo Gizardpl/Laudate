@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418015.Czwartek-25-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 25 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418015.Czwartek-25-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "25 Czwartek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 7-9",
       "opis": "Herod chce zobaczyć Jezusa",
       "tekst": "Tetrarcha Herod posłyszał o wszystkich cudach zdziałanych przez Chrystusa i był zaniepokojony. Niektórzy bowiem mówili, że Jan powstał z martwych; inni, że zjawił się Eliasz; jeszcze inni, że któryś z dawnych proroków zmartwychwstał.\nA Herod mówił: «Jana kazałem ściąć. Któż więc jest ten, o którym takie rzeczy słyszę?» I starał się Go zobaczyć.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "94",
+      "piesn": "O człowiecze, wspomnij sobie",
+      "opis": "Pieśń doskonale oddaje myśl przewodnią pierwszego czytania o marności i przemijalności świata.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Treść pieśni jest refleksją nad przemijaniem i pielgrzymim charakterem życia, co jest głównym tematem Księgi Koheleta.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Wobec marności świata, pieśń ta stanowi wyznanie wiary w Chrystusa jako jedyną trwałą wartość i odpowiedź na poszukiwania Heroda.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń wyraża ufność w Bożą Opatrzność jako jedyny stały punkt w przemijającym świecie, co jest myślą przewodnią psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Prośba o prowadzenie przez Boga jest wyrazem mądrości, o którą prosi psalmista w obliczu kruchości ludzkiego życia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń ta, wychwalając Boga Stwórcę, przeciwstawia Jego wieczne dzieła przemijającym sprawom ludzkim z Księgi Koheleta.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec poczucia marności i przemijania, pieśń ta jest wyrazem głębokiego zaufania Bogu, który jest wieczną ucieczką.",
+      "moment": "ogolne"
     }
   ]
 }

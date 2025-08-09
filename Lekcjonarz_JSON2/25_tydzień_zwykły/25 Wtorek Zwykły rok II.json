@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418017.Wtorek-25-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, 25 tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418017.Wtorek-25-tydzien-zwykly-rok-II",
+  "tytul_dnia": "25 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,7 +18,7 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Por. Łk 11, 28",
-      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "opis": "Aklamacja: Alleluja, alleluja, aleluja.",
       "tekst": "Błogosławieni ci, którzy słuchają słowa Bożego\ni zachowują je wiernie."
     },
     {
@@ -25,6 +26,50 @@
       "sigla": "Łk 8, 19-21",
       "opis": "Krewni Chrystusa",
       "tekst": "Przyszli do Jezusa Jego Matka i bracia, lecz nie mogli dostać się do Niego z powodu tłumu.\nOznajmiono Mu: «Twoja Matka i bracia stoją na dworze i chcą się widzieć z Tobą». Lecz On im odpowiedział: «Moją matką i moimi braćmi są ci, którzy słuchają słowa Bożego i wypełniają je».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń wyraża prośbę o Boże prowadzenie po Jego ścieżkach, co jest główną myślą psalmu responsoryjnego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń jest wezwaniem do życia zgodnego z wolą Bożą i wydawania owoców dobrych czynów, co jest wypełnieniem Słowa, o którym mówi Ewangelia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach podkreśla wartość czystego serca i sprawiedliwości, o których mówi pierwsze czytanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Prośba o umocnienie wiary jest niezbędna do tego, by móc słuchać Słowa Bożego i wypełniać je, stając się w ten sposób rodziną Jezusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Maryja jest najdoskonalszym przykładem słuchania i wypełniania woli Bożej, dlatego pieśń do Niej jest odpowiednia na zakończenie Mszy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń o miłości bliźniego jest praktycznym zastosowaniem wskazań mądrościowych z Księgi Przysłów.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia tworzy z nas jedną rodzinę – braci i siostry Jezusa, którzy słuchają Jego słowa.",
+      "moment": "ogolne"
     }
   ]
 }

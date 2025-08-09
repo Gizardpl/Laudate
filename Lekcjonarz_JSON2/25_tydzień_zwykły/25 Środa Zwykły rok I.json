@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418022.Sroda-25-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Środa, 25 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418022.Sroda-25-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "25 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 1-6",
       "opis": "Rozesłanie Dwunastu",
       "tekst": "Jezus zwołał Dwunastu, dał im moc i władzę nad wszystkimi złymi duchami oraz władzę leczenia chorób. I wysłał ich, aby głosili królestwo Boże i uzdrawiali chorych.\nMówił do nich: «Nie bierzcie nic na drogę: ani laski, ani torby podróżnej, ani chleba, ani pieniędzy; nie miejcie też po dwie suknie. Gdy do jakiegoś domu wejdziecie, pozostańcie tam i stamtąd będziecie wychodzić. Jeśliby was gdzieś nie przyjęli, wychodząc z tego miasta, strząśnijcie proch z nóg waszych na świadectwo przeciwko nim!» Wyszli więc i chodzili po wsiach, głosząc Ewangelię i uzdrawiając wszędzie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest wezwaniem do nawrócenia, co doskonale koresponduje z pokutną modlitwą Ezdrasza oraz psalmem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna, będąca prośbą o miłosierdzie, oddaje ducha pierwszego czytania i psalmu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń ta powtarza słowa aklamacji i jest streszczeniem misji, na którą Jezus posyła Dwunastu w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "199",
+      "piesn": "Bądź uwielbiony, miłosierny Boże",
+      "opis": "Hymn na cześć miłosierdzia Bożego jest doskonałym uwielbieniem po Komunii, w nawiązaniu do łaski przebaczenia, o której mówią czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna jest idealnym podsumowaniem i posłaniem na koniec Mszy, nawiązując bezpośrednio do Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Postawa syna marnotrawnego wyrażona w tej pieśni jest wzorem nawrócenia, do którego wzywa liturgia słowa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Prośba o umocnienie wiary jest konieczna do podjęcia misji głoszenia Królestwa, o której mówi Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

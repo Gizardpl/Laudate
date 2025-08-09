@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418016.Sroda-25-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 25 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418016.Sroda-25-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "25 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 1-6",
       "opis": "Rozesłanie Dwunastu",
       "tekst": "Jezus zwołał Dwunastu, dał im moc i władzę nad wszystkimi złymi duchami oraz władzę leczenia chorób. I wysłał ich, aby głosili królestwo Boże i uzdrawiali chorych.\nMówił do nich: «Nie bierzcie nic na drogę: ani laski, ani torby podróżnej, ani chleba, ani pieniędzy; nie miejcie też po dwie suknie. Gdy do jakiegoś domu wejdziecie, pozostańcie tam i stamtąd będziecie wychodzić. Jeśliby was gdzieś nie przyjęli, wychodząc z tego miasta, strząśnijcie proch z nóg waszych na świadectwo przeciwko nim!» Wyszli więc i chodzili po wsiach, głosząc Ewangelię i uzdrawiając wszędzie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest bezpośrednim odniesieniem do Ewangelii, w której Jezus posyła Dwunastu, aby głosili Królestwo Boże.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwie ubogich nawiązuje do postawy apostołów posłanych bez pieniędzy i torby, a także do modlitwy z Księgi Przysłów o życie w umiarze.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Przyjęcie Chrystusa w Komunii jest źródłem siły dla apostołów, którzy idą głosić Ewangelię i uzdrawiać.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Wiara w Słowo Boże, o której mówi pierwsze czytanie i psalm, jest fundamentem misji apostolskiej.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń misyjna jest doskonałym podsumowaniem dnia, w którym Ewangelia mówi o rozesłaniu uczniów.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą Opatrzność jest szczególnie adekwatna dla uczniów, których Jezus posyła bez żadnych zabezpieczeń materialnych.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Treść pieśni jest echem aklamacji i streszczeniem orędzia, które apostołowie mieli głosić.",
+      "moment": "ogolne"
     }
   ]
 }

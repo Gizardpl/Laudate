@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/418021.Czwartek-25-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 25 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418021.Czwartek-25-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "25 Czwartek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 7-9",
       "opis": "Herod chce zobaczyć Jezusa",
       "tekst": "Tetrarcha Herod posłyszał o wszystkich cudach zdziałanych przez Chrystusa i był zaniepokojony. Niektórzy bowiem mówili, że Jan powstał z martwych; inni, że zjawił się Eliasz; jeszcze inni, że któryś z dawnych proroków zmartwychwstał.\nA Herod mówił: «Jana kazałem ściąć. Któż więc jest ten, o którym takie rzeczy słyszę?» I starał się Go zobaczyć.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża miłość do domu Bożego i radość z przebywania w nim, co bezpośrednio nawiązuje do wezwania do odbudowy świątyni z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Prośba o błogosławieństwo na 'pracę i znojny trud' idealnie pasuje do tematu odbudowy świątyni, która wymagała wielkiego wysiłku.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "247",
+      "piesn": "Jezusa ukrytego",
+      "opis": "Eucharystia jest obecnością Chrystusa w nowej świątyni, a pragnienie Heroda, by zobaczyć Jezusa, znajduje swoje spełnienie w adoracji.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Radosny charakter tej pieśni odpowiada wezwaniu psalmu do radowania się w swoim Stwórcy i Królu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń jest modlitwą za Kościół, który jest nowym domem Bożym, o którego odbudowę i cześć w nim zabiegał prorok Aggeusz.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest zaproszeniem do gromadzenia się w domu Pańskim, co jest głównym tematem pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Wyraża tęsknotę za Bogiem i pragnienie oglądania Jego chwały, co odzwierciedla postawę Heroda, choć z innej motywacji.",
+      "moment": "ogolne"
     }
   ]
 }
