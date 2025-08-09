@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/412862.Sobota-po-Popielcu",
   "tytul_dnia": "Sobota po Popielcu",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 5, 27-32",
       "opis": "Nie przyszedłem wezwać do nawrócenia sprawiedliwych, lecz grzeszników",
       "tekst": "Jezus zobaczył celnika, imieniem Lewi, siedzącego na komorze celnej. Rzekł do niego: «Pójdź za Mną!» On zostawił wszystko, wstał i z Nim poszedł.\nPotem Lewi wydał dla Niego wielkie przyjęcie u siebie w domu; a był spory tłum celników oraz innych ludzi, którzy zasiadali z nimi do stołu. Na to szemrali faryzeusze i uczeni ich w Piśmie, mówiąc do Jego uczniów: «Dlaczego jecie i pijecie z celnikami i grzesznikami?»\nLecz Jezus im odpowiedział: «Nie potrzebują lekarza zdrowi, ale ci, którzy się źle mają. Nie przyszedłem powołać do nawrócenia się sprawiedliwych, lecz grzeszników».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń ta wprost wzywa do nawrócenia, co jest głównym tematem Ewangelii, w której Jezus powołuje grzesznika Lewiego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń opowiada o powrocie syna marnotrawnego, co symbolizuje postawę Lewiego, który 'zostawił wszystko, wstał i z Nim poszedł'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń jest wyrazem tęsknoty za Bogiem i prośbą o Jego miłosierdzie, co jest postawą grzesznika przychodzącego do Jezusa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "107",
+      "piesn": "O Boże mój, o Zbawicielu mój",
+      "opis": "Pieśń dziękczynna za Boże miłosierdzie i przebaczenie, które stało się udziałem celników i grzeszników zasiadających z Jezusem.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stórco",
+      "opis": "Pieśń pokutna, która wpisuje się w charakter Wielkiego Postu i prosi o zmiłowanie, o którym Jezus mówi w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń ta jest wezwaniem do nawrócenia, które łączy się z uczynkami miłosierdzia, opisanymi w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Pieśń wyraża ufność w Boże przebaczenie, które jest dostępne dla każdego grzesznika powołanego przez Jezusa.",
+      "moment": "ogolne"
     }
   ]
 }

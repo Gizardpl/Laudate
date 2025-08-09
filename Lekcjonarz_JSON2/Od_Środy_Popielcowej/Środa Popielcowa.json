@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/412857.Sroda-Popielcowa",
   "tytul_dnia": "Środa Popielcowa",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -30,7 +31,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 6, 1-6. 16-18",
       "opis": "Ojciec twój, który widzi w ukryciu, odda tobie",
-      "tekst": "Jezus powiedział do swoich uczniów:\n«Strzeżcie się, żebyście uczynków pobożnych nie wykonywali przed ludźmi po to, aby was widzieli; inaczej bowiem nie będziecie mieli nagrody u Ojca waszego, który jest w niebie.\nKiedy więc dajesz jałmużnę, nie trąb przed sobą, jak obłudnicy czynią w synagogach i na ulicach, aby ich ludzie chwalili. Zaprawdę, powiadam wam: ci otrzymali już swoją nagrodę. Kiedy zaś ty dajesz jałmużnę, niech nie wie lewa twoja ręka, co czyni prawa, aby twoja jałmużna pozostała w ukryciu. A .\nGdy się modlicie, nie bądźcie jak obłudnicy. Oni to lubią w synagogach i na rogach ulic wystawać i modlić się, żeby się ludziom pokazać. Zaprawdę, powiadam wam: otrzymali już swoją nagrodę. Ty zaś, gdy chcesz się modlić, wejdź do swej izdebki, zamknij drzwi i módl się do Ojca twego, który jest w ukryciu. A .\nKiedy pościcie, nie bądźcie posępni jak obłudnicy. Przybierają oni wygląd ponury, aby pokazać ludziom, że poszczą. Zaprawdę, powiadam wam, już odebrali swoją nagrodę. Ty zaś, gdy pościsz, namaść sobie głowę i obmyj twarz, aby nie ludziom pokazać, że pościsz, ale Ojcu twemu, który jest w ukryciu. A ».\nOto słowo Pańskie."
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Strzeżcie się, żebyście uczynków pobożnych nie wykonywali przed ludzmi po to, aby was widzieli; inaczej bowiem nie będziecie mieli nagrody u Ojca waszego, który jest w niebie.\nKiedy więc dajesz jałmużnę, nie trąb przed sobą, jak obłudnicy czynią w synagogach i na ulicach, aby ich ludzie chwalili. Zaprawdę, powiadam wam: ci otrzymali już swoją nagrodę. Kiedy zaś ty dajesz jałmużnę, niech nie wie lewa twoja ręka, co czyni prawa, aby twoja jałmużna pozostała w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie.\nGdy się modlicie, nie bądźcie jak obłudnicy. Oni to lubią w synagogach i na rogach ulic wystawać i modlić się, żeby się ludziom pokazać. Zaprawdę, powiadam wam: otrzymali już swoją nagrodę. Ty zaś, gdy chcesz się modlić, wejdź do swej izdebki, zamknij drzwi i módl się do Ojca twego, który jest w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie.\nKiedy pościcie, nie bądźcie posępni jak obłudnicy. Przybierają oni wygląd ponury, aby pokazać ludziom, że poszczą. Zaprawdę, powiadam wam, już odebrali swoją nagrodę. Ty zaś, gdy pościsz, namaść sobie głowę i obmyj twarz, aby nie ludziom pokazać, że pościsz, ale Ojcu twemu, który jest w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "95",
+      "piesn": "Posypmy głowy popiołem",
+      "opis": "Pieśń ta wprost odnosi się do obrzędu Środy Popielcowej i wzywa do pokuty, co jest głównym tematem tego dnia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
+      "opis": "Jest to tradycyjna suplikacja, która może być śpiewana podczas obrzędu posypania głów popiołem, jako błaganie o Boże miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń jest parafrazą Psalmu 51, który jest psalmem responsoryjnym w dzisiejszej liturgii, wyrażając skruchę i prośbę o przebaczenie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "115",
+      "piesn": "Wysłuchaj, Panie",
+      "opis": "Pieśń jest błaganiem o przebaczenie i nawiązuje do wezwania z pierwszego czytania: 'Nawróćcie się do Mnie całym swym sercem'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "94",
+      "piesn": "O człowiecze, wspomnij sobie",
+      "opis": "Pieśń ta przypomina o przemijalności ludzkiego życia i konieczności pokuty, co jest centralnym przesłaniem Środy Popielcowej.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "100",
+      "piesn": "Boże litościwy, zmiłuj się nade mną!",
+      "opis": "Kolejna pieśń oparta na Psalmie 51, podkreślająca potrzebę oczyszczenia z grzechów na początku Wielkiego Postu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń wzywa do nawrócenia przez post, płacz i żal, co jest dosłownym echem pierwszego czytania z Księgi Joela.",
+      "moment": "ogolne"
     }
   ]
 }
