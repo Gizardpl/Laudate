@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413538.Sobota-VII-tygodnia-wielkanocnego",
-  "tytul_dnia": "Sobota VII tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413538.Sobota-VII-tygodnia-wielkanocnego",
+  "tytul_dnia": "7 Sobota Wielkanocna",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 21, 20-25",
       "opis": "Świadectwo św. Jana Apostoła",
       "tekst": "Gdy Jezus zmartwychwstały ukazał się uczniom nad jeziorem Genezaret, Piotr, obróciwszy się, zobaczył idącego za sobą ucznia, którego miłował Jezus, a który to w czasie uczty spoczywał na Jego piersi, i powiedział: «Panie, któż jest ten, który Cię zdradzi?»\nGdy więc go Piotr ujrzał, rzekł do Jezusa: «Panie, a co z tym będzie?»\nOdpowiedział mu Jezus: «Jeżeli chcę, aby pozostał, aż przyjdę, to cóż tobie do tego? Ty pójdź za Mną!»\nRozeszła się wśród braci wieść, że uczeń ów nie umrze. Ale Jezus nie powiedział mu, że nie umrze, lecz: «Jeśli Ja chcę, aby pozostał, aż przyjdę, to cóż tobie do tego?»\nTen właśnie uczeń daje świadectwo o tych sprawach, i on je opisał. A wiemy, że świadectwo jego jest prawdziwe.\nJest ponadto wiele innych rzeczy, których Jezus dokonał, a które gdyby je szczegółowo opisać, to sądzę, że cały świat nie pomieściłby ksiąg, jakie trzeba by napisać.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Radosna pieśń wielkanocna, która podkreśla misyjny charakter Kościoła, o którym świadczy działalność Pawła w Rzymie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest echem misyjnego zapału św. Pawła, który nawet w więzieniu głosił królestwo Boże.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Nawiązuje do wezwania Jezusa skierowanego do Piotra: 'Ty pójdź za Mną!', ukazując Chrystusa jako przewodnika życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "189",
+      "piesn": "Pan zmartwychwstał",
+      "opis": "Jest to pieśń uwielbienia za Zmartwychwstanie, które jest fundamentem nadziei Izraela, o której mówi Paweł.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Wyraża osobistą odpowiedź na wezwanie 'Pójdź za Mną', prosząc o Boże prowadzenie na drodze świadectwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Klasyczna pieśń wielkanocna, która głosi prawdę, będącą w centrum nauczania św. Pawła.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "W wigilię Zesłania Ducha Świętego, ta pieśń jest modlitwą o Ducha Prawdy, obiecanego w aklamacji.",
+      "moment": "ogolne"
     }
   ]
 }

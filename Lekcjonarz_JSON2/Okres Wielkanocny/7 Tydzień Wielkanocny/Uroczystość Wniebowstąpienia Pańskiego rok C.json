@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413529.Uroczystosc-Wniebowstapienia-Panskiego-rok-C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413529.Uroczystosc-Wniebowstapienia-Panskiego-rok-C",
   "tytul_dnia": "Uroczystość Wniebowstąpienia Pańskiego rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 24, 46-53",
       "opis": "Jezus został uniesiony do nieba",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Tak jest napisane: Mesjasz będzie cierpiał i trzeciego dnia zmartwychwstanie; w imię Jego głoszone będzie nawrócenie i odpuszczenie grzechów wszystkim narodom, począwszy od Jeruzalem. Wy jesteście świadkami tego.\nOto Ja ześlę na was obietnicę mojego Ojca. Wy zaś pozostańcie w mieście, aż będziecie przyobleczeni w moc z wysoka».\nPotem wyprowadził ich ku Betanii i podniósłszy ręce, błogosławił ich. A kiedy ich błogosławił, rozstał się z nimi i został uniesiony do nieba.\nOni zaś oddali Mu pokłon i z wielką radością wrócili do Jeruzalem, gdzie stale przebywali w świątyni, wielbiąc i błogosławiąc Boga.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "210",
+      "piesn": "Chrystus Pan w niebo wstępuje",
+      "opis": "Jest to pieśń, która wprost opisuje tajemnicę Wniebowstąpienia, idealna na rozpoczęcie liturgii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "213",
+      "piesn": "Zaświtał blaskiem",
+      "opis": "Pieśń ta podkreśla, że Wniebowstąpienie otwiera nam drogę do nieba, co jest myślą z drugiego czytania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Nawiązuje do drugiego czytania, które przedstawia Chrystusa jako Arcykapłana wchodzącego do niebieskiej świątyni.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Pieśń ta sławi Chrystusa jako Króla wiecznej chwały, co doskonale oddaje treść psalmu i opis Wniebowstąpienia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Bezpośrednio nawiązuje do misyjnego nakazu Chrystusa, który jest centralnym przesłaniem uroczystości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "212",
+      "piesn": "Otoczon gronem świętych",
+      "opis": "Pieśń ta opisuje chwałę Wniebowstąpienia i zapowiada powtórne przyjście Chrystusa, o czym mówią aniołowie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Podkreśla królewską władzę Chrystusa, który wstąpił do nieba, aby królować nad narodami.",
+      "moment": "ogolne"
     }
   ]
 }

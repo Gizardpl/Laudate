@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413530.Poniedzialek-VII-tygodnia-wielkanocnego",
-  "tytul_dnia": "Poniedziałek VII tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413530.Poniedzialek-VII-tygodnia-wielkanocnego",
+  "tytul_dnia": "7 Poniedziałek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 29-33",
       "opis": "Odwagi, Ja zwyciężyłem świat",
       "tekst": "Uczniowie rzekli do Jezusa: «Oto teraz mówisz otwarcie i nie opowiadasz żadnej przypowieści. Teraz wiemy, że wszystko wiesz i nie potrzeba, aby Cię kto pytał. Dlatego wierzymy, że od Boga wyszedłeś».\nOdpowiedział im Jezus: «Teraz wierzycie? Oto nadchodzi godzina, a nawet już nadeszła, że się rozproszycie – każdy w swoją stronę, a Mnie zostawicie samego. Ale Ja nie jestem sam, bo Ojciec jest ze Mną.\nTo wam powiedziałem, abyście pokój we Mnie mieli. Na świecie doznacie ucisku, ale odwagi! Ja zwyciężyłem świat».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń ta doskonale oddaje słowa Jezusa z Ewangelii: 'Odwagi! Ja zwyciężyłem świat'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Nawiązuje do pierwszego czytania, gdzie apostołowie udzielają Ducha Świętego przez nałożenie rąk.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "771",
+      "piesn": "Ty dasz mi pokój serca",
+      "opis": "Jest to bezpośrednia odpowiedź na obietnicę Jezusa: 'To wam powiedziałem, abyście pokój we Mnie mieli'.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń ta jest echem psalmu, który wzywa do radosnego śpiewu na cześć Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "769",
+      "piesn": "Pan jest mocą",
+      "opis": "Wyraża siłę i odwagę, którą daje wierzącym zwycięstwo Chrystusa nad światem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Jest to klasyczny hymn do Ducha Świętego, którego otrzymanie jest centralnym punktem pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "175",
+      "piesn": "Alleluja! Jezus żyje, On",
+      "opis": "Radosna pieśń wielkanocna, która jest fundamentem odwagi chrześcijańskiej, o której mówi Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

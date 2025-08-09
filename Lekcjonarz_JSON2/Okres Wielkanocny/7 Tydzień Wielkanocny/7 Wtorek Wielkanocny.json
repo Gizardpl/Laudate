@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413532.Wtorek-VII-tygodnia-wielkanocnego",
-  "tytul_dnia": "Wtorek VII tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413532.Wtorek-VII-tygodnia-wielkanocnego",
+  "tytul_dnia": "7 Wtorek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 17, 1-11a",
       "opis": "Ojcze, otocz swego Syna chwałą",
       "tekst": "W czasie Ostatniej Wieczerzy Jezus, podniósłszy oczy ku niebu, rzekł:\n«Ojcze, nadeszła godzina. Otocz swego Syna chwałą, aby Syn Ciebie nią otoczył i aby mocą władzy udzielonej Mu przez Ciebie nad każdym człowiekiem dał życie wieczne wszystkim tym, których Mu dałeś. A to jest życie wieczne: aby znali Ciebie, jedynego prawdziwego Boga, oraz Tego, którego posłałeś, Jezusa Chrystusa.\nJa Ciebie otoczyłem chwałą na ziemi przez to, że wypełniłem dzieło, które Mi dałeś do wykonania. A teraz Ty, Ojcze, otocz Mnie u siebie tą chwałą, którą miałem u Ciebie wpierw, zanim świat powstał.\nObjawiłem imię Twoje ludziom, których Mi dałeś ze świata. Twoimi byli i Ty Mi ich dałeś, a oni zachowali słowo Twoje. Teraz poznali, że wszystko, cokolwiek Mi dałeś, pochodzi od Ciebie. Słowa bowiem, które Mi powierzyłeś, im przekazałem, a oni je przyjęli i prawdziwie poznali, że od Ciebie wyszedłem, oraz uwierzyli, że Ty Mnie posłałeś.\nJa za nimi proszę, nie proszę za światem, ale za tymi, których Mi dałeś, ponieważ są Twoimi. Wszystko bowiem moje jest Twoje, a Twoje jest moje, i w nich zostałem otoczony chwałą. Już nie jestem na świecie, ale oni są jeszcze na świecie, a Ja idę do Ciebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Pieśń ta jest hymnem na cześć Chrystusa, którego otacza chwałą Ojciec, o co modli się Jezus w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę św. Pawła, który nie cenił sobie życia, byle tylko dokończyć posługiwanie otrzymane od Pana.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "275",
+      "piesn": "To Ty, o Panie, Chlebie nasz",
+      "opis": "Podkreśla, że Chrystus daje życie wieczne, o które prosi dla swoich uczniów w modlitwie arcykapłańskiej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Jest to radosna pieśń chwały, która jest odpowiedzią na wezwanie psalmu: 'Śpiewajcie Bogu, wszystkie ludy ziemi'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta odzwierciedla misyjny charakter życia św. Pawła i wszystkich uczniów posłanych przez Chrystusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "189",
+      "piesn": "Pan zmartwychwstał",
+      "opis": "Radosna pieśń wielkanocna, która jest fundamentem wiary, głoszonej przez Pawła aż do końca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Jest to modlitwa o Ducha Świętego, który przynaglał Pawła do działania i o którego Jezus prosi Ojca dla uczniów.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413523.Uroczystosc-Wniebowstapienia-Panskiego-rok-A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413523.Uroczystosc-Wniebowstapienia-Panskiego-rok-A",
   "tytul_dnia": "Uroczystość Wniebowstąpienia Pańskiego rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -30,7 +31,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 28, 16-20",
       "opis": "Dana Mi jest wszelka władza w niebie i na ziemi",
-      "tekst": "Jedenastu uczniów udało się do Galilei, na górę, tam gdzie Jezus im polecił. A gdy Go ujrzeli, oddali Mu pokłon. Niektórzy jednak wątpili. Wtedy Jezus podszedł do nich i przemówił tymi słowami:\n«. Idźcie więc i nauczajcie wszystkie narody, udzielając im chrztu w imię Ojca i Syna, i Ducha Świętego. Uczcie je zachowywać wszystko, co wam przykazałem. A oto Ja jestem z wami przez wszystkie dni, aż do skończenia świata».\nOto słowo Pańskie."
+      "tekst": "Jedenastu uczniów udało się do Galilei, na górę, tam gdzie Jezus im polecił. A gdy Go ujrzeli, oddali Mu pokłon. Niektórzy jednak wątpili. Wtedy Jezus podszedł do nich i przemówił tymi słowami:\n«Dana Mi jest wszelka władza w niebie i na ziemi. Idźcie więc i nauczajcie wszystkie narody, udzielając im chrztu w imię Ojca i Syna, i Ducha Świętego. Uczcie je zachowywać wszystko, co wam przykazałem. A oto Ja jestem z wami przez wszystkie dni, aż do skończenia świata».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "210",
+      "piesn": "Chrystus Pan w niebo wstępuje",
+      "opis": "Jest to klasyczna pieśń na Wniebowstąpienie, która wprost opisuje wydarzenie z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "212",
+      "piesn": "Otoczon gronem świętych",
+      "opis": "Pieśń ta opisuje chwałę Wniebowstąpienia i zapowiada powtórne przyjście Chrystusa, o czym mówią aniołowie w Dziejach Apostolskich.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "211",
+      "piesn": "Ciesz się, Królowo Anielska",
+      "opis": "Jest to maryjna pieśń wielkanocna, która w kontekście Wniebowstąpienia wyraża radość z tryumfu Jej Syna.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "213",
+      "piesn": "Zaświtał blaskiem",
+      "opis": "Hymn ten podkreśla, że Wniebowstąpienie jest nadzieją dla wszystkich ludzi i otwiera bramy raju.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Bezpośrednio nawiązuje do misyjnego nakazu Chrystusa z Ewangelii, który jest centralnym przesłaniem uroczystości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Pieśń ta sławi Chrystusa jako Króla wiecznej chwały, co doskonale oddaje treść psalmu i drugiego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Podkreśla królewską władzę Chrystusa, o której mowa w Ewangelii: 'Dana Mi jest wszelka władza w niebie i na ziemi'.",
+      "moment": "ogolne"
     }
   ]
 }
