@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412879.II-Niedziela-Wielkiego-Postu-rok-A",
-  "tytul_dnia": "II Niedziela Wielkiego Postu rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412879.II-Niedziela-Wielkiego-Postu-rok-A",
+  "tytul_dnia": "2 Niedziela Wielkiego Postu rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,8 +18,8 @@
     {
       "typ": "DRUGIE CZYTANIE",
       "sigla": "2 Tm 1, 8b-10",
-      "opis": "",
-      "tekst": "Bóg nas powołuje i oświeca Najdroższy:\n\nWeź udział w trudach i przeciwnościach znoszonych dla Ewangelii mocą Bożą! On nas wybawił i wezwał świętym powołaniem nie na podstawie naszych czynów, lecz stosownie do własnego postanowienia i łaski, która nam dana została w Chrystusie Jezusie przed wiecznymi czasami. Ukazana zaś została ona teraz przez pojawienie się naszego Zbawiciela, Chrystusa Jezusa, który zniweczył śmierć, a na życie i nieśmiertelność rzucił światło przez Ewangelię. Oto słowo Boże."
+      "opis": "Bóg nas powołuje i oświeca",
+      "tekst": "Najdroższy:\n\nWeź udział w trudach i przeciwnościach znoszonych dla Ewangelii mocą Bożą! On nas wybawił i wezwał świętym powołaniem nie na podstawie naszych czynów, lecz stosownie do własnego postanowienia i łaski, która nam dana została w Chrystusie Jezusie przed wiecznymi czasami. Ukazana zaś została ona teraz przez pojawienie się naszego Zbawiciela, Chrystusa Jezusa, który zniweczył śmierć, a na życie i nieśmiertelność rzucił światło przez Ewangelię. Oto słowo Boże."
     },
     {
       "typ": "AKLAMACJA",
@@ -31,6 +32,50 @@
       "sigla": "Mt 17, 1-9",
       "opis": "Czystość duszy zapewnia oglądanie chwały Boga",
       "tekst": "Jezus wziął z sobą Piotra, Jakuba oraz brata jego, Jana, i zaprowadził ich na górę wysoką, osobno. Tam przemienił się wobec nich: twarz Jego zajaśniała jak słońce, odzienie zaś stało się białe jak światło. A oto ukazali się im Mojżesz i Eliasz, rozmawiający z Nim. Wtedy Piotr rzekł do Jezusa: «Panie, dobrze, że tu jesteśmy; jeśli chcesz, postawię tu trzy namioty: jeden dla Ciebie, jeden dla Mojżesza i jeden dla Eliasza». Gdy on jeszcze mówił, oto obłok świetlany osłonił ich, a z obłoku odezwał się głos: «To jest mój Syn umiłowany, w którym mam upodobanie, Jego słuchajcie!» Uczniowie, słysząc to, upadli na twarz i bardzo się zlękli. A Jezus zbliżył się do nich, dotknął ich i rzekł: «Wstańcie, nie lękajcie się!» Gdy podnieśli oczy, nikogo nie widzieli, tylko samego Jezusa. A gdy schodzili z góry, Jezus przykazał im, mówiąc: «Nie opowiadajcie nikomu o tym widzeniu, aż Syn Człowieczy zmartwychwstanie». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń ta wyraża postawę modlitwy i wstępowania na górę spotkania z Bogiem, co jest centralnym obrazem Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Wyraża postawę zaufania Bogu, podobną do zaufania Abrama z pierwszego czytania, który wyruszył w drogę posłuszny Panu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "306",
+      "piesn": "Najsłodszy Jezu",
+      "opis": "Jest to pieśń bezpośrednio odnosząca się do tajemnicy Przemienienia Pańskiego, opisanej w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "307",
+      "piesn": "O Jezu, Światło ze Światłości",
+      "opis": "Hymn ten jest uwielbieniem Chrystusa, którego chwała objawiła się na górze Tabor uczniom.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "308",
+      "piesn": "Ty, któryś Synem jest Boga",
+      "opis": "Pieśń ta stanowi podsumowanie teologiczne wydarzenia Przemienienia i jest dobrym akcentem na zakończenie liturgii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Przemienienie jest zapowiedzią chwały Królestwa, do którego jesteśmy wezwani przez wiarę i nawrócenie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Ogólna pieśń wielkopostna, która przypomina o pokutnym charakterze okresu, w którym wspominamy Przemienienie.",
+      "moment": "ogolne"
     }
   ]
 }

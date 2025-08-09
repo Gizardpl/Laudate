@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412886.Wtorek-II-tygodnia-Wielkiego-Postu",
-  "tytul_dnia": "Wtorek II tygodnia Wielkiego Postu",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412886.Wtorek-II-tygodnia-Wielkiego-Postu",
+  "tytul_dnia": "2 Wtorek Wielkiego Postu",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,14 +18,58 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Ez 18, 31ac",
-      "opis": "",
-      "tekst": "Aklamacja: Chwała Tobie, Królu wieków.\nOdrzućcie od siebie wszystkie grzechy\n\ni uczyńcie sobie nowe serce i nowego ducha.\nAklamacja: Chwała Tobie, Królu wieków."
+      "opis": "Aklamacja: Chwała Tobie, Królu wieków.",
+      "tekst": "Odrzućcie od siebie wszystkie grzechy\n\ni uczyńcie sobie nowe serce i nowego ducha."
     },
     {
       "typ": "EWANGELIA",
       "sigla": "Mt 23, 1-12",
       "opis": "Strzeżcie się pychy i obłudy",
       "tekst": "Jezus przemówił do tłumów i do swych uczniów tymi słowami: «Na katedrze Mojżesza zasiedli uczeni w Piśmie i faryzeusze. Czyńcie więc i zachowujcie wszystko, co wam polecą, lecz uczynków ich nie naśladujcie. Mówią bowiem, ale sami nie czynią. Wiążą ciężary wielkie i nie do uniesienia i kładą je ludziom na ramiona, lecz sami palcem ruszyć ich nie chcą. Wszystkie swe uczynki spełniają w tym celu, żeby się ludziom pokazać. Rozszerzają swoje filakterie i wydłużają frędzle u płaszczów. Lubią zaszczytne miejsca na ucztach i pierwsze krzesła w synagogach. Chcą, by ich pozdrawiano na rynkach i żeby ludzie nazywali ich Rabbi. A wy nie pozwalajcie nazywać się Rabbi, albowiem jeden jest wasz Nauczyciel, a wy wszyscy jesteście braćmi. Nikogo też na ziemi nie nazywajcie waszym ojcem; jeden bowiem jest Ojciec wasz, Ten w niebie. Nie chciejcie również, żeby was nazywano mistrzami, bo jeden jest tylko wasz Mistrz, Chrystus. Największy z was niech będzie waszym sługą. Kto się wywyższa, będzie poniżony, a kto się poniża, będzie wywyższony». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Pieśń ta wzywa do postawy pokory, która jest przeciwieństwem pychy i obłudy faryzeuszów z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "99",
+      "piesn": "Boże, coś przyrzekł",
+      "opis": "Utwór jest modlitwą o wewnętrzną przemianę i czystość serca, o której mówi prorok Izajasz.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "107",
+      "piesn": "O Boże mój, o Zbawicielu mój",
+      "opis": "Prośba o czyste serce i siłę ducha jest odpowiedzią na wezwanie do autentycznej, a nie pozornej pobożności.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń ta sławi Boga, który ceni skruszone serce ponad zewnętrzne ofiary, o czym przypomina psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Utwór ten przypomina o błogosławieństwie cichych i pokornego serca, co jest drogą wskazaną przez Jezusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna, która jest wyrazem szczerego nawrócenia, do którego wzywa prorok Izajasz.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Hymn wielkopostny prosi o łaskę oczyszczenia ciała i myśli, aby uniknąć obłudy potępionej przez Jezusa.",
+      "moment": "ogolne"
     }
   ]
 }
