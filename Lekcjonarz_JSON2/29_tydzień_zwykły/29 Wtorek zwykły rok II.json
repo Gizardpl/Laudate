@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415669.Wtorek-29-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 29 tydzień zwykły, Rok II",
+  "tytul_dnia": "29 Wtorek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 12, 35-38",
       "opis": "Oczekiwanie powrotu Pana",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Niech będą przepasane biodra wasze i zapalone pochodnie. A wy bądźcie podobni do ludzi oczekujących swego pana, kiedy z uczty weselnej powróci, aby mu zaraz otworzyć, gdy nadejdzie i zakołacze. Szczęśliwi owi słudzy, których pan zastanie czuwających, gdy nadejdzie. Zaprawdę, powiadam wam: Przepasze się i każe im zasiąść do stołu, a obchodząc, będzie im usługiwał. Czy o drugiej, czy o trzeciej straży przyjdzie, szczęśliwi oni, gdy ich tak zastanie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu, co jest postawą sług czuwających na powrót pana z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec wezwania do czuwania, ta pieśń jest aktem ofiarowania Bogu całego siebie, by być gotowym na Jego przyjście.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary i zaufania Panu, co jest postawą wiernego sługi, czuwającego na przyjście Pana.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Dziękczynienie za dar pokoju i jedności w Chrystusie, o którym mówi pierwsze czytanie, i modlitwa o te dary dla Kościoła.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "631",
+      "piesn": "Wszystkie nasze dzienne sprawy",
+      "opis": "Pieśń wieczorna, wzywająca do czuwania, jest doskonałym posłaniem na zakończenie Mszy, w której słyszymy 'Szczęśliwi owi słudzy, których pan zastanie czuwających'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "778",
+      "piesn": "Zostań tu",
+      "opis": "Krótka, medytacyjna pieśń, która jest odpowiedzią na wezwanie Jezusa do czuwania i modlitwy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń podkreśla, że w Eucharystii tworzymy jedno Ciało, co jest owocem pokoju, który zwiastował Chrystus, jak mówi pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

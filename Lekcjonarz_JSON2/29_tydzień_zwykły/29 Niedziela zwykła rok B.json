@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415678.29-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "29 Niedziela zwykła, Rok B",
+  "tytul_dnia": "29 Niedziela zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Mk 10, 42-45",
       "opis": "",
       "tekst": "Jezus, przywoławszy Dwunastu, powiedział do nich:\n«Wiecie, że ci, którzy uchodzą za władców narodów, uciskają je, a ich wielcy dają im odczuć swą władzę. Nie tak będzie między wami. Lecz kto by między wami chciał się stać wielkim, niech będzie sługą waszym. A kto by chciał być pierwszym między wami, niech będzie niewolnikiem wszystkich. Bo i Syn Człowieczy nie przyszedł, aby mu służono, lecz żeby służyć i dać swoje życie jako okup za wielu».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą, a droga ta, jak uczy Ewangelia, jest drogą służby i ofiary.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na przykład Chrystusa, który dał swoje życie jako okup, ta pieśń jest aktem ofiarowania siebie na służbę Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "237",
+      "piesn": "Duszo Chrystusowa",
+      "opis": "Drugie czytanie mówi o Chrystusie Arcykapłanie, który współczuje naszym słabościom. Ta pieśń jest modlitwą o zjednoczenie z Jego ofiarą.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "109",
+      "piesn": "Pan Jezus grzechy nasze",
+      "opis": "Dziękczynienie za ofiarę Chrystusa, który, jak mówi pierwsze czytanie, wydał swe życie na ofiarę za grzechy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, abyśmy potrafili naśladować Chrystusa w Jego postawie służby, do której wzywa Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "W kontekście drugiego czytania o kapłaństwie Chrystusa, ta pieśń przypomina o powszechnym kapłaństwie wiernych, które realizuje się w służbie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Psalm responsoryjny jest pieśnią o ufności w Bożą łaskę i opiekę. Ta pieśń jest jej pięknym, tradycyjnym rozwinięciem.",
+      "moment": "ogolne"
     }
   ]
 }

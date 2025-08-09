@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415674.Sroda-29-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Środa, 29 tydzień zwykły, Rok I",
+  "tytul_dnia": "29 Środa zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 12, 39-48",
       "opis": "Przypowieść o słudze oczekującym Pana",
       "tekst": "Jezus powiedział do swoich uczniów:\n«To rozumiejcie, że gdyby gospodarz wiedział, o której godzinie przyjść ma złodziej, nie pozwoliłby włamać się do swego domu. Wy też bądźcie gotowi, gdyż o godzinie, której się nie domyślacie, Syn Człowieczy przyjdzie».\nWtedy Piotr zapytał: «Panie, czy do nas mówisz tę przypowieść, czy też do wszystkich?»\nPan odpowiedział: «Któż jest owym rządcą wiernym i roztropnym, którego pan ustanowi nad swoją służbą, żeby rozdawał jej żywność we właściwej porze? Szczęśliwy ten sługa, którego pan, powróciwszy, zastanie przy tej czynności. Prawdziwie powiadam wam: Postawi go nad całym swoim mieniem. Lecz jeśli sługa ów powie sobie w sercu: Mój pan się ociąga z powrotem, i zacznie bić sługi i służące, a przy tym jeść, pić i upijać się, to nadejdzie pan tego sługi w dniu, kiedy się nie spodziewa, i o godzinie, której nie zna; surowo go ukarze i wyznaczy mu miejsce z niewiernymi.\nÓw sługa, który poznał wolę swego pana, a nic nie przygotował i nie uczynił zgodnie z jego wolą, otrzyma wielką chłostę. Ten zaś, który nie poznał jego woli, a uczynił coś godnego kary, otrzyma małą chłostę. Komu wiele dano, od tego wiele wymagać się będzie; a komu wiele powierzono, tym więcej od niego żądać będą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu, co jest postawą wiernego sługi z Ewangelii, oczekującego na powrót pana.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pierwsze czytanie wzywa do oddania się na służbę Bogu. Ta pieśń jest aktem ofiarowania Mu całego siebie w tej służbie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary i zaufania Panu, co jest postawą wiernego sługi z przypowieści, czuwającego na przyjście Pana.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za wyzwolenie z grzechu, o którym pisze św. Paweł, i za dar służby Bogu w oczekiwaniu na Jego przyjście.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "631",
+      "piesn": "Wszystkie nasze dzienne sprawy",
+      "opis": "Pieśń wieczorna, wzywająca do czuwania, jest doskonałym posłaniem na zakończenie Mszy, w której słyszymy 'Wy też bądźcie gotowi'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą pomoc, o której mówi psalmista: 'Naszą pomocą jest Zbawiciel świata'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Ewangelia wzywa do wierności. Ta pieśń jest prośbą o umocnienie wiary, która jest podstawą tej wierności.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415676.Poniedzialek-29-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 29 tydzień zwykły, Rok I",
+  "tytul_dnia": "29 Poniedziałek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 12, 13-21",
       "opis": "Gromadzić skarby przed Bogiem",
       "tekst": "Ktoś z tłumu rzekł do Jezusa: «Nauczycielu, powiedz mojemu bratu, żeby się podzielił ze mną spadkiem». Lecz On mu odpowiedział: «Człowieku, któż Mnie ustanowił nad wami sędzią albo rozjemcą?»\nPowiedział też do nich: «Uważajcie i strzeżcie się wszelkiej chciwości, bo nawet gdy ktoś ma wszystkiego w nadmiarze, to życie jego nie zależy od jego mienia».\nI opowiedział im przypowieść: «Pewnemu zamożnemu człowiekowi dobrze obrodziło pole. I rozważał w sobie: „Co tu począć? Nie mam gdzie pomieścić moich zbiorów”. I rzekł: „Tak zrobię: zburzę moje spichlerze, a pobuduję większe i tam zgromadzę całe moje zboże i dobra. I powiem sobie: Masz wielkie dobra, na długie lata złożone; odpoczywaj, jedz, pij i używaj!” Lecz Bóg rzekł do niego: „Głupcze, jeszcze tej nocy zażądają twojej duszy od ciebie; komu więc przypadnie to, co przygotowałeś?”\nTak dzieje się z każdym, kto skarby gromadzi dla siebie, a nie jest bogaty u Boga».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest modlitwą o umocnienie wiary, na wzór Abrahama z pierwszego czytania, który 'się umocnił w wierze'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec przestrogi przed chciwością, ta pieśń jest aktem ofiarowania Bogu swojego życia i skarbów, by być 'bogatym u Boga'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Aklamacja mówi o błogosławieństwie ubogich. Ta pieśń przypomina, że prawdziwym skarbem jest Królestwo Boże, a nie bogactwa ziemskie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Psalm responsoryjny, będący kantykiem Zachariasza, jest hymnem uwielbienia za nawiedzenie i wyzwolenie ludu przez Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opatrzność jest odpowiedzią na Ewangelię, która uczy, że życie nie zależy od mienia, ale od Boga.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, które jest prawdziwym bogactwem, w przeciwieństwie do skarbów gromadzonych dla siebie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "W kontekście przypowieści o bogaczu, ta pieśń przypomina, że prawdziwe bezpieczeństwo daje Boża opatrzność, a nie ziemskie dobra.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415677.29-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "29 Niedziela zwykła, Rok C",
+  "tytul_dnia": "29 Niedziela zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 18, 1-8",
       "opis": "Wytrwałość w modlitwie",
       "tekst": "Jezus opowiedział swoim uczniom przypowieść o tym, że zawsze powinni się modlić i nie ustawać: «W pewnym mieście żył sędzia, który Boga się nie bał i nie liczył się z ludźmi. W tym samym mieście żyła wdowa, która przychodziła do niego z prośbą: „Obroń mnie przed moim przeciwnikiem!” Przez pewien czas nie chciał; lecz potem rzekł do siebie: „Chociaż Boga się nie boję ani z ludźmi się nie liczę, to jednak, ponieważ naprzykrza mi się ta wdowa, wezmę ją w obronę, żeby nie nachodziła mnie bez końca i nie zadręczała mnie”».\nI Pan dodał: «Słuchajcie, co mówi ten niesprawiedliwy sędzia. A Bóg, czyż nie weźmie w obronę swoich wybranych, którzy dniem i nocą wołają do Niego, i czy będzie zwlekał w ich sprawie? Powiadam wam, że prędko weźmie ich w obronę. Czy jednak Syn Człowieczy znajdzie wiarę na ziemi, gdy przyjdzie?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę doskonale koresponduje z psalmem responsoryjnym, który mówi, że 'pomoc moja od Pana'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Wobec przykładu wytrwałej modlitwy Mojżesza i wdowy, ta pieśń jest naszym aktem błagalnym, zanoszonym do miłosiernego Ojca.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń jest wyrazem wytrwałej modlitwy i wołania do Pana, do czego zachęca Jezus w przypowieści o natrętnej wdowie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynienie za Bożą pomoc i wysłuchanie modlitw, o których zapewniają nas wszystkie dzisiejsze czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Ewangelia kończy się pytaniem o wiarę. Ta pieśń jest naszą odpowiedzią i prośbą o jej umocnienie, byśmy mogli wytrwać w modlitwie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "628",
+      "piesn": "Ty, wszechmocny Panie",
+      "opis": "Pieśń jest wołaniem o Bożą pomoc, na wzór Mojżesza, którego modlitwa zapewniła zwycięstwo Izraelowi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Pieśń jest wyrazem ufności w Boże prowadzenie i opiekę, o którą prosimy w wytrwałej modlitwie.",
+      "moment": "ogolne"
     }
   ]
 }

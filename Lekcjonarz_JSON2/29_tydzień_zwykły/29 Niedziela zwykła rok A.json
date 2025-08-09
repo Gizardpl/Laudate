@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415679.29-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "29 Niedziela zwykła, Rok A",
+  "tytul_dnia": "29 Niedziela zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 22, 15-21",
       "opis": "Oddajcie cezarowi to, co należy do cezara, a Bogu to, co należy do Boga",
       "tekst": "Faryzeusze odeszli i naradzali się, jak by podchwycić Jezusa w mowie.\nPosłali więc do Niego swych uczniów razem ze zwolennikami Heroda, aby mu powiedzieli: «Nauczycielu, wiemy, że jesteś prawdomówny i drogi Bożej w prawdzie nauczasz. Na nikim Ci też nie zależy, bo nie oglądasz się na osobę ludzką. Powiedz nam więc, jak ci się zdaje? Czy wolno płacić podatek cezarowi, czy nie?»\nJezus przejrzał ich przewrotność i rzekł: «Czemu wystawiacie Mnie na próbę, obłudnicy? Pokażcie Mi monetę podatkową!» Przynieśli Mu denara. On ich zapytał: «Czyj jest ten obraz i napis?» Odpowiedzieli: «Cezara». Wówczas rzekł do nich: «Oddajcie więc cezarowi to, co należy do cezara, a Bogu to, co należy do Boga».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń wzywa cały świat do służenia Panu, co jest echem psalmu responsoryjnego, wzywającego do głoszenia chwały Pana wśród narodów.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na słowa Jezusa 'Oddajcie Bogu to, co należy do Boga', ta pieśń jest aktem ofiarowania Bogu całego siebie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary w jedynego Boga, któremu należy się cześć, co jest głównym przesłaniem pierwszego czytania i Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Dziękczynienie za dar wiary, o której z radością pisze św. Paweł w drugim czytaniu, a która pozwala nam oddawać Bogu należną chwałę.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Psalm i pierwsze czytanie mówią o poznaniu Boga przez narody. Ta pieśń misyjna jest posłaniem do głoszenia Ewangelii wszystkim ludziom.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Pieśń jest hymnem na cześć Króla wszechmocy, jedynego Boga, o którym mówi prorok Izajasz.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wobec przewrotności faryzeuszy, ta pieśń jest wyznaniem, że Chrystus jest naszą drogą, a Jego nauka – prawdą.",
+      "moment": "ogolne"
     }
   ]
 }

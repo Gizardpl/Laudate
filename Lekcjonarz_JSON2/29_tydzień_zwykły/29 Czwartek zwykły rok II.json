@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415667.Czwartek-29-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 29 tydzień zwykły, Rok II",
+  "tytul_dnia": "29 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 12, 49-53",
       "opis": "Ewangelia powodem rozłamu",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Przyszedłem ogień rzucić na ziemię i jakże pragnę, ażeby już zapłonął. Chrzest mam przyjąć, i jakiej doznaję udręki, aż się to stanie.\nCzy myślicie, że przyszedłem dać ziemi pokój? Nie, powiadam wam, lecz rozłam. Odtąd bowiem pięcioro będzie podzielonych w jednym domu: troje stanie przeciw dwojgu, a dwoje przeciw trojgu; ojciec przeciw synowi, a syn przeciw ojcu; matka przeciw córce, a córka przeciw matce; teściowa przeciw synowej, a synowa przeciw teściowej».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pierwsze czytanie jest modlitwą o umocnienie przez Ducha. Ta pieśń jest naszym wołaniem o Jego obecność i dary.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec słów Jezusa o rozłamie, ta pieśń jest aktem ofiarowania i wyboru Chrystusa ponad wszystko.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "W Komunii przyjmujemy Tego, który przynosi 'ogień'. Ta pieśń jest prośbą do Ducha Świętego, by rozpalił w nas żar miłości.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który, jak mówi pierwsze czytanie, umacnia wewnętrznego człowieka i pozwala poznać miłość Chrystusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest wyznaniem wierności Chrystusowi wbrew przeciwnościom i rozłamom, o których mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "775",
+      "piesn": "W naszych ciemnościach",
+      "opis": "Jezus pragnie rzucić ogień na ziemię. Ta pieśń jest prośbą, by ten ogień Bożej miłości rozproszył nasze ciemności.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie Ojcu, od którego, jak mówi pierwsze czytanie, bierze nazwę wszelki ród na niebie i na ziemi.",
+      "moment": "ogolne"
     }
   ]
 }

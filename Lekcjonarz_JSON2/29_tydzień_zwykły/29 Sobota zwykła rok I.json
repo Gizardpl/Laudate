@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/415671.Sobota-29-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 29 tydzień zwykły, Rok I",
+  "tytul_dnia": "29 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 13, 1-9",
       "opis": "Wezwanie do nawrócenia",
       "tekst": "W tym czasie przyszli jacyś ludzie i donieśli Jezusowi o Galilejczykach, których krew Piłat zmieszał z krwią ich ofiar.\nJezus im odpowiedział: «Czyż myślicie, że ci Galilejczycy byli większymi grzesznikami niż inni mieszkańcy Galilei, iż to ucierpieli? Bynajmniej, powiadam wam; lecz jeśli się nie nawrócicie, wszyscy podobnie zginiecie. Albo myślicie, że owych osiemnastu, na których zwaliła się wieża w Siloam i zabiła ich, było większymi winowajcami niż inni mieszkańcy Jeruzalem? Bynajmniej, powiadam wam; lecz jeśli się nie nawrócicie, wszyscy tak samo zginiecie».\nI opowiedział im następującą przypowieść: «Pewien człowiek miał zasadzony w swojej winnicy figowiec; przyszedł i szukał na nim owoców, ale nie znalazł. Rzekł więc do ogrodnika: „Oto już trzy lata, odkąd przychodzę i szukam owocu na tym figowcu, a nie znajduję. Wytnij go, po co jeszcze ziemię wyjaławia?” Lecz on mu odpowiedział: „Panie, jeszcze na ten rok go pozostaw, aż okopię go i obłożę nawozem; i może wyda owoc. A jeśli nie, w przyszłości możesz go wyciąć”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest bezpośrednim wezwaniem do nawrócenia, o którym Jezus mówi w Ewangelii: 'jeśli się nie nawrócicie, wszyscy podobnie zginiecie'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wobec groźby odcięcia jak nieurodzajny figowiec, ta pieśń jest aktem nawrócenia i decyzją o powrocie do miłosiernego Ojca.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pierwsze czytanie mówi o życiu według Ducha. W Komunii prosimy Ducha Świętego, by zamieszkał w nas i ożywiał nasze śmiertelne ciała.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który wyzwala nas spod prawa grzechu i śmierci, jak poucza św. Paweł.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń wzywa do wydawania owoców godnych nawrócenia, co jest odpowiedzią na przypowieść o niepłodnym drzewie figowym.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Psalm pyta 'Kto wstąpi na górę Pana?'. Ta pieśń jest odpowiedzią, wzywającą lud wierny do oddania czci Bogu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Wezwanie do nawrócenia i wiary w Ewangelię, co jest istotą przypowieści o drzewie figowym, które otrzymuje jeszcze jedną szansę.",
+      "moment": "ogolne"
     }
   ]
 }
