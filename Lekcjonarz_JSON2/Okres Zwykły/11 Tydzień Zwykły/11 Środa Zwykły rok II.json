@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426025.Sroda-XI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, XI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426025.Sroda-XI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "11 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 6, 1-6. 16-18",
       "opis": "Dobre uczynki pełnić w ukryciu",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Strzeżcie się, żebyście uczynków pobożnych nie wykonywali przed ludźmi po to, aby was widzieli; inaczej bowiem nie będziecie mieli nagrody u Ojca waszego, który jest w niebie.\nKiedy więc dajesz jałmużnę, nie trąb przed sobą, jak obłudnicy czynią w synagogach i na ulicach, aby ich ludzie chwalili. Zaprawdę, powiadam wam: ci otrzymali już swoją nagrodę. Kiedy zaś ty dajesz jałmużnę, niech nie wie lewa twoja ręka, co czyni prawa, aby twoja jałmużna pozostała w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie.\nGdy się modlicie, nie bądźcie jak obłudnicy. Oni to lubią w synagogach i na rogach ulic wystawać i modlić się, żeby się ludziom pokazać. Zaprawdę, powiadam wam: otrzymali już swoją nagrodę. Ty zaś, gdy chcesz się modlić, wejdź do swej izdebki, zamknij drzwi i módl się do Ojca twego, który jest w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie.\nKiedy pościcie, nie bądźcie posępni jak obłudnicy. Przybierają oni wygląd ponury, aby pokazać ludziom, że poszczą. Zaprawdę, powiadam wam, już odebrali swoją nagrodę. Ty zaś, gdy pościsz, namaść sobie głowę i obmyj twarz, aby nie ludziom pokazać, że pościsz, ale Ojcu twemu, który jest w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "281",
+      "piesn": "O Stworzycielu, Duchu, przyjdź",
+      "opis": "Pieśń jest prośbą o Ducha Świętego, którego podwójną część pragnął otrzymać Elizeusz, by móc kontynuować misję Eliasza.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Jałmużna, modlitwa i post, o których mówi Ewangelia, są wyrazem miłości do Boga i bliźniego, praktykowanej w ukryciu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Modlitwa w ukryciu, do której zachęca Jezus, jest wyrazem najgłębszych pragnień serca skierowanych do Boga.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Psalm responsoryjny mówi o Bożej opiece nad wiernymi. Ta pieśń jest wyrazem zaufania w Jego dobroć i ochronę.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wykonywanie uczynków pobożnych dla Boga, a nie dla ludzi, jest wyrazem wyboru Boga jako najwyższej wartości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które jest warunkiem bezinteresownej miłości i działania na chwałę Bożą.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Przekazanie płaszcza przez Eliasza Elizeuszowi jest symbolem kontynuacji misji. My również jesteśmy posłani do głoszenia Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

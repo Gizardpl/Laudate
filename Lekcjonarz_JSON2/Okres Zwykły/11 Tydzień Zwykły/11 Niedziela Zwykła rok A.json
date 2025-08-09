@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417193.11-Niedziela-zwykla-rok-A",
-  "tytul_dnia": "11. Niedziela zwykła, rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417193.11-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "11 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 9, 36 – 10, 8",
       "opis": "Rozesłanie Dwunastu",
       "tekst": "Jezus, widząc tłumy, litował się nad nimi, bo byli znękani i porzuceni, jak owce nie mające pasterza. Wtedy rzekł do swych uczniów: «Żniwo wprawdzie wielkie, ale robotników mało. Proście Pana żniwa, żeby wyprawił robotników na swoje żniwo».\nWtedy przywołał do siebie dwunastu swoich uczniów i udzielił im władzy nad duchami nieczystymi, aby je wypędzali i leczyli wszystkie choroby i wszelkie słabości. A oto imiona dwunastu apostołów: pierwszy – Szymon, zwany Piotrem, i brat jego Andrzej, potem Jakub, syn Zebedeusza, i brat jego Jan, Filip i Bartłomiej, Tomasz i celnik Mateusz, Jakub, syn Alfeusza, i Tadeusz, Szymon Gorliwy i Judasz Iskariota, ten, który Go zdradził.\nTych to Dwunastu wysłał Jezus i dał im takie wskazania: «Nie idźcie do pogan i nie wstępujcie do żadnego miasta samarytańskiego. Idźcie raczej do owiec, które poginęły z domu Izraela. Idźcie i głoście: Bliskie już jest królestwo niebieskie. Uzdrawiajcie chorych, wskrzeszajcie umarłych, oczyszczajcie trędowatych, wypędzajcie złe duchy. Darmo otrzymaliście, darmo dawajcie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do Ewangelii o rozesłaniu Dwunastu, aby głosili Dobrą Nowinę.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "W odpowiedzi na Boże wybranie, opisane w pierwszym czytaniu, ta pieśń jest aktem ofiarowania wierności Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Jezus lituje się nad tłumem jak nad owcami bez pasterza. Eucharystia jest pokarmem od Dobrego Pasterza.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Radosny charakter tej pieśni dobrze koresponduje z wezwaniem psalmu: 'Służcie Panu z weselem'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Jesteśmy posłani przez Chrystusa, naszego Króla, by budować Jego królestwo kapłanów i lud święty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za miłość Boga, który pojednał nas ze sobą przez śmierć swojego Syna.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nawiązuje do Izraela jako ludu świętego i własności Boga, co jest zapowiedzią Kościoła zjednoczonego w Chrystusie.",
+      "moment": "ogolne"
     }
   ]
 }

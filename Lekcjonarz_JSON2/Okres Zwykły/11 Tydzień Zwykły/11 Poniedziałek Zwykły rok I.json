@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417222.Poniedzialek-XI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "11 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "2 Kor 6, 1-10",
+      "opis": "Stałość apostołów wśród doświadczeń",
+      "tekst": "Bracia:\nNapominamy was, abyście nie przyjmowali na próżno łaski Bożej. Mówi bowiem Pismo: «W czasie pomyślnym wysłuchałem cię, w dniu zbawienia przyszedłem ci z pomocą». Oto teraz czas upragniony, oto teraz dzień zbawienia.\nNie dając nikomu sposobności do zgorszenia, aby nie wyszydzono naszej posługi, okazujemy się sługami Boga przez wszystko: przez wielką cierpliwość, wśród utrapień, przeciwności i ucisków, w chłostach, więzieniach, podczas rozruchów, w trudach, nocnych czuwaniach i w postach, przez czystość i umiejętność, przez wielkoduszność i łagodność, przez objawy Ducha Świętego i miłość nieobłudną, przez głoszenie prawdy i moc Bożą, przez oręż sprawiedliwości zaczepny i obronny, wśród czci i pohańbienia, przez zniesławienie i dobrą sławę. Uchodzący za oszustów, a przecież prawdomówni, niby nieznani, a przecież dobrze znani, niby umierający, a oto żyjemy, jakby karceni, lecz nie uśmiercani, jakby smutni, lecz zawsze radośni, jakby ubodzy, a jednak wzbogacający wielu, jako ci, którzy nic nie mają, a posiadają wszystko.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 98 (97), 1bcde. 2-3b. 3c-4 (R.: por. 2a)",
+      "opis": "",
+      "tekst": "Refren: Pan Bóg okazał ludom swe zbawienie.\nŚpiewajcie Panu pieśń nową, *\nalbowiem uczynił cuda.\nZwycięstwo Mu zgotowała Jego prawica *\ni święte ramię Jego.\nRefren.\nPan okazał swoje zbawienie, *\nna oczach pogan objawił swą sprawiedliwość.\nWspomniał na dobroć i na wierność swoją *\ndla domu Izraela.\nRefren.\nUjrzały wszystkie krańce ziemi *\nzbawienie Boga naszego.\nWołaj z radości na cześć Pana, cała ziemio, *\ncieszcie się, weselcie i grajcie.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Ps 119 (118), 105",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Twoje słowo jest pochodnią dla stóp moich, Panie,\ni światłem na mojej ścieżce."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 5, 38-42",
+      "opis": "Nie stawiajcie oporu złemu",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Oko za oko i ząb za ząb!” A Ja wam powiadam: Nie stawiajcie oporu złemu: lecz jeśli cię ktoś uderzy w prawy policzek, nadstaw mu i drugi. Temu, kto chce prawować się z tobą i wziąć twoją szatę, odstąp i płaszcz. Zmusza cię ktoś, żeby iść z nim tysiąc kroków, idź dwa tysiące. Daj temu, kto cię prosi, i nie odwracaj się od tego, kto chce pożyczyć od ciebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń mówi o zaufaniu Bogu pośród utrapień i przeciwności, o których pisze św. Paweł w pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Nowe prawo Chrystusa, polegające na nieodpłacaniu złem za zło, jest wyrazem miłości, do której wzywa ta pieśń.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory i uniżenia, która jest konieczna, by przyjąć łaskę Bożą i żyć Ewangelią.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Radosny charakter tej pieśni dobrze koresponduje z wezwaniem psalmu: 'Śpiewajcie Panu pieśń nową'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Apostołowie, mimo trudów, głoszą prawdę. Ta pieśń jest odnowieniem naszego misyjnego posłania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jezus wzywa do postawy przebaczenia. Ta pieśń pokutna jest prośbą o serce zdolne do miłości nieprzyjaciół.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "353",
+      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
+      "opis": "Postawa niestawiania oporu złemu znajduje swoje najpełniejsze wypełnienie w Chrystusie na krzyżu.",
+      "moment": "ogolne"
+    }
+  ]
+}

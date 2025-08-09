@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417212.11-Niedziela-zwykla-rok-B",
-  "tytul_dnia": "11. Niedziela zwykła, rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417212.11-Niedziela-zwykla-rok-B",
+  "tytul_dnia": "11 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -22,7 +23,7 @@
     },
     {
       "typ": "AKLAMACJA",
-      "sigla": "",
+      "sigla": "Mk 4, 26-34",
       "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
       "tekst": "Ziarnem jest słowo Boże, a siewcą jest Chrystus,\nkażdy, kto Go znajdzie, będzie żył na wieki."
     },
@@ -31,6 +32,50 @@
       "sigla": "Mk 4, 26-34",
       "opis": "Przypowieść o ziarnku gorczycy",
       "tekst": "Jezus mówił do tłumów:\n«Z królestwem Bożym dzieje się tak, jak gdyby ktoś nasienie wrzucił w ziemię. Czy śpi, czy czuwa, we dnie i w nocy, nasienie kiełkuje i rośnie, sam nie wie jak. Ziemia sama z siebie wydaje plon, najpierw źdźbło, potem kłos, a potem pełne ziarno w kłosie. Gdy zaś plon dojrzeje, zaraz zapuszcza sierp, bo pora już na żniwo».\nMówił jeszcze: «Z czym porównamy królestwo Boże lub w jakiej przypowieści je przedstawimy? Jest ono jak ziarnko gorczycy; gdy się je wsiewa w ziemię, jest najmniejsze ze wszystkich nasion na ziemi. Lecz wsiane, wyrasta i staje się większe od innych jarzyn; wypuszcza wielkie gałęzie, tak że ptaki podniebne gnieżdżą się w jego cieniu».\nW wielu takich przypowieściach głosił im naukę, o ile mogli ją rozumieć. A bez przypowieści nie przemawiał do nich. Osobno zaś objaśniał wszystko swoim uczniom.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń mówi o wzrastaniu Królestwa Chrystusowego, co jest głównym tematem przypowieści z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "W tej pieśni ofiarujemy owoce naszej pracy, które Bóg, jak w przypowieści o zasiewie, pomnaża swoją łaską.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Ziarno wrzucone w ziemię wydaje plon. Eucharystia jest owocem ziemi i pracy rąk ludzkich, a przede wszystkim darem samego Boga.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wezwanie do dziękczynienia, o którym mówi psalm responsoryjny: 'Dobrze jest dziękować Panu'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by siać ziarno Słowa Bożego, które ma moc wzrastać i przemieniać świat.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Królestwo Boże, jak wielkie drzewo, gromadzi wszystkich ludzi. Ta pieśń mówi o jedności Kościoła.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Królestwem Bożym i wiarę w jego wzrost, nawet z najmniejszych początków.",
+      "moment": "ogolne"
     }
   ]
 }

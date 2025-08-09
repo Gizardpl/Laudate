@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426026.Wtorek-XI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, XI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426026.Wtorek-XI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "11 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -24,7 +25,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 5, 43-48",
       "opis": "Miłujcie waszych nieprzyjaciół",
-      "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Będziesz miłował swego bliźniego”, a nieprzyjaciela swego będziesz nienawidził.\nA Ja wam powiadam:  i módlcie się za tych, którzy was prześladują, abyście się stali synami Ojca waszego, który jest w niebie; ponieważ On sprawia, że słońce Jego wschodzi nad złymi i nad dobrymi, i On zsyła deszcz na sprawiedliwych i niesprawiedliwych.\nJeśli bowiem miłujecie tych, którzy was miłują, cóż za nagrodę mieć będziecie? Czyż i celnicy tego nie czynią? I jeśli pozdrawiacie tylko swych braci, cóż szczególnego czynicie? Czyż i poganie tego nie czynią?\nBądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski».\nOto słowo Pańskie."
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Będziesz miłował swego bliźniego”, a nieprzyjaciela swego będziesz nienawidził.\nA Ja wam powiadam: Miłujcie waszych nieprzyjaciół i módlcie się za tych, którzy was prześladują, abyście się stali synami Ojca waszego, który jest w niebie; ponieważ On sprawia, że słońce Jego wschodzi nad złymi i nad dobrymi, i On zsyła deszcz na sprawiedliwych i niesprawiedliwych.\nJeśli bowiem miłujecie tych, którzy was miłują, cóż za nagrodę mieć będziecie? Czyż i celnicy tego nie czynią? I jeśli pozdrawiacie tylko swych braci, cóż szczególnego czynicie? Czyż i poganie tego nie czynią?\nBądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża skruchę podobną do tej, którą okazał Achab.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec grzechów opisanych w pierwszym czytaniu, ta pieśń jest aktem pokuty i prośbą o Boże miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Ewangelia wzywa do miłości nieprzyjaciół. Ta pieśń jest modlitwą o serce zdolne do takiej miłości.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest miłosierny i odpuszcza grzechy tym, którzy się upokarzają, jak Achab.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "428",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Pieśń wyraża miłość do Chrystusa, która jest źródłem siły do wypełnienia przykazania miłości nieprzyjaciół.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "353",
+      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
+      "opis": "Miłość nieprzyjaciół znajduje swój najpełniejszy wyraz w Chrystusie na krzyżu, który modlił się za swoich prześladowców.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "W obliczu sądu Bożego i własnej grzeszności, ta pieśń jest aktem zawierzenia i zaufania miłosierdziu Bożemu.",
+      "moment": "ogolne"
     }
   ]
 }

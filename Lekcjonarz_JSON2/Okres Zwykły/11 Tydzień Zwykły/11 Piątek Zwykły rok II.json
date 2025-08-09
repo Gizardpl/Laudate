@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426022.Piatek-XI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, XI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426022.Piatek-XI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "11 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -24,7 +25,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 6, 19-23",
       "opis": "Gromadźcie sobie skarby w niebie",
-      "tekst": "Jezus powiedział do swoich uczniów:\n«Nie gromadźcie sobie skarbów na ziemi, gdzie mól i rdza niszczą i gdzie złodzieje włamują się i kradną. , gdzie ani mól, ani rdza nie niszczą i gdzie złodzieje nie włamują się i nie kradną. Bo gdzie jest twój skarb, tam będzie i serce twoje.\nŚwiatłem ciała jest oko. Jeśli więc twoje oko jest zdrowe, całe twoje ciało będzie rozświetlone. Lecz jeśli twoje oko jest chore, całe twoje ciało będzie w ciemności. Jeśli więc światło, które jest w tobie, jest ciemnością, jakże wielka to ciemność!»\nOto słowo Pańskie."
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Nie gromadźcie sobie skarbów na ziemi, gdzie mól i rdza niszczą i gdzie złodzieje włamują się i kradną. Gromadźcie sobie skarby w niebie, gdzie ani mól, ani rdza nie niszczą i gdzie złodzieje nie włamują się i nie kradną. Bo gdzie jest twój skarb, tam będzie i serce twoje.\nŚwiatłem ciała jest oko. Jeśli więc twoje oko jest zdrowe, całe twoje ciało będzie rozświetlone. Lecz jeśli twoje oko jest chore, całe twoje ciało będzie w ciemności. Jeśli więc światło, które jest w tobie, jest ciemnością, jakże wielka to ciemność!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń jest aklamacją na cześć Chrystusa Króla, którego zapowiedzią jest namaszczenie Joasza w pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "W odpowiedzi na wezwanie do gromadzenia skarbów w niebie, ta pieśń jest aktem ofiarowania Bogu wszystkiego, co posiadamy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "240",
+      "piesn": "Panie, Tyś nam droższy",
+      "opis": "Pieśń ta doskonale oddaje sens Ewangelii, podkreślając, że prawdziwym skarbem jest Chrystus, a nie dobra materialne.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest wierny swoim obietnicom, jak te dane Dawidowi w psalmie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru skarbu w niebie, o którym mówi Jezus, ponad wszystkie wartości ziemskie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Nawiązuje do motywu gromadzenia skarbów w niebie, które jest naszą prawdziwą ojczyzną.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Ewangelia mówi o oku jako świetle ciała. Ta pieśń wskazuje na Jezusa jako prawdziwe Światło, które rozprasza ciemności.",
+      "moment": "ogolne"
     }
   ]
 }

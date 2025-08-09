@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426024.Czwartek-XI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Czwartek, XI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426024.Czwartek-XI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "11 Czwartek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 6, 7-15",
       "opis": "Modlitwa Pańska",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Modląc się, nie bądźcie gadatliwi jak poganie. Oni myślą, że przez wzgląd na swe wielomówstwo będą wysłuchani. Nie bądźcie podobni do nich! Albowiem wie Ojciec wasz, czego wam potrzeba, zanim jeszcze Go poprosicie.\nWy zatem tak się módlcie:\nOjcze nasz, który jesteś w niebie, niech się święci Twoje imię! Niech przyjdzie Twoje królestwo; niech Twoja wola się spełnia na ziemi, tak jak w niebie. Naszego chleba powszedniego daj nam dzisiaj; i przebacz nam nasze winy, tak jak i my przebaczamy tym, którzy przeciw nam zawinili; i nie dopuść, abyśmy ulegli pokusie, ale nas zachowaj od złego.\nJeśli bowiem przebaczycie ludziom ich przewinienia, i wam przebaczy Ojciec wasz niebieski. Lecz jeśli nie przebaczycie ludziom, Ojciec wasz nie przebaczy wam także waszych przewinień».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń jest odpowiedzią na słowa psalmu 'Pan króluje, wesel się, ziemio!' i prośbę 'niech przyjdzie Twoje królestwo'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Modlitwa Pańska zawiera wezwanie do przebaczenia. Ta pieśń jest modlitwą o ducha miłości i jedności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "W Modlitwie Pańskiej prosimy o chleb powszedni. Eucharystia jest najdoskonalszym wypełnieniem tej prośby.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest uwielbieniem majestatu Boga, opisanego w psalmie i w pochwale proroka Eliasza.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru Boga i Jego królestwa, o które prosimy w Modlitwie Pańskiej.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Bogiem i Jego królestwem, co jest istotą modlitwy, której uczy nas Jezus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Prośba o przebaczenie win jest centralnym elementem Modlitwy Pańskiej. Ta pieśń jest aktem pokutnym.",
+      "moment": "ogolne"
     }
   ]
 }
