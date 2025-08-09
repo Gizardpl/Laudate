@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414040.Poniedzialek-34-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Poniedziałek, 34 tydzień zwykły, Rok II",
+  "tytul_dnia": "34 Poniedziałek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 1-4",
       "opis": "Wdowi grosz",
       "tekst": "Gdy Jezus podniósł oczy, zobaczył, jak bogaci wrzucali swe ofiary do skarbony. Zobaczył też, jak pewna uboga wdowa wrzuciła tam dwa pieniążki, i rzekł:\n«Prawdziwie, powiadam wam: Ta uboga wdowa wrzuciła więcej niż wszyscy inni. Wszyscy bowiem wrzucali na ofiarę Bogu z tego, co im zbywało; ta zaś z niedostatku swego wrzuciła wszystko, co miała na utrzymanie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu, a psalm pyta 'Kto wstąpi na górę Pana?'. Tą górą jest Syjon, gdzie stoi Baranek z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń doskonale oddaje postawę ubogiej wdowy z Ewangelii, która ofiarowała wszystko, co miała na utrzymanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Bądźże pozdrowiona",
+      "opis": "W Komunii przyjmujemy Baranka Bożego. Ta pieśń jest hołdem złożonym Mu, na wzór nowej pieśni śpiewanej przez zbawionych w Apokalipsie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Dziękczynienie za dar zbawienia i wezwanie całego świata do radości w Bogu, co jest echem wizji z Apokalipsy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o błogosławieństwo, aby nasze życie było ofiarą miłą Bogu, jak dar ubogiej wdowy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "553",
+      "piesn": "Bądź uwielbion",
+      "opis": "Pieśń chwali Boga w Jego świętych, co nawiązuje do wizji stu czterdziestu czterech tysięcy stojących z Barankiem na górze Syjon.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Psalm i pierwsze czytanie mówią o ludziach czystego serca i bez zarzutu. Pieśń o błogosławieństwach jest nowotestamentowym rozwinięciem tej myśli.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414027.Czwartek-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Czwartek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 20-28",
       "opis": "Powtórne przyjście Chrystusa",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Skoro ujrzycie Jeruzalem otoczone przez wojska, wtedy wiedzcie, że jego spustoszenie jest bliskie. Wtedy ci, którzy będą w Judei, niech uciekają w góry; ci, którzy są w mieście, niech z niego uchodzą, a ci, co po wsiach, niech do niego nie wchodzą. Będzie to bowiem czas pomsty, aby spełniło się wszystko, co jest napisane. Biada brzemiennym i karmiącym w owe dni! Nastanie bowiem wielki ucisk na ziemi i gniew na ten naród: jedni polegną od miecza, a drugich zapędzą w niewolę między wszystkie narody. A Jeruzalem będzie deptane przez pogan, aż czasy pogan się wypełnią.\nBędą znaki na słońcu, księżycu i gwiazdach, a na ziemi trwoga narodów bezradnych wobec huku morza i jego nawałnicy. Ludzie mdleć będą ze strachu w oczekiwaniu wydarzeń zagrażających ziemi. Albowiem moce niebios zostaną wstrząśnięte. Wtedy ujrzą Syna Człowieczego, nadchodzącego w obłoku z mocą i wielką chwałą. A gdy się to dziać zacznie, nabierzcie ducha i podnieście głowy, ponieważ zbliża się wasze odkupienie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę, która chroni przed niebezpieczeństwami, doskonale ilustruje historię ocalenia Daniela w jaskini lwów.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Wobec zapowiedzi prześladowań i ucisku, ta pieśń jest aktem ofiarowania i zawierzenia Bożej opatrzności, która nie opuszcza swoich wiernych.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Ewangelia mówi o znakach na niebie i ziemi, ale kończy się słowami nadziei: 'zbliża się wasze odkupienie'. Ta pieśń jest wyznaniem tej nadziei.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, wzywającego całe stworzenie do błogosławienia Pana za Jego cuda i ocalenie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ta ogłasza królowanie Chrystusa, który przyjdzie w chwale jako Syn Człowieczy, jak zapowiada Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, która jest źródłem siły i wytrwałości, jakiej przykład dał Daniel w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Hymn dziękczynny za Boże ratunek, który jest odpowiedzią na cudowne ocalenie Daniela i na obietnicę ostatecznego odkupienia z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

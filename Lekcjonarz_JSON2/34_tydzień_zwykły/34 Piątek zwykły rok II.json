@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414048.Piatek-34-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Piątek, 34 tydzień zwykły, Rok II",
+  "tytul_dnia": "34 Piątek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -12,7 +13,7 @@
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 84 (83), 3-4. 5-6a i 8a (R.: por. Ap 21, 3b)",
       "opis": "",
-      "tekst": "Refren: Oto przybytek Pana Boga z ludźmi.\nDusza moja stęskniona pragnie przedsionków Pańskich, *\nserce moje i ciało radośnie wołają do Boga żywego.\nNawet wróbel znajduje swój dom, a jaskółka gniazdo, †\ngdzie złoży swe pisklęta: *\nprzy ołtarzach Twoich, Panie Zastępów, Królu mój i Boże!\nRefren.\nSzczęśliwi, którzy mieszkają w domu Twoim, Panie, *\nnieustannie wielbiąc Ciebie.\nSzczęśliwi, których moc jest w Tobie. *\nMocy im będzie przybywać.\nRefren."
+      "tekst": "Refren: Oto przybytek Pana Boga z ludźmi.\nDusza moja stęskniona pragnie przedsiónków Pańskich, *\nserce moje i ciało radośnie wołają do Boga żywego.\nNawet wróbel znajduje swój dom, a jaskółka gniazdo, †\ngdzie złoży swe pisklęta: *\nprzy ołtarzach Twoich, Panie Zastępów, Królu mój i Boże!\nRefren.\nSzczęśliwi, którzy mieszkają w domu Twoim, Panie, *\nnieustannie wielbiąc Ciebie.\nSzczęśliwi, których moc jest w Tobie. *\nMocy im będzie przybywać.\nRefren."
     },
     {
       "typ": "AKLAMACJA",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 29-33",
       "opis": "Przypowieść o drzewie figowym",
       "tekst": "Jezus opowiedział swoim uczniom przypowieść:\n«Spójrzcie na figowiec i na wszystkie drzewa. Gdy widzicie, że wypuszczają pąki, sami poznajecie, że już blisko jest lato. Tak i wy, gdy ujrzycie te wszystkie wydarzenia, wiedzcie, iż blisko jest królestwo Boże. Zaprawdę, powiadam wam: Nie przeminie to pokolenie, aż się wszystko stanie.\nNiebo i ziemia przeminą, ale moje słowa nie przeminą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń ta jest parafrazą Psalmu 84, psalmu responsoryjnego tego dnia, i wyraża tęsknotę za domem Pana, czyli Nowym Jeruzalem z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W perspektywie Sądu Ostatecznego, opisanego w pierwszym czytaniu, ta pieśń jest aktem ofiarowania całego życia Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Pierwsze czytanie wspomina o uczcie Godów Baranka, a Komunia Święta jest jej zapowiedzią. Ta pieśń zaprasza do tego niebiańskiego stołu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "553",
+      "piesn": "Bądź uwielbion",
+      "opis": "Dziękczynienie za obietnicę Nowego Jeruzalem i królowania z Chrystusem, co jest głównym tematem wizji z Apokalipsy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta, mówiąca o Chrystusie jako nadziei i pojednaniu, jest posłaniem nadziei w kontekście przemijania świata, o którym mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń o zmartwychwstaniu i nadziei na oglądanie Boga, co jest centralnym punktem wizji nowego nieba i nowej ziemi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Hymn dziękczynny, który pasuje do radosnej perspektywy zwycięstwa i królowania z Chrystusem, ukazanej w Apokalipsie.",
+      "moment": "ogolne"
     }
   ]
 }

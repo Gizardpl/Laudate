@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414011.Poniedzialek-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Poniedziałek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 1-4",
       "opis": "Wdowi grosz",
       "tekst": "Gdy Jezus podniósł oczy, zobaczył, jak bogaci wrzucali swe ofiary do skarbony. Zobaczył też, jak pewna uboga wdowa wrzuciła tam dwa pieniążki, i rzekł:\n«Prawdziwie, powiadam wam: Ta uboga wdowa wrzuciła więcej niż wszyscy inni. Wszyscy bowiem wrzucali na ofiarę Bogu z tego, co im zbywało; ta zaś z niedostatku swego wrzuciła wszystko, co miała na utrzymanie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do oddania pokłonu Bogu, co jest postawą zarówno Daniela i jego towarzyszy, jak i ubogiej wdowy z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń doskonale oddaje postawę ubogiej wdowy z Ewangelii, która 'wrzuciła wszystko, co miała na utrzymanie'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń wyraża wdzięczność za Boże dary i pyta, co możemy oddać w zamian, co nawiązuje do tematu ofiary z Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Dziękczynienie za przykład Daniela i ubogiej wdowy, którzy całą ufność pokładali w Bogu, co jest echem psalmu responsoryjnego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo dla naszej pracy i trudów, aby nasze życie było ofiarą miłą Bogu, jak ofiara wdowy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opatrzność, która była udziałem Daniela i jego towarzyszy na obcym dworze.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, które jest motywacją do wierności, jakiej przykład dali bohaterowie pierwszego czytania.",
+      "moment": "ogolne"
     }
   ]
 }

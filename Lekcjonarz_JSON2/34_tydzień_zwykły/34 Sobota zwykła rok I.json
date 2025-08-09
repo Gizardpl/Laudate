@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414033.Sobota-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 34-36",
       "opis": "Czuwajcie i módlcie się w każdym czasie",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Uważajcie na siebie, aby wasze serca nie były ociężałe wskutek obżarstwa, pijaństwa i trosk doczesnych, żeby ten dzień nie spadł na was znienacka jak potrzask. Przyjdzie on bowiem na wszystkich, którzy mieszkają na całej ziemi. Czuwajcie więc i módlcie się w każdym czasie, abyście mogli uniknąć tego wszystkiego, co ma nastąpić, i stanąć przed Synem Człowieczym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ogłasza królowanie Chrystusa, co jest odpowiedzią na wizję z pierwszego czytania o wiecznym królestwie danym świętym Najwyższego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec wezwania do czuwania z Ewangelii, ta pieśń jest aktem ofiarowania całego życia Bogu, aby być gotowym na Jego przyjście.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu wizji Sądu i wezwania do czujności, ta pieśń przypomina, że naszą nadzieją jest Chrystus, w którym mamy pokój i pojednanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, wzywającego wszystkich sprawiedliwych i pokornego serca do błogosławienia Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "312",
+      "piesn": "Idziesz przez wieki",
+      "opis": "Pieśń jest modlitwą o królowanie Chrystusa i prowadzenie nas do nieba, co jest celem czuwania, do którego wzywa Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń wyraża nadzieję na odnowę i zwycięstwo miłości Chrystusa, co jest pocieszeniem w kontekście wizji walki ze złem w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "318",
+      "piesn": "O Chryste Królu",
+      "opis": "Pieśń o charakterze programowym, w której wierni deklarują swoje poddanie się królowaniu Chrystusa i proszą o prowadzenie do Jego wiecznego królestwa.",
+      "moment": "ogolne"
     }
   ]
 }

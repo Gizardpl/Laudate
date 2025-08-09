@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/412326.34-Niedziela-zwykla-rok-A-Chrystusa-Krola",
-  "tytul_dnia": "34 Niedziela zwykła, rok A Chrystusa Króla",
+  "tytul_dnia": "Uroczystość Jezusa Chrystusa, Króla Wszechświata rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 25, 31-46",
       "opis": "Chrystus będzie sądził z uczynków miłości",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Gdy Syn Człowieczy przyjdzie w swej chwale, a z Nim wszyscy aniołowie, wtedy zasiądzie na swoim tronie pełnym chwały. I zgromadzą się przed Nim wszystkie narody, a On oddzieli jednych ludzi od drugich, jak pasterz oddziela owce od kozłów. Owce postawi po prawej, a kozły po swojej lewej stronie.\nWtedy odezwie się Król do tych po prawej stronie:\n„Pójdźcie, błogosławieni u Ojca mojego, weźcie w posiadanie królestwo, przygotowane dla was od założenia świata!\nBo byłem głodny, a daliście Mi jeść;\nbyłem spragniony, a daliście Mi pić;\nbyłem przybyszem, a przyjęliście Mnie;\nbyłem nagi, a przyodzialiście Mnie;\nbyłem chory, a odwiedziliście Mnie;\nbyłem w więzieniu, a przyszliście do Mnie”.\nWówczas zapytają sprawiedliwi: „Panie, kiedy widzieliśmy Cię głodnym i nakarmiliśmy Ciebie? Albo spragnionym i daliśmy Ci pić? Kiedy widzieliśmy Cię przybyszem i przyjęliśmy Cię, lub nagim i przyodzialiśmy Cię? Kiedy widzieliśmy Cię chorym lub w więzieniu i przyszliśmy do Ciebie?” A Król im odpowie: „Zaprawdę, powiadam wam: Wszystko, co uczyniliście jednemu z tych braci moich najmniejszych, Mnie uczyniliście”.\nWtedy odezwie się i do tych po lewej stronie: „Idźcie precz ode Mnie, przeklęci, w ogień wieczny, przygotowany diabłu i jego aniołom!\nBo byłem głodny, a nie daliście Mi jeść;\nbyłem spragniony, a nie daliście Mi pić;\nbyłem przybyszem, a nie przyjęliście Mnie;\nbyłem nagi, a nie przyodzialiście Mnie;\nbyłem chory i w więzieniu, a nie odwiedziliście Mnie”.\nWówczas zapytają i ci: „Panie, kiedy widzieliśmy Cię głodnym albo spragnionym, albo przybyszem, albo nagim, kiedy chorym albo w więzieniu, a nie usłużyliśmy Tobie?” Wtedy odpowie im: „Zaprawdę, powiadam wam: Wszystko, czego nie uczyniliście jednemu z tych najmniejszych, tego i Mnie nie uczyniliście”.\nI pójdą ci na wieczną karę, sprawiedliwi zaś do życia wiecznego».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń jest aklamacją na cześć Chrystusa Króla, co doskonale wprowadza w charakter uroczystości.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "312",
+      "piesn": "Idziesz przez wieki",
+      "opis": "W tej pieśni prosimy Chrystusa Króla, by władał naszymi sercami, ofiarując Mu nasze życie jako odpowiedź na Jego miłość.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, a obraz Chrystusa jako Dobrego Pasterza jest kluczowy w pierwszym czytaniu i Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "316",
+      "piesn": "Na Twojej, Chryste",
+      "opis": "Hymn ten jest wyrazem uwielbienia i dziękczynienia za królowanie Chrystusa, który jest naszym pokojem i nadzieją.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "318",
+      "piesn": "O Chryste Królu",
+      "opis": "Pieśń ta jest aktem zawierzenia Chrystusowi Królowi, prosząc Go o prowadzenie do wiecznego królestwa, o którym mowa w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń łączy królowanie Chrystusa z Jego miłosierdziem, które jest kryterium sądu ostatecznego z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń o charakterze programowym, w której wierni deklarują swoje poddanie się królowaniu Chrystusa.",
+      "moment": "ogolne"
     }
   ]
 }

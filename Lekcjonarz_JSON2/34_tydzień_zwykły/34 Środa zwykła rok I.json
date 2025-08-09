@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414024.Sroda-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Środa, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Środa zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 12-19",
       "opis": "Jezus zapowiada prześladowanie swoich wyznawców",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Podniosą na was ręce i będą was prześladować. Wydadzą was do synagog i do więzień oraz z powodu mojego imienia wlec was będą przed królów i namiestników. Będzie to dla was sposobność do składania świadectwa.\nPostanówcie sobie w sercu nie obmyślać naprzód swej obrony. Ja bowiem dam wam wymowę i mądrość, której żaden z waszych prześladowców nie będzie mógł się oprzeć ani sprzeciwić.\nA wydawać was będą nawet rodzice i bracia, krewni i przyjaciele i niektórych z was o śmierć przyprawią. I z powodu mojego imienia będziecie w nienawiści u wszystkich. Ale włos z głowy wam nie spadnie. Przez swoją wytrwałość ocalicie wasze życie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę doskonale pasuje do Ewangelii, w której Jezus zapewnia uczniów o swojej pomocy w czasie prześladowań.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "W obliczu zapowiedzi prześladowań, ta pieśń jest prośbą o dar wierności i wytrwałości, o której mówi Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, która jest źródłem siły w trudnościach, podobnie jak Daniel pozostał wierny Bogu mimo zagrożenia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, wzywającego całe stworzenie do błogosławienia Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo na trud świadczenia o Chrystusie w świecie, do czego wzywa Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń jest aktem uwielbienia i wyznaniem, że wszystko należy do Boga, w przeciwieństwie do postawy Baltazara z pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń o ufności w Bożą opatrzność, która chroni wiernych, tak jak chroniła Daniela i jak obiecuje chronić uczniów w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

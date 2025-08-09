@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414049.Sobota-34-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Sobota, 34 tydzień zwykły, Rok II",
+  "tytul_dnia": "34 Sobota zwykła rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 34-36",
       "opis": "Czuwajcie i módlcie się w każdym czasie",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Uważajcie na siebie, aby wasze serca nie były ociężałe wskutek obżarstwa, pijaństwa i trosk doczesnych, żeby ten dzień nie spadł na was znienacka jak potrzask. Przyjdzie on bowiem na wszystkich, którzy mieszkają na całej ziemi. Czuwajcie więc i módlcie się w każdym czasie, abyście mogli uniknąć tego wszystkiego, co ma nastąpić, i stanąć przed Synem Człowieczym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest echem wezwania z psalmu responsoryjnego: 'Przyjdźcie, radośnie śpiewajmy Panu, (...) klęknijmy przed Panem, który nas stworzył'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wobec wezwania do czuwania z Ewangelii, ta pieśń jest aktem ofiarowania całego życia Bogu, aby być gotowym na Jego przyjście.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Psalm responsoryjny mówi o nas jako o 'ludzie Jego pastwiska'. Ta pieśń jest wyrazem ufności w Dobrego Pasterza, który prowadzi nas do wiecznego domu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynienie za obietnicę oglądania oblicza Bożego i królowania na wieki, opisaną w pierwszym czytaniu z Apokalipsy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W ostatnim dniu roku liturgicznego, pieśń ta jest posłaniem nadziei na ostateczne spotkanie z Panem, do którego przygotowuje nas całe życie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń wyraża nadzieję na zmartwychwstanie i oglądanie Boga, co jest centralnym punktem wizji nowego nieba i nowej ziemi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Hymn dziękczynny, który pasuje do radosnej perspektywy zwycięstwa i królowania z Chrystusem, ukazanej w Apokalipsie.",
+      "moment": "ogolne"
     }
   ]
 }

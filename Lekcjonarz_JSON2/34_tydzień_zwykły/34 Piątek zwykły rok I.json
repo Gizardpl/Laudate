@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414032.Piatek-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Piątek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 29-33",
       "opis": "Przypowieść o drzewie figowym",
       "tekst": "Jezus opowiedział swoim uczniom przypowieść:\n«Spójrzcie na figowiec i na wszystkie drzewa. Gdy widzicie, że wypuszczają pąki, sami poznajecie, że już blisko jest lato. Tak i wy, gdy ujrzycie te wszystkie wydarzenia, wiedzcie, iż blisko jest królestwo Boże. Zaprawdę, powiadam wam: Nie przeminie to pokolenie, aż się wszystko stanie.\nNiebo i ziemia przeminą, ale moje słowa nie przeminą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ta wprost ogłasza Chrystusa Królem i Władcą, co doskonale koresponduje z wizją Syna Człowieczego z pierwszego czytania, któremu powierzono wieczne panowanie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "314",
+      "piesn": "Królu wszechwładny",
+      "opis": "Pieśń ma charakter ofiarny i błagalny, w której lud wierny oddaje hołd swojemu Królowi, prosząc o Jego błogosławieństwo.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "W Komunii przyjmujemy Tego, którego królestwo nie ulegnie zagładzie, a ta pieśń wzywa Go do królowania i odnowienia w nas swojej miłości.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, wzywającego całe stworzenie do błogosławienia Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "318",
+      "piesn": "O Chryste Królu",
+      "opis": "Pieśń ta jest aktem zawierzenia Chrystusowi Królowi i prośbą o prowadzenie do Jego królestwa, o którego bliskości mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń o charakterze programowym, w której wierni deklarują swoje poddanie się królowaniu Chrystusa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "312",
+      "piesn": "Idziesz przez wieki",
+      "opis": "Pieśń podkreśla królewską godność Chrystusa i jest prośbą o Jego panowanie w sercach, co jest istotą życia chrześcijańskiego.",
+      "moment": "ogolne"
     }
   ]
 }

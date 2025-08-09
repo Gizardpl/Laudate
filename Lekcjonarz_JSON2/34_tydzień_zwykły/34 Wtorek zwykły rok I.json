@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414018.Wtorek-34-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 34 tydzień zwykły, Rok I",
+  "tytul_dnia": "34 Wtorek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 5-11",
       "opis": "Zapowiedź zburzenia świątyni",
       "tekst": "Gdy niektórzy mówili o świątyni, że jest przyozdobiona pięknymi kamieniami i darami, Jezus powiedział: «Przyjdzie czas, kiedy z tego, na co patrzycie, nie zostanie kamień na kamieniu, który by nie był zwalony».\nZapytali Go: «Nauczycielu, kiedy to nastąpi? I jaki będzie znak, gdy to się dziać zacznie?»\nJezus odpowiedział: «Strzeżcie się, żeby was nie zwiedziono. Wielu bowiem przyjdzie pod moim imieniem i będą mówić: „To ja jestem” oraz „Nadszedł czas”. Nie podążajcie za nimi! I nie trwóżcie się, gdy posłyszycie o wojnach i przewrotach. To najpierw musi się stać, ale nie zaraz nastąpi koniec».\nWtedy mówił do nich: «Powstanie naród przeciw narodowi i królestwo przeciw królestwu. Wystąpią silne trzęsienia ziemi, a miejscami głód i zaraza; ukażą się straszne zjawiska i wielkie znaki na niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ogłasza królowanie Chrystusa, co jest odpowiedzią na wizję z pierwszego czytania o nietrwałości ziemskich królestw i wiecznym królestwie Boga.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Wobec zapowiedzi przemijania rzeczy doczesnych z Ewangelii, ta pieśń wyraża prawdę, że naszym trwałym domem jest niebo.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu zapowiedzi wojen i kataklizmów, ta pieśń jest wyznaniem wiary, że naszą jedyną i trwałą nadzieją jest Chrystus.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego, wzywającego wszystkie dzieła Pańskie do chwalenia Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "318",
+      "piesn": "O Chryste Królu",
+      "opis": "Pieśń ta jest aktem zawierzenia Chrystusowi Królowi i prośbą o prowadzenie do Jego królestwa, które nigdy nie ulegnie zniszczeniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń wyraża nadzieję na odnowę i zwycięstwo miłości Chrystusa w świecie pełnym niepokoju, o którym mówi Ewangelia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "314",
+      "piesn": "Królu wszechwładny",
+      "opis": "Hymn do Chrystusa Króla, w którym lud wierny prosi o Jego zmiłowanie i błogosławieństwo.",
+      "moment": "ogolne"
     }
   ]
 }

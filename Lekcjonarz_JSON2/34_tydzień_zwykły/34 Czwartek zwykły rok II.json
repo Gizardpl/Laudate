@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414047.Czwartek-34-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 34 tydzień zwykły, Rok II",
+  "tytul_dnia": "34 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 20-28",
       "opis": "Powtórne przyjście Chrystusa",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Skoro ujrzycie Jeruzalem otoczone przez wojska, wtedy wiedzcie, że jego spustoszenie jest bliskie. Wtedy ci, którzy będą w Judei, niech uciekają w góry; ci, którzy są w mieście, niech z niego uchodzą, a ci, co po wsiach, niech do niego nie wchodzą. Będzie to bowiem czas pomsty, aby spełniło się wszystko, co jest napisane. Biada brzemiennym i karmiącym w owe dni! Nastanie bowiem wielki ucisk na ziemi i gniew na ten naród: jedni polegną od miecza, a drugich zapędzą w niewolę między wszystkie narody. A Jeruzalem będzie deptane przez pogan, aż czasy pogan się wypełnią.\nBędą znaki na słońcu, księżycu i gwiazdach, a na ziemi trwoga narodów bezradnych wobec huku morza i jego nawałnicy. Ludzie mdleć będą ze strachu w oczekiwaniu wydarzeń zagrażających ziemi. Albowiem moce niebios zostaną wstrząśnięte. Wtedy ujrzą Syna Człowieczego, nadchodzącego w obłoku z mocą i wielką chwałą. A gdy się to dziać zacznie, nabierzcie ducha i podnieście głowy, ponieważ zbliża się wasze odkupienie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń ta jest radosnym wezwaniem do służenia Panu, co jest echem psalmu responsoryjnego, wzywającego do wstępowania w Jego bramy z dziękczynieniem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W perspektywie eschatologicznej, o której mówią czytania, ta pieśń jest aktem całkowitego oddania się Bogu i zawierzenia Mu swojego życia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Pierwsze czytanie mówi o 'uczcie Godów Baranka'. Ta pieśń przypomina, że Komunia Święta jest zapowiedzią tej niebiańskiej uczty.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Mimo groźnych zapowiedzi z Ewangelii, ostatecznym przesłaniem jest nadzieja i radość z nadchodzącego odkupienia, co wyraża ta pieśń.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta, mówiąca o Chrystusie jako nadziei i pokoju, jest posłaniem pociechy w kontekście przemijania świata i oczekiwania na przyjście Pana.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń wyraża nadzieję na zmartwychwstanie i oglądanie Boga, co jest centralnym punktem obietnicy zbawienia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń jest wezwaniem do oddania czci Bogu, Stwórcy i Panu, którego sprawiedliwe sądy opisuje pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

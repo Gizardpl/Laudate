@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/414041.Wtorek-34-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 34 tydzień zwykły, Rok II",
+  "tytul_dnia": "34 Wtorek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 21, 5-11",
       "opis": "Zapowiedź zburzenia świątyni",
       "tekst": "Gdy niektórzy mówili o świątyni, że jest przyozdobiona pięknymi kamieniami i darami, Jezus powiedział: «Przyjdzie czas, kiedy z tego, na co patrzycie, nie zostanie kamień na kamieniu, który by nie był zwalony».\nZapytali Go: «Nauczycielu, kiedy to nastąpi? I jaki będzie znak, gdy to się dziać zacznie?»\nJezus odpowiedział: «Strzeżcie się, żeby was nie zwiedziono. Wielu bowiem przyjdzie pod moim imieniem i będą mówić: „To ja jestem” oraz „Nadszedł czas”. Nie podążajcie za nimi! I nie trwóżcie się, gdy posłyszycie o wojnach i przewrotach. To najpierw musi się stać, ale nie zaraz nastąpi koniec».\nWtedy mówił do nich: «Powstanie naród przeciw narodowi i królestwo przeciw królestwu. Wystąpią silne trzęsienia ziemi, a miejscami głód i zaraza; ukażą się straszne zjawiska i wielkie znaki na niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "645",
+      "piesn": "Jam gościem na tym świecie",
+      "opis": "Wobec zapowiedzi przemijania rzeczy doczesnych, w tym świątyni, pieśń ta przypomina, że naszą prawdziwą ojczyzną jest niebo.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W perspektywie Sądu Ostatecznego, opisanego w pierwszym czytaniu, ta pieśń jest aktem ofiarowania całego życia Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "W obliczu zapowiedzi wojen i kataklizmów, ta pieśń jest wyznaniem wiary, że naszą jedyną i trwałą nadzieją jest Chrystus.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta jest radosnym hymnem na cześć Pana, który, jak mówi psalm, nadchodzi, aby sądzić ziemię sprawiedliwie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo, abyśmy w życiu i pracy byli wierni aż do śmierci, jak wzywa aklamacja.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "653",
+      "piesn": "W gniewu dzień",
+      "opis": "Sekwencja 'Dies irae', choć za zmarłych, wstrząsająco opisuje dzień sądu, o którym mówią oba czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Pieśń wzywa wszystkie narody do chwalenia Boga, który jest sprawiedliwym sędzią, jak głosi psalm responsoryjny.",
+      "moment": "ogolne"
     }
   ]
 }
