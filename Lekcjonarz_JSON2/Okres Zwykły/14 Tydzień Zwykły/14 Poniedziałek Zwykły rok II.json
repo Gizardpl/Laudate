@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426648.Poniedzialek-XIV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, XIV tydzień zwykły, rok II",
+  "tytul_dnia": "14 Poniedziałek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,56 @@
       "sigla": "Mt 9, 18-26",
       "opis": "Uzdrowienie kobiety i wskrzeszenie córki Jaira",
       "tekst": "Gdy Jezus mówił do uczniów, oto przyszedł do Niego pewien zwierzchnik synagogi i oddając Mu pokłon, prosił:\n«Panie, moja córka dopiero co skonała, lecz przyjdź i połóż na nią rękę, a żyć będzie». Jezus wstał i wraz z uczniami poszedł za nim.\nWtem jakaś kobieta, która dwanaście lat cierpiała na krwotok, podeszła z tyłu i dotknęła się frędzli Jego płaszcza. Mówiła bowiem sobie: «Żebym choć dotknęła Jego płaszcza, a będę zdrowa».\nJezus obrócił się i widząc ją, rzekł: «Ufaj, córko! Twoja wiara cię ocaliła». I od tej chwili kobieta była zdrowa.\nGdy Jezus przyszedł do domu zwierzchnika i zobaczył fletnistów oraz tłum zgiełkliwy, rzekł: «Odsuńcie się, bo dziewczynka nie umarła, tylko śpi». A oni wyśmiewali Go.\nSkoro jednak usunięto tłum, wszedł i ujął ją za rękę, a dziewczynka wstała. Wieść o tym rozeszła się po całej tamtejszej okolicy.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń chwali niezmierzoną dobroć i miłosierdzie Boga, co jest głównym tematem psalmu responsoryjnego oraz pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "245",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Nawiązuje do oblubieńczej miłości Boga z pierwszego czytania, ukazując ją w kontekście ofiary eucharystycznej.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "202",
+      "piesn": "Miłosierdzia, Jezu mój",
+      "opis": "Jest to modlitwa o miłosierdzie, które objawia się w cudach uzdrowienia i wskrzeszenia opisanych w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Pieśń ta podkreśla miłość Chrystusa, który do końca nas umiłował, co rezonuje z obrazem Boga-Oblubieńca z Księgi Ozeasza.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar życia i wiary, które Jezus przywraca i umacnia w dzisiejszej Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń na rozesłanie, która jest modlitwą o jedność w miłości, będącą odpowiedzią na oblubieńczą miłość Boga.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "589",
+      "piesn": "Boże, kocham Cię!",
+      "opis": "Jest to prosta i bezpośrednia odpowiedź na miłość Boga, którą objawia pierwsze czytanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta jest zaproszeniem do zaufania Jezusowi, podobnie jak uczynili to zwierzchnik synagogi i kobieta cierpiąca na krwotok.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426654.Poniedzialek-XIV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Poniedziałek, XIV tydzień zwykły, rok I",
+  "tytul_dnia": "14 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,56 @@
       "sigla": "Mt 9, 18-26",
       "opis": "Uzdrowienie kobiety i wskrzeszenie córki Jaira",
       "tekst": "Gdy Jezus mówił do uczniów, oto przyszedł do Niego pewien zwierzchnik synagogi i oddając Mu pokłon, prosił:\n«Panie, moja córka dopiero co skonała, lecz przyjdź i połóż na nią rękę, a żyć będzie». Jezus wstał i wraz z uczniami poszedł za nim.\nWtem jakaś kobieta, która dwanaście lat cierpiała na krwotok, podeszła z tyłu i dotknęła się frędzli Jego płaszcza. Mówiła bowiem sobie: «Żebym choć dotknęła Jego płaszcza, a będę zdrowa».\nJezus obrócił się i widząc ją, rzekł: «Ufaj, córko! Twoja wiara cię ocaliła». I od tej chwili kobieta była zdrowa.\nGdy Jezus przyszedł do domu zwierzchnika i zobaczył fletnistów oraz tłum zgiełkliwy, rzekł: «Odsuńcie się, bo dziewczynka nie umarła, tylko śpi». A oni wyśmiewali Go.\nSkoro jednak usunięto tłum, wszedł i ujął ją za rękę, a dziewczynka wstała. Wieść o tym rozeszła się po całej tamtejszej okolicy.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Tekst tej pieśni jest niemal dosłownym opracowaniem Psalmu 91, który jest psalmem responsoryjnym tego dnia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Nawiązuje do pierwszego czytania, w którym Jakub odkrywa święte miejsce i nazywa je 'domem Boga'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń wyraża akt oddania i zaufania Bogu, co jest odpowiedzią na Jego obietnicę opieki z pierwszego czytania i psalmu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Wyraża wiarę i pokorę, podobną do tej, jaką okazała kobieta cierpiąca na krwotok w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "246",
+      "piesn": "Jezu, w Hostii utajony",
+      "opis": "Pieśń jest aktem osobistej wiary w uzdrawiającą obecność Jezusa w Eucharystii, co jest centralnym tematem Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń dziękczynna za Bożą pomoc i uzdrowienie, stanowiąca doskonałe podsumowanie cudów opisanych w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń ta, mówiąca o pielgrzymowaniu do domu Ojca, nawiązuje do wędrówki Jakuba i obietnicy Bożej, że go poprowadzi.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest to zaproszenie do szukania pociechy i uzdrowienia u Jezusa, co bezpośrednio odnosi się do wydarzeń z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

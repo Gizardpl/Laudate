@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426649.Sobota-XIV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, XIV tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426649.Sobota-XIV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "14 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 10, 24-33",
       "opis": "Nie bójcie się ludzi",
       "tekst": "Jezus powiedział do swoich apostołów:\n«Uczeń nie przewyższa nauczyciela ani sługa swego pana. Wystarczy, jeśli uczeń będzie jak jego nauczyciel, a sługa – jak jego pan. Jeśli pana domu przezwali Belzebubem, to o ileż bardziej nazwą tak jego domowników.\nNie bójcie się więc ich! Nie ma bowiem nic skrytego, co by nie miało być wyjawione, ani nic tajemnego, o czym by się nie miano dowiedzieć. Co mówię wam w ciemności, powtarzajcie w świetle, a co słyszycie na ucho, rozgłaszajcie na dachach.\nNie bójcie się tych, którzy zabijają ciało, lecz duszy zabić nie mogą. Bójcie się raczej Tego, który duszę i ciało może zatracić w piekle. Czyż nie sprzedają dwóch wróbli za asa? A przecież bez woli Ojca waszego żaden z nich nie spadnie na ziemię. U was zaś policzone są nawet wszystkie włosy na głowie. Dlatego nie bójcie się: jesteście ważniejsi niż wiele wróbli.\nDo każdego więc, kto się przyzna do Mnie przed ludźmi, przyznam się i Ja przed moim Ojcem, który jest w niebie. Lecz kto się Mnie zaprze przed ludźmi, tego zaprę się i Ja przed moim Ojcem, który jest w niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie do Boga w obliczu zagrożeń, o których Jezus mówi w Ewangelii: 'Nie bójcie się tych, którzy zabijają ciało'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Prośba braci Józefa o przebaczenie jest wzorem dla naszej postawy skruchy, którą wyraża ta pieśń.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wobec wezwania do odważnego wyznawania wiary, ta pieśń wyraża naszą świadomość słabości i potrzebę Bożej mocy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wypełnienie wezwania psalmisty, by sławić Pana i głosić Jego cuda, widoczne w historii Józefa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest mocną deklaracją wierności Bogu, do której wzywa Jezus, obiecując przyznanie się do nas przed Ojcem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Przebaczenie, jakiego Józef udzielił braciom, jest fundamentem wspólnoty, o którym przypomina ta pieśń.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Historia patriarchów, kończąca się w Egipcie, ale z nadzieją na powrót do Ziemi Obiecanej, jest obrazem naszej ziemskiej pielgrzymki.",
+      "moment": "ogolne"
     }
   ]
 }

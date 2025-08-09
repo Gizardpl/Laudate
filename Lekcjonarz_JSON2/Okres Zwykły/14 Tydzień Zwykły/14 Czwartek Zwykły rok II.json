@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426645.Czwartek-XIV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Czwartek, XIV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426645.Czwartek-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Czwartek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 10, 7-15",
       "opis": "Wskazania na pracę apostolską",
       "tekst": "Jezus powiedział do swoich apostołów:\n«Idźcie i głoście: Bliskie już jest królestwo niebieskie. Uzdrawiajcie chorych, wskrzeszajcie umarłych, oczyszczajcie trędowatych, wypędzajcie złe duchy. Darmo otrzymaliście, darmo dawajcie. Nie zdobywajcie złota ani srebra, ani miedzi do swych trzosów. Nie bierzcie w drogę torby ani dwóch sukien, ani sandałów, ani laski. Wart jest bowiem robotnik swej strawy.\nA gdy przyjdziecie do jakiegoś miasta albo wsi, wywiedzcie się, kto tam jest godny, i u niego zatrzymajcie się, dopóki nie wyjdziecie. Wchodząc do domu, przywitajcie go pozdrowieniem. Jeśli dom na to zasługuje, niech zstąpi na niego pokój wasz; jeśli zaś nie zasługuje, niech pokój wasz powróci do was.\nA jeśliby was gdzieś nie chciano przyjąć i nie dano posłuchu słowom waszym, wychodząc z takiego domu albo miasta, strząśnijcie proch z nóg waszych! Zaprawdę, powiadam wam: Ziemi sodomskiej i gomorejskiej lżej będzie w dzień sądu niż temu miastu».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest bezpośrednim odzwierciedleniem misyjnego polecenia Jezusa danego apostołom w dzisiejszej Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec niewierności Izraela, opisanej w pierwszym czytaniu, ta pieśń pokutna jest prośbą o miłosierdzie i odnowienie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Apostołowie mają głosić Królestwo i uzdrawiać. Eucharystia jest najpełniejszym znakiem tego Królestwa i źródłem duchowego uzdrowienia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń uwielbienia za miłość Boga, która jest jak miłość ojca do dziecka, opisana w proroctwie Ozeasza.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Uczniowie są posłani, by głosić Królestwo Chrystusa. Ta pieśń jest wyznaniem Jego królewskiej władzy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Nawiązuje do psalmu, w którym Bóg jest przedstawiony jako Pasterz Izraela, który nawiedza swoją winorośl.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "428",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Wyraża osobistą odpowiedź na miłość Boga-Ojca, opisaną tak czule w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

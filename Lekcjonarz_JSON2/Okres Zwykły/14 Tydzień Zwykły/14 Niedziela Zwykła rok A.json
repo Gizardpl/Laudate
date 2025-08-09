@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426657.Niedziela-rok-A",
-  "tytul_dnia": "Niedziela rok A",
+  "tytul_dnia": "14 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,62 @@
       "sigla": "Mt 11, 25-30",
       "opis": "Jezus cichy i pokornego serca",
       "tekst": "W owym czasie Jezus przemówił tymi słowami:\n«Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te  rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nWszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn i ten, komu Syn zechce objawić.\nPrzyjdźcie do Mnie wszyscy, którzy utrudzeni i obciążeni jesteście, a Ja was pokrzepię. Weźcie na siebie moje jarzmo i uczcie się ode Mnie, bo jestem cichy i pokornego serca, a znajdziecie ukojenie dla dusz waszych. Albowiem słodkie jest moje jarzmo, a moje brzemię lekkie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń ta doskonale wpisuje się w tematykę królewską, obecną w pierwszym czytaniu i psalmie, które mówią o przyjściu pokornego Króla.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "598",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Pieśń jest wyrazem dziękczynienia za łaski, co koresponduje z dziękczynieniem Jezusa Ojcu w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "271",
+      "piesn": "Przyjdźcie do mnie wszyscy",
+      "opis": "Tekst pieśni jest bezpośrednim nawiązaniem do słów Jezusa z Ewangelii, zapraszającego do siebie utrudzonych i obciążonych.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Ta pieśń eucharystyczna podkreśla miłość Jezusa, który daje siebie jako pokarm dający pokrzepienie i życie wieczne.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Jest to hymn uwielbienia, który dobrze oddaje nastrój dziękczynienia i wysławiania Boga obecny w psalmie i Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać mogę",
+      "opis": "Pieśń dziękczynna, która jest odpowiedzią na zaproszenie Jezusa z Ewangelii, by przyjąć Jego jarzmo i znaleźć ukojenie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń na rozesłanie, która podkreśla jedność wiernych w Chrystusie, który jest cichy i pokornego serca.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża ufność w Bożą opiekę, co jest odpowiedzią na zaproszenie Jezusa, by w Nim znaleźć ukojenie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "287",
+      "piesn": "Jezu dobry i cichy",
+      "opis": "Pieśń bezpośrednio odnosi się do słów Ewangelii, w której Jezus mówi o sobie: 'jestem cichy i pokornego serca'.",
+      "moment": "ogolne"
     }
   ]
 }

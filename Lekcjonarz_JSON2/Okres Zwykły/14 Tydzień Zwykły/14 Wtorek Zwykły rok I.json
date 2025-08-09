@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426653.Wtorek-XIV-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, XIV tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426653.Wtorek-XIV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "14 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 32-38",
       "opis": "Jezus lituje się nad ludźmi",
       "tekst": "Przyprowadzono do Jezusa opętanego niemowę. Po wyrzuceniu złego ducha niemy odzyskał mowę, a tłumy pełne podziwu wołały: «Jeszcze się nigdy nic podobnego nie pojawiło w Izraelu!»\nLecz faryzeusze mówili: «Wyrzuca złe duchy mocą ich przywódcy».\nTak Jezus obchodził wszystkie miasta i wioski. Nauczał w tamtejszych synagogach, głosił Ewangelię o królestwie i leczył wszystkie choroby i wszystkie słabości.\nA widząc tłumy, litował się nad nimi, bo byli znękani i porzuceni, jak owce niemające pasterza. Wtedy rzekł do swych uczniów: «Żniwo wprawdzie wielkie, ale robotników mało. Proście Pana żniwa, żeby wyprawił robotników na swoje żniwo».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Pieśń ta jest doskonałym komentarzem do Ewangelii, w której Jezus lituje się nad tłumem 'jak owce niemające pasterza'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wytrwała walka Jakuba o błogosławieństwo jest obrazem naszej modlitwy, w której zawierzamy się Bożej opiece.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Jezus, Dobry Pasterz, karmi nas swoim Słowem i Ciałem, dając pokrzepienie znękanym i porzuconym.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalmista, okazuje swoje przedziwne miłosierdzie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Wezwanie Jezusa do modlitwy o robotników na żniwo jest misyjnym posłaniem, które podejmuje ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Historia walki Jakuba uczy wytrwałości w modlitwie. Ta pieśń jest wyrazem ufności w jej wysłuchanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Zaprasza, by przyjść do Jezusa, który lituje się nad ludźmi i leczy wszystkie ich choroby i słabości.",
+      "moment": "ogolne"
     }
   ]
 }

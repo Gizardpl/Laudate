@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426644.Piatek-XIV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, XIV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426644.Piatek-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 10, 16-23",
       "opis": "Apostołowie będą prześladowani",
       "tekst": "Jezus powiedział do swoich apostołów:\n«Oto Ja was posyłam jak owce między wilki. Bądźcie więc roztropni jak węże, a nieskazitelni jak gołębie.\nMiejcie się na baczności przed ludźmi! Będą was wydawać sądom i w swych synagogach będą was biczować. Nawet przed namiestników i królów będą was prowadzić z mego powodu, na świadectwo im i poganom. Kiedy was wydadzą, nie martwcie się o to, jak ani co macie mówić. W owej bowiem godzinie będzie wam poddane, co macie mówić, gdyż nie wy będziecie mówili, lecz Duch Ojca waszego będzie mówił przez was.\nBrat wyda brata na śmierć i ojciec syna; dzieci powstaną przeciw rodzicom i o śmierć ich przyprawią. Będziecie w nienawiści u wszystkich z powodu mego imienia. Lecz kto wytrwa do końca, ten będzie zbawiony.\nGdy was prześladować będą w tym mieście, uciekajcie do innego. Zaprawdę, powiadam wam: Nie zdążycie obejść miast Izraela, nim przyjdzie Syn Człowieczy».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża prośbę o nawrócenie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to pieśń o charakterze pokutnym, która doskonale oddaje ducha pierwszego czytania wzywającego do nawrócenia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "281",
+      "piesn": "O Stworzycielu, Duchu, przyjdź",
+      "opis": "W obliczu prześladowań, o których mówi Ewangelia, prosimy Ducha Świętego o moc i mądrość, by świadczyć o Chrystusie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń uwielbienia za Boże miłosierdzie i obietnicę uzdrowienia niewierności, o której mówi prorok Ozeasz.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń umacnia wiarę i dodaje odwagi tym, którzy są posłani jak owce między wilki, by świadczyć o swoim Królu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "W kontekście zapowiedzi prześladowań, pieśń ta jest wyrazem ufności w Bożą opiekę i obronę.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to akt zawierzenia, szczególnie potrzebny w trudnych chwilach, o których Jezus uprzedza swoich uczniów.",
+      "moment": "ogolne"
     }
   ]
 }

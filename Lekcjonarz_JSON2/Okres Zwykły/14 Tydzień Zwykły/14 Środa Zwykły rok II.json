@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426646.Sroda-XIV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, XIV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426646.Sroda-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 10, 1-7",
       "opis": "Rozesłanie Dwunastu",
       "tekst": "Jezus przywołał do siebie dwunastu swoich uczniów i udzielił im władzy nad duchami nieczystymi, aby je wypędzali i leczyli wszystkie choroby i wszelkie słabości.\nA oto imiona dwunastu apostołów: pierwszy – Szymon, zwany Piotrem, i brat jego Andrzej, potem Jakub, syn Zebedeusza, i brat jego Jan, Filip i Bartłomiej, Tomasz i celnik Mateusz, Jakub, syn Alfeusza, i Tadeusz, Szymon Gorliwy i Judasz Iskariota, ten, który Go zdradził.\nTych to Dwunastu wysłał Jezus i dał im takie wskazania: «Nie idźcie do pogan i nie wstępujcie do żadnego miasta samarytańskiego. Idźcie raczej do owiec, które poginęły z domu Izraela. Idźcie i głoście: Bliskie już jest królestwo niebieskie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń bezpośrednio nawiązuje do Ewangelii, w której Jezus powołuje i wysyła Dwunastu do głoszenia Królestwa Bożego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec grzechu obłudy serca, o którym mówi prorok Ozeasz, ta pieśń jest aktem skruchy i prośbą o sprawiedliwość.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Powołanie Apostołów, zwykłych ludzi, do wielkich dzieł, uświadamia nam naszą małość i potrzebę łaski Bożej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wypełnienie wezwania psalmisty, by zawsze szukać Bożego oblicza i rozmyślać o Jego potędze.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Apostołowie są posłani, by głosić Królestwo Chrystusa. Ta pieśń jest wyznaniem Jego królewskiej władzy i naszego posłuszeństwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pierwsze czytanie i psalm zachęcają do szukania Pana. Ta pieśń jest wyrazem tego właśnie pragnienia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które nie będzie obłudne, ale gotowe, by siać sprawiedliwość i zbierać miłość.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426647.Wtorek-XIV-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, XIV tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426647.Wtorek-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 9, 32-38",
       "opis": "Jezus lituje się nad ludźmi",
       "tekst": "Przyprowadzono do Jezusa opętanego niemowę. Po wyrzuceniu złego ducha niemy odzyskał mowę, a tłumy pełne podziwu wołały: «Jeszcze się nigdy nic podobnego nie pojawiło w Izraelu!»\nLecz faryzeusze mówili: «Wyrzuca złe duchy mocą ich przywódcy».\nTak Jezus obchodził wszystkie miasta i wioski. Nauczał w tamtejszych synagogach, głosił Ewangelię o królestwie i leczył wszystkie choroby i wszystkie słabości.\nA widząc tłumy, litował się nad nimi, bo byli znękani i porzuceni, jak owce niemające pasterza. Wtedy rzekł do swych uczniów: «Żniwo wprawdzie wielkie, ale robotników mało. Proście Pana żniwa, żeby wyprawił robotników na swoje żniwo».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Pieśń jest odpowiedzią na obraz ludu 'jak owce niemające pasterza' z Ewangelii i na aklamację o Dobrym Pasterzu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec grzechu bałwochwalstwa, o którym mówi prorok Ozeasz, ta pieśń jest aktem skruchy i prośby o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Jezus, litując się nad tłumem, daje mu pokarm duchowy i uzdrowienie. W Eucharystii daje nam samego siebie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest pomocą i tarczą, w przeciwieństwie do martwych bożków.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Wezwanie Jezusa do modlitwy o robotników na żniwo jest misyjnym posłaniem, które podejmuje ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wobec grzechu bałwochwalstwa, ta pieśń jest mocną deklaracją wyboru jedynego i prawdziwego Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Psalm mówi o ufności pokładanej w Panu. Ta pieśń jest wyrazem tego zaufania w przeciwieństwie do ufności w bożki.",
+      "moment": "ogolne"
     }
   ]
 }
