@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/415626.Niedziela-rok-B",
-  "tytul_dnia": "Niedziela rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/415626.Niedziela-rok-B",
+  "tytul_dnia": "6 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 1, 40-45",
       "opis": "Uzdrowienie trędowatego",
       "tekst": "Pewnego dnia przyszedł do Jezusa trędowaty i upadłszy na kolana, prosił Go: «Jeśli zechcesz, możesz mnie oczyścić». A Jezus, zdjęty litością, wyciągnął rękę, dotknął go i rzekł do niego: «Chcę, bądź oczyszczony!» Zaraz trąd go opuścił, i został oczyszczony.\nJezus surowo mu przykazał i zaraz go odprawił, mówiąc mu: «Bacz, abyś nikomu nic nie mówił, ale idź, pokaż się kapłanowi i złóż za swe oczyszczenie ofiarę, którą przepisał Mojżesz, na świadectwo dla nich».\nLecz on po wyjściu zaczął wiele opowiadać i rozgłaszać to, co zaszło, tak że Jezus nie mógł już jawnie wejść do miasta, lecz przebywał w miejscach pustynnych. A ludzie zewsząd schodzili się do Niego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta jest zaproszeniem do Jezusa, który w Ewangelii okazuje się źródłem pociechy i uzdrowienia dla trędowatego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Nawiązuje do psalmu o odpuszczeniu grzechów i prośby trędowatego o oczyszczenie, które jest symbolem oczyszczenia z grzechu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Wyraża postawę trędowatego, który z wiarą i pokorą zbliżył się do Jezusa, prosząc o uzdrowienie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń dziękczynna za uzdrowienie i ocalenie, co stanowi odpowiedź na cud opisany w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń wyraża gotowość do naśladowania Chrystusa, do czego wzywa św. Paweł w drugim czytaniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu, która dobrze oddaje duchowe znaczenie oczyszczenia z trądu, symbolizującego grzech.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to prosta pieśń dziękczynna za dar uzdrowienia i zbawienia, który otrzymujemy od Chrystusa.",
+      "moment": "ogolne"
     }
   ]
 }

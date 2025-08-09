@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/415625.VI-Niedziela-Zwykla-rok-C",
-  "tytul_dnia": "VI Niedziela Zwykła rok C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/415625.VI-Niedziela-Zwykla-rok-C",
+  "tytul_dnia": "6 Niedziela Zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 6, 17. 20-26",
       "opis": "Błogosławieni ubodzy, biada bogaczom",
       "tekst": "Jezus zszedł z Dwunastoma na dół i zatrzymał się na równinie; był tam liczny tłum Jego uczniów i wielkie mnóstwo ludu z całej Judei i z Jeruzalem oraz z nadmorskich okolic Tyru i Sydonu.\nOn podniósł oczy na swoich uczniów i mówił:\n«Błogosławieni jesteście, ubodzy, albowiem do was należy królestwo Boże.\nBłogosławieni, którzy teraz głodujecie, albowiem będziecie nasyceni.\nBłogosławieni, którzy teraz płaczecie, albowiem śmiać się będziecie.\nBłogosławieni jesteście, gdy ludzie was znienawidzą i gdy was wyłączą spośród siebie, gdy zelżą was i z powodu Syna Człowieczego odrzucą z pogardą wasze imię jako niecne: cieszcie się i radujcie w owym dniu, bo wielka jest wasza nagroda w niebie. Tak samo bowiem przodkowie ich czynili prorokom.\nNatomiast biada wam, bogaczom, bo odebraliście już pociechę waszą.\nBiada wam, którzy teraz jesteście syci, albowiem głód cierpieć będziecie.\nBiada wam, którzy się teraz śmiejecie, albowiem smucić się i płakać będziecie.\nBiada wam, gdy wszyscy ludzie chwalić was będą. Tak samo bowiem przodkowie ich czynili fałszywym prorokom».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń ta jest bezpośrednim nawiązaniem do Ewangelii o błogosławieństwach i stanowi doskonałe wprowadzenie do liturgii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wyraża ideę zaufania Panu, która jest centralnym tematem pierwszego czytania i psalmu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Nawiązuje do błogosławieństwa dla głodujących i ukazuje Eucharystię jako pokarm, który nasyca.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "173",
+      "piesn": "Alleluja! Biją dzwony",
+      "opis": "Radosna pieśń o zmartwychwstaniu, które jest podstawą naszej nadziei i nagrody w niebie, jak mówi drugie czytanie i Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń ta jest wyznaniem wiary i zaufania Chrystusowi, co jest odpowiedzią na całą liturgię słowa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Jest to pieśń o zaufaniu Bogu, która dobrze koresponduje z pierwszym czytaniem o błogosławieństwie dla ufających Panu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Podkreśla, że nasza nadzieja jest w Chrystusie, co jest szczególnie ważne w kontekście drugiego czytania o zmartwychwstaniu.",
+      "moment": "ogolne"
     }
   ]
 }

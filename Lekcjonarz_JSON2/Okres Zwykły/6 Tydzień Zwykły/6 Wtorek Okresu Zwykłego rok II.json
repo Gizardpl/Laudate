@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416122.Wtorek-VI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, VI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416122.Wtorek-VI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "6 Wtorek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 8, 14-21",
       "opis": "Strzeżcie się kwasu faryzeuszów",
       "tekst": "Uczniowie Jezusa zapomnieli zabrać chleby i tylko jeden chleb mieli z sobą w łodzi. Wtedy im przykazał: Uważajcie, strzeżcie się kwasu faryzeuszów i kwasu Heroda!»\nA oni zaczęli rozprawiać między sobą o tym, że nie mają chlebów. Jezus zauważył to i rzekł do nich: «Czemu rozprawiacie o tym, że nie macie chlebów? Jeszcze nie pojmujecie i nie rozumiecie, tak otępiałe są wasze umysły? Mając oczy, nie widzicie; mając uszy, nie słyszycie? Nie pamiętacie, ile zebraliście koszów pełnych ułomków, kiedy połamałem pięć chlebów dla pięciu tysięcy?» Odpowiedzieli Mu: «Dwanaście». «A kiedy połamałem siedem chlebów dla czterech tysięcy, ile zebraliście koszów pełnych ułomków?» Odpowiedzieli: «Siedem».\nI rzekł im: «Jeszcze nie rozumiecie?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o zaufaniu Bogu, które jest siłą w przezwyciężaniu pokus, o których mówi pierwsze czytanie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę oddania się Bogu, który jest źródłem wszelkiego dobra i chroni od zła.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Nawiązuje do rozmnożenia chleba, o którym Jezus przypomina w Ewangelii, jako znaku Bożej opatrzności.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń dziękczynna za dary Boże, o których mówi św. Jakub, że zstępują od Ojca świateł.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to modlitwa o zrozumienie i wiarę, której brakowało uczniom w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Podkreśla błogosławieństwo płynące z oparcia się pokusie i zaufania Bogu, co jest tematem czytań.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, która chroni przed pokusami i niezrozumieniem.",
+      "moment": "ogolne"
     }
   ]
 }

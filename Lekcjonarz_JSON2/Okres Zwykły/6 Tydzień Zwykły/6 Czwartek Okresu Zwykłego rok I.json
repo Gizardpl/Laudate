@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416110.Czwartek-VI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Czwartek, VI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416110.Czwartek-VI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "6 Czwartek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 8, 27-33",
       "opis": "Wyznanie Piotra i zapowiedź męki",
       "tekst": "Jezus udał się ze swoimi uczniami do wiosek pod Cezareą Filipową. W drodze pytał uczniów: «Za kogo uważają Mnie ludzie?» Oni Mu odpowiedzieli: «Za Jana Chrzciciela, inni za Eliasza, jeszcze inni za jednego z proroków».\nOn ich zapytał: «A wy za kogo Mnie uważacie?» Odpowiedział Mu Piotr: «Ty jesteś Mesjasz».\nWtedy surowo im przykazał, żeby nikomu o Nim nie mówili. I zaczął ich pouczać, że Syn Człowieczy wiele musi wycierpieć, że będzie odrzucony przez starszych, arcykapłanów i uczonych w Piśmie; że zostanie zabity, ale po trzech dniach zmartwychwstanie. A mówił zupełnie otwarcie te słowa.\nWtedy Piotr wziął Go na bok i zaczął Go upominać. Lecz On obrócił się i patrząc na swych uczniów, zgromił Piotra słowami: «Zejdź Mi z oczu, szatanie, bo nie myślisz po Bożemu, lecz po ludzku».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "314",
+      "piesn": "Królu wszechwładny",
+      "opis": "Pieśń ta jest aktem uwielbienia dla Boga Króla, co nawiązuje do wyznania Piotra 'Ty jesteś Mesjasz'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Wyraża skruchę i prośbę o Bożą perspektywę, co jest odpowiedzią na upomnienie Piotra przez Jezusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "246",
+      "piesn": "Jezu, w Hostii utajony",
+      "opis": "Jest to adoracja Chrystusa, którego tożsamość jest centralnym punktem dzisiejszej Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn ten jest wyrazem chwały dla Boga za Jego przymierze i zbawczy plan, ukazany w czytaniach.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to prośba o wiarę, która przyjmie tajemnicę cierpiącego Mesjasza, odrzuconą początkowo przez Piotra.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę ucznia gotowego pójść za Chrystusem, nawet drogą krzyża.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń dziękczynna za Boże dary i przymierze, o którym mowa w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }

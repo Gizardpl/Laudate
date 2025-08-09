@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/415624.Poniedzialek-VI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Poniedziałek, VI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/415624.Poniedzialek-VI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "6 Poniedziałek Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 8, 11-13",
       "opis": "Jezus nie chce dać znaku",
       "tekst": "Faryzeusze zaczęli rozprawiać z Jezusem, a chcąc wystawić Go na próbę, domagali się od Niego znaku. On zaś westchnął w głębi duszy i rzekł: «Czemu to plemię domaga się znaku? Zaprawdę, powiadam wam: żaden znak nie będzie dany temu plemieniu».\nA zostawiwszy ich, wsiadł z powrotem do łodzi i odpłynął na drugą stronę.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Pieśń błagalna, która wprowadza w atmosferę refleksji nad grzechem Kaina i potrzebą Bożego miłosierdzia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Wyraża żal za grzechy i pragnienie nawrócenia, co jest odpowiedzią na historię o grzechu pierworodnym i jego konsekwencjach.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to modlitwa o przebaczenie, która dobrze oddaje sytuację grzesznika wołającego do Boga, jak Kain po swoim czynie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń dziękczynna za Boże miłosierdzie, które jest większe niż ludzki grzech, co jest nadzieją płynącą z dzisiejszych czytań.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to prośba o wiarę, która nie potrzebuje znaków, w przeciwieństwie do postawy faryzeuszy z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o powrocie do Ojca, która jest wyrazem nadziei na przebaczenie nawet po ciężkim grzechu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Podkreśla przykazanie miłości, którego złamanie doprowadziło Kaina do zbrodni.",
+      "moment": "ogolne"
     }
   ]
 }

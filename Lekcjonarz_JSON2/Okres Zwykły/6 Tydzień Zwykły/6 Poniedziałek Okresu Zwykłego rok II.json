@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416123.Poniedzialek-VI-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, VI tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416123.Poniedzialek-VI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "6 Poniedziałek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 8, 11-13",
       "opis": "Jezus nie chce dać znaku",
       "tekst": "Faryzeusze zaczęli rozprawiać z Jezusem, a chcąc wystawić Go na próbę, domagali się od Niego znaku. On zaś westchnął w głębi duszy i rzekł: «Czemu to plemię domaga się znaku? Zaprawdę, powiadam wam: żaden znak nie będzie dany temu plemieniu».\nA zostawiwszy ich, wsiadł z powrotem do łodzi i odpłynął na drugą stronę.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta jest wyrazem zaufania Bogu w doświadczeniach, co jest głównym tematem pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę zawierzenia i oddania Bogu swoich prób i trudności, o których mówi św. Jakub.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to prośba o wiarę, która nie domaga się znaków, jak faryzeusze, ale ufa Bogu bezwarunkowo.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą pomoc w trudnościach, co jest odpowiedzią na treść psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to modlitwa o Boże prowadzenie i wytrwałość w próbach, do której zachęca pierwsze czytanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Podkreśla szczęście płynące z zaufania Bożej Opatrzności, nawet w trudnych doświadczeniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, która jest źródłem siły w doświadczeniach.",
+      "moment": "ogolne"
     }
   ]
 }

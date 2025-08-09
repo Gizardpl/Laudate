@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416124.Sobota-VI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, VI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416124.Sobota-VI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "6 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 9, 2-13",
       "opis": "Przemienienie Pańskie",
       "tekst": "Jezus wziął z sobą Piotra, Jakuba i Jana i zaprowadził ich samych osobno na górę wysoką. Tam się przemienił wobec nich. Jego odzienie stało się lśniąco białe, tak jak żaden na ziemi folusznik wybielić nie zdoła. I ukazał się im Eliasz z Mojżeszem, którzy rozmawiali z Jezusem.\nWtedy Piotr rzekł do Jezusa: «Rabbi, dobrze, że tu jesteśmy; postawimy trzy namioty: jeden dla Ciebie, jeden dla Mojżesza i jeden dla Eliasza». Nie wiedział bowiem, co powiedzieć, tak byli przestraszeni.\nI zjawił się obłok, osłaniający ich, a z obłoku odezwał się głos: «To jest mój Syn umiłowany, Jego słuchajcie!» I zaraz potem, gdy się rozejrzeli, nikogo już nie widzieli przy sobie, tylko samego Jezusa.\nA gdy schodzili z góry, przykazał im, aby nikomu nie rozpowiadali o tym, co widzieli, zanim Syn Człowieczy nie powstanie z martwych. Zachowali to polecenie, rozprawiając tylko między sobą, co znaczy „powstać z martwych”.\nI pytali Go: «Czemu uczeni w Piśmie twierdzą, że wpierw musi przyjść Eliasz?»\nA On im rzekł: «Istotnie, Eliasz przyjdzie najpierw i wszystko naprawi. Ale jak jest napisane o Synu Człowieczym? Ma On wiele cierpieć i być wzgardzony. Otóż mówię wam: Eliasz już przyszedł i postąpili z nim tak, jak chcieli, jak o nim jest napisane».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "306",
+      "piesn": "Najsłodszy Jezu",
+      "opis": "Pieśń ta bezpośrednio odnosi się do tajemnicy Przemienienia Pańskiego, opisanej w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to modlitwa o wiarę, która jest głównym tematem pierwszego czytania z Listu do Hebrajczyków.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "308",
+      "piesn": "Ty, któryś Synem jest Boga",
+      "opis": "Wprost nawiązuje do słów Boga Ojca z Ewangelii: 'To jest mój Syn umiłowany, Jego słuchajcie'.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "307",
+      "piesn": "O Jezu, Światło ze Światłości",
+      "opis": "Pieśń ta jest hymnem chwały dla przemienionego Chrystusa, ukazującego swoje Bóstwo.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Wyraża nadzieję płynącą z wiary w Chrystusa, która jest fundamentem życia chrześcijańskiego, ukazanym w czytaniach.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Jest to pieśń chwały, która jest echem psalmu wzywającego do wysławiania dzieł i majestatu Pana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Podkreśla, że Chrystus jest drogą do Ojca, co zostało objawione w tajemnicy Przemienienia.",
+      "moment": "ogolne"
     }
   ]
 }

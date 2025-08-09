@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416111.Sroda-VI-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, VI tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416111.Sroda-VI-tydzien-zwykly-rok-I",
+  "tytul_dnia": "6 Środa Okresu Zwykłego rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 8, 22-26",
       "opis": "Uzdrowienie niewidomego",
       "tekst": "Jezus i uczniowie przyszli do Betsaidy. Tam przyprowadzili Mu niewidomego i prosili, żeby się go dotknął. On ujął niewidomego za rękę i wyprowadził go poza wieś. Zwilżył mu oczy śliną, położył na niego ręce i zapytał: «Czy coś widzisz?» A gdy ten przejrzał, powiedział: «Widzę ludzi, bo gdy chodzą, dostrzegam ich niby drzewa».\nPotem znowu położył ręce na jego oczy. I przejrzał on zupełnie, i został uzdrowiony; wszystko widział teraz jasno i wyraźnie.\nJezus odesłał go do domu ze słowami: «Tylko do wsi nie wstępuj!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta zaprasza do oddania czci Bogu, który ocala i uzdrawia, co jest tematem obu czytań.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Nawiązuje do ofiary dziękczynnej Noego oraz jest modlitwą o przyjęcie darów, które stają się źródłem łaski.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest to zaproszenie do spotkania z Jezusem Uzdrowicielem, który w Ewangelii przywraca wzrok niewidomemu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń ta jest wyrazem wdzięczności za Boże dary, podobnie jak ofiara Noego po potopie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to modlitwa o błogosławieństwo dla codziennego życia, które jest darem od Boga, Stwórcy i Odkupiciela.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Prosta pieśń dziękczynna, która dobrze oddaje ducha psalmu i postawę Noego po ocaleniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "625",
+      "piesn": "Spojrzyj z nieba wysokiego",
+      "opis": "Wyraża prośbę o Bożą opiekę i uzdrowienie, co jest centralnym motywem Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }
