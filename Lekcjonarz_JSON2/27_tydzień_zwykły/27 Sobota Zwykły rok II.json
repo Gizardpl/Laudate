@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416866.Sobota-27-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Sobota, 27 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416866.Sobota-27-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "27 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 27-28",
       "opis": "Błogosławieni ci, którzy słuchają słowa Bożego",
       "tekst": "Gdy Jezus mówił, jakaś kobieta z tłumu głośno zawołała do Niego: «Błogosławione łono, które Cię nosiło, i piersi, które ssałeś».\nLecz On rzekł: «Tak, błogosławieni są raczej ci, którzy słuchają słowa Bożego i go przestrzegają».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń podkreśla, że przez wiarę i chrzest stajemy się dziećmi Bożymi, co jest główną myślą pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "340",
+      "piesn": "Jak szczęśliwa Polska cała",
+      "opis": "Ta pieśń maryjna dobrze wpisuje się w kontekst Ewangelii, w której kobieta z tłumu wychwala Matkę Jezusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń o jedności w Chrystusie, która znosi podziały, nawiązuje do słów św. Pawła: „Nie ma już Żyda ani poganina...”.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń dziękczynna za dar życia i wiary przez Jezusa Chrystusa idealnie pasuje jako uwielbienie po Komunii Świętej.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Pieśń do Matki Bożej, która jest wzorem słuchania i zachowywania Słowa Bożego, co podkreśla Jezus w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Prośba o umocnienie wiary jest kluczowa, gdyż to przez wiarę, jak uczy pierwsze czytanie, stajemy się dziedzicami obietnicy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń przypomina historię zbawienia, w której przez Chrystusa staliśmy się dziećmi Bożymi, co jest głównym tematem czytań.",
+      "moment": "ogolne"
     }
   ]
 }

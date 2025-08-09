@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416879.27-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "27 Niedziela zwykła, Rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416879.27-Niedziela-zwykla-Rok-B",
+  "tytul_dnia": "27 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 10, 2-16",
       "opis": "KRÓTSZAMk 10, 2-12",
       "tekst": "Co Bóg złączył, tego człowiek niech nie rozdziela\nFaryzeusze przystąpili do Jezusa, a chcąc Go wystawić na próbę, pytali Go, czy wolno mężowi oddalić żonę. Odpowiadając, zapytał ich: «Co wam przykazał Mojżesz?»\nOni rzekli: «Mojżesz pozwolił napisać list rozwodowy i oddalić».\nWówczas Jezus rzekł do nich: «Przez wzgląd na zatwardziałość serc waszych napisał wam to przykazanie. Lecz na początku stworzenia Bóg stworzył ich jako mężczyznę i kobietę: dlatego opuści człowiek ojca swego i matkę i złączy się ze swoją żoną, i będą oboje jednym ciałem. A tak już nie są dwojgiem, lecz jednym ciałem. Co więc Bóg złączył, tego niech człowiek nie rozdziela».\nW domu uczniowie raz jeszcze pytali Go o to. Powiedział im: «Kto oddala swoją żonę, a bierze inną, popełnia względem niej cudzołóstwo. I jeśli żona opuści swego męża, a wyjdzie za innego, popełnia cudzołóstwo».\nKoniec krótszej perykopy.\nPrzynosili Mu również dzieci, żeby ich dotknął; lecz uczniowie szorstko zabraniali im tego. A Jezus, widząc to, oburzył się i rzekł do nich: «Pozwólcie dzieciom przychodzić do Mnie, nie przeszkadzajcie im; do takich bowiem należy królestwo Boże.\nZaprawdę, powiadam wam: Kto nie przyjmie królestwa Bożego jak dziecko, ten nie wejdzie do niego». I biorąc je w objęcia, kładł na nie ręce i błogosławił je.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta podkreśla świętość rodziny i wspólnoty, co jest głównym tematem czytań o stworzeniu kobiety i nierozerwalności małżeństwa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń mówi o miłości jako miejscu obecności Boga, co doskonale koresponduje z sakramentem małżeństwa opisanym w czytaniach.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia jednoczy nas w jedno Ciało, podobnie jak małżeństwo, zgodnie z Ewangelią, czyni z dwojga jedno ciało.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń jest prośbą o Boże błogosławieństwo dla pracy i trudu, co nawiązuje do psalmu mówiącego o błogosławieństwie dla człowieka bogobojnego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "638",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń wyraża pragnienie obecności Boga w rodzinie i całym życiu, co jest odpowiedzią na naukę Jezusa o świętości małżeństwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Hymn dziękczynny za dzieło stworzenia pasuje do pierwszego czytania z Księgi Rodzaju.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Ta pieśń nawiązuje do fragmentu Ewangelii, w którym Jezus błogosławi dzieci i stawia je za wzór.",
+      "moment": "ogolne"
     }
   ]
 }

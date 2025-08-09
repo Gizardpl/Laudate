@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416868.Czwartek-27-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 27 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416868.Czwartek-27-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "27 Czwartek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 5-13",
       "opis": "Wytrwałość w modlitwie",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Ktoś z was, mając przyjaciela, pójdzie do niego o północy i powie mu: „Przyjacielu, pożycz mi trzy chleby, bo mój przyjaciel przybył do mnie z drogi, a nie mam co mu podać”. Lecz tamten odpowie z wewnątrz: „Nie naprzykrzaj mi się! Drzwi są już zamknięte i moje dzieci są ze mną w łóżku. Nie mogę wstać i dać tobie”. Powiadam wam: Chociażby nie wstał i nie dał z tego powodu, że jest jego przyjacielem, to z powodu jego natręctwa wstanie i da mu, ile potrzebuje.\nI Ja wam powiadam: Proście, a będzie wam dane; szukajcie, a znajdziecie; kołaczcie, a zostanie wam otworzone. Każdy bowiem, kto prosi, otrzymuje; kto szuka, znajduje; a kołaczącemu zostanie otworzone. Jeżeli któregoś z was, ojców, syn poprosi o chleb, czy poda mu kamień? Albo o rybę, czy zamiast ryby poda mu węża? Lub też gdy prosi o jajko, czy poda mu skorpiona? Jeśli więc wy, choć źli jesteście, umiecie dawać dobre dary swoim dzieciom, to o ileż bardziej Ojciec z nieba udzieli Ducha Świętego tym, którzy Go proszą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest prośbą o wiarę, która według pierwszego czytania jest źródłem otrzymania Ducha Świętego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "221",
+      "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
+      "opis": "Modlitwa do Ducha Świętego jest odpowiedzią na obietnicę Jezusa z Ewangelii, że Ojciec udzieli Go tym, którzy proszą.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Sekwencja do Ducha Świętego jest głęboką modlitwą o Jego dary, o których Jezus mówi na końcu Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Prosta pieśń dziękczynna za dar wiary i obecność Boga, co stanowi odpowiedź na Jego hojność opisaną w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń ta, będąca modlitwą do Ducha Świętego, przypomina, że to On jest źródłem życia i miłości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń wyraża postawę modlitwy i ufności, do której zachęca Jezus w Ewangelii: 'Proście, a będzie wam dane'.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń o poszukiwaniu Boga jest echem słów Jezusa 'szukajcie, a znajdziecie'.",
+      "moment": "ogolne"
     }
   ]
 }

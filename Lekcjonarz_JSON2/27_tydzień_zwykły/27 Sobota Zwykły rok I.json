@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416872.Sobota-27-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 27 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416872.Sobota-27-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "27 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 27-28",
       "opis": "Błogosławieni ci, którzy słuchają słowa Bożego",
       "tekst": "Gdy Jezus mówił, jakaś kobieta z tłumu głośno zawołała do Niego: «Błogosławione łono, które Cię nosiło, i piersi, które ssałeś».\nLecz On rzekł: «Tak, błogosławieni są raczej ci, którzy słuchają słowa Bożego i go przestrzegają».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta, oparta na Psalmie 96, dobrze współbrzmi z psalmem responsoryjnym (Ps 97) i tematem królowania Pana z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "324",
+      "piesn": "Bogurodzica",
+      "opis": "Jako pieśń do Matki Bożej, nawiązuje do Ewangelii, w której kobieta błogosławi Matkę Jezusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Prośba o umocnienie wiary jest odpowiedzią na słowa Jezusa, że błogosławieni są ci, którzy słuchają i zachowują Słowo Boże.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Hymn ten wzywa całe stworzenie do chwalenia Pana, co jest echem psalmu responsoryjnego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "390",
+      "piesn": "Serdeczna Matko",
+      "opis": "Pieśń do Matki Bożej, jako tej, która doskonale słuchała Słowa Bożego, jest dobrym zwieńczeniem liturgii tego dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Pieśń wzywa wszystkie narody do chwalenia Boga, co koresponduje z wizją sądu nad narodami z pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "343",
+      "piesn": "Już od rana rozśpiewana",
+      "opis": "Jako pieśń maryjna pasuje do Ewangelii, w której Jezus wskazuje na głębsze, duchowe macierzyństwo oparte na słuchaniu Słowa.",
+      "moment": "ogolne"
     }
   ]
 }

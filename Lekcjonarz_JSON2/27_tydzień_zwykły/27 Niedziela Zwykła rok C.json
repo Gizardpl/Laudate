@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416878.27-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "27 Niedziela zwykła, Rok C",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416878.27-Niedziela-zwykla-Rok-C",
+  "tytul_dnia": "27 Niedziela Zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 17, 5-10",
       "opis": "Służyć z pokorą",
       "tekst": "Apostołowie prosili Pana: «Dodaj nam wiary».\nPan rzekł: «Gdybyście mieli wiarę jak ziarnko gorczycy, powiedzielibyście tej morwie: „Wyrwij się z korzeniem i przesadź się w morze”, a byłaby wam posłuszna.\nKto z was, mając sługę, który orze lub pasie, powie mu, gdy on wróci z pola: „Pójdź zaraz i siądź do stołu”? Czy nie powie mu raczej: „Przygotuj mi wieczerzę, przepasz się i usługuj mi, aż zjem i napiję się, a potem ty będziesz jadł i pił”? Czy okazuje wdzięczność słudze za to, że wykonał to, co mu polecono?\nTak i wy, gdy uczynicie wszystko, co wam polecono, mówcie: „Słudzy nieużyteczni jesteśmy; wykonaliśmy to, co powinniśmy wykonać”».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest bezpośrednią odpowiedzią na prośbę Apostołów z Ewangelii: 'Dodaj nam wiary'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń wyraża postawę sługi, który wszystko oddaje Panu, zgodnie z nauką Jezusa z końca Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary, której moc, nawet tak mała jak ziarnko gorczycy, jest w stanie czynić cuda.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Prosta pieśń dziękczynna za dar wiary i miłości, o których mówią czytania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Pieśń prosi o błogosławieństwo na trud służby Bogu, o której mówi Jezus w przypowieści o sługach.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń mówi o wierności i zaufaniu Bogu, co jest kluczem do życia sprawiedliwego, o którym wspomina prorok Habakuk.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "769",
+      "piesn": "Pan jest mocą",
+      "opis": "Pieśń wyraża, że Bóg jest naszą siłą, co rezonuje z drugim czytaniem, które mówi o duchu mocy danym od Boga.",
+      "moment": "ogolne"
     }
   ]
 }

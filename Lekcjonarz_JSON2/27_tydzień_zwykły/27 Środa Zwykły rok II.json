@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416869.Sroda-27-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 27 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416869.Sroda-27-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "27 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 1-4",
       "opis": "Jezus uczy modlitwy",
       "tekst": "Jezus, przebywając w jakimś miejscu, modlił się, a kiedy skończył, rzekł jeden z uczniów do Niego: «Panie, naucz nas modlić się, tak jak i Jan nauczył swoich uczniów».\nA On rzekł do nich: «Kiedy będziecie się modlić, mówcie: Ojcze, niech się święci Twoje imię; niech przyjdzie Twoje królestwo! Naszego chleba powszedniego dawaj nam na każdy dzień i przebacz nam nasze grzechy, bo i my przebaczamy każdemu, kto przeciw nam zawini; i nie dopuść, byśmy ulegli pokusie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń wzywa do wspólnej modlitwy i oddania czci Bogu, co wprowadza w tematykę Ewangelii, gdzie Jezus uczy modlitwy.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Pieśń ofiarna jest wyrazem oddania się Bogu, co jest istotą modlitwy Pańskiej nauczanej w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Prośba o 'chleb powszedni' z Modlitwy Pańskiej znajduje swoje najpełniejsze wypełnienie w Eucharystii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń wyraża osobistą, głęboką relację z Bogiem, o której mówi modlitwa 'Ojcze nasz'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna jest echem psalmu responsoryjnego, który wzywa do głoszenia Ewangelii wszystkim narodom.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Prosta modlitwa do Ojca w niebie, która bezpośrednio nawiązuje do słów modlitwy z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa o jedność Kościoła jest ważna w kontekście pierwszego czytania, które ukazuje napięcia we wczesnej wspólnocie.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416875.Sroda-27-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Środa, 27 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416875.Sroda-27-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "27 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 1-4",
       "opis": "Jezus uczy modlitwy",
       "tekst": "Jezus, przebywając w jakimś miejscu, modlił się, a kiedy skończył, rzekł jeden z uczniów do Niego: «Panie, naucz nas modlić się, tak jak i Jan nauczył swoich uczniów».\nA On rzekł do nich: «Kiedy będziecie się modlić, mówcie: Ojcze, niech się święci Twoje imię; niech przyjdzie Twoje królestwo! Naszego chleba powszedniego dawaj nam na każdy dzień i przebacz nam nasze grzechy, bo i my przebaczamy każdemu, kto przeciw nam zawini; i nie dopuść, byśmy ulegli pokusie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Pieśń jest bezpośrednim zwróceniem się do Boga jako Ojca, co stanowi centrum modlitwy, której Jezus uczy w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "698",
+      "piesn": "Stwórca chleba, Stwórca wina",
+      "opis": "Treść pieśni nawiązuje do prośby o chleb powszedni z Modlitwy Pańskiej i wyraża postawę ofiarowania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Pieśń wyraża pragnienie przygotowania serca na przyjęcie Chrystusa, co jest owocem modlitwy i prośby o przebaczenie grzechów.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "203",
+      "piesn": "Miłosierdzie Twoje, Panie",
+      "opis": "Pieśń ta podkreśla miłosierdzie Boże, które jest głównym tematem pierwszego czytania o litości Boga nad Niniwą.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "617",
+      "piesn": "Pod Twą obronę",
+      "opis": "Pieśń wyraża ufne powierzenie się opiece Ojca Niebieskiego, co jest zgodne z duchem Modlitwy Pańskiej.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "199",
+      "piesn": "Bądź uwielbiony, miłosierny Boże",
+      "opis": "Hymn ten wysławia Boże miłosierdzie, które objawiło się w przebaczeniu mieszkańcom Niniwy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Prośba o zmiłowanie i błogosławieństwo jest echem psalmu responsoryjnego oraz postawy, jakiej uczy nas Modlitwa Pańska.",
+      "moment": "ogolne"
     }
   ]
 }

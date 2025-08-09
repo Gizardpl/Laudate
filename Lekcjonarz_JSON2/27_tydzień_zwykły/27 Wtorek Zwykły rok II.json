@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416870.Wtorek-27-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Wtorek, 27 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416870.Wtorek-27-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "27 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 38-42",
       "opis": "Jezus w gościnie u Marty i Marii",
       "tekst": "Jezus przyszedł do jednej wsi. Tam pewna niewiasta, imieniem Marta, przyjęła Go w swoim domu. Miała ona siostrę, imieniem Maria, która usiadłszy u nóg Pana, słuchała Jego słowa. Marta zaś uwijała się około rozmaitych posług. A stanąwszy przy Nim, rzekła: «Panie, czy Ci to obojętne, że moja siostra zostawiła mnie samą przy usługiwaniu? Powiedz jej, żeby mi pomogła».\nA Pan jej odpowiedział: «Marto, Marto, martwisz się i niepokoisz o wiele, a potrzeba mało albo tylko jednego. Maria obrała najlepszą cząstkę, której nie będzie pozbawiona».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża radość z przebywania w domu Pana, co koresponduje z gościnnością Marty i Marii z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń mówi o całkowitym oddaniu się Bogu, co jest echem powołania św. Pawła i postawy Marii zasłuchanej w słowa Jezusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Przygotowanie serca na przyjście Chrystusa łączy postawę służby (Marta) i kontemplacji (Maria), które dopełniają się w przyjęciu Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "627",
+      "piesn": "Ty, Boże, wszystko wiesz",
+      "opis": "Pieśń ta, oparta na Psalmie 139, idealnie pasuje do psalmu responsoryjnego, mówiąc o Bogu, który zna nas od poczęcia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "631",
+      "piesn": "Wszystkie nasze dzienne sprawy",
+      "opis": "Pieśń ta łączy troskę o codzienne sprawy (jak Marta) z powierzeniem ich Bogu (jak Maria), stanowiąc dobre podsumowanie dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "493",
+      "piesn": "Wysławiamy ciebie, Marto",
+      "opis": "Pieśń bezpośrednio odnosi się do postaci z Ewangelii, ukazując wartość zarówno służby, jak i słuchania Pana.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Prośba o Boże prowadzenie jest odpowiedzią na świadectwo św. Pawła, którego Bóg wybrał i prowadził od łona matki.",
+      "moment": "ogolne"
     }
   ]
 }

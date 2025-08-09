@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416873.Piatek-27-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 27 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416873.Piatek-27-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "27 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 15-26",
       "opis": "Walka Chrystusa ze złym duchem",
       "tekst": "Gdy Jezus wyrzucał złego ducha, niektórzy z tłumu rzekli: «Mocą Belzebuba, władcy złych duchów, wyrzuca złe duchy». Inni zaś, chcąc Go wystawić na próbę, domagali się od Niego znaku z nieba.\nOn jednak, znając ich myśli, rzekł do nich: «Każde królestwo wewnętrznie skłócone pustoszeje i dom na dom się wali. Jeśli więc i Szatan z sobą jest skłócony, jakże się ostoi jego królestwo? Mówicie bowiem, że Ja przez Belzebuba wyrzucam złe duchy. Lecz jeśli Ja mocą Belzebuba wyrzucam złe duchy, to czyją mocą wyrzucają je wasi synowie? Dlatego oni będą waszymi sędziami. A jeśli Ja palcem Bożym wyrzucam złe duchy, to istotnie przyszło już do was królestwo Boże.\nGdy mocarz uzbrojony strzeże swego dworu, bezpieczne jest jego mienie. Lecz gdy mocniejszy od niego nadejdzie i pokona go, to zabierze całą broń jego, na której polegał, i rozda jego łupy.\nKto nie jest ze Mną, jest przeciwko Mnie; a kto nie zbiera ze Mną, ten rozprasza.\nGdy duch nieczysty opuści człowieka, błąka się po miejscach bezwodnych, szukając spoczynku. A gdy go nie znajduje, mówi: „Wrócę do swego domu, skąd wyszedłem”. Przychodzi i zastaje go wymiecionym i przyozdobionym. Wtedy idzie i bierze siedmiu innych duchów, złośliwszych niż on sam; wchodzą i mieszkają tam. I stan późniejszy owego człowieka staje się gorszy niż poprzedni».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest bezpośrednim wezwaniem do pokuty, co stanowi główny temat pierwszego czytania z Księgi Joela.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Ta pieśń pokutna doskonale pasuje do atmosfery wezwania do nawrócenia i prośby o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary w moc Chrystusa, który w Ewangelii pokonuje złego ducha.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Hymn o zwycięstwie Chrystusa nad złem jest doskonałym uwielbieniem w kontekście Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń wyraża wierność Chrystusowi i opowiedzenie się po Jego stronie, co jest odpowiedzią na słowa Ewangelii: 'Kto nie jest ze Mną, jest przeciwko Mnie'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń łączy tematykę nawrócenia (z pierwszego czytania) z nadejściem Królestwa Bożego (o którym mówi Ewangelia).",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń proklamuje Chrystusa jako Króla i Władcę, co jest odpowiedzią na oskarżenia o działanie mocą Belzebuba.",
+      "moment": "ogolne"
     }
   ]
 }
