@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413561.Niedziela-w-oktawie-Narodzenia-Panskiego-Swieto-Swietej-Rodziny",
   "tytul_dnia": "Niedziela w oktawie Narodzenia Pańskiego - Święto Świętej Rodziny rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -37,6 +38,50 @@
       "sigla": "Łk 2, 22. 39-40",
       "opis": "",
       "tekst": "Gdy upłynęły dni ich oczyszczenia według Prawa Mojżeszowego, Rodzice przynieśli Jezusa do Jerozolimy, aby przedstawić Go Panu.\nA gdy wypełnili wszystko według Prawa Pańskiego, wrócili do Galilei, do swego miasta – Nazaretu. Dziecię zaś rosło i nabierało mocy, napełniając się mądrością, a łaska Boża spoczywała na Nim.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta wprost odnosi się do tematu rodziny chrześcijańskiej, która jest obrazem Świętej Rodziny.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Ewangelia mówi o ofiarowaniu Jezusa w świątyni; my na wzór Maryi i Józefa, przez wiarę jak Abraham, ofiarujemy Bogu nasze trudy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "293",
+      "piesn": "Nazareński, śliczny Kwiecie",
+      "opis": "Pieśń o Jezusie z Nazaretu, który wzrastał w Świętej Rodzinie i który teraz przychodzi jako pokarm w Eucharystii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "411",
+      "piesn": "Józefie, święty patronie",
+      "opis": "Dziękczynienie za dar Świętej Rodziny i prośba o opiekę do św. Józefa, którego wiara i posłuszeństwo są wzorem dla ojców.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "347",
+      "piesn": "Maryjo, coś jest w niebie",
+      "opis": "Pieśń jest aktem zawierzenia Maryi, Matce Świętej Rodziny, prosząc ją o błogosławieństwo i opiekę nad naszymi rodzinami.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Czytania podkreślają wielką wiarę Abrahama, Sary, Maryi i Józefa, a ta pieśń jest prośbą o dar takiej wiary dla nas.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "414",
+      "piesn": "Szczęśliwy, kto sobie patrona",
+      "opis": "W święto Świętej Rodziny wzywamy opieki jej głowy - św. Józefa, prosząc o jego wstawiennictwo.",
+      "moment": "ogolne"
     }
   ]
 }

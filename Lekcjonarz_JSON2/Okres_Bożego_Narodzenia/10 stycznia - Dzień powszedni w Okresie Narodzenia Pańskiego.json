@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410516.10-stycznia",
-  "tytul_dnia": "10 stycznia",
+  "tytul_dnia": "10 stycznia - Dzień powszedni w Okresie Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 4, 14-22a",
       "opis": "Jezus jest Mesjaszem zapowiedzianym przez proroków",
       "tekst": "Jezus powrócił mocą Ducha do Galilei, a wieść o Nim rozeszła się po całej okolicy. On zaś nauczał w ich synagogach, wysławiany przez wszystkich.\nPrzyszedł również do Nazaretu, gdzie się wychował. W dzień szabatu udał się swoim zwyczajem do synagogi i powstał, aby czytać. Podano Mu księgę proroka Izajasza. Rozwinąwszy księgę, znalazł miejsce, gdzie było napisane: «Duch Pański spoczywa na Mnie, ponieważ Mnie namaścił i posłał Mnie, abym ubogim niósł dobrą nowinę, więźniom głosił wolność, a niewidomym przejrzenie; abym uciśnionych odsyłał wolnymi, abym obwoływał rok łaski Pana».\nZwinąwszy księgę, oddał słudze i usiadł; a oczy wszystkich w synagodze były w Niego utkwione. Począł więc mówić do nich: «Dziś spełniły się te słowa Pisma, które słyszeliście». A wszyscy przyświadczali Mu i dziwili się pełnym łaski słowom, które płynęły z ust Jego.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń podkreśla misyjny charakter Wcielenia, co doskonale koresponduje z Ewangelią, gdzie Jezus ogłasza program swojej działalności.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie mocno akcentuje nierozerwalny związek miłości Boga i bliźniego, co jest istotą tej pieśni.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "275",
+      "piesn": "To Ty, o Panie, Chlebie nasz",
+      "opis": "Pieśń łączy wiarę w Chrystusa obecnego w Eucharystii z Jego zbawczym posłannictwem, o którym On sam mówi w synagodze.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Radosna pieśń chwały, która odzwierciedla treść psalmu responsoryjnego, wzywającego wszystkie narody do uwielbienia Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest posłaniem do głoszenia Dobrej Nowiny ubogim, co jest misją, którą Jezus w Ewangelii ogłasza jako swoją własną.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Tekst 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest doskonałym podsumowaniem pierwszego czytania o miłości Boga i brata.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "17",
+      "piesn": "Grzechem Adama ludzie uwikłani",
+      "opis": "Chociaż jest to pieśń adwentowa, mówi o wypełnieniu się obietnic, co jest głównym tematem Ewangelii: 'Dziś spełniły się te słowa Pisma'.",
+      "moment": "ogolne"
     }
   ]
 }

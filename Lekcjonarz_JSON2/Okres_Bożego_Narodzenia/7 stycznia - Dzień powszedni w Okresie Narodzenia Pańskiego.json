@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410519.7-stycznia",
-  "tytul_dnia": "7 stycznia",
+  "tytul_dnia": "7 stycznia - Dzień powszedni w Okresie Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 4, 12-17. 23-25",
       "opis": "Bliskie jest królestwo niebieskie",
       "tekst": "Gdy Jezus posłyszał, że Jan został uwięziony, usunął się do Galilei. Opuścił jednak Nazaret, przyszedł i osiadł w Kafarnaum nad jeziorem, na pograniczu ziem Zabulona i Neftalego. Tak miało się spełnić słowo proroka Izajasza: «Ziemia Zabulona i ziemia Neftalego, na drodze ku morzu, Zajordanie, Galilea pogan! Lud, który siedział w ciemności, ujrzał światło wielkie, i mieszkańcom cienistej krainy śmierci wzeszło światło».\nOdtąd począł Jezus nauczać i mówić: «Nawracajcie się, albowiem bliskie jest królestwo niebieskie». I obchodził Jezus całą Galileę, nauczając w tamtejszych synagogach, głosząc Ewangelię o królestwie i lecząc wszelkie choroby i wszelkie słabości wśród ludu.\nA wieść o Nim rozeszła się po całej Syrii. Przynoszono więc do Niego wszystkich cierpiących, których nękały rozmaite choroby i dolegliwości: opętanych, epileptyków i paralityków. A On ich uzdrawiał. I szły za Nim liczne tłumy z Galilei i z Dekapolu, z Jerozolimy, z Judei i z Zajordania.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń o wcieleniu i misji Jezusa, który jako wielkie światło objawia się w Galilei, co bezpośrednio nawiązuje do treści Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie podkreśla przykazanie miłości wzajemnej jako znak trwania w Bogu, a ta pieśń jest jego muzycznym wyrazem.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Ewangelia opisuje Jezusa uzdrawiającego wszelkie choroby, a pieśń ta jest zaproszeniem do szukania u Niego pociechy i uzdrowienia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Pieśń jest radosnym wezwaniem do głoszenia królewskiej władzy Pana, co koresponduje z Ewangelią o głoszeniu królestwa i Psalmem o dziedzictwie narodów.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Refren pieśni jest dosłownym cytatem z wezwania Jezusa w dzisiejszej Ewangelii, co stanowi mocne posłanie na zakończenie liturgii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "21",
+      "piesn": "Mądrości, która",
+      "opis": "Antyfona ta, choć adwentowa, wzywa Mądrość Bożą, by oświeciła siedzących w ciemnościach, co jest echem proroctwa Izajasza z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "765",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Krótka pieśń podkreślająca temat Jezusa jako światłości, który pojawił się w 'Galilei pogan' jako 'światło wielkie'.",
+      "moment": "ogolne"
     }
   ]
 }

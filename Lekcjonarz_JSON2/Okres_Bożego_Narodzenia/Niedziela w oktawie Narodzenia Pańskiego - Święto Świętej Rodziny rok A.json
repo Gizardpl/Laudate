@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410533.Niedziela-w-oktawie-Narodzenia-Panskiego-Swieto-Swietej-Rodziny",
   "tytul_dnia": "Niedziela w oktawie Narodzenia Pańskiego - Święto Świętej Rodziny rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 2, 13-15. 19-23",
       "opis": "Ucieczka Świętej Rodziny do Egiptu",
       "tekst": "Gdy mędrcy się oddalili, oto anioł Pański ukazał się Józefowi we śnie i rzekł: «Wstań, weź dziecię i Jego Matkę i uchodź do Egiptu; pozostań tam, aż ci powiem; bo Herod będzie szukał dziecięcia, aby Je zgładzić».\nOn wstał, wziął w nocy dziecię i Jego Matkę i udał się do Egiptu; tam pozostał aż do śmierci Heroda. Tak miało się spełnić słowo, które Pan powiedział przez Proroka: «z Egiptu wezwałem Syna mego».\nA gdy Herod umarł, oto Józefowi w Egipcie ukazał się Anioł Pański we śnie i rzekł: «Wstań, weź dziecię i Jego Matkę i idź do ziemi Izraela, bo już umarli ci, którzy czyhali na życie dziecięcia».\nOn więc wstał, wziął dziecię i Jego Matkę i wrócił do ziemi Izraela. Lecz gdy posłyszał, że w Judei panuje Archelaos w miejsce ojca swego, Heroda, bał się tam iść. Otrzymawszy zaś we śnie nakaz, udał się w okolice Galilei. Przybył do miasta zwanego Nazaret i tam osiadł. Tak miało się spełnić słowo Proroków: «Nazwany będzie Nazarejczykiem».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta wprost odnosi się do tematu rodziny chrześcijańskiej, która jest obrazem Świętej Rodziny.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "413",
+      "piesn": "Otocz opieką",
+      "opis": "Ewangelia ukazuje troskliwą opiekę św. Józefa nad Jezusem i Maryją. W tej pieśni prosimy go o opiekę nad Kościołem i naszymi rodzinami.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "293",
+      "piesn": "Nazareński, śliczny Kwiecie",
+      "opis": "Pieśń o Jezusie z Nazaretu, który wraca z Egiptu i wzrasta w Świętej Rodzinie, a teraz przychodzi do nas w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "347",
+      "piesn": "Maryjo, coś jest w niebie",
+      "opis": "Dziękczynienie za dar Świętej Rodziny i prośba o wstawiennictwo do Maryi, wzoru matki i żony.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "411",
+      "piesn": "Józefie, święty patronie",
+      "opis": "Pieśń jest aktem zawierzenia św. Józefowi, prosząc go o opiekę, byśmy żyli w bliskości Jezusa i Maryi.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń odwołuje się do dziecięctwa Jezusa i jest modlitwą o to, by przytulił nas do swego Serca, tak jak był tulony w Świętej Rodzinie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "329",
+      "piesn": "Cześć Maryi",
+      "opis": "Pieśń ta podkreśla cnoty Maryi i wzywa do Jej naśladowania, co jest jednym z głównych tematów święta.",
+      "moment": "ogolne"
     }
   ]
 }

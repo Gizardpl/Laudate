@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410529.28-grudnia-Swietych-Mlodziankow-Meczennikow",
-  "tytul_dnia": "28 grudnia - Świętych Młodzianków Męczenników",
+  "tytul_dnia": "28 grudnia - Święto Świętych Młodzianków, męczenników",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 2,13-18",
       "opis": "Śmierć dzieci w Betlejem",
       "tekst": "Gdy Mędrcy odjechali, oto anioł Pański ukazał się Józefowi we śnie i rzekł: „Wstań, weź Dziecię i Jego Matkę i uchodź do Egiptu; pozostań tam, aż ci powiem; bo Herod będzie szukał Dziecięcia, aby Je zgładzić”.\nOn wstał, wziął w nocy Dziecię i Jego Matkę i udał się do Egiptu; tam pozostał aż do śmierci Heroda. Tak miało się spełnić słowo, które Pan powiedział przez Proroka: „Z Egiptu wezwałem Syna mego”.\nWtedy Herod widząc, że go Mędrcy zawiedli, wpadł w straszny gniew. Posłał oprawców do Betlejem i całej okolicy i kazał pozabijać wszystkich chłopców w wieku do lat dwóch, stosownie do czasu, o którym się dowiedział od Mędrców.\nWtedy spełniły się słowa proroka Jeremiasza: „Krzyk usłyszano w Rama, płacz i jęk wielki. Rachel opłakuje swe dzieci i nie chce utulić się w żalu, bo ich już nie ma”.\nOto słowo Pańskie"
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "574",
+      "piesn": "Wielbimy Ciebie, wszechmogący Boże",
+      "opis": "Pieśń ta oddaje cześć Bogu za zastęp męczenników, do których należą Święci Młodziankowie, pierwsi świadkowie Chrystusa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "646",
+      "piesn": "Jezu, w Ogrojcu mdlejący",
+      "opis": "Choć pieśń jest pasyjna, jej błagalny charakter w obliczu cierpienia nawiązuje do niewinnej ofiary Młodzianków i płaczu matek.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "237",
+      "piesn": "Duszo Chrystusowa",
+      "opis": "Modlitwa ta jest prośbą o zbawienie przez Krew Chrystusa, która, jak mówi pierwsze czytanie, oczyszcza nas z grzechu i nadała sens ofierze Młodzianków.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "575",
+      "piesn": "Witaj, święty męczenniku",
+      "opis": "Pieśń ta, choć skierowana do pojedynczego męczennika, dobrze oddaje cześć niewinnym ofiarom, które oddały życie za Chrystusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "361",
+      "piesn": "Nie opuszczaj nas… Matko",
+      "opis": "W obliczu tragedii opisanej w Ewangelii, zwracamy się do Matki Bolesnej, która współcierpiała z płaczącymi matkami z Betlejem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń o miłości Jezusa do dzieci stanowi kontrast dla okrucieństwa Heroda i jest modlitwą o czystość serca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "625",
+      "piesn": "Spojrzyj z nieba wysokiego",
+      "opis": "Błagalna pieśń prosząca o Bożą opiekę i ratunek, co jest echem wołania psalmisty 'Naszą pomocą jest nasz Pan i Stwórca'.",
+      "moment": "ogolne"
     }
   ]
 }

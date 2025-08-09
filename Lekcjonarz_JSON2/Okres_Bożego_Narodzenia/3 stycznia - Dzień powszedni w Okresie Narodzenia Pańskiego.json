@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410523.3-stycznia",
-  "tytul_dnia": "3 stycznia",
+  "tytul_dnia": "3 stycznia - Dzień powszedni w Okresie Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 1, 29-34",
       "opis": "Chrystus jest Barankiem, który gładzi grzech świata",
       "tekst": "Jan zobaczył podchodzącego ku niemu Jezusa i rzekł: «oto Baranek Boży, który gładzi grzech świata. To jest Ten, o którym powiedziałem: „Po mnie przyjdzie Mąż, który mnie przewyższył godnością, gdyż był wcześniej ode mnie”. Ja Go przedtem nie znałem, ale przyszedłem chrzcić wodą w tym celu, aby on się objawił Izraelowi».\nJan dał takie świadectwo: «Ujrzałem Ducha, który zstępował z nieba jak gołębica i spoczął na Nim. Ja Go przedtem nie znałem, ale Ten, który mnie posłał, abym chrzcił wodą, powiedział do mnie: „Ten, nad którym ujrzysz Ducha zstępującego i spoczywającego na Nim, jest Tym, który chrzci Duchem Świętym”. Ja to ujrzałem i daję świadectwo, że On jest Synem Bożym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "475",
+      "piesn": "Zwiastun wschodzącego Słońca",
+      "opis": "Pieśń o Janie Chrzcicielu, który w Ewangelii daje świadectwo o Jezusie jako Baranku Bożym, doskonale wprowadza w liturgię dnia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "109",
+      "piesn": "Pan Jezus grzechy nasze",
+      "opis": "Pieśń pasyjna, która jednak wprost mówi o tym, że Jezus zgładził nasze grzechy, co jest istotą świadectwa Jana: 'Oto Baranek Boży, który gładzi grzech świata'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "260",
+      "piesn": "Oto Święte Ciało Pana",
+      "opis": "Pieśń ta nazywa Jezusa w Eucharystii 'Bożym Barankiem, który gładzi grzechy', co jest dosłownym nawiązaniem do Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Psalm responsoryjny jest radosnym hymnem na cześć Zbawiciela, którego ujrzała cała ziemia, a ta pieśń jest jego doskonałym dziękczynnym rozwinięciem.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "221",
+      "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
+      "opis": "Ewangelia mówi o Duchu Świętym zstępującym na Jezusa. Ta pieśń jest prośbą, by ten sam Duch napełnił nas i posłał do świadczenia o Chrystusie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Choć to pieśń adwentowa, jej refren 'Gotujmy drogę Panu' idealnie oddaje misję Jana Chrzciciela.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "Pieśń błagalna, prosząca o przebaczenie win, które gładzi Baranek Boży, wskazany przez Jana.",
+      "moment": "ogolne"
     }
   ]
 }

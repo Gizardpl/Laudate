@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410522.4-stycznia",
-  "tytul_dnia": "4 stycznia",
+  "tytul_dnia": "4 stycznia - Dzień powszedni w Okresie Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 1, 35-42",
       "opis": "Znaleźliśmy Mesjasza",
       "tekst": "Jan stał wraz z dwoma swoimi uczniami i gdy zobaczył przechodzącego Jezusa, rzekł: «Oto Baranek Boży». Dwaj uczniowie usłyszeli, jak mówił, i poszli za Jezusem.\nJezus zaś, odwróciwszy się i ujrzawszy, że oni idą za Nim, rzekł do nich: «Czego szukacie?» Oni powiedzieli do Niego: «Rabbi! – to znaczy: Nauczycielu – gdzie mieszkasz?»\nOdpowiedział im: «Chodźcie, a zobaczycie». Poszli więc i zobaczyli, gdzie mieszka, i tego dnia pozostali u Niego. Było to około godziny dziesiątej.\nJednym z dwóch, którzy to usłyszeli od Jana i poszli za Nim, był Andrzej, brat Szymona Piotra. Ten spotkał najpierw swego brata i rzekł do niego: «» – to znaczy: Chrystusa. i przyprowadził go do Jezusa.\nA Jezus, wejrzawszy na niego, powiedział: «Ty jesteś Szymon, syn Jana; ty będziesz nazywał się Kefas» – to znaczy: Piotr.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Ewangelia opisuje pierwsze powołania uczniów, którzy stają się apostołami. Pieśń o charakterze misyjnym dobrze wprowadza w ten temat.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Odpowiedzią na powołanie jest oddanie się Bogu, co jest treścią tej pieśni, a także echem pierwszego czytania o narodzeniu się z Boga.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Uczniowie w Ewangelii szukają Jezusa pytając 'gdzie mieszkasz?'. Pieśń ta wyraża tęsknotę i poszukiwanie bliskości z Panem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Radosny hymn, który jest odpowiedzią na znalezienie Mesjasza, o czym z radością świadczy Andrzej w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Uczniowie odnaleźli Mesjasza - Nadzieję Izraela. Ta pieśń posyła nas, byśmy byli świadkami tej nadziei dla świata.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Andrzej mówi 'Znaleźliśmy Mesjasza'. Ta pieśń jest osobistym wyznaniem tej samej wiary.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń ta jest wyznaniem wiary w Chrystusa jako drogę, prawdę i życie, co jest odkryciem pierwszych uczniów.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410521.5-stycznia",
-  "tytul_dnia": "5 stycznia",
+  "tytul_dnia": "5 stycznia - Dzień powszedni w Okresie Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 1, 43-51",
       "opis": "Chrystus jest Synem Bożym",
       "tekst": "Jezus postanowił udać się do Galilei. I spotkał Filipa.\nJezus powiedział do niego: «Pójdź za Mną!» Filip zaś pochodził z Betsaidy, z miasta Andrzeja i Piotra. Filip spotkał Natanaela i powiedział do niego: «Znaleźliśmy Tego, o którym pisał Mojżesz w Prawie i Prorocy – Jezusa, syna Józefa, z Nazaretu». Rzekł do niego Natanael: «Czy może być co dobrego z Nazaretu?» Odpowiedział mu Filip: «Chodź i zobacz».\nJezus ujrzał, jak Natanael podchodzi do Niego, i powiedział o nim: «Oto prawdziwy Izraelita, w którym nie ma podstępu». Powiedział do Niego Natanael: «Skąd mnie znasz?» Odrzekł mu Jezus: «Widziałem cię, zanim cię zawołał Filip, gdy byłeś pod figowcem».\nOdpowiedział Mu Natanael: «Rabbi, Ty jesteś Synem Bożym, Ty jesteś Królem Izraela!»\nOdparł Mu Jezus: «Czy dlatego wierzysz, że powiedziałem ci: Widziałem cię pod figowcem? Zobaczysz jeszcze więcej niż to».\nPotem powiedział do niego: «zaprawdę, zaprawdę, powiadam wam: ujrzycie niebiosa otwarte i aniołów Bożych wstępujących i zstępujących nad Syna Człowieczego».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń ta jest radosnym wezwaniem do chwalenia Pana, co odzwierciedla nastrój Psalmu responsoryjnego 'Niech cała ziemia śpiewa swemu Panu'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie wzywa do miłości braterskiej 'czynem i prawdą', a ta pieśń jest doskonałym muzycznym wyrazem tego przykazania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Natanael w Ewangelii wyznaje wiarę w Jezusa. Ta pieśń jest naszym osobistym wyznaniem wiary w Chrystusa, którego przyjmujemy w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ta sławi Chrystusa jako Króla, co jest echem wyznania Natanaela: 'Ty jesteś Królem Izraela!'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Na wzór Filipa, który przyprowadził Natanaela do Jezusa, jesteśmy posłani, by głosić Go innym, do czego zachęca ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Tekst 'Gdzie miłość i dobroć, tam znajdziesz Boga' jest doskonałym podsumowaniem pierwszego czytania o miłości braterskiej.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń mówi o miłości Chrystusa, która przemienia świat i jednoczy z Bogiem, co koresponduje z pierwszym czytaniem.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410525.1-stycznia-Oktawa-Narodzenia-Panskiego-Uroczystosc-Swietej",
-  "tytul_dnia": "1 stycznia - Oktawa Narodzenia Pańskiego - Uroczystość Świętej Bożej Rodzicielki Maryi",
+  "tytul_dnia": "1 stycznia - Uroczystość Świętej Bożej Rodzicielki Maryi",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 2, 16-21",
       "opis": "Nadano Mu imię Jezus",
       "tekst": "Pasterze pośpiesznie udali się do Betlejem i znaleźli Maryję, Józefa oraz leżące w żłobie Niemowlę. Gdy Je ujrzeli, opowiedzieli, co im zostało objawione o tym dziecięciu. A wszyscy, którzy to słyszeli, zdumieli się tym, co im pasterze opowiedzieli.\nLecz Maryja zachowywała wszystkie te sprawy i rozważała je w swoim sercu. A pasterze wrócili, wielbiąc i wysławiając Boga za wszystko, co słyszeli i widzieli, jak im to zostało przedtem powiedziane.\nGdy nadszedł dzień ósmy i należało obrzezać dziecię, nadano Mu imię Jezus, którym Je nazwał Anioł, zanim się poczęło w łonie Matki.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Pieśń ta wprost wychwala Maryję jako Bożą Rodzicielkę, co jest centralną tajemnicą dzisiejszej uroczystości.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "369",
+      "piesn": "O Maryjo, przyjm w ofierze",
+      "opis": "W tej pieśni, na wzór Maryi, która rozważała sprawy Boże w sercu, ofiarujemy Jej nasze serca i myśli.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "36",
+      "piesn": "Gdy śliczna Panna",
+      "opis": "Kolęda ta pięknie opisuje scenę z Ewangelii - Maryję tulącą Dzieciątko, któremu oddają hołd aniołowie i pasterze.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "324",
+      "piesn": "Bogurodzica",
+      "opis": "Najstarsza polska pieśń maryjna jest najwspanialszym hymnem na cześć Bożej Rodzicielki, idealnym na dziękczynienie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "W Nowy Rok, prosząc o błogosławieństwo Boże z pierwszego czytania, wzywamy Ducha Świętego, by prowadził nas przez nadchodzący czas.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "356",
+      "piesn": "Matko Niebieskiego Pana",
+      "opis": "Pieśń podkreśla wyjątkowe wybranie Maryi i Jej godność jako Matki Boga, co jest głównym tematem liturgii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "635",
+      "piesn": "Boże, coś Polskę",
+      "opis": "W pierwszy dzień nowego roku, modlimy się o Boże błogosławieństwo dla naszej Ojczyzny, prosząc o pokój, o którym mówi pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

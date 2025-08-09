@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/410534.25-grudnia-Narodzenie-Panskie/7",
-  "tytul_dnia": "25 grudnia - Narodzenie Pańskie",
+  "tytul_dnia": "25 grudnia - Uroczystość Narodzenia Pańskiego",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -12,7 +13,7 @@
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 98 (97), 1bcde. 2-3b. 3c-4. 5-6 (R.: por. 3cd)",
       "opis": "",
-      "tekst": "Refren: Ziemia ujrzała swego Zbawiciela.\nŚpiewajcie Panu pieśń nową, *\nalbowiem uczynił cuda.\nzwycięstwo Mu zgotowała Jego prawica *\ni święte ramię Jego.\nRefren.\nPan okazał swoje zbawienie, *\nna oczach pogan objawił swą sprawiedliwość.\nWspomniał na dobroć i na wierność swoją *\ndla domu Izraela.\nRefren.\nUjrzały wszystkie krańce ziemi *\nzbawienie Boga naszego.\nWołaj z radości na cześć Pana, cała ziemio, *\ncieszcie się, weselcie i grajcie.\nRefren.\nŚpiewajcie Panu przy wtórze cytry, *\nprzy wtórze cytry i przy dźwięku harfy.\nPrzy trąbach i przy głosie rogu, *\nna oczach Pana, Króla, się radujcie.\nRefren."
+      "tekst": "Refren: Ziemia ujrzała swego Zbawiciela.\nŚpiewajcie Panu pieśń nową, *\nalbowiem uczynił cuda.\nzwycięstwo Mu zgotowała Jego prawica *\ni święte ramię Jego.\nRefren.\nPan okazał swoje zbawienie, *\nna oczach pogan objawił swą sprawiedliwość.\nWspomniał na dobroć i na wierność swoją *\ndla domu Izraela.\nRefren.\nUjrzały wszystkie krańce ziemi *\nzbawienie Boga naszego.\nWołaj z radości na cześć Pana, cała ziemio, *\ncieszcie się, weselcie i grają.\nRefren.\nŚpiewajcie Panu przy wtórze cytry, *\nprzy wtórze cytry i przy dźwięku harfy.\nPrzy trąbach i przy głosie rogu, *\nna oczach Pana, Króla, się radujcie.\nRefren."
     },
     {
       "typ": "DRUGIE CZYTANIE",
@@ -37,6 +38,56 @@
       "sigla": "J 1, 1-5. 9-14",
       "opis": "",
       "tekst": "Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo. Ono było na początku u Boga. Wszystko przez Nie się stało, a bez Niego nic się nie stało, z tego, co się stało.\nW Nim było życie, a życie było światłością ludzi, a światłość w ciemności świeci i ciemność jej nie ogarnęła.\nByła światłość prawdziwa, która oświeca każdego człowieka, gdy na świat przychodzi. Na świecie było Słowo, a świat stał się przez Nie, lecz świat Go nie poznał. Przyszło do swojej własności, a swoi Go nie przyjęli. Wszystkim tym jednak, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi, tym, którzy wierzą w imię Jego – którzy ani z krwi, ani z żądzy ciała, ani z woli męża, ale z Boga się narodzili.\nA Słowo stało się ciałem i zamieszkało wśród nas. I oglądaliśmy Jego chwałę, chwałę, jaką Jednorodzony otrzymuje od ojca, pełen łaski i prawdy.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń wyraża uniwersalną radość całego stworzenia z powodu przyjścia Pana, co doskonale oddaje nastrój Psalmu i pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na dar Wcielonego Słowa, o którym mówi Ewangelia, składamy w ofierze samych siebie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "247",
+      "piesn": "Jezusa ukrytego",
+      "opis": "Ta pieśń łączy tajemnicę Wcielenia z tajemnicą Eucharystii, oddając cześć Bogu, który stał się człowiekiem i pozostał z nami pod postacią Chleba.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Prosty, ale uroczysty hymn dziękczynny, który jest wyrazem naszej wdzięczności za to, że 'Słowo stało się ciałem i zamieszkało wśród nas'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Radosna pieśń, wzywająca do chwalenia Boga za Jego cuda, stanowi radosne posłanie na zakończenie Mszy w Uroczystość Narodzenia Pańskiego.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń w prosty sposób wyraża głęboką prawdę teologiczną z Ewangelii Jana o Wcieleniu Słowa Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "238",
+      "piesn": "Idzie, idzie Bóg prawdziwy",
+      "opis": "Uroczysta pieśń o przyjściu Boga, która podkreśla Jego majestat i wzywa do oddania Mu pokłonu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "295",
+      "piesn": "Nieskończona, najśliczniejsza",
+      "opis": "Pieśń kontempluje miłość Jezusa, która objawiła się we Wcieleniu i osiągnęła szczyt na krzyżu, łącząc tajemnicę Bożego Narodzenia z tajemnicą Paschalną.",
+      "moment": "ogolne"
     }
   ]
 }
