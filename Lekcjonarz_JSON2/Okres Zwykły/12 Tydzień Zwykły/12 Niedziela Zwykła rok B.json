@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426088.Niedziela-rok-B",
-  "tytul_dnia": "Niedziela rok B",
+  "tytul_dnia": "12 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,56 @@
       "sigla": "Mk 4, 35-41",
       "opis": "Uciszenie burzy na jeziorze",
       "tekst": "Owego dnia, gdy zapadł wieczór, Jezus rzekł do swoich uczniów: «Przeprawmy się na drugą stronę». Zostawili więc tłum, a Jego zabrali, tak jak był w łodzi. Także inne łodzie płynęły z Nim.\nA nagle zerwał się gwałtowny wicher. Fale biły w łódź, tak że łódź już się napełniała wodą. On zaś spał w tyle łodzi na wezgłowiu. Zbudzili Go i powiedzieli do Niego:\n«Nauczycielu, nic Cię to nie obchodzi, że giniemy?» On, powstawszy, zgromił wicher i rzekł do jeziora: «Milcz, ucisz się!» Wicher się uspokoił i nastała głęboka cisza.\nWtedy rzekł do nich: «Czemu tak bojaźliwi jesteście? Jakże brak wam wiary!» Oni zlękli się bardzo i mówili między sobą: «Kim On jest właściwie, że nawet wicher i jezioro są Mu posłuszne?»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "607",
+      "piesn": "Kiedy ranne wstają zorze",
+      "opis": "Pieśń chwali Boga jako Stwórcę, którego potęga nad żywiołami jest ukazana w pierwszym czytaniu i Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "617",
+      "piesn": "Pod Twą obronę",
+      "opis": "Wyraża prośbę o opiekę i jest aktem zaufania Bogu, którego zabrakło uczniom w łodzi podczas burzy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń ta pomaga w akcie wiary w tajemniczą obecność Tego, który ma władzę nad wiatrem i jeziorem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Zaprasza do szukania pociechy u Jezusa, który jako jedyny może uciszyć burze naszego życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "702",
+      "piesn": "Dziękczynne pieśni śpiewajmy",
+      "opis": "Pieśń ta doskonale oddaje treść psalmu responsoryjnego, który jest dziękczynieniem za ocalenie z niebezpieczeństwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to modlitwa o prowadzenie i opiekę, wyrażająca pragnienie wiary mocniejszej niż lęk, który ogarnął uczniów.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń mówi o bezpieczeństwie płynącym z Bożej opieki, co jest głównym przesłaniem dla zalęknionych uczniów z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Klasyczna pieśń o zaufaniu Bogu, który chroni przed wszelkim złem, idealnie pasująca do tematu uciszenia burzy.",
+      "moment": "ogolne"
     }
   ]
 }

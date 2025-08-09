@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426080.Poniedzialek-XII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, XII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426080.Poniedzialek-XII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "12 Poniedziałek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 7, 1-5",
       "opis": "Usuń najpierw belkę ze swego oka",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Nie sądźcie, abyście nie byli sądzeni. Bo takim sądem, jakim sądzicie, i was osądzą; i taką miarą, jaką wy mierzycie, wam odmierzą.\nCzemu to widzisz drzazgę w oku swego brata, a nie dostrzegasz belki we własnym oku? Albo jak możesz mówić swemu bratu: Pozwól, że usunę drzazgę z twego oka, podczas gdy belka tkwi w twoim oku? Obłudniku, usuń najpierw belkę ze swego oka, a wtedy przejrzysz, ażeby usunąć drzazgę z oka twego brata».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec obrazu kary za grzechy z pierwszego czytania i psalmu, ta pieśń jest aktem skruchy i prośby o miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Ewangelia wzywa do nawrócenia i usunięcia belki z własnego oka. Ta pieśń jest prośbą o oczyszczenie serca.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory, która jest warunkiem przyjęcia Chrystusa i Jego nauki o nieosądzaniu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Mimo grzechów i kary, psalmista woła do Boga o pomoc. Ta pieśń jest dziękczynieniem za Jego zbawczą interwencję.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pieśń ta jest doskonałym komentarzem do Ewangelii, wzywając do miłości braterskiej, która powstrzymuje od sądu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Wygnanie z pierwszego czytania jest obrazem ziemskiej pielgrzymki. Ta pieśń wyraża tęsknotę za niebieską ojczyzną.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "W obliczu sądu Bożego i własnej słabości, ta pieśń jest aktem zawierzenia i zaufania miłosierdziu Bożemu.",
+      "moment": "ogolne"
     }
   ]
 }

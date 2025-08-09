@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426082.Piatek-XII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Piątek, XII tydzień zwykły, rok I",
+  "tytul_dnia": "12 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,56 @@
       "sigla": "Mt 8, 1-4",
       "opis": "Uzdrowienie trędowatego",
       "tekst": "Gdy Jezus zszedł z góry, postępowały za Nim wielkie tłumy. A oto podszedł trędowaty i upadł przed Nim, mówiąc: «Panie, jeśli chcesz, możesz mnie oczyścić». Jezus wyciągnął rękę, dotknął go i rzekł: «Chcę, bądź oczyszczony! » I natychmiast został oczyszczony z trądu.\nJezus powiedział do niego: «Uważaj, nie mów o tym nikomu, ale idź, pokaż się kapłanowi i złóż ofiarę, którą przepisał Mojżesz, na świadectwo dla nich».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń wyraża wdzięczność za Bożą hojność i błogosławieństwo, które są tematem zarówno przymierza z Abrahamem, jak i psalmu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń ta, mówiąca o Bożej dobroci i ludzkiej skrusze, dobrze oddaje postawę trędowatego, który z wiarą prosi o oczyszczenie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest to zaproszenie do Jezusa, który jest lekarzem dusz i ciał, co bezpośrednio nawiązuje do cudu uzdrowienia w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń ta odzwierciedla postawę trędowatego, który z pokorą i wiarą upadł przed Jezusem, prosząc o uzdrowienie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Dziękczynna pieśń za uzdrowienie i Bożą pomoc jest doskonałą odpowiedzią na cud opisany w dzisiejszej Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "638",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest aktem wyboru Boga i Jego Prawa, co stanowi odpowiedź na dar przymierza, o którym mowa w pierwszym czytaniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Nawiązuje do psalmu, który nazywa szczęśliwym człowieka służącego Panu i chodzącego Jego drogami.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "202",
+      "piesn": "Miłosierdzia, Jezu mój",
+      "opis": "Prośba o miłosierdzie i uzdrowienie, która rezonuje z prośbą trędowatego z dzisiejszej Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

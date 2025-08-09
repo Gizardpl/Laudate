@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426076.Piatek-XII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, XII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426076.Piatek-XII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "12 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 1-4",
       "opis": "Uzdrowienie trędowatego",
       "tekst": "Gdy Jezus zszedł z góry, postępowały za Nim wielkie tłumy. A oto podszedł trędowaty i upadł przed Nim, mówiąc: «Panie, jeśli chcesz, możesz mnie oczyścić». Jezus wyciągnął rękę, dotknął go i rzekł: «Chcę, bądź oczyszczony! » I natychmiast został oczyszczony z trądu.\nJezus powiedział do niego: «Uważaj, nie mów o tym nikomu, ale idź, pokaż się kapłanowi i złóż ofiarę, którą przepisał Mojżesz, na świadectwo dla nich».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "391",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Pieśń wyraża tęsknotę za niebieską ojczyzną, która jest echem lamentu psalmisty nad zburzoną Jerozolimą.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec obrazu zniszczenia, będącego karą za grzechy, ta pieśń jest aktem pokuty i prośbą o miłosierdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę trędowatego, który z wiarą i pokorą prosi Jezusa o oczyszczenie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna za dar uzdrowienia i oczyszczenia, którego doświadczył trędowaty w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "W obliczu zniszczenia i wygnania, jedyną nadzieją jest zaufanie Bogu, który w Jezusie objawia swoją uzdrawiającą moc.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Trąd jest symbolem grzechu. Ta pieśń jest prośbą o oczyszczenie duchowe, którego dokonuje Chrystus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Nawet w doświadczeniu wygnania i cierpienia, pieśń ta przypomina o niezawodnej opiece i wierności Boga.",
+      "moment": "ogolne"
     }
   ]
 }

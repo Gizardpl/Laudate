@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426078.Sroda-XII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, XII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426078.Sroda-XII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "12 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 7, 15-20",
       "opis": "Fałszywi prorocy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Strzeżcie się fałszywych proroków, którzy przychodzą do was w owczej skórze, a wewnątrz są drapieżnymi wilkami. Poznacie ich po ich owocach. Czy zbiera się winogrona z ciernia albo z ostu figi? Tak każde dobre drzewo wydaje dobre owoce, a złe drzewo wydaje złe owoce. Nie może dobre drzewo wydać złych owoców ani złe drzewo wydać dobrych owoców.\nKażde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień. A więc: poznacie ich po ich owocach».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Pieśń jest osobistym odnowieniem przymierza z Bogiem, na wzór przymierza zawartego przez króla Jozjasza i cały lud.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Wierność przymierzu jest ofiarą miłą Bogu, a ta pieśń jest deklaracją wyboru życia według Jego Prawa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Psalm wyraża pragnienie poznania i przestrzegania Bożych ustaw. Ta pieśń mówi o byciu 'żyzną glebą' dla Słowa Bożego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga za dar Jego Prawa, które, jak mówi psalmista, przynosi radość sercu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Dobre owoce, o których mówi Jezus, to przede wszystkim owoce miłości. Ta pieśń jest modlitwą o ducha miłości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Skrucha króla Jozjasza po usłyszeniu słów Prawa jest wzorem dla naszej postawy pokutnej.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "281",
+      "piesn": "O Stworzycielu, Duchu, przyjdź",
+      "opis": "Modlitwa o Ducha Świętego, abyśmy mogli rozpoznać fałszywych proroków i wydawać dobre owoce.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426085.Wtorek-XII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Wtorek, XII tydzień zwykły, rok I",
+  "tytul_dnia": "12 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,56 @@
       "sigla": "Mt 7, 6. 12-14",
       "opis": "Brama szeroka i brama ciasna",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Nie dawajcie psom tego, co święte, i nie rzucajcie swych pereł przed świnie, by ich nie podeptały nogami, i obróciwszy się, nie poszarpały was samych.\nWszystko więc, co byście chcieli, żeby wam ludzie czynili, i wy im czyńcie. Albowiem to jest istota Prawa i Proroków.\nWchodźcie przez ciasną bramę. Bo szeroka jest brama i przestronna ta droga, która prowadzi do zguby, a wielu jest takich, którzy przez nią wchodzą. Jakże ciasna jest brama i wąska droga, która prowadzi do życia, a mało jest takich, którzy ją znajdują!»\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń nawiązuje do psalmu, który opisuje człowieka prawego, godnego zamieszkania w przybytku Pana.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Ofiarowanie trudów i cierpień symbolizuje wybór wąskiej drogi i ciasnej bramy, o której mówi Ewangelia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń ta wskazuje na Chrystusa jako na drogę do życia, co jest odpowiedzią na pytanie o to, jak znaleźć wąską bramę z Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Jest to pieśń chwały dla Boga, który prowadzi swój lud i obdarza go obietnicą, tak jak Abrahama w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Ta prośba o Boże prowadzenie jest idealna na zakończenie Mszy, w której słyszeliśmy o trudnej i wąskiej drodze do zbawienia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń o miłości wzajemnej jest doskonałym komentarzem do 'złotej zasady' postępowania, podanej w dzisiejszej Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża prośbę o wskazanie właściwej drogi, co jest kluczowe w kontekście wyboru między szeroką a ciasną bramą.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Wyraża ufność w Boże prowadzenie, które jest potrzebne, by wybrać sprawiedliwość Abrahama zamiast światowego wyboru Lota.",
+      "moment": "ogolne"
     }
   ]
 }

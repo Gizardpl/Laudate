@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426084.Sroda-XII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, XII tydzień zwykły, rok I",
+  "tytul_dnia": "12 Środa Zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,56 @@
       "sigla": "Mt 7, 15-20",
       "opis": "Fałszywi prorocy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Strzeżcie się fałszywych proroków, którzy przychodzą do was w owczej skórze, a wewnątrz są drapieżnymi wilkami. Poznacie ich po ich owocach. Czy zbiera się winogrona z ciernia albo z ostu figi? Tak każde dobre drzewo wydaje dobre owoce, a złe drzewo wydaje złe owoce. Nie może dobre drzewo wydać złych owoców ani złe drzewo wydać dobrych owoców.\nKażde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień. A więc: poznacie ich po ich owocach».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Pieśń jest odpowiedzią na wezwanie psalmu 'Sławcie Pana, wzywajcie Jego imienia' i odnosi się do wielkich dzieł Bożych, jak przymierze z Abrahamem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń bezpośrednio nawiązuje do Ewangelii, w której Jezus mówi o rozpoznawaniu prawdziwych proroków po ich owocach.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Nawiązuje do aklamacji 'Kto trwa we Mnie, przynosi owoc obfity', podkreślając, że źródłem dobrych owoców jest zjednoczenie z Chrystusem w Eucharystii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "701",
+      "piesn": "Chrystus Pan karmi nas",
+      "opis": "Przyjęcie Ciała Pańskiego jest źródłem siły do wydawania dobrych owoców w codziennym życiu, o których mówi Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Pieśń ta jest dziękczynieniem za przymierze, wiarę i życie wieczne, co stanowi centralny temat pierwszego czytania i psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to prośba o błogosławieństwo na codzienną pracę, aby przynosiła ona dobre owoce, godne ucznia Chrystusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "616",
+      "piesn": "Pan nie opuszcza nigdy",
+      "opis": "Pieśń podkreśla wierność Boga swojemu przymierzu, co jest główną myślą pierwszego czytania i psalmu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie trwania przy Bogu, co jest warunkiem wydawania dobrych owoców, o których mowa w aklamacji i Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

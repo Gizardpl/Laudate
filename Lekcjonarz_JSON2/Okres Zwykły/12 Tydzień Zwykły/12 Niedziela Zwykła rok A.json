@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/426089.Niedziela-rok-A",
-  "tytul_dnia": "Niedziela rok A",
+  "tytul_dnia": "12 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -18,7 +19,7 @@
       "typ": "DRUGIE CZYTANIE",
       "sigla": "Rz 5, 12-15",
       "opis": "Adam jest typem Chrystusa",
-      "tekst": "Bracia:\nPrzez jednego człowieka grzech wszedł do świata, a przez grzech śmierć, i w ten sposób śmierć przeszła na wszystkich ludzi, ponieważ wszyscy zgrzeszyli. Bo i przed Prawem grzech był na świecie, grzechu się jednak nie poczytuje, gdy nie ma Prawa. A przecież śmierć rozpanoszyła  się od Adama do Mojżesza nawet nad tymi, którzy nie zgrzeszyli  przestępstwem na wzór Adama. On to jest typem Tego, który miał przyjść.\nAle nie tak samo ma się rzecz z przestępstwem, jak z darem łaski. Jeżeli bowiem przestępstwo jednego sprowadziło na wszystkich śmierć, to o ileż obficiej spłynęła na nich wszystkich łaska i dar Boży, łaskawie udzielony przez jednego Człowieka, Jezusa Chrystusa.\nOto słowo Boże."
+      "tekst": "Bracia:\nPrzez jednego człowieka grzech wszedł do świata, a przez grzech śmierć, i w ten sposób śmierć przeszła na wszystkich ludzi, ponieważ wszyscy zgrzeszyli. Bo i przed Prawem grzech był na świecie, grzechu się jednak nie poczytuje, gdy nie ma Prawa. A przecież śmierć rozpanoszyła  się od Adama do Mojżesza nawet nad tymi, którzy nie zgrzeszyli  przestępstwem na wzór Adama. On to jest typem Tego, który miał przyjść.\nAle nie tak samo ma się rzecz z przestępstwem, jak z darem łaski. Jeżeli bowiem przestępstwo jednego sprowadziło na wszystkich śmierć, to o ileż obficiej spłynęła na nich wszystkich łaska i dar Boży, łaskawie udzielony przez jednego Człowieka, Jezusa Chrystusa.\nOto słowo Boże."
     },
     {
       "typ": "AKLAMACJA",
@@ -31,6 +32,56 @@
       "sigla": "Mt 10, 26-33",
       "opis": "Nie bójcie się tych, którzy zabijają ciało",
       "tekst": "Jezus powiedział do swoich apostołów:\n«Nie bójcie się ludzi! Nie ma bowiem nic skrytego, co by nie miało być wyjawione, ani nic tajemnego, o czym by się nie miano dowiedzieć. Co mówię wam w ciemności, powtarzajcie w świetle, a co słyszycie na ucho, rozgłaszajcie na dachach.\n, lecz duszy zabić nie mogą. Bójcie się raczej Tego, który duszę i ciało może zatracić w piekle. Czyż nie sprzedają dwóch wróbli za asa? A przecież bez woli Ojca waszego żaden z nich nie spadnie na ziemię. U was zaś policzone są nawet wszystkie włosy na głowie. Dlatego nie bójcie się: jesteście ważniejsi niż wiele wróbli.\nDo każdego więc, kto się przyzna do Mnie przed ludźmi, przyznam się i Ja przed moim Ojcem, który jest w niebie. Lecz kto się Mnie zaprze przed ludźmi, tego zaprę się i Ja przed moim Ojcem, który jest w niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń doskonale oddaje przesłanie Ewangelii o Bożej opiece i wezwanie, by nie lękać się ludzi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża całkowite powierzenie się Bogu, co jest odpowiedzią na wezwanie Jezusa do odważnego wyznawania wiary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Komunia Święta umacnia nas do dawania świadectwa, o którym mowa w Ewangelii i aklamacji.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "699",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Pieśń wyraża wiarę w moc Chrystusa, która jest źródłem siły do przezwyciężania lęku i dawania świadectwa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Potężny hymn chwały na cześć Boga, który jest „potężnym mocarzem” i ratuje ubogich, jak słyszymy w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Jest to pieśń-manifest wiary, która doskonale pasuje na zakończenie Mszy, wzywając do publicznego przyznania się do Chrystusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "616",
+      "piesn": "Pan nie opuszcza nigdy",
+      "opis": "Pieśń ta wzmacnia przesłanie pierwszego czytania o niezawodnej pomocy Pana w prześladowaniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, która jest źródłem odwagi i siły w trudnościach opisywanych w czytaniach.",
+      "moment": "ogolne"
     }
   ]
 }

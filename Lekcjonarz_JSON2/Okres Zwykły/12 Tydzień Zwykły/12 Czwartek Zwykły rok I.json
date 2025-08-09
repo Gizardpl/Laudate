@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426083.Czwartek-XII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Czwartek, XII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426083.Czwartek-XII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "12 Czwartek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE DŁUŻSZE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 7, 21-29",
       "opis": "Dom zbudowany na skale i dom zbudowany na piasku",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Nie każdy, kto mówi Mi: „Panie, Panie!”, wejdzie do królestwa niebieskiego, lecz ten, kto spełnia wolę mojego Ojca, który jest w niebie. Wielu powie Mi w owym dniu: „Panie, Panie, czy nie prorokowaliśmy mocą Twego imienia i nie wyrzucaliśmy złych duchów mocą Twego imienia, i nie czyniliśmy wielu cudów mocą Twego imienia?” Wtedy oświadczę im: „Nigdy was nie znałem. Odejdźcie ode Mnie wy, którzy dopuszczacie się nieprawości”.\nKażdego więc, kto tych słów moich słucha i wypełnia je, można porównać z człowiekiem roztropnym, który dom swój zbudował na skale. Spadł deszcz, wezbrały rzeki, zerwały się wichry i uderzyły w ten dom. On jednak nie runął, bo na skale był utwierdzony.\nKażdego zaś, kto tych słów moich słucha, a nie wypełnia ich, można porównać z człowiekiem nierozsądnym, który dom swój zbudował na piasku. Spadł deszcz, wezbrały rzeki, zerwały się wichry i rzuciły się na ten dom. I runął, a upadek jego był wielki».\nGdy Jezus dokończył tych mów, tłumy zdumiewały się Jego nauką. Uczył ich bowiem jak ten, który ma władzę, a nie tak jak ich uczeni w Piśmie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża zaufanie Bogu, który jak opiekuńczy anioł, strzeże nas na naszych drogach, podobnie jak czuwał nad Hagar.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Pieśń o wierności Bogu jest odpowiedzią na wezwanie z Ewangelii, by nie tylko słuchać, ale i wypełniać słowa Chrystusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Budowanie życia na skale to wybór Boga i Jego woli. Ta pieśń jest mocną deklaracją tego wyboru.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wezwanie do chwalenia Pana za Jego dobroć i łaskę, o której mówi psalm responsoryjny.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Budowanie na skale to uznanie panowania Chrystusa w naszym życiu. Ta pieśń jest wyznaniem Jego królewskiej władzy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za Bożą opatrzność, która czuwała nad Hagar i która jest fundamentem naszego życia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Spełnianie woli Ojca wyraża się w miłości wzajemnej, która jest fundamentem życia chrześcijańskiego.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/426081.Sobota-XII-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, XII tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426081.Sobota-XII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "12 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 8, 5-17",
       "opis": "Uzdrowienie sługi setnika",
       "tekst": "Gdy Jezus wszedł do Kafarnaum, zwrócił się do Niego setnik i prosił Go, mówiąc: «Panie, sługa mój leży w domu sparaliżowany i bardzo cierpi». Rzekł mu Jezus: «Przyjdę i uzdrowię go».\nLecz setnik odpowiedział: «Panie, nie jestem godzien, abyś wszedł pod dach mój, ale powiedz tylko słowo, a mój sługa odzyska zdrowie. Bo i ja, choć podlegam władzy, mam pod sobą żołnierzy. Mówię temu: „Idź!” – a idzie; drugiemu: „Przyjdź!” – a przychodzi; a słudze: „Zrób to!” – a robi».\nGdy Jezus to usłyszał, zadziwił się i rzekł do tych, którzy szli za Nim: «Zaprawdę, powiadam wam: U nikogo w Izraelu nie znalazłem tak wielkiej wiary. Lecz powiadam wam: Wielu przyjdzie ze Wschodu i z Zachodu i zasiądą do stołu z Abrahamem, Izaakiem i Jakubem w królestwie niebieskim. A synowie królestwa zostaną wyrzuceni na zewnątrz – w ciemność; tam będzie płacz i zgrzytanie  zębów». Do setnika zaś Jezus rzekł: «Idź, niech ci się stanie, jak uwierzyłeś». I o tej godzinie jego sługa odzyskał zdrowie.\nGdy Jezus przyszedł do domu Piotra, ujrzał jego teściową, leżącą w gorączce. Ujął ją za rękę, a gorączka ją opuściła. Potem wstała i usługiwała Mu.\nZ nastaniem wieczora przyprowadzono Mu wielu opętanych. On słowem wypędził złe duchy i wszystkich chorych uzdrowił. Tak oto spełniło się słowo proroka Izajasza: «On przyjął nasze słabości i dźwigał choroby».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń zaprasza do przyjścia do Jezusa z wiarą, taką, jaką okazał setnik proszący o uzdrowienie sługi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Gościnność Abrahama i jego ofiarność są wzorem dla naszej postawy wobec Boga, któremu dziękujemy za Jego dary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Słowa tej pieśni są bezpośrednim cytatem z wypowiedzi setnika, która stała się wzorem wiary i pokory.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "681",
+      "piesn": "Wielbi dusza moja Pana",
+      "opis": "Psalm responsoryjny jest kantykiem Maryi. Ta pieśń jest jego popularną wersją, sławiącą miłosierdzie Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Wiara setnika, która zadziwiła Jezusa, jest dla nas wzorem zaufania, do którego zachęca ta pieśń.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Bóg, który nawiedza Abrahama i obiecuje mu potomstwo, jest Bogiem wiernym, w którym pokładamy naszą ufność.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia za wielkie dzieła Boże, o których mówi Magnificat, i za cuda uzdrowienia z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }
