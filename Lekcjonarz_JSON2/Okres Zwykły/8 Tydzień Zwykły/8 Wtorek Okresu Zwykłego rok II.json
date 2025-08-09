@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416200.Wtorek-VIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, VIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416200.Wtorek-VIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "8 Wtorek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 10, 28-31",
       "opis": "Nagroda za wyrzeczenia",
       "tekst": "Piotr powiedział do Jezusa: «Oto my opuściliśmy wszystko i poszliśmy za Tobą».\nJezus odpowiedział: «Zaprawdę, powiadam wam: Nikt nie opuszcza domu, braci, sióstr, matki, ojca, dzieci lub pól z powodu Mnie i z powodu Ewangelii, żeby nie otrzymał stokroć więcej teraz, w tym czasie, domów, braci, sióstr, matek, dzieci i pól, wśród prześladowań, a życia wiecznego w czasie przyszłym. Lecz wielu pierwszych będzie ostatnimi, a ostatnich pierwszymi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest zaproszeniem do chwalenia Pana za Jego zbawcze dzieła, o których mówi psalm.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę Piotra i apostołów, którzy opuścili wszystko, by pójść za Jezusem.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Ukazuje Eucharystię jako zapowiedź życia wiecznego, które jest nagrodą za wierność Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Jest to radosna pieśń chwały, która jest odpowiedzią na wezwanie psalmu do głoszenia zbawienia Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest echem misyjnego powołania, które wymaga opuszczenia wszystkiego dla Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Podkreśla, że nadzieja w łasce Chrystusa jest fundamentem życia chrześcijańskiego, jak uczy św. Piotr.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Nawiązuje do postawy świętości i ubóstwa, które prowadzą do nagrody w niebie.",
+      "moment": "ogolne"
     }
   ]
 }

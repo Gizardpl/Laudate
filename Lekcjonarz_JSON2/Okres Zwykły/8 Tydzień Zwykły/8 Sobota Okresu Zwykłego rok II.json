@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416195.Sobota-VIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, VIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416195.Sobota-VIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "8 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 11, 27-33",
       "opis": "Skąd pochodzi władza Jezusa",
       "tekst": "Jezus wraz z uczniami przyszedł znowu do Jerozolimy.\nKiedy chodził po świątyni, przystąpili do Niego arcykapłani, uczeni w Piśmie i starsi i zapytali Go: «Jakim prawem to czynisz? I kto Ci dał tę władzę, żebyś to czynił?»\nJezus im odpowiedział: «Zadam wam jedno pytanie. Odpowiedzcie Mi na nie, a powiem wam, jakim prawem to czynię. Czy chrzest Janowy pochodził z nieba, czy też od ludzi? Odpowiedzcie Mi».\nOni zastanawiali się między sobą: «Jeśli powiemy: „Z nieba”, to nam zarzuci: „Dlaczego więc nie uwierzyliście mu?” Powiemy: „Od ludzi”». Lecz bali się tłumu, ponieważ wszyscy rzeczywiście uważali Jana za proroka. Odpowiedzieli więc Jezusowi: «Nie wiemy».\nJezus im rzekł: «Zatem i Ja wam nie powiem, jakim prawem to czynię».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Pieśń ta jest parafrazą psalmu responsoryjnego, wyrażającą głębokie pragnienie Boga.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę oddania się Bogu, który może ustrzec od upadku, o czym mówi pierwsze czytanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary we władzę Chrystusa, której nie chcieli uznać arcykapłani w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "776",
+      "piesn": "Wielbić Pana chcę",
+      "opis": "Prosta pieśń uwielbienia, która jest odpowiedzią na wezwanie psalmu do sławienia Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "638",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń ta jest manifestem wierności Bogu i Jego władzy, w przeciwieństwie do postawy oponentów Jezusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to modlitwa o wiarę, która buduje życie na fundamencie Chrystusa, jak zachęca List św. Judy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Podkreśla wartość zaufania Bogu, który jako jedyny może nas ustrzec od upadku i stawić bez zarzutu wobec swej chwały.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/416204.Poniedzialek-VIII-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, VIII tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416204.Poniedzialek-VIII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "8 Poniedziałek Okresu Zwykłego rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mk 10, 17-27",
       "opis": "Należy wszystko porzucić, aby iść za Jezusem",
       "tekst": "Gdy Jezus wybierał się w drogę, przybiegł pewien człowiek i upadłszy przed Nim na kolana, zaczął Go pytać: «Nauczycielu dobry, co mam czynić, aby osiągnąć życie wieczne?»\nJezus mu rzekł: «Czemu nazywasz Mnie dobrym? Nikt nie jest dobry, tylko sam Bóg. Znasz przykazania: Nie zabijaj, nie cudzołóż, nie kradnij, nie zeznawaj fałszywie, nie oszukuj, czcij swego ojca i matkę».\nOn Mu odpowiedział: «Nauczycielu, wszystkiego tego przestrzegałem od mojej młodości».\nWtedy Jezus spojrzał na niego z miłością i rzekł mu: «Jednego ci brakuje. Idź, sprzedaj wszystko, co masz, i rozdaj ubogim, a będziesz miał skarb w niebie. Potem przyjdź i chodź za Mną». Lecz on spochmurniał na te słowa i odszedł zasmucony, miał bowiem wiele posiadłości.\nWówczas Jezus spojrzał dookoła i rzekł do swoich uczniów: «Jak trudno tym, którzy mają dostatki, wejść do królestwa Bożego». Uczniowie przerazili się Jego słowami, lecz Jezus powtórnie im rzekł: «Dzieci, jakże trudno wejść do królestwa Bożego tym, którzy w dostatkach pokładają ufność. Łatwiej jest wielbłądowi przejść przez ucho igielne, niż bogatemu wejść do królestwa Bożego».\nA oni tym bardziej się dziwili i mówili między sobą: «Któż więc może być zbawiony?»\nJezus popatrzył na nich i rzekł: «U ludzi to niemożliwe, ale nie u Boga; bo u Boga wszystko jest możliwe».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń ta wyraża żywą nadzieję, o której mówi pierwsze czytanie, płynącą ze zmartwychwstania Jezusa Chrystusa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę, do której Jezus zaprasza bogatego młodzieńca – oddania wszystkiego, by pójść za Nim.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Ukazuje Chrystusa jako prawdziwy skarb w niebie, cenniejszy niż wszelkie posiadłości, których wyrzekł się młodzieniec.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna za dar odkupienia i przymierza, o których z wdzięcznością mówi psalm.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to modlitwa o prowadzenie drogą, którą wskazuje Jezus, a która dla ludzi jest niemożliwa bez Bożej pomocy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Nawiązuje do postawy ubóstwa w duchu, która jest warunkiem wejścia do królestwa Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Podkreśla wartość zaufania Bogu, a nie dostatkom, co jest głównym tematem Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }
