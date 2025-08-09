@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416408.Czwartek-28-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 28 tydzień zwykły, Rok I",
+  "tytul_dnia": "28 Czwartek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 47-54",
       "opis": "Jezus gromi faryzeuszów i uczonych w Prawie",
       "tekst": "Jezus powiedział do faryzeuszów i do uczonych w Prawie:\n«Biada wam, ponieważ budujecie grobowce prorokom, a wasi ojcowie ich zamordowali. Zatem dajecie świadectwo i przytakujecie uczynkom waszych ojców, gdyż oni ich pomordowali, a wy im wznosicie grobowce.\nDlatego też powiedziała Mądrość Boża: Poślę do nich proroków i apostołów, a niektórych z nich zabiją i prześladować będą. Tak na to plemię spadnie kara za krew wszystkich proroków, która została przelana od stworzenia świata, od krwi Abla aż do krwi Zachariasza, który zginął między ołtarzem a przybytkiem. Tak, mówię wam, zażąda się zdania z niej sprawy od tego plemienia.\nBiada wam, uczonym w Prawie, bo wzięliście klucze poznania; sami nie weszliście, a przeszkodziliście tym, którzy wejść chcieli».\nGdy wyszedł stamtąd, uczeni w Piśmie i faryzeusze poczęli gwałtownie nastawać na Niego i wypytywać Go o wiele rzeczy. Czyhali przy tym, żeby Go pochwycić na jakimś słowie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, wyrażającą głębokie wołanie do Boga i nadzieję na Jego miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec prawdy o powszechnej grzeszności z pierwszego czytania, ta pieśń jest aktem pokory i prośbą o Boże przebaczenie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "W Komunii przyjmujemy Tego, który jest narzędziem przebłagania za nasze grzechy. Ta litania jest wołaniem o Jego miłosierdzie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "116",
+      "piesn": "Z głębi mojego serca",
+      "opis": "Dziękczynienie za dar usprawiedliwienia przez wiarę, o którym pisze św. Paweł, jest odpowiedzią na Bożą miłość i przebaczenie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wobec oskarżeń Jezusa pod adresem faryzeuszy, ta pieśń jest wyznaniem, że naszą drogą i prawdą jest Chrystus, a nie obłudne nauczanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pierwsze czytanie podkreśla, że człowiek osiąga usprawiedliwienie przez wiarę. Ta pieśń jest modlitwą o umocnienie tej wiary.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu jest odpowiedzią na Bożą sprawiedliwość i miłosierdzie, które wzywają nas do porzucenia grzechu.",
+      "moment": "ogolne"
     }
   ]
 }

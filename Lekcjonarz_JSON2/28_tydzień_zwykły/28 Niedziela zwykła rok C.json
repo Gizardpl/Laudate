@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416412.28-Niedziela-zwykla-Rok-C",
-  "tytul_dnia": "28 Niedziela zwykła, Rok C",
+  "tytul_dnia": "28 Niedziela zwykła rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 17, 11-19",
       "opis": "Wiara uzdrowionego cudzoziemca",
       "tekst": "Zdarzyło się, że Jezus, zmierzając do Jeruzalem, przechodził przez pogranicze Samarii i Galilei.\nGdy wchodzili do pewnej wsi, wyszło naprzeciw Niego dziesięciu trędowatych. Zatrzymali się z daleka i głośno zawołali: «Jezusie, Mistrzu, ulituj się nad nami!» Na ten widok rzekł do nich: «Idźcie, pokażcie się kapłanom!»\nA gdy szli, zostali oczyszczeni. Wtedy jeden z nich, widząc, że jest uzdrowiony, wrócił, chwaląc Boga donośnym głosem, padł na twarz u Jego nóg i dziękował Mu. A był to Samarytanin. Jezus zaś rzekł: «Czyż nie dziesięciu zostało oczyszczonych? Gdzie jest dziewięciu? Czy się nie znalazł nikt, kto by wrócił i oddał chwałę Bogu, tylko ten cudzoziemiec?»\nDo niego zaś rzekł: «Wstań, idź, twoja wiara cię uzdrowiła».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do Jezusa, który jak w Ewangelii lituje się nad chorymi i przynosi im uzdrowienie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "702",
+      "piesn": "Dziękczynne pieśni śpiewajmy",
+      "opis": "Wobec uzdrowienia trędowatych i Naamana, ta pieśń jest naszym aktem dziękczynienia za niezliczone dary i miłosierdzie Boże.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń dziękczynna, która jest odpowiedzią na pytanie Jezusa: 'Czy się nie znalazł nikt, kto by wrócił i oddał chwałę Bogu?'.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Na wzór uzdrowionego Samarytanina i Naamana, którzy wrócili, by wielbić Boga, ta pieśń jest wyrazem naszej wdzięczności za otrzymane łaski.",
+      "moment": "uwielbieniel"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń jest echem psalmu responsoryjnego, wzywającego całą ziemię do radosnego wychwalania Pana za Jego cuda i zbawienie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pieśń jest prośbą o umocnienie wiary, która, jak mówi Jezus do Samarytanina, ma moc uzdrawiającą.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń pyta, jak możemy odwdzięczyć się Bogu za Jego dary. Postawa wdzięczności uzdrowionych jest na to odpowiedzią.",
+      "moment": "ogolne"
     }
   ]
 }

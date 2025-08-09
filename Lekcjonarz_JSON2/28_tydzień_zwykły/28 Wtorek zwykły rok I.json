@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416410.Wtorek-28-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 28 tydzień zwykły, Rok I",
+  "tytul_dnia": "28 Wtorek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 37-41",
       "opis": "Czystość wewnętrzna",
       "tekst": "Pewien faryzeusz zaprosił Jezusa do siebie na obiad. Poszedł więc i zajął miejsce za stołem. Lecz faryzeusz, widząc to, wyraził zdziwienie, że nie obmył wpierw rąk przed posiłkiem.\nNa to Pan rzekł do niego: «Właśnie wy, faryzeusze, dbacie o czystość zewnętrznej strony kielicha i misy, a wasze wnętrze pełne jest zdzierstwa i niegodziwości. Nierozumni! Czyż Stwórca zewnętrznej strony nie uczynił także wnętrza? Raczej dajcie to, co jest wewnątrz, na jałmużnę, a zaraz wszystko będzie dla was czyste».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Pieśń wzywa całe stworzenie do chwalenia Pana, co jest odpowiedzią na pierwsze czytanie mówiące o poznawaniu Stwórcy z Jego dzieł.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Wobec piękna stworzenia, opisanego w czytaniach, ta pieśń jest aktem ofiarowania wdzięcznego serca jako najmilszej Bogu ofiary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "100",
+      "piesn": "Boże litościwy, zmiłuj się nade mną!",
+      "opis": "Jezus w Ewangelii piętnuje obłudę i wzywa do czystości wewnętrznej. Ta pieśń jest prośbą o obmycie z win i czyste serce.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga Stwórcy, którego wielkość i piękno poznajemy przez Jego dzieła, jak poucza pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń wzywa do wydawania owoców nawrócenia, w tym do jałmużny, którą Jezus w Ewangelii wskazuje jako drogę do prawdziwej czystości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "587",
+      "piesn": "Boże, dlatego dałeś nam życie",
+      "opis": "Pieśń jest wyznaniem wiary w Boga Stwórcę, którego poznajemy przez otaczający nas świat, co jest głównym tematem Księgi Mądrości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Pieśń chwały, która wyraża wdzięczność Stwórcy za wszystkie dary, w tym za piękno stworzenia, które głosi Jego chwałę.",
+      "moment": "ogolne"
     }
   ]
 }

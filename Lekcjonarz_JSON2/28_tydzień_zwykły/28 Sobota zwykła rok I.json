@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416406.Sobota-28-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 28 tydzień zwykły, Rok I",
+  "tytul_dnia": "28 Sobota zwykła rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 12, 8-12",
       "opis": "Duch Święty czuwa nad uczniami Jezusa",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Kto się przyzna do Mnie wobec ludzi, przyzna się i Syn Człowieczy do niego wobec aniołów Bożych; a kto się Mnie wyprze wobec ludzi, tego wyprę się i Ja wobec aniołów Bożych.\nKażdemu, kto powie jakieś słowo przeciw Synowi Człowieczemu, będzie odpuszczone, lecz temu, kto bluźni przeciw Duchowi Świętemu, nie będzie odpuszczone.\nKiedy was ciągać będą po synagogach, urzędach i władzach, nie martwcie się, w jaki sposób albo czym macie się bronić lub co mówić, bo Duch Święty pouczy was w tej właśnie godzinie, co należy powiedzieć».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pierwsze czytanie ukazuje Abrahama jako wzór wiary. Ta pieśń jest modlitwą o umocnienie naszej wiary na jego wzór.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Wobec wezwania do odważnego przyznawania się do Chrystusa, ta pieśń jest aktem ofiarowania i wyznaniem wierności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń jest modlitwą do Ducha Świętego, który, jak obiecuje Jezus w Ewangelii, pouczy nas, co mamy mówić w godzinie próby.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który jest zadatkiem naszego dziedzictwa i umocnieniem w dawaniu świadectwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna, która jest posłaniem do odważnego głoszenia Ewangelii, do czego uzdalnia nas Duch Święty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest osobistym wyznaniem wiary w Boga, który jest wierny swoim obietnicom, jak pokazuje historia Abrahama.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń jest wezwaniem do Ducha Świętego, który jest źródłem życia i mocy do dawania świadectwa, jak uczy Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

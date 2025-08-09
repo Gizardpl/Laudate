@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416411.Poniedzialek-28-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 28 tydzień zwykły, Rok I",
+  "tytul_dnia": "28 Poniedziałek zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 29-32",
       "opis": "Znak Jonasza",
       "tekst": "Gdy tłumy się gromadziły, Jezus zaczął mówić: «To plemię jest plemieniem przewrotnym. Żąda znaku, ale żaden znak nie będzie mu dany, prócz znaku Jonasza. Jak bowiem Jonasz stał się znakiem dla mieszkańców Niniwy, tak będzie Syn Człowieczy dla tego plemienia.\nKrólowa z południa powstanie na sądzie przeciw ludziom tego plemienia i potępi ich; ponieważ ona z krańców ziemi przybyła słuchać mądrości Salomona, a oto tu jest coś więcej niż Salomon.\nLudzie z Niniwy powstaną na sądzie przeciw temu plemieniu i potępią je; ponieważ oni dzięki nawoływaniu Jonasza się nawrócili, a oto tu jest coś więcej niż Jonasz».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń ta jest radosnym wezwaniem do chwalenia Pana za Jego cuda, co jest głównym tematem psalmu responsoryjnego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pierwsze czytanie mówi o powołaniu apostolskim św. Pawła do głoszenia Ewangelii. Ta pieśń jest echem tego misyjnego posłania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Jezus w Ewangelii stawia za wzór mieszkańców Niniwy, którzy nawrócili się na wezwanie Jonasza. Ta pieśń jest wezwaniem do podobnej postawy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Dziękczynienie za zbawienie, które, jak mówi psalm i pierwsze czytanie, zostało objawione wszystkim narodom.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu jest odpowiedzią na wezwanie Jezusa, by nie być 'plemieniem przewrotnym', ale przyjąć Jego słowo i się nawrócić.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Dziękczynienie za dar Ewangelii i powołanie do wiary, o którym pisze św. Paweł w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Wezwanie do nawrócenia i wiary w Ewangelię, co jest istotą odpowiedzi na 'znak Jonasza', którym jest sam Chrystus.",
+      "moment": "ogolne"
     }
   ]
 }

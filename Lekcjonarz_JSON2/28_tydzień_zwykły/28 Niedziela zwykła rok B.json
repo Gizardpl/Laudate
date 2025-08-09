@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416413.28-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "28 Niedziela zwykła, Rok B",
+  "tytul_dnia": "28 Niedziela zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 10, 17-30",
       "opis": "Rada dobrowolnego ubóstwa",
       "tekst": "KRÓTSZA\nMk 10, 17-27\nGdy Jezus wybierał się w drogę, przybiegł pewien człowiek i upadłszy przed Nim na kolana, zaczął Go pytać: «Nauczycielu dobry, co mam czynić, aby osiągnąć życie wieczne?»\nJezus mu rzekł: «Czemu nazywasz Mnie dobrym? Nikt nie jest dobry, tylko sam Bóg. Znasz przykazania: Nie zabijaj, nie cudzołóż, nie kradnij, nie zeznawaj fałszywie, nie oszukuj, czcij swego ojca i matkę».\nOn Mu odpowiedział: «Nauczycielu, wszystkiego tego przestrzegałem od mojej młodości».\nWtedy Jezus spojrzał na niego z miłością i rzekł mu: «Jednego ci brakuje. Idź, sprzedaj wszystko, co masz, i rozdaj ubogim, a będziesz miał skarb w niebie. Potem przyjdź i chodź za Mną». Lecz on spochmurniał na te słowa i odszedł zasmucony, miał bowiem wiele posiadłości.\nWówczas Jezus spojrzał dookoła i rzekł do swoich uczniów: «Jak trudno tym, którzy mają dostatki, wejść do królestwa Bożego». Uczniowie przerazili się Jego słowami, lecz Jezus powtórnie im rzekł: «Dzieci, jakże trudno wejść do królestwa Bożego tym, którzy w dostatkach pokładają ufność. Łatwiej jest wielbłądowi przejść przez ucho igielne niż bogatemu wejść do królestwa Bożego».\nA oni tym bardziej się dziwili i mówili między sobą: «Któż więc może być zbawiony?»\nJezus popatrzył na nich i rzekł: «U ludzi to niemożliwe, ale nie u Boga; bo u Boga wszystko jest możliwe».\nKoniec krótszej perykopy.\nWtedy Piotr zaczął mówić do Niego: «Oto my opuściliśmy wszystko i poszliśmy za Tobą».\nJezus odpowiedział: «Zaprawdę, powiadam wam: Nikt nie opuszcza domu, braci, sióstr, matki, ojca, dzieci lub pól z powodu Mnie i z powodu Ewangelii, żeby nie otrzymał stokroć więcej teraz, w tym czasie, domów, braci, sióstr, matek, dzieci i pól, wśród prześladowań, a życia wiecznego w czasie przyszłym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Aklamacja cytuje błogosławieństwo dla ubogich, a pieśń ta rozwija temat błogosławieństw jako drogi do królestwa niebieskiego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń jest odpowiedzią na wezwanie Jezusa skierowane do bogatego młodzieńca: 'sprzedaj wszystko, co masz (...) Potem przyjdź i chodź za Mną'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary w Chrystusa jako najwyższą wartość, dla której warto, jak mówi św. Paweł, wszystko inne uznać za stratę.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "588",
+      "piesn": "Boże, jesteś moim Bogiem",
+      "opis": "Dziękczynienie za Mądrość Bożą, która, jak mówi pierwsze czytanie, jest cenniejsza niż wszelkie bogactwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń jest wyznaniem, że Chrystus jest naszą drogą do życia wiecznego, o które pytał młodzieniec z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń jest aktem zawierzenia i prośbą o prowadzenie, co jest postawą ucznia, który opuścił wszystko dla Chrystusa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, które jest cenniejsze niż wszystkie skarby, o czym przypomina Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

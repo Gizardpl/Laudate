@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/416402.Czwartek-28-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Czwartek, 28 tydzień zwykły, Rok II",
+  "tytul_dnia": "28 Czwartek zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 11, 47-54",
       "opis": "Jezus gromi faryzeuszów i uczonych w Prawie",
       "tekst": "Jezus powiedział do faryzeuszów i do uczonych w Prawie:\n«Biada wam, ponieważ budujecie grobowce prorokom, a wasi ojcowie ich zamordowali. Zatem dajecie świadectwo i przytakujecie uczynkom waszych ojców, gdyż oni ich pomordowali, a wy im wznosicie grobowce.\nDlatego też powiedziała Mądrość Boża: Poślę do nich proroków i apostołów, a niektórych z nich zabiją i prześladować będą. Tak na to plemię spadnie kara za krew wszystkich proroków, która została przelana od stworzenia świata, od krwi Abla aż do krwi Zachariasza, który zginął między ołtarzem a przybytkiem. Tak, mówię wam, zażąda się zdania z niej sprawy od tego plemienia.\nBiada wam, uczonym w Prawie, bo wzięliście klucze poznania; sami nie weszliście, a przeszkodziliście tym, którzy wejść chcieli».\nGdy wyszedł stamtąd, uczeni w Piśmie i faryzeusze poczęli gwałtownie nastawać na Niego i wypytywać Go o wiele rzeczy. Czyhali przy tym, żeby Go pochwycić na jakimś słowie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Pana za Jego cuda, co jest głównym tematem psalmu responsoryjnego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "602",
+      "piesn": "Dziękujemy Ci, Ojcze nasz",
+      "opis": "Wobec daru wybrania i przybranego synostwa, o którym mówi pierwsze czytanie, ta pieśń jest aktem dziękczynienia Bogu Ojcu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Ewangelia ukazuje spór z tymi, którzy nie wierzą. Ta pieśń jest naszym osobistym wyznaniem wiary w Chrystusa, którego przyjmujemy w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem uwielbienia dla Boga za Jego odwieczny plan zbawienia w Chrystusie, opisany w Liście do Efezjan.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wobec oskarżeń Jezusa pod adresem faryzeuszy, ta pieśń jest wyznaniem, że naszą drogą i prawdą jest Chrystus, a nie obłudne nauczanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń o nawróceniu jest odpowiedzią na Bożą łaskę, która, jak mówi św. Paweł, wybrała nas i przeznaczyła do świętości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Pieśń podkreśla centralne miejsce Chrystusa w planie zbawienia, o którym z zachwytem pisze św. Paweł w pierwszym czytaniu.",
+      "moment": "ogolne"
     }
   ]
 }
