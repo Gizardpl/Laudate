@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417010.Piatek-X-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Piątek, X tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417010.Piatek-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 27-32",
       "opis": "Wymagania nowego Prawa w dziedzinie czystości",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Nie cudzołóż”. A Ja wam powiadam: Każdy, kto pożądliwie patrzy na kobietę, już się w swoim sercu dopuścił z nią cudzołóstwa.\nJeśli więc prawe twoje oko jest ci powodem do grzechu, wyłup je i odrzuć od siebie. Lepiej bowiem jest dla ciebie, gdy zginie jeden z twoich członków, niż żeby całe twoje ciało miało być wrzucone do piekła. I jeśli prawa twoja ręka jest ci powodem do grzechu, odetnij ją i odrzuć od siebie. Lepiej bowiem jest dla ciebie, gdy zginie jeden z twoich członków, niż żeby całe twoje ciało miało iść do piekła.\nPowiedziano też: „Jeśli ktoś chce oddalić swoją żonę, niech jej da list rozwodowy”. A Ja wam powiadam: Każdy, kto oddala swoją żonę – poza wypadkiem nierządu – naraża ją na cudzołóstwo; a kto by oddaloną wziął za żonę, dopuszcza się cudzołóstwa».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec cierpień i prześladowań, o których pisze św. Paweł, ta pieśń jest wyrazem ufności w Bożą opiekę.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Ewangelia wzywa do radykalnej walki z grzechem. Ta pieśń jest prośbą o czyste serce i ofiarowanie Bogu naszej woli.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "353",
+      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
+      "opis": "Noszenie w ciele konania Jezusa jest udziałem w Jego krzyżu. Eucharystia uobecnia tę zbawczą ofiarę.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna, która jest wypełnieniem wezwania psalmisty: 'Tobie złożę ofiarę pochwalną'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "368",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń głosi nadzieję zmartwychwstania, o której z mocą pisze św. Paweł w pierwszym czytaniu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Nawiązuje do aklamacji, która wzywa nas, byśmy byli źródłem światła w świecie, trzymając się Słowa Życia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność przysiędze małżeńskiej i radykalizm w walce z grzechem są wyrazem naszej wierności Bogu.",
+      "moment": "ogolne"
     }
   ]
 }

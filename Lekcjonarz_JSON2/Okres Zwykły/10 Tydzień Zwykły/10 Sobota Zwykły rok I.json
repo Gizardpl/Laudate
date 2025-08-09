@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417009.Sobota-X-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Sobota, X tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417009.Sobota-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 33-37",
       "opis": "Zakaz przysięgania",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano przodkom: „Nie będziesz fałszywie przysięgał, lecz dotrzymasz Panu swej przysięgi”. A Ja wam powiadam: Wcale nie przysięgajcie – ani na niebo, bo jest tronem Boga; ani na ziemię, bo jest podnóżkiem stóp Jego; ani na Jerozolimę, bo jest miastem wielkiego Króla. Ani na swoją głowę nie przysięgaj, bo nawet jednego włosa nie możesz uczynić białym albo czarnym.\nNiech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń jest parafrazą psalmu 103, który jest psalmem responsoryjnym tego dnia i sławi Boże miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wobec wezwania do prawdomówności, ta pieśń jest odnowieniem przyrzeczeń wierności Bogu, które wymagają życia w prawdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Jeden chleb",
+      "opis": "Pierwsze czytanie mówi o pojednaniu w Chrystusie. Eucharystia jest sakramentem jedności i pojednania.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna za dar pojednania, który otrzymaliśmy przez Chrystusa, jak głosi św. Paweł.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pojednanie z Bogiem owocuje miłością braterską, która wyraża się w szczerości i prawdomówności.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń jest prośbą o miłosierdzie, które jest źródłem pojednania z Bogiem i ludźmi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nowe stworzenie w Chrystusie, o którym mówi pierwsze czytanie, jest wezwaniem do jedności w prawdzie i miłości.",
+      "moment": "ogolne"
     }
   ]
 }

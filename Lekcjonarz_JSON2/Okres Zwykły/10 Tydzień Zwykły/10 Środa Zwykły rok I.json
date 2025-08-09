@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417012.Sroda-X-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Środa, X tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417012.Sroda-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Środa Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 17-19",
       "opis": "Jezus nie znosi Prawa, lecz je wypełnia",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Nie sądźcie, że przyszedłem znieść Prawo albo Proroków. Nie przyszedłem znieść, ale wypełnić. Zaprawdę bowiem, powiadam wam: Dopóki niebo i ziemia nie przeminą, ani jedna jota, ani jedna kreska nie zmieni się w Prawie, aż się wszystko spełni.\nKtokolwiek więc zniósłby jedno z tych przykazań, choćby najmniejszych, i uczyłby tak ludzi, ten będzie najmniejszy w królestwie niebieskim. A kto je wypełnia i uczy wypełniać, ten będzie wielki w królestwie niebieskim».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest uwielbieniem dla świętości Boga, o której z mocą mówi psalm responsoryjny.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność Prawu Bożemu, które Chrystus wypełnił, jest ofiarą naszego posłuszeństwa i miłości.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wierności Prawu Bożemu, którego wypełnienia uczy nas Jezus w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "434",
+      "piesn": "Kleszczmy rękoma",
+      "opis": "Jest to radosna pieśń chwały, która dobrze koresponduje z wezwaniem psalmu: 'Wysławiajcie Pana, naszego Boga'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy sługami Nowego Przymierza, posłanymi, by głosić i uczyć wypełniać Prawo Chrystusowe.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "281",
+      "piesn": "O Stworzycielu, Duchu, przyjdź",
+      "opis": "Pierwsze czytanie mówi o posłudze Ducha, który ożywia. Ta pieśń jest prośbą o Jego dary i światło.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nowe Przymierze, przymierze Ducha, jednoczy nas w jedno Ciało Chrystusa, o czym przypomina ta pieśń.",
+      "moment": "ogolne"
     }
   ]
 }

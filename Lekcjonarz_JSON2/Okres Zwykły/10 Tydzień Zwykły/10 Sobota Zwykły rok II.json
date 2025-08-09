@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417003.Sobota-X-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Sobota, X tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417003.Sobota-X-tydzien-zwykly-rok-II",
+  "tytul_dnia": "10 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 33-37",
       "opis": "Zakaz przysięgania",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano przodkom: „Nie będziesz fałszywie przysięgał, lecz dotrzymasz Panu swej przysięgi”. A Ja wam powiadam: Wcale nie przysięgajcie – ani na niebo, bo jest tronem Boga; ani na ziemię, bo jest podnóżkiem stóp Jego; ani na Jerozolimę, bo jest miastem wielkiego Króla. Ani na swoją głowę nie przysięgaj, bo nawet jednego włosa nie możesz uczynić białym albo czarnym.\nNiech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń jest wezwaniem do pójścia za Chrystusem, na wzór Elizeusza, który porzucił wszystko, by pójść za Eliaszem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Elizeusz złożył w ofierze woły. Ta pieśń jest ofiarowaniem naszego życia w odpowiedzi na Boże powołanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Psalm responsoryjny mówi o Bogu jako dziedzictwie. Ta pieśń jest wyrazem zaufania w Jego prowadzenie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest naszym dziedzictwem i przeznaczeniem, jak wyznaje psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Ewangelia wzywa do prawdomówności i wierności słowu. Ta pieśń jest odnowieniem naszych przyrzeczeń wierności Bogu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Powołanie Elizeusza było radykalnym wyborem. Ta pieśń jest deklaracją wyboru Boga ponad wszystko.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Powołanie Elizeusza było początkiem jego misji prorockiej. My również jesteśmy posłani, by głosić słowo Boże.",
+      "moment": "ogolne"
     }
   ]
 }

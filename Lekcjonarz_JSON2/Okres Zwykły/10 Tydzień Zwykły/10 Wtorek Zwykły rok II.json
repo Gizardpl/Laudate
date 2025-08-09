@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417007.Wtorek-X-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Wtorek, X tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417007.Wtorek-X-tydzien-zwykly-rok-II",
+  "tytul_dnia": "10 Wtorek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -24,7 +25,51 @@
       "typ": "EWANGELIA",
       "sigla": "Mt 5, 13-16",
       "opis": "Wy jesteście światłem świata",
-      "tekst": "Jezus powiedział do swoich uczniów:\n«Wy jesteście solą ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i podeptanie przez ludzi.\n. Nie może się ukryć miasto położone na górze. Nie zapala się też lampy i nie umieszcza pod korcem, ale na świeczniku, aby świeciła wszystkim, którzy są w domu.\nTak niech wasze światło jaśnieje przed ludźmi, aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie».\nOto słowo Pańskie."
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Wy jesteście solą ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i podeptanie przez ludzi.\nWy jesteście światłem świata. Nie może się ukryć miasto położone na górze. Nie zapala się też lampy i nie umieszcza pod korcem, ale na świeczniku, aby świeciła wszystkim, którzy są w domu.\nTak niech wasze światło jaśnieje przed ludźmi, aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do słów Jezusa 'Wy jesteście światłem świata' i prośbą o Jego światło.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Hojność wdowy z Sarepty jest przykładem zaufania Bożej Opatrzności, za którą dziękujemy w tej pieśni.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Cud rozmnożenia mąki i oliwy jest zapowiedzią Eucharystii, w której Chrystus daje nam siebie jako pokarm.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalmista, wlewa radość w serce i jest źródłem szczęścia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by być światłem świata i solą ziemi, głosząc Ewangelię naszym życiem i dobrymi uczynkami.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Postawa wdowy z Sarepty jest wzorem zaufania Bogu w trudnej sytuacji. Ta pieśń wyraża taką właśnie ufność.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Wiara i zaufanie wdowy zostały nagrodzone. Ta pieśń jest aktem zawierzenia i zaufania Bożej obietnicy.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417004.Piatek-X-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Piątek, X tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417004.Piatek-X-tydzien-zwykly-rok-II",
+  "tytul_dnia": "10 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 27-32",
       "opis": "Wymagania nowego Prawa w dziedzinie czystości",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano: „Nie cudzołóż”. A Ja wam powiadam: Każdy, kto pożądliwie patrzy na kobietę, już się w swoim sercu dopuścił z nią cudzołóstwa.\nJeśli więc prawe twoje oko jest ci powodem do grzechu, wyłup je i odrzuć od siebie. Lepiej bowiem jest dla ciebie, gdy zginie jeden z twoich członków, niż żeby całe twoje ciało miało być wrzucone do piekła. I jeśli prawa twoja ręka jest ci powodem do grzechu, odetnij ją i odrzuć od siebie. Lepiej bowiem jest dla ciebie, gdy zginie jeden z twoich członków, niż żeby całe twoje ciało miało iść do piekła.\nPowiedziano też: „Jeśli ktoś chce oddalić swoją żonę, niech jej da list rozwodowy”. A Ja wam powiadam: Każdy, kto oddala swoją żonę – poza wypadkiem nierządu – naraża ją na cudzołóstwo; a kto by oddaloną wziął za żonę, dopuszcza się cudzołóstwa».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń wyraża tęsknotę za Bogiem, która jest echem wołania psalmisty: 'Szukam, o Panie, Twojego oblicza'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Ewangelia wzywa do radykalnej walki z grzechem. Ta pieśń jest prośbą o czyste serce i ofiarowanie Bogu naszej woli.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory wobec Boga, który objawia się w 'szmerze łagodnego powiewu', a nie w potędze żywiołów.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest pomocą i ocaleniem, o czym z nadzieją mówi psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność przysiędze małżeńskiej i radykalizm w walce z grzechem są wyrazem naszej wierności Bogu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Nawiązuje do aklamacji, która wzywa nas, byśmy byli źródłem światła w świecie, trzymając się Słowa Życia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Bóg posyła Eliasza z nową misją. My również jesteśmy posłani, by głosić Ewangelię czystości i wierności.",
+      "moment": "ogolne"
     }
   ]
 }

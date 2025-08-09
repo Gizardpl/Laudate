@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417014.Poniedzialek-X-tydzien-zwykly-rok-I",
-  "tytul_dnia": "Poniedziałek, X tydzień zwykły, rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417014.Poniedzialek-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 1-12",
       "opis": "Osiem błogosławieństw",
       "tekst": "Jezus, widząc tłumy, wyszedł na górę. A gdy usiadł, przystąpili do Niego Jego uczniowie. Wtedy otworzył usta i nauczał ich tymi słowami:\n«Błogosławieni ubodzy w duchu, albowiem do nich należy królestwo niebieskie.\nBłogosławieni, którzy się smucą, albowiem oni będą pocieszeni.\nBłogosławieni cisi, albowiem oni na własność posiądą ziemię.\nBłogosławieni, którzy łakną i pragną sprawiedliwości, albowiem oni będą nasyceni.\nBłogosławieni miłosierni, albowiem oni miłosierdzia dostąpią.\nBłogosławieni czystego serca, albowiem oni Boga oglądać będą.\nBłogosławieni, którzy wprowadzają pokój, albowiem oni będą nazwani synami Bożymi.\nBłogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie.\nBłogosławieni jesteście, gdy wam urągają i prześladują was i gdy z mego powodu mówią kłamliwie wszystko złe o was. Cieszcie się i radujcie, albowiem wielka jest wasza nagroda w niebie. Tak bowiem prześladowali proroków, którzy byli przed wami».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do pójścia za Jezusem, aby usłyszeć Jego naukę o błogosławieństwach.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Wobec cierpień i ucisków, o których mówi św. Paweł, ta pieśń jest aktem dziękczynienia za Bożą pociechę.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Eucharystia jest pokarmem dla tych, którzy łakną i pragną sprawiedliwości, o których mówi jedno z błogosławieństw.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, jest dobry i wyzwala od wszelkiej trwogi.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru życia według ducha błogosławieństw, nawet pośród prześladowań.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Błogosławieństwo dla miłosiernych zachęca nas do prośby o miłosierdzie i serce zdolne do jego okazywania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "W obliczu prześladowań, o których mówi ostatnie błogosławieństwo, pieśń ta jest wyrazem ufności w Bożą opiekę.",
+      "moment": "ogolne"
     }
   ]
 }

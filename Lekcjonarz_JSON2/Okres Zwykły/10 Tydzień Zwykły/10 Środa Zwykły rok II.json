@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417006.Sroda-X-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Środa, X tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417006.Sroda-X-tydzien-zwykly-rok-II",
+  "tytul_dnia": "10 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 5, 17-19",
       "opis": "Jezus nie znosi Prawa, lecz je wypełnia",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Nie sądźcie, że przyszedłem znieść Prawo albo Proroków. Nie przyszedłem znieść, ale wypełnić. Zaprawdę bowiem, powiadam wam: Dopóki niebo i ziemia nie przeminą, ani jedna jota, ani jedna kreska nie zmieni się w Prawie, aż się wszystko spełni.\nKtokolwiek więc zniósłby jedno z tych przykazań, choćby najmniejszych, i uczyłby tak ludzi, ten będzie najmniejszy w królestwie niebieskim. A kto je wypełnia i uczy wypełniać, ten będzie wielki w królestwie niebieskim».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru jedynego Boga, co jest głównym tematem wydarzeń na górze Karmel.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "Ofiara Eliasza, przyjęta przez Boga, jest zapowiedzią doskonałej ofiary Chrystusa, którą uobecniamy na ołtarzu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę pokory i wiary w jedynego Boga, której owocem jest wierność Jego Prawu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Lud na górze Karmel oddał chwałę Bogu. Ten hymn jest naszym włączeniem się w to uwielbienie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wierność Prawu Bożemu, które Chrystus wypełnił, jest odpowiedzią na Boże objawienie i naszą drogą do świętości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Psalm responsoryjny mówi o zaufaniu Bogu. Ta pieśń jest wyrazem tego zaufania w przeciwieństwie do wiary w bożki.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by uczyć wypełniać przykazania i głosić, że 'Pan jest Bogiem', jak to uczynił Eliasz.",
+      "moment": "ogolne"
     }
   ]
 }

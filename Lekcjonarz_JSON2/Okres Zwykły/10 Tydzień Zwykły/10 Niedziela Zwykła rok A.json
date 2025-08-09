@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417020.10-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "10 Niedziela Zwykła rok A",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Oz 6, 3-6",
+      "opis": "Bóg pragnie miłości",
+      "tekst": "Poznajmy, dążmy do poznania Pana; Jego przyjście jest pewne jak poranek, jak wczesny deszcz przychodzi On do nas, i jak deszcz późny, co nasyca ziemię.\n«Cóż ci mogę uczynić, Efraimie, co pocznę z tobą, Judo? Miłość wasza podobna do chmur o świtaniu albo do rosy, która prędko znika. Dlatego ciosałem cię przez proroków, słowami ust mych pouczałem, a Prawo moje zabłysło jak światło. Miłości pragnę, nie krwawej ofiary, poznania Boga bardziej niż całopaleń».\nOto słowo Boże."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Rz 4, 18-25",
+      "opis": "Wiara Abrahama",
+      "tekst": "Bracia:\nAbraham wbrew nadziei uwierzył nadziei, że stanie się ojcem wielu narodów, zgodnie z tym, co było powiedziane: «Takie będzie twoje potomstwo».\nI nie zachwiał się w wierze, choć stwierdził, że ciało jego jest już obumarłe – miał już prawie sto lat – i że obumarłe jest łono Sary. I nie okazał wahania ani niedowierzania co do obietnicy Bożej, ale się umocnił w wierze. Oddał przez to chwałę Bogu i był przekonany, że mocen jest On również wypełnić, co obiecał. Dlatego też policzono mu to za sprawiedliwość.\nA to, że policzono mu, zostało napisane nie ze względu na niego samego, ale i ze względu na nas, jako że będzie policzone i nam, którzy wierzymy w Tego, co wskrzesił z martwych Jezusa, Pana naszego. On to został wydany za nasze grzechy i wskrzeszony z martwych dla naszego usprawiedliwienia.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 50 (49), 1b-2. 8 i 13. 14-15",
+      "opis": "",
+      "tekst": "Refren: Temu, kto prawy, ukażę zbawienie.\nPrzemówił Pan, Bóg nad bogami, *\ni wezwał ziemię od wschodu do zachodu słońca.\n«Nie oskarżam cię za twoje ofiary, *\nbo twe całopalenia zawsze są przede Mną».\nRefren.\n«Gdybym był głodny, nie mówiłbym ci o tym, *\nbo do Mnie świat należy i wszystko, co go napełnia.\nCzy będę jadł mięso cielców *\nalbo pił krew kozłów?\nRefren.\nSkładaj Bogu dziękczynną ofiarę, *\nspełnij swoje śluby wobec Najwyższego.\nI wzywaj Mnie w dniu utrapienia, *\nwyzwolę ciebie, a ty Mnie uwielbisz».\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Łk 4, 18",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Pan posłał Mnie, abym ubogim niósł dobrą nowinę,\nwięźniom głosił wolność."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 9, 9-13",
+      "opis": "Powołanie Mateusza na apostoła",
+      "tekst": "Jezus, wychodząc z Kafarnaum, ujrzał człowieka imieniem Mateusz, siedzącego na komorze celnej, i rzekł do niego: «Pójdź za Mną!» A on wstał i poszedł za Nim.\nGdy Jezus siedział w domu za stołem, przyszło wielu celników i grzeszników i zasiadło wraz z Jezusem i Jego uczniami. Widząc to, faryzeusze mówili do Jego uczniów: «Dlaczego wasz Nauczyciel jada wspólnie z celnikami i grzesznikami?»\nOn, usłyszawszy to, rzekł: «Nie potrzebują lekarza zdrowi, lecz ci, którzy się źle mają. Idźcie i starajcie się zrozumieć, co znaczy: Chcę raczej miłosierdzia niż ofiary. Bo nie przyszedłem, aby powołać sprawiedliwych, ale grzeszników».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem dla grzeszników, których Jezus przyszedł powołać, co jest centralnym tematem Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pierwsze czytanie i Ewangelia podkreślają, że Bóg pragnie miłości i miłosierdzia bardziej niż ofiar.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wyraża postawę grzesznika, który, jak Mateusz, zostaje powołany i zaproszony do stołu z Jezusem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Psalm mówi, że ofiarą miłą Bogu jest dziękczynienie. Ta pieśń jest wyrazem wdzięczności za dar powołania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Powołanie Mateusza jest przykładem misji Kościoła, by iść i głosić Ewangelię wszystkim, zwłaszcza grzesznikom.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Jest to pieśń o zaufaniu Bożemu miłosierdziu, które jest większe niż nasz grzech, co jest główną nadzieją dnia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wiara Abrahama, o której mówi drugie czytanie, jest wzorem zaufania Bogu i Jego obietnicom.",
+      "moment": "ogolne"
+    }
+  ]
+}
