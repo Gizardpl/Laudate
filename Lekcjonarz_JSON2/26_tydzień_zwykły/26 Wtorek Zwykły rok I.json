@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417344.Wtorek-26-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Wtorek, 26 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417344.Wtorek-26-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "26 Wtorek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 51-56",
       "opis": "Jezus przeciwny natychmiastowemu karaniu",
       "tekst": "Gdy dopełniały się dni wzięcia Jezusa z tego świata, postanowił udać się do Jeruzalem, i wysłał przed sobą posłańców. Ci wybrali się w drogę i weszli do pewnego miasteczka samarytańskiego, by przygotować Mu pobyt. Nie przyjęto Go jednak, ponieważ zmierzał do Jeruzalem.\nWidząc to, uczniowie Jakub i Jan rzekli: «Panie, czy chcesz, byśmy powiedzieli: Niech ogień spadnie z nieba i pochłonie ich?» Lecz On, odwróciwszy się, zgromił ich.\nI udali się do innego miasteczka.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "630",
+      "piesn": "Wszystkie narody świata",
+      "opis": "Pieśń wzywa wszystkie narody do chwalenia Boga, co idealnie oddaje uniwersalistyczną wizję z proroctwa Zachariasza.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa o jedność i pokój dla Kościoła jest odpowiedzią na postawę Jezusa, który gani uczniów za chęć zemsty i ukazuje drogę miłosierdzia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia, która jednoczy ludzi z różnych narodów w jedno Ciało Chrystusa, jest wypełnieniem proroctwa o przychodzeniu pogan do Jerozolimy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń jest modlitwą o zjednoczenie wszystkich w Bogu, co jest głównym tematem pierwszego czytania i psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna jest zachętą do pójścia do wszystkich narodów z Ewangelią pokoju, a nie potępienia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Prośba o miłosierdzie i błogosławieństwo dla wszystkich narodów jest echem dzisiejszych czytań.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Radosna pieśń o królowaniu Pana nad całą ziemią koresponduje z wizją proroka Zachariasza o gromadzeniu się narodów w Jerozolimie.",
+      "moment": "ogolne"
     }
   ]
 }

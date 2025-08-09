@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417348.26-Niedziela-zwykla-Rok-A",
-  "tytul_dnia": "26 Niedziela zwykła, Rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417348.26-Niedziela-zwykla-Rok-A",
+  "tytul_dnia": "26 Niedziela Zwykła rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mt 21, 28-32",
       "opis": "Nawrócenie prowadzi do zbawienia",
       "tekst": "Jezus powiedział do arcykapłanów i starszych ludu:\n«Co myślicie? Pewien człowiek miał dwóch synów. Zwrócił się do pierwszego i rzekł: „Dziecko, idź i pracuj dzisiaj w winnicy”. Ten odpowiedział: „Idę, panie!”, lecz nie poszedł. Zwrócił się do drugiego i to samo powiedział. Ten odparł: „Nie chcę”. Później jednak opamiętał się i poszedł. Który z tych dwóch spełnił wolę ojca?» Mówią Mu: «Ten drugi».\nWtedy Jezus rzekł do nich: «Zaprawdę, powiadam wam: Celnicy i nierządnice wchodzą przed wami do królestwa niebieskiego. Przyszedł bowiem do was Jan drogą sprawiedliwości, a wy mu nie uwierzyliście. Uwierzyli mu zaś celnicy i nierządnice. Wy patrzyliście na to, ale nawet później nie opamiętaliście się, żeby mu uwierzyć».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń wzywa do nawrócenia i wiary w Ewangelię, co jest głównym tematem czytań, zwłaszcza przypowieści o dwóch synach.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża żal za grzechy i mocne postanowienie poprawy, co odzwierciedla postawę drugiego syna z Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń ta podkreśla pokorę, która jest kluczowa w nawróceniu i naśladowaniu Chrystusa opisanego w drugim czytaniu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Nawiązuje do postawy syna marnotrawnego, która jest podobna do postawy drugiego syna z dzisiejszej Ewangelii – opamiętania i powrotu do Ojca.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Trzecia zwrotka pieśni mówi o wypełnianiu przykazań, co bezpośrednio łączy się z Ewangelią o pełnieniu woli Ojca.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna (Ps 51), która doskonale oddaje ducha nawrócenia i prośby o miłosierdzie obecnego w czytaniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Pieśń jest prośbą o Boże miłosierdzie, o którym mówi psalm responsoryjny i którego doświadczają nawracający się grzesznicy.",
+      "moment": "ogolne"
     }
   ]
 }

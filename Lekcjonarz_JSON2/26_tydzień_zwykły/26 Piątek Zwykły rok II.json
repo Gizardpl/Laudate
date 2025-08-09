@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417335.Piatek-26-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Piątek, 26 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417335.Piatek-26-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "26 Piątek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 13-16",
       "opis": "Kto gardzi Chrystusem, gardzi Tym, który Go posłał",
       "tekst": "Jezus powiedział:\n«Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się cuda, które u was się dokonały, już dawno by się nawróciły, siedząc w worze i popiele. Toteż Tyrowi i Sydonowi lżej będzie na sądzie niżeli wam.\nA ty, Kafarnaum, czy aż do nieba masz być wyniesione? Aż do Otchłani zejdziesz!\nKto was słucha, Mnie słucha, a kto wami gardzi, Mną gardzi; lecz kto Mną gardzi, gardzi Tym, który mnie posłał».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń wyraża podziw dla Boga Stwórcy, co koresponduje z mową Boga do Hioba o potędze stworzenia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Pieśń wzywa do pokory i skruchy, co jest właściwą postawą w obliczu Bożej wielkości i ostrzeżeń z Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "627",
+      "piesn": "Ty, Boże, wszystko wiesz",
+      "opis": "Ta pieśń, oparta na Psalmie 139, idealnie pasuje do psalmu responsoryjnego, mówiąc o Bogu, który nas przenika i zna.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest aktem uwielbienia majestatu Boga, o którym z taką mocą mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Wezwanie do nawrócenia jest odpowiedzią na słowa Jezusa z Ewangelii, który gani miasta za brak pokuty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "590",
+      "piesn": "Boże mocny, Boże cudów",
+      "opis": "Pieśń wychwala Boga za Jego cuda i moc, co jest tematem rozmowy Boga z Hiobem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "628",
+      "piesn": "Ty, wszechmocny Panie",
+      "opis": "Pieśń podkreśla wszechmoc i opatrzność Boga, co jest pocieszeniem w kontekście ludzkiej małości ukazanej w Księdze Hioba.",
+      "moment": "ogolne"
     }
   ]
 }

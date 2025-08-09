@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417345.Poniedzialek-26-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Poniedziałek, 26 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417345.Poniedzialek-26-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "26 Poniedziałek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 46-50",
       "opis": "Nauka pokory",
       "tekst": "Uczniom Jezusa przyszła myśl, kto z nich jest największy.\nLecz Jezus, znając tę myśl w ich sercach, wziął dziecko, postawił je przy sobie i rzekł do nich: «Kto by to dziecko przyjął w imię moje, Mnie przyjmuje; a kto by Mnie przyjął, przyjmuje Tego, który Mnie posłał. Kto bowiem jest najmniejszy wśród was wszystkich, ten jest wielki».\nWtedy przemówił Jan: «Mistrzu, widzieliśmy, jak ktoś w imię Twoje wypędzał złe duchy, i zaczęliśmy mu zabraniać, bo nie chodzi z nami». Lecz Jezus mu odpowiedział: «Przestańcie zabraniać; kto bowiem nie jest przeciwko wam, ten jest z wami».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
+      "opis": "Pieśń wyraża radość z przebywania w domu Bożym, co nawiązuje do obietnicy powrotu i zamieszkania Boga na Syjonie z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Błogosławieństwo ubogich i cichych jest echem nauki Jezusa z Ewangelii, że 'kto jest najmniejszy, ten jest wielki'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń bezpośrednio odnosi się do gestu Jezusa, który przytula dzieci i stawia je za wzór w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Radosny hymn chwały jest odpowiedzią na pełne nadziei i radości proroctwo Zachariasza o odnowie Jerozolimy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń podkreśla jedność w rodzinie Bożej, gdzie nie ma miejsca na spory o pierwszeństwo, o których mowa w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa o jedność i pokój dla Kościoła-Jerozolimy jest aktualna w kontekście obietnicy odbudowy z pierwszego czytania i psalmu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Pieśń jest prośbą o jedność, która przeciwstawia się postawie zamknięcia i wykluczania, ukazanej w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

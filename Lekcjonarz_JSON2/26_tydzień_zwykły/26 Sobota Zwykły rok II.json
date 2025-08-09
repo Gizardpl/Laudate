@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417334.Sobota-26-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Sobota, 26 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417334.Sobota-26-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "26 Sobota Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 17-24",
       "opis": "Przywileje uczniów",
       "tekst": "Wróciło siedemdziesięciu dwóch z radością, mówiąc:\n«Panie, przez wzgląd na Twoje imię nawet złe duchy nam się poddają».\nWtedy rzekł do nich: «Widziałem Szatana, który spadł z nieba jak błyskawica. Oto dałem wam władzę stąpania po wężach i skorpionach, i po całej potędze przeciwnika, a nic wam nie zaszkodzi. Jednakże nie z tego się cieszcie, że duchy się wam poddają, lecz cieszcie się, że wasze imiona zapisane są w niebie».\nW tej to chwili rozradował się Jezus w Duchu Świętym i rzekł: «Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nOjciec mój przekazał Mi wszystko. Nikt też nie wie, kim jest Syn, tylko Ojciec; ani kim jest Ojciec, tylko Syn i ten, komu Syn zechce objawić».\nPotem zwrócił się do samych uczniów i rzekł: «Szczęśliwe oczy, które widzą to, co wy widzicie. Bo powiadam wam: Wielu proroków i królów pragnęło ujrzeć to, co wy widzicie, a nie ujrzeli, i usłyszeć, co słyszycie, a nie usłyszeli».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Radosny charakter pieśni odpowiada radości uczniów powracających z misji, o której mowa w Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża postawę skruchy i pokory, podobną do tej, którą przyjął Hiob na końcu swojej próby.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Wiara i osobiste poznanie Boga, o którym śpiewa pieśń, jest tym, do czego doszedł Hiob i co jest źródłem radości uczniów.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest odpowiednim uwielbieniem po Komunii, nawiązując do hymnu radości Jezusa w Duchu Świętym.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń dziękczynna za Boże błogosławieństwo pasuje do zakończenia historii Hioba, którego Pan obdarzył na nowo.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opiekę jest pocieszeniem i wyrazem wiary, która przetrwała próbę Hioba.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach dobrze współgra z Ewangelią, gdzie Jezus objawia tajemnice królestwa 'prostaczkom'.",
+      "moment": "ogolne"
     }
   ]
 }

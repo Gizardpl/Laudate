@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417341.Piatek-26-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Piątek, 26 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417341.Piatek-26-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "26 Piątek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 13-16",
       "opis": "Kto gardzi Chrystusem, gardzi Tym, który Go posłał",
       "tekst": "Jezus powiedział:\n«Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się cuda, które u was się dokonały, już dawno by się nawróciły, siedząc w worze i popiele. Toteż Tyrowi i Sydonowi lżej będzie na sądzie niżeli wam.\nA ty, Kafarnaum, czy aż do nieba masz być wyniesione? Aż do Otchłani zejdziesz!\nKto was słucha, Mnie słucha, a kto wami gardzi, Mną gardzi; lecz kto Mną gardzi, gardzi Tym, który mnie posłał».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest wezwaniem do pokuty, co stanowi odpowiedź na słowa Jezusa o konieczności nawrócenia miast galilejskich.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża żal za grzechy i wolę poprawy, co jest echem wyznania win z pierwszego czytania.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna oparta na Psalmie 51 jest modlitwą o przebaczenie, o które prosi psalm responsoryjny.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, Ojcze Wszechmogący",
+      "opis": "Litania błagalna jest formą modlitwy pokutnej, która dobrze oddaje ducha dzisiejszej liturgii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "115",
+      "piesn": "Wysłuchaj, Panie",
+      "opis": "Refren 'Wysłuchaj, Panie, daj się przebłagać, bowiem zgrzeszyliśmy Tobie' jest doskonałym podsumowaniem i prośbą na zakończenie Mszy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
+      "opis": "Krótka, intensywna modlitwa błagalna, która wpisuje się w pokutny charakter czytań.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
+      "opis": "Jest to kolejna parafraza Psalmu 51, która wyraża skruchę i prośbę o oczyszczenie z win.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417337.Sroda-26-tydzien-zwykly-Rok-II",
-  "tytul_dnia": "Środa, 26 tydzień zwykły, Rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417337.Sroda-26-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "26 Środa Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -17,7 +18,7 @@
     {
       "typ": "AKLAMACJA",
       "sigla": "Flp 3, 8b-9a",
-      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "opis": "Aklamacja: Alleluja, alleluja, aleluja.",
       "tekst": "Wyzułem się ze wszystkiego i uznaję to za śmieci,\nbylebym pozyskał Chrystusa i w Nim się znalazł."
     },
     {
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 57-62",
       "opis": "Naśladowanie Chrystusa wymaga wyrzeczenia",
       "tekst": "Gdy Jezus z uczniami szedł drogą, ktoś powiedział do Niego: «Pójdę za Tobą, dokądkolwiek się udasz».Jezus mu odpowiedział: «Lisy mają nory i ptaki podniebne – gniazda, lecz Syn Człowieczy nie ma miejsca, gdzie by głowę mógł położyć».\nDo innego rzekł: «Pójdź za Mną». Ten zaś odpowiedział: «Panie, pozwól mi najpierw pójść pogrzebać mojego ojca». Odparł mu: «Zostaw umarłym grzebanie ich umarłych, a ty idź i głoś królestwo Boże».\nJeszcze inny rzekł: «Panie, chcę pójść za Tobą, ale pozwól mi najpierw pożegnać się z moimi w domu». Jezus mu odpowiedział: «Ktokolwiek przykłada rękę do pługa, a wstecz się ogląda, nie nadaje się do królestwa Bożego».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do pójścia za Jezusem, co jest głównym tematem Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pieśń wyraża gotowość do całkowitego poświęcenia się Bogu, do czego wzywa Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Trzecia zwrotka mówi o naśladowaniu Chrystusa, który jest naszym życiem i oczekiwaniem, co jest odpowiedzią na Jego radykalne wezwanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Hymn ten podkreśla wielkość i majestat Boga Stwórcy, o którym z lękiem i podziwem mówi Hiob w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna jest odpowiedzią na wezwanie Jezusa: 'a ty idź i głoś królestwo Boże'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "116",
+      "piesn": "Z głębi mojego serca",
+      "opis": "Pieśń jest wołaniem do Boga z głębokości, podobnie jak psalm responsoryjny i lamentacje Hioba.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "W kontekście bezdomności Syna Człowieczego i niepewności losu Jego naśladowców, pieśń o ufności w Bożą opiekę nabiera szczególnego znaczenia.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417347.26-Niedziela-zwykla-Rok-B",
-  "tytul_dnia": "26 Niedziela zwykła, Rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417347.26-Niedziela-zwykla-Rok-B",
+  "tytul_dnia": "26 Niedziela Zwykła rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 9, 38-43. 45. 47-48",
       "opis": "Unikać okazji do grzechu",
       "tekst": "Apostoł Jan rzekł do Jezusa: «Nauczycielu, widzieliśmy kogoś, kto nie chodzi z nami, jak w Twoje imię wyrzucał złe duchy, i zaczęliśmy mu zabraniać, bo nie chodzi z nami».\nLecz Jezus odrzekł: «Przestańcie zabraniać mu, bo nikt, kto uczyni cud w imię moje, nie będzie mógł zaraz źle mówić o Mnie. Kto bowiem nie jest przeciwko nam, ten jest z nami.\nKto wam poda kubek wody do picia, dlatego że należycie do Chrystusa, zaprawdę, powiadam wam, nie utraci swojej nagrody.\nA kto by się stał powodem grzechu dla jednego z tych małych, którzy wierzą, temu lepiej byłoby kamień młyński uwiązać u szyi i wrzucić go w morze.\nJeśli zatem twoja ręka jest dla ciebie powodem grzechu, odetnij ją; lepiej jest dla ciebie ułomnym wejść do życia wiecznego, niż z dwiema rękami pójść do piekła w ogień nieugaszony. I jeśli twoja noga jest dla ciebie powodem grzechu, odetnij ją; lepiej jest dla ciebie chromym wejść do życia, niż z dwiema nogami być wrzuconym do piekła. Jeśli twoje oko jest dla ciebie powodem grzechu, wyłup je; lepiej jest dla ciebie jednookim wejść do królestwa Bożego, niż z dwojgiem oczu być wrzuconym do piekła, gdzie robak ich nie ginie i ogień nie gaśnie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń jest modlitwą o dary Ducha Świętego, którego działanie jest ukazane w pierwszym czytaniu na przykładzie prorokujących starszych.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń podkreśla jedność i miłość, co jest odpowiedzią na postawę uczniów z Ewangelii, którzy chcieli zabronić działania komuś spoza ich grona.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia gromadzi nas w jedno Ciało, co przypomina o otwartości na innych, do której wzywa Jezus w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Sekwencja do Ducha Świętego jest prośbą o Jego dary, o których hojności mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń jest modlitwą o jedność i pokój dla Kościoła, co jest szczególnie ważne w kontekście podziałów i zazdrości, przed którymi ostrzegają czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Wezwanie do nawrócenia jest odpowiedzią na radykalne słowa Jezusa w Ewangelii dotyczące unikania grzechu i zgorszenia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "105",
+      "piesn": "Najwyższego majestatu",
+      "opis": "Pieśń pokutna pomaga wzbudzić żal za grzechy, do czego zachęca Ewangelia poprzez radykalne obrazy odcinania ręki czy nogi.",
+      "moment": "ogolne"
     }
   ]
 }

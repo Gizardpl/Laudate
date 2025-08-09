@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417342.Czwartek-26-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Czwartek, 26 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417342.Czwartek-26-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "26 Czwartek Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 1-12",
       "opis": "Rozesłanie uczniów na głoszenie królestwa Bożego",
       "tekst": "Jezus wyznaczył jeszcze innych siedemdziesięciu dwu uczniów i wysłał ich po dwóch przed sobą do każdego miasta i miejscowości, dokąd sam przyjść zamierzał. Powiedział też do nich: «Żniwo wprawdzie wielkie, ale robotników mało; proście więc Pana żniwa, żeby wyprawił robotników na swoje żniwo.\nIdźcie! Oto posyłam was jak owce między wilki. Nie noście z sobą trzosa ani torby, ani sandałów; i nikogo w drodze nie pozdrawiajcie. Gdy wejdziecie do jakiegoś domu, najpierw mówcie: Pokój temu domowi. Jeśli tam mieszka człowiek godny pokoju, wasz pokój spocznie na nim; jeśli nie, powróci do was. W tym samym domu zostańcie, jedząc i pijąc, co będą mieli: bo zasługuje robotnik na swoją zapłatę. Nie przechodźcie z domu do domu. Jeśli do jakiegoś miasta wejdziecie i przyjmą was, jedzcie, co wam podadzą; uzdrawiajcie chorych, którzy tam są, i mówcie im: Przybliżyło się do was królestwo Boże.\nLecz jeśli do jakiegoś miasta wejdziecie, a nie przyjmą was, wyjdźcie na jego ulice i powiedzcie: Nawet proch, który z waszego miasta przylgnął nam do nóg, strząsamy wam. Wszakże to wiedzcie, że bliskie jest królestwo Boże. Powiadam wam: Sodomie lżej będzie w ów dzień niż temu miastu».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń jest bezpośrednim echem Ewangelii o rozesłaniu uczniów do głoszenia Dobrej Nowiny.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "Pieśń o powołaniu do służby w Kościele nawiązuje do Ewangelii, w której Jezus posyła robotników na swoje żniwo.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pieśń mówi o Chrystusie, który zaspokaja najgłębsze pragnienia, co jest owocem przyjęcia głoszonego przez uczniów królestwa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Boga, co odpowiada radości ludu po usłyszeniu i zrozumieniu Słowa Bożego w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń podkreśla misyjny charakter Kościoła, który jest posłany, by głosić Pana całemu światu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "225",
+      "piesn": "Nadziejo Izraela",
+      "opis": "Modlitwa o robotników na żniwo Pańskie jest bezpośrednim nawiązaniem do prośby Jezusa z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Pieśń powtarza kluczowe słowa z Ewangelii, które mieli głosić uczniowie: 'Przybliżyło się do was królestwo Boże'.",
+      "moment": "ogolne"
     }
   ]
 }

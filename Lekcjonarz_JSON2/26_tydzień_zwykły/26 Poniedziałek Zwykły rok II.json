@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417339.Poniedzialek-26-tydzien-zwykly-rok-II",
-  "tytul_dnia": "Poniedziałek, 26 tydzień zwykły, rok II",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417339.Poniedzialek-26-tydzien-zwykly-rok-II",
+  "tytul_dnia": "26 Poniedziałek Zwykły rok II",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 9, 46-50",
       "opis": "Nauka pokory",
       "tekst": "Uczniom Jezusa przyszła myśl, kto z nich jest największy.\nLecz Jezus, znając tę myśl w ich sercach, wziął dziecko, postawił je przy sobie i rzekł do nich: «Kto by to dziecko przyjął w imię moje, Mnie przyjmuje; a kto by Mnie przyjął, przyjmuje Tego, który Mnie posłał. Kto bowiem jest najmniejszy wśród was wszystkich, ten jest wielki».\nWtedy przemówił Jan: «Mistrzu, widzieliśmy, jak ktoś w imię Twoje wypędzał złe duchy, i zaczęliśmy mu zabraniać, bo nie chodzi z nami». Lecz Jezus mu odpowiedział: «Przestańcie zabraniać; kto bowiem nie jest przeciwko wam, ten jest z wami».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o ufności w Bożą opatrzność jest pocieszeniem w kontekście niezawinionego cierpienia Hioba z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń nawiązuje do nauki Jezusa z Ewangelii, że wielkość polega na byciu najmniejszym, ubogim i cichym.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń bezpośrednio odnosi się do Ewangelii, w której Jezus bierze dziecko w objęcia i stawia je za wzór.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Pieśń jest aktem dziękczynienia i uwielbienia, który odzwierciedla postawę Hioba: 'Niech będzie imię Pańskie błogosławione!'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Prośba o Boże prowadzenie jest wyrazem pokory i uznania własnej małości, do której wzywa Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń o ufności w Bożą Opatrzność jest odpowiedzią na trudne doświadczenia Hioba, który mimo wszystko nie zgrzeszył.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń podkreśla jedność w Bogu, co jest przeciwwagą dla postawy wykluczenia, jaką zaprezentowali uczniowie w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

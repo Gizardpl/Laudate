@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/417340.Sobota-26-tydzien-zwykly-Rok-I",
-  "tytul_dnia": "Sobota, 26 tydzień zwykły, Rok I",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417340.Sobota-26-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "26 Sobota Zwykły rok I",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Łk 10, 17-24",
       "opis": "Przywileje uczniów",
       "tekst": "Wróciło siedemdziesięciu dwóch z radością, mówiąc:\n«Panie, przez wzgląd na Twoje imię nawet złe duchy nam się poddają».\nWtedy rzekł do nich: «Widziałem Szatana, który spadł z nieba jak błyskawica. Oto dałem wam władzę stąpania po wężach i skorpionach, i po całej potędze przeciwnika, a nic wam nie zaszkodzi. Jednakże nie z tego się cieszcie, że duchy się wam poddają, lecz cieszcie się, że wasze imiona zapisane są w niebie».\nW tej to chwili rozradował się Jezus w Duchu Świętym i rzekł: «Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie.\nOjciec mój przekazał Mi wszystko. Nikt też nie wie, kim jest Syn, tylko Ojciec; ani kim jest Ojciec, tylko Syn i ten, komu Syn zechce objawić».\nPotem zwrócił się do samych uczniów i rzekł: «Szczęśliwe oczy, które widzą to, co wy widzicie. Bo powiadam wam: Wielu proroków i królów pragnęło ujrzeć to, co wy widzicie, a nie ujrzeli, i usłyszeć, co słyszycie, a nie usłyszeli».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń wyraża radość z Bożego działania, co jest głównym tematem Ewangelii o powrocie uczniów z misji.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna przypomina o zadaniu, z którego z radością powrócili uczniowie w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "248",
+      "piesn": "Jezusowi cześć i chwała",
+      "opis": "Pieśń jest dziękczynieniem za dar zbawienia i nadzieję zmartwychwstania, co jest źródłem prawdziwej radości, o której mówi Jezus.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem uwielbienia, które Jezus wznosi do Ojca w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń wzywa całe stworzenie do radości z królowania Pana, co jest echem radości uczniów i obietnicy wybawienia z pierwszego czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń jest wezwaniem do radosnego służenia Bogu, co jest postawą uczniów powracających z misji.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pierwsze czytanie mówi o nawróceniu jako drodze do odzyskania Bożej radości i wybawienia, co czyni tę pieśń adekwatną.",
+      "moment": "ogolne"
     }
   ]
 }
