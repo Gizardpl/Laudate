@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413338.II-Niedziela-Adwentu-rok-C",
-  "tytul_dnia": "II Niedziela Adwentu rok C",
+  "tytul_dnia": "2 Niedziela Adwentu rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Łk 3, 1-6",
       "opis": "Wszyscy ludzie ujrzą zbawienie Boże",
       "tekst": "Było to w piętnastym roku rządów Tyberiusza Cezara. Gdy Poncjusz Piłat był namiestnikiem Judei, Herod tetrarchą Galilei, brat jego Filip tetrarchą Iturei i Trachonitydy, Lizaniasz tetrarchą Abileny; za najwyższych kapłanów Annasza i Kajfasza skierowane zostało słowo Boże do Jana, syna Zachariasza, na pustyni.\nObchodził więc całą okolicę nad Jordanem i głosił chrzest nawrócenia dla odpuszczenia grzechów, jak jest napisane w księdze mów proroka Izajasza: «Głos wołającego na pustyni: Przygotujcie drogę Panu, prostujcie ścieżki dla Niego! Każda dolina zostanie wypełniona, każda góra i pagórek zrównane, drogi kręte staną się prostymi, a wyboiste drogami gładkimi! i wszyscy ludzie ujrzą zbawienie Boże».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' jest bezpośrednim nawiązaniem do Ewangelii i aklamacji, wzywając do aktywnego przygotowania na przyjście Pana.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń ta wzywa do przygotowania serc, aby Pan mógł w nich zamieszkać, co jest głównym przesłaniem nauczania Jana Chrzciciela.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, którego drogę przygotowuje Jan Chrzciciel i którego zbawienie, jak mówi Ewangelia, ujrzą wszyscy ludzie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pierwsze czytanie i psalm mówią o wielkiej radości z powrotu i Bożych dzieł, a ta pieśń jest radosnym hymnem na cześć przychodzącego Króla.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta, wzywając do prostowania dróg, stanowi dobre podsumowanie dnia i posłanie do dalszego adwentowego czuwania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Tekst pieśni mówi o równaniu ścieżek i obniżaniu szczytów, co jest bezpośrednim nawiązaniem do słów proroka Izajasza z Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń o błogosławieństwach, zwłaszcza dla cichych i pokornych, wpisuje się w adwentowy klimat oczekiwania na Króla Pokoju, o którym mówi pierwsze czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

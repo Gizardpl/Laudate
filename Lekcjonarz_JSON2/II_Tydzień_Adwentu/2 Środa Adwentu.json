@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413335.Sroda-II-tygodnia-Adwentu",
-  "tytul_dnia": "Środa II tygodnia Adwentu",
+  "tytul_dnia": "2 Środa Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 28-30",
       "opis": "Chrystus pokrzepia utrudzonych",
       "tekst": "Jezus przemówił tymi słowami:\n«Przyjdźcie do Mnie wszyscy, którzy utrudzeni i obciążeni jesteście, a Ja was pokrzepię. Weźcie na siebie moje jarzmo i uczcie się ode Mnie, bo jestem cichy i pokornego serca, a znajdziecie ukojenie dla dusz waszych. Albowiem słodkie jest moje jarzmo, a moje brzemię lekkie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "400",
+      "piesn": "Witaj, Święta i Poczęta",
+      "opis": "Pieśń ta jest wprost skierowana do Niepokalanie Poczętej, co idealnie wprowadza w tajemnicę dzisiejszej uroczystości.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "356",
+      "piesn": "Matko Niebieskiego Pana",
+      "opis": "W tej pieśni wychwalamy Maryję, która została zachowana od grzechu pierworodnego, by stać się godnym mieszkaniem dla Syna Bożego.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "29",
+      "piesn": "Zdrowaś bądź Maryja",
+      "opis": "Pieśń jest parafrazą pozdrowienia anielskiego, które nazywa Maryję 'łaski pełną', co jest podstawą dogmatu o Niepokalanym Poczęciu.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "338",
+      "piesn": "Gwiazdo zaranna",
+      "opis": "Pieśń sławi Maryję jako Niepokalaną Jutrzenkę, która poprzedza przyjście Słońca Sprawiedliwości - Chrystusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "324",
+      "piesn": "Bogurodzica",
+      "opis": "Najstarsza polska pieśń maryjna jest wspaniałym hymnem na cześć Matki Bożej, której wyjątkowy przywilej dziś świętujemy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "346",
+      "piesn": "Maryjo, bez grzechu poczęta",
+      "opis": "Litania wezwań podkreślająca czystość i wyjątkowość Maryi, co jest istotą uroczystości Niepokalanego Poczęcia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "399",
+      "piesn": "Witaj, Święta i Niepokalana",
+      "opis": "Pieśń ta w sposób uroczysty wychwala Maryję jako Tę, która od początku była wolna od zmazy grzechu.",
+      "moment": "ogolne"
     }
   ]
 }

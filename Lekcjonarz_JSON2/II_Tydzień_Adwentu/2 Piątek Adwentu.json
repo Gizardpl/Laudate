@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413333.Piatek-II-tygodnia-Adwentu",
-  "tytul_dnia": "Piątek II tygodnia Adwentu",
+  "tytul_dnia": "2 Piątek Adwentu",
+  "czy_datowany": true,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "Mt 11, 16-19",
       "opis": "Ci, którzy odrzucili Jana Chrzciciela, nie przyjmą Chrystusa",
       "tekst": "Jezus powiedział do tłumów:\n«Z kim mam porównać to pokolenie? Podobne jest do przesiadujących na rynku dzieci, które głośno przymawiają swym rówieśnikom: „Przygrywaliśmy wam, a nie tańczyliście; biadaliśmy, a wy nie zawodziliście”. Przyszedł bowiem Jan, nie jadł ani nie pił, a oni mówią: „Zły duch go opętał”. Przyszedł Syn Człowieczy, je i pije, a oni mówią: „Oto żarłok i pijak, przyjaciel celników i grzeszników”. A jednak mądrość usprawiedliwiona jest przez swe czyny».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta wzywa do nawrócenia i prostowania dróg życia, co jest odpowiedzią na lament Boga z pierwszego czytania: 'O, gdybyś zważał na me przykazania!'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń adwentowa, która wzywa do przygotowania na przyjście Pana, co jest warunkiem doświadczenia pokoju, o którym mówi pierwsze czytanie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Wobec niezrozumienia i odrzucenia przez 'to pokolenie', o którym mówi Ewangelia, ta pieśń jest naszym osobistym zaproszeniem Pana.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "9",
+      "piesn": "Stwórco gwiaździstych przestworzy",
+      "opis": "Hymn adwentowy, który jest modlitwą o obronę przed złem i przyjęcie Chrystusa, którego odrzucają bohaterowie Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń zachęca do szczerości i wiary w Słowo Boże, w przeciwieństwie do postawy 'tego pokolenia' z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń jest modlitwą o Boże prowadzenie i wierność Jego drogom, o których mówi zarówno pierwsze czytanie, jak i psalm.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Psalm mówi o szczęściu człowieka, który ma upodobanie w Prawie Pańskim. Pieśń o błogosławieństwach jest nowotestamentowym rozwinięciem tej myśli.",
+      "moment": "ogolne"
     }
   ]
 }

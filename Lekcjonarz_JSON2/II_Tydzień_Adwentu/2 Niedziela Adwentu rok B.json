@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413339.II-Niedziela-Adwentu-rok-B",
-  "tytul_dnia": "II Niedziela Adwentu rok B",
+  "tytul_dnia": "2 Niedziela Adwentu rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,50 @@
       "sigla": "Mk 1, 1-8",
       "opis": "Prostujcie ścieżki dla Pana",
       "tekst": "Początek Ewangelii Jezusa Chrystusa, Syna Bożego.\nJak jest napisane u proroka Izajasza: «Oto Ja posyłam wysłańca mego przed Tobą; on przygotuje drogę Twoją. Głos wołającego na pustyni: Przygotujcie drogę Panu, prostujcie dla Niego ścieżki», wystąpił Jan Chrzciciel na pustyni i głosił chrzest nawrócenia na odpuszczenie grzechów. Ciągnęła do niego cała judzka kraina oraz wszyscy mieszkańcy Jerozolimy i przyjmowali od niego chrzest w rzece Jordan, wyznając swoje grzechy.\nJan nosił odzienie z sierści wielbłądziej i pas skórzany około bioder, a żywił się szarańczą i miodem leśnym. I tak głosił: «Idzie za mną mocniejszy ode mnie, a ja nie jestem godzien, aby schyliwszy się, rozwiązać rzemyk u Jego sandałów. Ja chrzciłem was wodą, On zaś chrzcić was będzie Duchem Świętym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' jest bezpośrednim nawiązaniem do głosu wołającego na pustyni z Ewangelii i pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń ta wzywa do przygotowania serc na przyjście Pana, co jest głównym przesłaniem nauczania Jana Chrzciciela i całego Adwentu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, który jest Dobrym Pasterzem niosącym pocieszenie, o czym mówi prorok Izajasz.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Psalm i pierwsze czytanie zapowiadają radość i pokój, a ta pieśń jest radosnym hymnem na cześć przychodzącego Króla.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta, wzywając do prostowania dróg życia, stanowi dobre podsumowanie dnia i posłanie do dalszego adwentowego czuwania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Tekst pieśni mówi o równaniu ścieżek, obniżaniu szczytów i podnoszeniu dolin, co jest bezpośrednim echem słów proroka Izajasza z pierwszego czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "6",
+      "piesn": "Pan jest blisko",
+      "opis": "Pieśń przypomina o zbliżającym się przyjściu Pana i wzywa do czuwania, o czym mówi drugie czytanie.",
+      "moment": "ogolne"
     }
   ]
 }
