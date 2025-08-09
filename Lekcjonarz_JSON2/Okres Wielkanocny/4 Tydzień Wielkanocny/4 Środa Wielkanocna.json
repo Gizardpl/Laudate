@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413313.Sroda-IV-tygodnia-wielkanocnego",
+  "tytul_dnia": "4 Środa Wielkanocna",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 12, 24 – 13, 5a",
+      "opis": "Misja Pawła i Barnaby",
+      "tekst": "Słowo Pańskie szerzyło się i rosło. Barnaba i Szaweł, wypełniwszy swoje zadania, powrócili z Jeruzalem, zabierając z sobą Jana, zwanego Markiem.\nW Antiochii, w tamtejszym Kościele, byli prorokami i nauczycielami: Barnaba i Szymon, zwany Niger, Lucjusz Cyrenejczyk i Manaen, który wychowywał się razem z Herodem tetrarchą, i Szaweł.\nGdy odprawiali publiczne nabożeństwo i pościli, rzekł Duch Święty: «Wyznaczcie Mi już Barnabę i Szawła do dzieła, do którego ich powołałem». Wtedy odprawiwszy post i modlitwę oraz nałożywszy na nich ręce, wyprawili ich.\nA oni wysłani przez Ducha Świętego zeszli do Seleucji, a stamtąd odpłynęli na Cypr. Gdy przybyli do Salaminy, głosili słowo Boże w synagogach żydowskich.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 67 (66), 2-3. 4-5. 6 i 8 (R.: por. 4)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Niech wszystkie ludy sławią Ciebie, Boże.\nNiech Bóg się zmiłuje nad nami i nam błogosławi; *\nniech nam ukaże pogodne oblicze.\nAby na ziemi znano Jego drogę, *\nJego zbawienie wśród wszystkich narodów.\nRefren.\nNiech Ciebie, Boże, wysławiają ludy, *\nniech wszystkie narody oddają Ci chwałę.\nNiech się narody cieszą i weselą, †\nbo rządzisz ludami sprawiedliwie *\ni kierujesz narodami na ziemi.\nRefren.\nNiech Ciebie, Boże, wysławiają ludy, *\nniech wszystkie narody oddają Ci chwałę.\nNiech nam Bóg błogosławi *\ni niech cześć Mu oddają wszystkie krańce ziemi.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 8, 12",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ja jestem światłością świata,\nkto idzie za Mną, będzie miał światło życia."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 12, 44-50",
+      "opis": "Przyszedłem, aby świat zbawić",
+      "tekst": "Jezus tak wołał: «Ten, kto we Mnie wierzy, wierzy nie we Mnie, lecz w Tego, który Mnie posłał. A kto Mnie widzi, widzi Tego, który Mnie posłał.\nJa przyszedłem na świat jako światłość, aby nikt, kto we Mnie wierzy, nie pozostawał w ciemności. A jeżeli ktoś słyszy słowa moje, ale ich nie zachowuje, to Ja go nie potępię. Nie przyszedłem bowiem po to, aby świat potępić, ale by świat zbawić.\nKto Mną gardzi i nie przyjmuje słów moich, ten ma swego sędziego: słowo, które wygłosiłem, ono to będzie go sądzić w dniu ostatecznym. Nie mówiłem bowiem sam od siebie, ale Ojciec, który Mnie posłał, On Mi nakazał, co mam powiedzieć i oznajmić. A wiem, że przykazanie Jego jest życiem wiecznym. To, co mówię, mówię tak, jak Mi Ojciec powiedział».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta wzywa do głoszenia zbawienia i chwały Pana wśród wszystkich narodów, co jest tematem psalmu i misji Pawła i Barnaby.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Nawiązuje do posłania Pawła i Barnaby przez Ducha Świętego, aby głosili słowo Boże.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Jezus, Światłość świata, w Eucharystii daje nam pokarm, który jest życiem wiecznym, o którym mówi Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Jest to hymn uwielbienia dla Chrystusa, który przyszedł na świat jako światłość, aby go zbawić.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Pieśń mówi o przyjściu światła, co jest centralnym motywem Ewangelii: \"Ja przyszedłem na świat jako światłość\".",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa jest fundamentem Dobrej Nowiny, którą głosili Paweł i Barnaba.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Głosi królewską chwałę Chrystusa, którego słowo szerzyło się i rosło dzięki posłudze apostołów.",
+      "moment": "ogolne"
+    }
+  ]
+}

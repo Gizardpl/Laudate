@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413328.Piatek-V-tygodnia-wielkanocnego",
+  "tytul_dnia": "5 Piątek Wielkanocny",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 15, 22-31",
+      "opis": "Dekret Soboru Jerozolimskiego",
+      "tekst": "Po naradzie w Jerozolimie apostołowie i starsi wraz z całym Kościołem postanowili wybrać ludzi przodujących wśród braci: Judę, zwanego Barsabą, i Sylasa i wysłać do Antiochii razem z Barnabą i Pawłem. Posłali przez nich pismo tej treści:\n«Apostołowie i starsi bracia przesyłają pozdrowienie braciom pogańskiego pochodzenia w Antiochii, w Syrii i w Cylicji. Ponieważ dowiedzieliśmy się, że niektórzy bez naszego upoważnienia wyszli od nas i zaniepokoili was naukami, siejąc zamęt w waszych duszach, postanowiliśmy jednomyślnie wybrać mężów i wysłać razem z naszymi drogimi: Barnabą i Pawłem, którzy dla imienia Pana naszego, Jezusa Chrystusa, poświęcili swe życie. Wysyłamy więc Judę i Sylasa, którzy oznajmią wam ustnie to samo.\nPostanowiliśmy bowiem, Duch Święty i my, nie nakładać na was żadnego ciężaru oprócz tego, co konieczne. Powstrzymajcie się od ofiar składanych bożkom, od krwi, od tego, co uduszone, i od nierządu. Dobrze uczynicie, jeżeli powstrzymacie się od tego. Bywajcie zdrowi!»\nWysłannicy przybyli więc do Antiochii i zwoławszy lud, oddali list. Gdy został odczytany, uradowali się jego pocieszającą treścią.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 57 (56), 8 i 10. 11-12 (R.: por. 10a)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Będę Cię, Panie, chwalił wśród narodów.\nSerce moje jest mocne, Boże, †\nmocne jest moje serce, *\nzaśpiewam psalm i zagram.\nBędę Cię chwalił wśród ludów, Panie, *\nzaśpiewam Ci psalm wśród narodów.\nRefren.\nTwoja łaska sięga aż do nieba, *\na wierność Twoja po chmury.\nWznieś się, Boże, ponad niebiosa, *\nnad całą ziemią Twoja chwała.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 15, 15b",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nazwałem was przyjaciółmi,\nalbowiem oznajmiłem wam wszystko, co usłyszałem od Ojca mego."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 15, 12-17",
+      "opis": "To wam przykazuję, abyście się wzajemnie miłowali",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«To jest moje przykazanie, abyście się wzajemnie miłowali, tak jak Ja was umiłowałem. Nikt nie ma większej miłości od tej, gdy ktoś życie swoje oddaje za przyjaciół swoich.\nWy jesteście przyjaciółmi moimi, jeżeli czynicie to, co wam przykazuję. Już was nie nazywam sługami, bo sługa nie wie, co czyni jego pan, ale nazwałem was przyjaciółmi, albowiem oznajmiłem wam wszystko, co usłyszałem od Ojca mego.\nNie wy Mnie wybraliście, ale Ja was wybrałem i przeznaczyłem was na to, abyście szli i owoc przynosili, i by owoc wasz trwał – aby Ojciec dał wam wszystko, o cokolwiek Go poprosicie w imię moje. ».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Refren tej pieśni jest dosłownym cytatem z dzisiejszej Ewangelii, w której Jezus daje uczniom przykazanie miłości.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Nawiązuje do przykazania miłości, które jest fundamentem życia wspólnoty Kościoła, o której mówią Dzieje Apostolskie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Podkreśla jedność Kościoła, budowaną na miłości wzajemnej, której uczy Jezus i którą starali się zachować apostołowie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń uwielbienia, która jest odpowiedzią na pocieszającą treść listu apostołów, która uradowała wiernych w Antiochii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jezus wybrał i przeznaczył apostołów, aby szli i przynosili owoc, co jest istotą ich misji.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "183",
+      "piesn": "Nadzieja nasza w Zmartwychwstałym",
+      "opis": "Wiara w Zmartwychwstałego jest źródłem miłości i jedności, które budują Kościół.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Prawda o Zmartwychwstaniu jest fundamentem, na którym opiera się przykazanie miłości i misja Kościoła.",
+      "moment": "ogolne"
+    }
+  ]
+}
