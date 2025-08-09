@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413125.Czwartek-II-tygodnia-wielkanocnego",
-  "tytul_dnia": "Czwartek II tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413125.Czwartek-II-tygodnia-wielkanocnego",
+  "tytul_dnia": "2 Czwartek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 3, 31-36",
       "opis": "Kto wierzy w Syna, ma życie wieczne",
       "tekst": "Kto przychodzi z wysoka, panuje nad wszystkim, a kto z ziemi pochodzi, należy do ziemi i po ziemsku przemawia. Kto z nieba przychodzi, Ten jest ponad wszystkim. Świadczy On o tym, co widział i słyszał, a świadectwa Jego nikt nie przyjmuje. Kto przyjął Jego świadectwo, wyraźnie potwierdził, że Bóg jest prawdomówny. Ten bowiem, kogo Bóg posłał, mówi słowa Boże: a bez miary udziela mu Ducha. Ojciec miłuje Syna i wszystko oddał w Jego ręce. Kto wierzy w Syna, ma życie wieczne; kto zaś nie wierzy Synowi, nie ujrzy życia, lecz gniew Boży nad nim wisi. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Pieśń ta jest radosnym świadectwem wiary w Zmartwychwstałego, którą z odwagą głoszą apostołowie w pierwszym czytaniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Utwór podkreśla ofiarę Chrystusa, która jest fundamentem wiary i daje życie wieczne, o czym mówi Ewangelia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Nawiązuje do Ewangelii, podkreślając, że wiara w Syna, który daje siebie za pokarm, prowadzi do życia wiecznego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Ta pieśń o charakterze triumfalnym oddaje moc świadectwa apostołów o zwycięstwie Chrystusa nad śmiercią.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Pieśń głosi królewską chwałę Chrystusa, którego Bóg wywyższył po prawicy, jak świadczy Piotr w Dziejach Apostolskich.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Podkreśla prawdę o Zmartwychwstaniu, która jest centralnym punktem nauczania apostołów i źródłem ich odwagi.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Jest to parafraza psalmu responsoryjnego, wzywająca do doświadczenia dobroci Pana, o której świadczą apostołowie.",
+      "moment": "ogólne"
     }
   ]
 }

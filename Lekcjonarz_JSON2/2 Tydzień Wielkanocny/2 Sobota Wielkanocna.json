@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413136.Sobota-II-tygodnia-wielkanocnego",
-  "tytul_dnia": "Sobota II tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413136.Sobota-II-tygodnia-wielkanocnego",
+  "tytul_dnia": "2 Sobota Wielkanocna",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 6, 16-21",
       "opis": "Jezus chodzi po wodzie",
       "tekst": "Po rozmnożeniu chlebów, o zmierzchu uczniowie Jezusa zeszli nad jezioro i wsiadłszy do łodzi, zaczęli się przeprawiać przez nie do Kafarnaum. Nastały już ciemności, a Jezus jeszcze do nich nie przyszedł; jezioro burzyło się od silnego wichru. Gdy upłynęli około dwudziestu pięciu lub trzydziestu stadiów, ujrzeli Jezusa kroczącego po jeziorze i zbliżającego się do łodzi. I przestraszyli się. On zaś rzekł do nich: «To Ja jestem, nie bójcie się». Chcieli Go zabrać do łodzi, ale łódź znalazła się natychmiast przy brzegu, do którego zdążali. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "189",
+      "piesn": "Pan zmartwychwstał",
+      "opis": "Pieśń ta głosi obecność Zmartwychwstałego Pana pośród swojego ludu, co jest pocieszeniem dla zalęknionych uczniów na jeziorze.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "Nawiązuje do ustanowienia diakonów i kapłanów, którzy przez nałożenie rąk otrzymują moc do służby w Kościele.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "245",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "W Sercu Jezusa, obecnego w Eucharystii, znajdujemy schronienie przed lękiem i burzami życia, o których mówi Ewangelia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa dodaje odwagi, podobnie jak słowa Jezusa do uczniów: \"To Ja jestem, nie bójcie się\".",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Utwór mówi o przejściu z lęku do radości dzięki Zmartwychwstaniu, co jest doświadczeniem uczniów z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "177",
+      "piesn": "Alleluja, żyje Pan",
+      "opis": "Radosna pieśń wielkanocna, która jest wyrazem wiary w żywego Pana, obecnego i działającego w swoim Kościele.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "183",
+      "piesn": "Nadzieja nasza w Zmartwychwstałym",
+      "opis": "Podkreśla, że Zmartwychwstały jest naszą nadzieją, zwłaszcza w chwilach próby i niebezpieczeństwa.",
+      "moment": "ogólne"
     }
   ]
 }

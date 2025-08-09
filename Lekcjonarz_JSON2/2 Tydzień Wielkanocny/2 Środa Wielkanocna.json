@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413122.Sroda-II-tygodnia-wielkanocnego",
-  "tytul_dnia": "Środa II tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413122.Sroda-II-tygodnia-wielkanocnego",
+  "tytul_dnia": "2 Środa Wielkanocna",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 3, 16-21",
       "opis": "Bóg posłał swego Syna, aby świat został zbawiony",
       "tekst": "Jezus powiedział do Nikodema:\n\n«Tak Bóg umiłował świat, że Syna swego Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne. Albowiem Bóg nie posłał swego Syna na świat po to, aby świat potępił, ale po to, by świat został przez Niego zbawiony. Kto wierzy w Niego, nie podlega potępieniu; a kto nie wierzy, już został potępiony, bo nie uwierzył w imię Jednorodzonego Syna Bożego. A sąd polega na tym, że światło przyszło na świat, lecz ludzie bardziej umiłowali ciemność aniżeli światło: bo złe były ich uczynki. Każdy bowiem, kto źle czyni, nienawidzi światła i nie zbliża się do światła, aby jego uczynki nie zostały ujawnione. Kto spełnia wymagania prawdy, zbliża się do światła, aby się okazało, że jego uczynki zostały dokonane w Bogu». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "177",
+      "piesn": "Alleluja, żyje Pan",
+      "opis": "Pieśń ta głosi, że Pan żyje, co jest Dobrą Nowiną, którą apostołowie z odwagą głosili w świątyni po cudownym uwolnieniu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "187",
+      "piesn": "Ofiarujmy chwałę w wierze",
+      "opis": "Słowa o Baranku, który zbawił owce, nawiązują do Ewangelii o Synu posłanym przez Ojca dla zbawienia świata.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Nawiązuje do Ewangelii, podkreślając, że wiara w Syna, który daje siebie za pokarm, prowadzi do życia wiecznego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Pieśń o zwycięstwie życia nad śmiercią jest wyrazem wiary, która prowadzi do zbawienia, o czym mówi Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Utwór ten głosi zwycięstwo Chrystusa, które jest źródłem życia wiecznego dla wierzących i siłą dla apostołów.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Jest to parafraza psalmu responsoryjnego, wzywająca do doświadczenia dobroci Pana, który ratuje z ucisku.",
+      "moment": "ogólne"
+    },
+    {
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Pieśń mówi o przyjściu światła, co jest centralnym motywem Ewangelii: \"światło przyszło na świat\".",
+      "moment": "ogólne"
     }
   ]
 }
