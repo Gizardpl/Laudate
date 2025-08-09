@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413095.Niedziela-Wielkanocna-Zmartwychwstania-Panskiego",
-  "tytul_dnia": "Niedziela Wielkanocna Zmartwychwstania Pańskiego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413095.Niedziela-Wielkanocna-Zmartwychwstania-Panskiego",
+  "tytul_dnia": "Niedziela Zmartwychwstania Pańskiego",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -43,6 +44,43 @@
       "sigla": "J 20, 1-9",
       "opis": "Zamiast powyższej Ewangelii można odczytać Ewangelię z Wigilii Paschalnej. Wieczorem w czasie Mszy można odczytać Ewangelię Łk 24, 13-35 ze środy w oktawie Wielkanocy.",
       "tekst": "Pierwszego dnia po szabacie, wczesnym rankiem, gdy jeszcze było ciemno, Maria Magdalena udała się do grobu i zobaczyła kamień odsunięty od grobu. Pobiegła więc i przybyła do Szymona Piotra oraz do drugiego ucznia, którego Jezus kochał, i rzekła do nich: «Zabrano Pana z grobu i nie wiemy, gdzie Go położono». Wyszedł więc Piotr i ów drugi uczeń i szli do grobu. Biegli obydwaj razem, lecz ów drugi uczeń wyprzedził Piotra i przybył pierwszy do grobu. A kiedy się nachylił, zobaczył leżące płótna, jednakże nie wszedł do środka. Nadszedł potem także Szymon Piotr, idący za nim. Wszedł on do wnętrza grobu i ujrzał leżące płótna oraz chustę, która była na Jego głowie, leżącą nie razem z płótnami, ale oddzielnie zwiniętą w jednym miejscu. Wtedy wszedł do wnętrza także i ów drugi uczeń, który przybył pierwszy do grobu. Ujrzał i uwierzył. Dotąd bowiem nie rozumieli jeszcze Pisma, które mówi, że On ma powstać z martwych. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "186",
+      "piesn": "Niech w święto radosne",
+      "opis": "Jest to tekst obowiązkowej Sekwencji na dzisiejszą uroczystość, co czyni ją idealnym wyborem."
+    },
+    {
+      "numer": "193",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Tradycyjna i radosna pieśń wielkanocna, która doskonale oddaje uroczysty charakter Niedzieli Zmartwychwstania."
+    },
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Pieśń ta, będąca jedną z najstarszych polskich pieśni wielkanocnych, opowiada historię pustego grobu, nawiązując do Ewangelii."
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Utwór podkreśla triumf Chrystusa nad śmiercią, piekłem i szatanem, co jest centralnym przesłaniem dzisiejszej uroczystości."
+    },
+    {
+      "numer": "173",
+      "piesn": "Alleluja! Biją dzwony",
+      "opis": "Wyraża powszechną radość ze Zmartwychwstania Pańskiego, która ogarnia cały świat i każdego wierzącego."
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Refren pieśni jest odpowiedzią na wielkanocne pozdrowienie, co czyni ją szczególnie odpowiednią na ten dzień."
+    },
+    {
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Pieśń ta opowiada o wydarzeniach poranka wielkanocnego, w tym o świadectwie niewiast, co łączy się z postacią Marii Magdaleny z Ewangelii."
     }
   ]
 }

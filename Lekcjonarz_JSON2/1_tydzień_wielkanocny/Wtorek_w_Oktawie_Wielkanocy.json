@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413097.Wtorek-w-Oktawie-Wielkanocy",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413097.Wtorek-w-Oktawie-Wielkanocy",
   "tytul_dnia": "Wtorek w Oktawie Wielkanocy",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,38 @@
       "sigla": "J 20, 11-18",
       "opis": "Ukazanie się Zmartwychwstałego Marii Magdalenie",
       "tekst": "Maria Magdalena stała przed grobem, płacząc. A kiedy tak płakała, nachyliła się do grobu i ujrzała dwóch aniołów w bieli, siedzących tam, gdzie leżało ciało Jezusa – jednego w miejscu głowy, drugiego w miejscu nóg. I rzekli do niej: «Niewiasto, czemu płaczesz?»\n\nOdpowiedziała im: «Zabrano Pana mego i nie wiem, gdzie Go położono». Gdy to powiedziała, odwróciła się i ujrzała stojącego Jezusa, ale nie wiedziała, że to Jezus. Rzekł do niej Jezus: «Niewiasto, czemu płaczesz? Kogo szukasz?»\n\nOna zaś, sądząc, że to jest ogrodnik, powiedziała do Niego: «Panie, jeśli ty Go przeniosłeś, powiedz mi, gdzie Go położyłeś, a ja Go zabiorę». Jezus rzekł do niej: «Mario!» A ona, obróciwszy się, powiedziała do Niego po hebrajsku: «Rabbuni», to znaczy: Mój Nauczycielu! Rzekł do niej Jezus: «Nie zatrzymuj Mnie, jeszcze bowiem nie wstąpiłem do Ojca. Natomiast udaj się do moich braci i powiedz im: „Wstępuję do Ojca mego i Ojca waszego oraz do Boga mego i Boga waszego”». Poszła Maria Magdalena i oznajmiła uczniom: «Widziałam Pana», i co jej powiedział. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "185",
+      "piesn": "Niech w radosne święto",
+      "opis": "Tekst sekwencji wielkanocnej zawiera dialog: \"Powiedz nam Maryjo, coś w drodze widziała?\", co bezpośrednio nawiązuje do świadectwa Marii Magdaleny z Ewangelii."
+    },
+    {
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Piąta zwrotka tej pieśni wprost opisuje ukazanie się Zmartwychwstałego Pana Marii Magdalenie."
+    },
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Pieśń ta, podobnie jak sekwencja, zawiera pytanie skierowane do Marii, co czyni ją szczególnie odpowiednią do dzisiejszej Ewangelii."
+    },
+    {
+      "numer": "196",
+      "piesn": "Złóżcie troski, żałujący",
+      "opis": "Utwór opowiada o nowinie Zmartwychwstania przyniesionej przez niewiasty, co jest głównym tematem perykopy ewangelicznej."
+    },
+    {
+      "numer": "174",
+      "piesn": "Alleluja! Jezus żyje, już",
+      "opis": "Jest to radosna proklamacja faktu Zmartwychwstania, którą Maria Magdalena jako pierwsza ogłosiła apostołom."
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Chociaż jest to pieśń wielkopostna, jej refren o nawróceniu doskonale koresponduje z wezwaniem Piotra z pierwszego czytania: \"Nawróćcie się\"."
     }
   ]
 }

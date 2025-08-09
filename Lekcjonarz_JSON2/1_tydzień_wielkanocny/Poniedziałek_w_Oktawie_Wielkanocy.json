@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413096.Poniedzialek-w-Oktawie-Wielkanocy",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413096.Poniedzialek-w-Oktawie-Wielkanocy",
   "tytul_dnia": "Poniedziałek w Oktawie Wielkanocy",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,38 @@
       "sigla": "Mt 28, 8-15",
       "opis": "W kościołach, które obchodzą uroczystość „Emaus”, można odczytać Ewangelię Łk 24, 13-35 ze środy w oktawie Wielkanocy, s. 312.",
       "tekst": "Gdy anioł przemówił do niewiast, one pośpiesznie oddaliły się od grobu, z bojaźnią i wielką radością, i pobiegły oznajmić to Jego uczniom. A oto Jezus stanął przed nimi, mówiąc: «Witajcie!». One podeszły do Niego, objęły Go za nogi i oddały Mu pokłon. A Jezus rzekł do nich: «Nie bójcie się! Idźcie i oznajmijcie moim braciom: niech udadzą się do Galilei, tam Mnie zobaczą». Gdy one były w drodze, niektórzy ze straży przyszli do miasta i powiadomili arcykapłanów o wszystkim, co zaszło. Ci zebrali się ze starszymi, a po naradzie dali żołnierzom sporo pieniędzy i rzekli: «Rozpowiadajcie tak: Jego uczniowie przyszli w nocy i wykradli Go, gdy spaliśmy. A gdyby to doszło do uszu namiestnika, my z nim pomówimy i wybawimy was z kłopotu». Ci więc wzięli pieniądze i uczynili, jak ich pouczono. I tak rozniosła się ta pogłoska między Żydami, i trwa aż do dnia dzisiejszego. Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "193",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Pieśń wyraża wielką radość, która towarzyszyła niewiastom odchodzącym od grobu, o czym wspomina dzisiejsza Ewangelia."
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Słowa pieśni korespondują z mową św. Piotra, który głosi, że Bóg wskrzesił Jezusa, zerwawszy więzy śmierci."
+    },
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Tekst pieśni wspomina o trzech Maryjach idących do grobu, co tematycznie łączy się z Ewangelią o spotkaniu niewiast ze Zmartwychwstałym."
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Utwór jest proklamacją wiary w Zmartwychwstanie, którą Piotr odważnie głosi w Dziejach Apostolskich."
+    },
+    {
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Pieśń opowiada o wydarzeniach wielkanocnego poranka i jest pieśnią pocieszenia, podobnie jak słowa Jezusa do niewiast: \"Nie bójcie się!\"."
+    },
+    {
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Treść pieśni o zwycięstwie światła nad mrokiem doskonale oddaje charakter okresu wielkanocnego i głosi prawdę o nowym życiu w Chrystusie."
     }
   ]
 }
