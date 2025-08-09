@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/556999.Wtorek-XIX-tydzien-zwykly-rok-II",
+  "tytul_dnia": "19 Wtorek Zwykły rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Ez 2, 8 – 3, 4",
+      "opis": "Wizja księgi",
+      "tekst": "Tak mówi Pan:\n«Ty, synu człowieczy, słuchaj tego, co ci powiem. Nie opieraj się, jak ten lud zbuntowany. Otwórz usta swoje i zjedz, co ci podam».\nPopatrzyłem, a oto wyciągnięta była w moim kierunku ręka, w której był zwój księgi. Rozwinęła go przede mną; był zapisany z jednej i drugiej strony, a opisane w nim były narzekania, wzdychania i biadania.\nA On rzekł do mnie: «Synu człowieczy, zjedz to, co masz przed sobą. Zjedz ten zwój i idź przemawiać do Izraelitów!» Otworzyłem więc usta, a On dał mi zjeść ów zwój, mówiąc do mnie: «Synu człowieczy, nasyć żołądek i napełnij wnętrzności swoje tym zwojem, który ci podałem». Zjadłem go, a w ustach moich był słodki jak miód. Potem rzekł do mnie: «Synu człowieczy, udaj się do domu Izraela i przemawiaj do nich moimi słowami».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 119 (118), 14 i 24. 72 i 103. 111 i 131 (R.: por. 103)",
+      "opis": "",
+      "tekst": "Refren: Nad miód są słodsze Twoje przykazania.\nWięcej się cieszę z drogi wskazanej\nprzez Twe napomnienia *\nniż z wszelkiego bogactwa.\nBo Twe napomnienia są moją rozkoszą, *\nmoimi doradcami Twoje ustawy.\nRefren.\nPrawo ust Twoich jest dla mnie lepsze *\nniż tysiące sztuk złota i srebra.\nJak słodka jest Twoja mowa dla mego podniebienia, *\nponad miód słodsza dla ust moich.\nRefren.\nNapomnienia Twoje są moim dziedzictwem na wieki, *\nbo są radością mojego serca.\nZaczerpnę powietrza otwartymi ustami, *\nbo pragnę Twoich przykazań.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 11, 29ab",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Weźcie na siebie moje jarzmo i uczcie się ode Mnie,\nbo jestem cichy i pokornego serca."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 18, 1-5. 10. 12-14",
+      "opis": "Godność dzieci. Przypowieść o zabłąkanej owcy",
+      "tekst": "Uczniowie przystąpili do Jezusa, pytając: «Kto właściwie jest największy w królestwie niebieskim?»\nOn przywołał dziecko, postawił je przed nimi i rzekł: «Zaprawdę, powiadam wam: Jeśli się nie odmienicie i nie staniecie jak dzieci, nie wejdziecie do królestwa niebieskiego. Kto się więc uniży jak to dziecko, ten jest największy w królestwie niebieskim. A kto by jedno takie dziecko przyjął w imię moje, Mnie przyjmuje. Baczcie, żebyście nie gardzili żadnym z tych małych; albowiem powiadam wam: Aniołowie ich w niebie wpatrują się zawsze w oblicze Ojca mojego, który jest w niebie.\nJak wam się zdaje? Jeśli ktoś posiada sto owiec i zabłąka się jedna z nich, to czy nie zostawi dziewięćdziesięciu dziewięciu na górach i nie pójdzie szukać tej, która się błąka? A jeśli mu się uda ją odnaleźć, zaprawdę, powiadam wam: cieszy się nią bardziej niż dziewięćdziesięciu dziewięciu tymi, które się nie zabłąkały. Tak też nie jest wolą Ojca waszego, który jest w niebie, żeby zginęło nawet jedno z tych małych».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń ta wzywa do przyjęcia postawy dziecka, o której mówi Ewangelia, aby z prostotą i zaufaniem przyjść do Jezusa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "W tej pieśni ofiarujemy siebie, swoje serca, aby stały się 'ciche i pokorne' na wzór Serca Jezusowego z aklamacji.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Pieśń bezpośrednio nawiązuje do przypowieści o Dobrym Pasterzu, który szuka zagubionej owcy i cieszy się z jej odnalezienia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia za Bożą dobroć, która objawia się w przyjmowaniu Słowa Bożego, 'słodszego nad miód', jak mówi psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Po przyjęciu Słowa Bożego jak prorok Ezechiel, jesteśmy posłani, by je głosić i świadczyć o Bożej miłości do 'małych'.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Pieśń ta jest odpowiedzią na pytanie uczniów o to, kto jest największy w królestwie, wskazując na panowanie Chrystusa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Słowo Boże, o którym mówią czytania, jest światłem na naszej drodze, a Jezus jest jego ostatecznym wypełnieniem.",
+      "moment": "ogolne"
+    }
+  ]
+}
