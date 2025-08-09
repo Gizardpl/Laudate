@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413291.Sroda-III-tygodnia-wielkanocnego",
+  "tytul_dnia": "3 Środa Wielkanocna",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 8, 1b-8",
+      "opis": "Ewangelia szerzy się poza Jerozolimą",
+      "tekst": "Po śmierci Szczepana wybuchło wielkie prześladowanie w Kościele jerozolimskim. Wszyscy, z wyjątkiem apostołów, rozproszyli się po okolicach Judei i Samarii. Szczepana zaś pochowali ludzie pobożni z wielkim żalem. A Szaweł niszczył Kościół, wchodząc do domów, porywał mężczyzn i kobiety i wtrącał do więzienia. Ci, którzy się rozproszyli, głosili w drodze słowo. Filip przybył do miasta Samarii i głosił im Chrystusa. Tłumy słuchały z uwagą i skupieniem słów Filipa, ponieważ widziały znaki, które czynił. Z wielu bowiem opętanych wychodziły z donośnym krzykiem duchy nieczyste, wielu też sparaliżowanych i chromych zostało uzdrowionych. Wielka zaś radość zapanowała w tym mieście. Oto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 66 (65), 1b-3a. 4-5. 6-7a (R.: por. 1b)",
+      "opis": "",
+      "tekst": "Z radością sławcie Boga, wszystkie ziemie, *\n\nopiewajcie chwałę Jego imienia,\n\ncześć Mu wspaniałą oddajcie. *\n\nPowiedzcie Bogu: «Jak zadziwiające są Twe dzieła!\nNiechaj Cię wielbi cała ziemia i niechaj śpiewa Tobie, *\n\nniech Twoje imię opiewa».\n\nPrzyjdźcie i patrzcie na dzieła Boga, *\n\nzadziwiających rzeczy dokonał wśród ludzi!\nMorze na suchy ląd zamienił, *\n\npieszo przeszli przez rzekę.\n\nNim się przeto radujmy! *\n\nJego potęga włada na wieki."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. J 6, 40",
+      "opis": "Alleluja, alleluja, alleluja.",
+      "tekst": "Każdy, kto wierzy w Syna Bożego, ma życie wieczne,\n\na Ja go wskrzeszę w dniu ostatecznym."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 6, 35-40",
+      "opis": "Jest wolą Ojca, aby każdy, kto wierzy w Syna, miał życie wieczne",
+      "tekst": "Jezus powiedział do ludu:\n\n«Ja jestem chlebem życia. Kto do Mnie przychodzi, nie będzie łaknął; a kto we Mnie wierzy, nigdy pragnąć nie będzie. Powiedziałem wam jednak: Widzieliście Mnie, a przecież nie wierzycie. Wszystko, co Mi daje Ojciec, do Mnie przyjdzie, a tego, który do Mnie przychodzi, precz nie odrzucę, ponieważ z nieba zstąpiłem nie po to, aby pełnić swoją wolę, ale wolę Tego, który Mnie posłał. Jest wolą Tego, który Mnie posłał, abym nic nie stracił z tego wszystkiego, co Mi dał, ale żebym to wskrzesił w dniu ostatecznym. To bowiem jest wolą Ojca mego, aby każdy, kto widzi Syna i wierzy w Niego, miał życie wieczne. A Ja go wskrzeszę w dniu ostatecznym». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "177",
+      "piesn": "Alleluja, żyje Pan",
+      "opis": "Radosna pieśń wielkanocna, która jest wyrazem wiary w Zmartwychwstałego, głoszonej przez rozproszonych uczniów.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "250",
+      "piesn": "Karmisz, Panie",
+      "opis": "Wyraża wdzięczność za dar Eucharystii, która jest pokarmem na życie wieczne, o czym naucza Jezus w Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Jest to dosłowne powtórzenie słów Jezusa z Ewangelii, objawiającego siebie jako Chleb Życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Jest to zaproszenie do doświadczenia dobroci Pana w Eucharystii, która jest Chlebem dającym życie wieczne.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Działalność misyjna Filipa w Samarii jest przykładem realizacji nakazu misyjnego, do którego wezwany jest cały Kościół.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Chlebem Żywym, który zaspokaja najgłębsze pragnienia ludzkiego serca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa, które jest Dobrą Nowiną głoszoną przez Filipa i źródłem radości w Samarii.",
+      "moment": "ogolne"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411059.III-Niedziela-Zwykla-rok-B",
+  "tytul_dnia": "3 Niedziela Zwykła rok B",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Jon 3, 1-5. 10",
+      "opis": "Nawrócenie Niniwitów",
+      "tekst": "Pan przemówił do Jonasza po raz drugi tymi słowami: «Wstań, idź do Niniwy, wielkiego miasta, i głoś jej upomnienie, które Ja ci zlecam». Jonasz wstał i poszedł do Niniwy, jak powiedział Pan.\nNiniwa była miastem bardzo rozległym – na trzy dni drogi. Począł więc Jonasz iść przez miasto jeden dzień drogi i wołał, i głosił: «Jeszcze czterdzieści dni, a Niniwa zostanie zburzona».\nI uwierzyli mieszkańcy Niniwy Bogu, ogłosili post i przyoblekli się w wory od najstarszego do najmłodszego. Zobaczył Bóg ich czyny, że odwrócili się od złego postępowania. I ulitował się Bóg nad niedolą, którą postanowił na nich sprowadzić, i nie zesłał jej.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 25 (24), 4-5. 6 i 7bc. 8-9 (R.: 4b)",
+      "opis": "",
+      "tekst": "Refren: Naucz mnie chodzić Twoimi ścieżkami.\nDaj mi poznać Twoje drogi, Panie, *\nnaucz mnie chodzić Twoimi ścieżkami.\nProwadź mnie w prawdzie według swych pouczeń, *\nBoże i Zbawco, w Tobie mam nadzieję.\nRefren.\nWspomnij na swoje miłosierdzie, Panie, *\nna swoją miłość, która trwa od wieków.\nTylko o mnie pamiętaj w swoim miłosierdziu *\nze względu na dobroć Twą, Panie.\nRefren.\nDobry jest Pan i łaskawy, *\ndlatego wskazuje drogę grzesznikom.\nPomaga pokornym czynić dobrze, *\nuczy ubogich dróg swoich.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "1 Kor 7, 29-31",
+      "opis": "Przemija postać tego świata",
+      "tekst": "Mówię wam, bracia, czas jest krótki. Trzeba więc, aby ci, którzy mają żony, tak żyli, jakby byli nieżonaci, a ci, którzy płaczą, tak jakby nie płakali, ci zaś, którzy się radują, tak jakby się nie radowali; ci zaś, którzy nabywają, jak gdyby nie posiadali; ci, którzy używają tego świata, tak jakby z niego nie korzystali. Przemija bowiem postać tego świata.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mk 1, 15",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Bliskie jest królestwo Boże.\nNawracajcie się i wierzcie w Ewangelię."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mk 1, 14-20",
+      "opis": "Nawracajcie się i wierzcie w Ewangelię",
+      "tekst": "Gdy Jan został uwięziony, Jezus przyszedł do Galilei i głosił Ewangelię Bożą. Mówił: «Czas się wypełnił i bliskie jest królestwo Boże. !»\nPrzechodząc obok Jeziora Galilejskiego, ujrzał Szymona i brata Szymonowego, Andrzeja, jak zarzucali sieć w jezioro; byli bowiem rybakami. I rzekł do nich Jezus: «Pójdźcie za Mną, a sprawię, że się staniecie rybakami ludzi». A natychmiast, porzuciwszy sieci, poszli za Nim.\nIdąc nieco dalej, ujrzał Jakuba, syna Zebedeusza, i brata jego, Jana, którzy też byli w łodzi i naprawiali sieci. Zaraz ich powołał, a oni, zostawiwszy ojca swego, Zebedeusza, razem z najemnikami w łodzi, poszli za Nim.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Refren pieśni jest dosłownym cytatem z wezwania Jezusa w Ewangelii: \"Nawracajcie się i wierzcie w Ewangelię\".",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Wyraża ofiarowanie Bogu swojego życia w odpowiedzi na powołanie, tak jak uczynili to pierwsi apostołowie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Powołanie uczniów jest zaproszeniem do wspólnoty z Jezusem, której pełnią jest Eucharystia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Jest to pieśń dziękczynna za dar powołania i miłosierdzia, które Bóg okazał Niniwie i okazuje każdemu z nas.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Powołanie pierwszych uczniów jest początkiem misji Kościoła, by głosić Ewangelię nawrócenia wszystkim narodom.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża postawę modlitwy o poznanie Bożych dróg, o co prosi psalmista, a co jest istotą nawrócenia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Jest to wyznanie wiary w Chrystusa, za którym uczniowie poszli, porzucając wszystko, by głosić Ewangelię.",
+      "moment": "ogolne"
+    }
+  ]
+}

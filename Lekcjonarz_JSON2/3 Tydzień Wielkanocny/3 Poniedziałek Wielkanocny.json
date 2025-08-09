@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413288.Poniedzialek-III-tygodnia-wielkanocnego",
+  "tytul_dnia": "3 Poniedziałek Wielkanocny",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 6, 8-15",
+      "opis": "Święty Szczepan przed Sanhedrynem",
+      "tekst": "Szczepan, pełen łaski i mocy, działał cuda i znaki wielkie wśród ludu. Niektórzy zaś z synagogi zwanej synagogą Wyzwoleńców oraz Cyrenejczyków i Aleksandryjczyków, i tych, którzy pochodzili z Cylicji i z Azji, przystąpili do rozprawy ze Szczepanem. Nie mogli jednak sprostać mądrości i Duchowi, z którego natchnienia przemawiał. Podstawili więc ludzi, którzy zeznali: «Słyszeliśmy, jak on wypowiadał bluźnierstwa przeciwko Mojżeszowi i Bogu». W ten sposób podburzyli lud, starszych i uczonych w Piśmie. Przybiegli, porwali go i zaprowadzili przed Sanhedryn. Tam postawili fałszywych świadków, którzy zeznali: «Ten człowiek nie przestaje mówić przeciwko temu świętemu miejscu i przeciwko Prawu. Bo słyszeliśmy, jak mówił, że Jezus Nazarejczyk zburzy to miejsce i pozmienia zwyczaje, które nam Mojżesz przekazał». A wszyscy, którzy zasiadali w Sanhedrynie, przyglądali się mu uważnie i zobaczyli twarz jego, podobną do oblicza anioła. Oto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 119 (118), 23-24. 26-27. 29-30 (R.: por. 1)",
+      "opis": "",
+      "tekst": "Refren: Błogosławieni słuchający Pana.\n\nalbo: Alleluja.\nChociaż zasiadają możni, przeciw mnie spiskując, *\n\nTwój sługa rozmyśla o Twoich ustawach.\n\nBo Twe napomnienia są moją rozkoszą, *\n\nmoimi doradcami Twoje ustawy.\nRefren.\nWyjawiłem Ci moje drogi, a Ty mnie wysłuchałeś, *\n\nnaucz mnie swoich ustaw.\n\nPozwól mi zrozumieć drogę Twych przykazań, *\n\nabym rozważał Twoje cuda.\nRefren.\nPowstrzymaj mnie od drogi kłamstwa, *\n\nobdarz mnie łaską Twojego Prawa.\n\nWybrałem drogę prawdy, *\n\npragnąc Twych wyroków.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 4, 4b",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nie samym chlebem żyje człowiek,\n\nlecz każdym słowem, które pochodzi z ust Bożych."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 6, 22-29",
+      "opis": "Troszczcie się o pokarm, który trwa na wieki",
+      "tekst": "Nazajutrz, po rozmnożeniu chlebów, tłum stojący po drugiej stronie jeziora spostrzegł, że poza jedną łodzią nie było tam żadnej innej oraz że Jezus nie wsiadł do łodzi razem ze swymi uczniami, lecz że Jego uczniowie odpłynęli sami. Tymczasem w pobliże tego miejsca, gdzie spożyto chleb po modlitwie dziękczynnej Pana, przypłynęły od Tyberiady inne łodzie. A kiedy ludzie z tłumu zauważyli, że nie ma tam Jezusa ani Jego uczniów, wsiedli do łodzi, dotarli do Kafarnaum i tam szukali Jezusa. Gdy zaś odnaleźli Go na przeciwległym brzegu, rzekli do Niego: «Rabbi, kiedy tu przybyłeś?» W odpowiedzi rzekł im Jezus: «Zaprawdę, zaprawdę, powiadam wam: Szukacie Mnie nie dlatego, że widzieliście znaki, ale dlatego, że jedliście chleb do syta. Zabiegajcie nie o ten pokarm, który niszczeje, ale o ten, który trwa na życie wieczne, a który da wam Syn Człowieczy; Jego to bowiem pieczęcią swą naznaczył Bóg Ojciec». Oni zaś rzekli do Niego: «Cóż mamy czynić, abyśmy wykonywali dzieła Boga?» Jezus, odpowiadając, rzekł do nich: «Na tym polega dzieło Boga, abyście wierzyli w Tego, którego On posłał». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Pieśń ta nawiązuje do Ewangelii, w której Jezus mówi o pokarmie trwającym na życie wieczne.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "250",
+      "piesn": "Karmisz, Panie",
+      "opis": "Wyraża wdzięczność za dar Eucharystii, która jest pokarmem dającym życie wieczne, o którym naucza Jezus.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Jest to kontynuacja mowy eucharystycznej z Ewangelii, w której Jezus przygotowuje słuchaczy na objawienie siebie jako Chleba Życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Jest to zaproszenie do doświadczenia dobroci Pana w Eucharystii, pokarmie, o który należy zabiegać.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Wiara w Zmartwychwstałego Pana jest dziełem, którego Bóg od nas oczekuje, jak mówi Jezus w Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Chlebem Żywym, który zaspokaja najgłębsze pragnienia ludzkiego serca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "183",
+      "piesn": "Nadzieja nasza w Zmartwychwstałym",
+      "opis": "Wiara w Zmartwychwstałego, o której mówi Jezus, jest źródłem nadziei i siły, jakiej przykład dał św. Szczepan.",
+      "moment": "ogolne"
+    }
+  ]
+}
