@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413364.Piatek-VI-tygodnia-wielkanocnego",
-  "tytul_dnia": "Piątek VI tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413364.Piatek-VI-tygodnia-wielkanocnego",
+  "tytul_dnia": "6 Piątek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 20-23a",
       "opis": "Smutek wasz przemieni się w radość",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Zaprawdę, zaprawdę, powiadam wam: Wy będziecie płakać i zawodzić, a świat się będzie weselił. Wy będziecie się smucić, ale smutek wasz przemieni się w radość.\nKobieta, gdy rodzi, doznaje smutku, bo przyszła jej godzina. Gdy jednak urodzi dziecię, już nie pamięta o bólu – z powodu radości, że się człowiek na świat narodził.\nTakże i wy teraz doznajecie smutku. Znowu jednak was zobaczę, i rozraduje się serce wasze, a radości waszej nikt wam nie zdoła odebrać. W owym zaś dniu o nic nie będziecie Mnie pytać».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Pieśń ta doskonale koresponduje z psalmem, który głosi, że Bóg jest Królem całej ziemi.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "196",
+      "piesn": "Złóżcie troski, żałujący",
+      "opis": "Nawiązuje do słów Ewangelii o przemianie smutku w radość, co jest centralnym przesłaniem wielkanocnym.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Bezpośrednio odnosi się do obietnicy Jezusa o pocieszeniu i radości, która nadejdzie po okresie smutku.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "309",
+      "piesn": "Bóg nad swym ludem",
+      "opis": "Pieśń o zwycięstwie i królowaniu Boga, co jest tematem przewodnim psalmu responsoryjnego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Podkreśla królewską godność Zmartwychwstałego Chrystusa i posyła wiernych, by głosili Jego tryumf.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "176",
+      "piesn": "Alleluja... O dniu radosny",
+      "opis": "Wyraża ogólną radość okresu wielkanocnego, która ma swoje źródło w Zmartwychwstaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Jest to pieśń chwały dla Zmartwychwstałego Pana, który pokonał śmierć i smutek.",
+      "moment": "ogolne"
     }
   ]
 }

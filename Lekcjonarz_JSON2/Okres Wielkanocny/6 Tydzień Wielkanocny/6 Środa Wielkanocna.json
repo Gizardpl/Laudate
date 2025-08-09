@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413360.Sroda-VI-tygodnia-wielkanocnego",
-  "tytul_dnia": "Środa VI tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413360.Sroda-VI-tygodnia-wielkanocnego",
+  "tytul_dnia": "6 Środa Wielkanocna",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 12-15",
       "opis": "Duch Prawdy doprowadzi was do całej prawdy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jeszcze wiele mam wam do powiedzenia, ale teraz znieść nie możecie. Gdy zaś przyjdzie On, Duch Prawdy, doprowadzi was do całej prawdy. Bo nie będzie mówił od siebie, ale powie wszystko, cokolwiek usłyszy, i oznajmi wam rzeczy przyszłe. On Mnie otoczy chwałą, ponieważ z mojego weźmie i wam objawi.\nWszystko, co ma Ojciec, jest moje. Dlatego powiedziałem, że z mojego weźmie i wam objawi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Jest to wezwanie do chwalenia Chrystusa, którego św. Paweł głosił Ateńczykom jako zmartwychwstałego Pana.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń ta jest modlitwą do Ducha Świętego, obiecanego w Ewangelii jako Tego, który doprowadzi do całej prawdy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "275",
+      "piesn": "To Ty, o Panie, Chlebie nasz",
+      "opis": "Pieśń eucharystyczna, która podkreśla, że Chrystus jest Prawdą i Życiem, co jest istotą nauczania Ducha Świętego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Sekwencja do Ducha Świętego, która w pełni oddaje treść Ewangelii o Jego przyjściu i działaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Wysyła wiernych, aby głosili światu Zmartwychwstałego Pana, tak jak czynił to św. Paweł na Areopagu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Pieśń ta jest echem psalmu, wzywającego całe stworzenie do chwalenia Boga, Stwórcy nieba i ziemi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Jest to prosta i bezpośrednia modlitwa do Ducha Świętego, o którego przyjście i dary prosimy.",
+      "moment": "ogolne"
     }
   ]
 }

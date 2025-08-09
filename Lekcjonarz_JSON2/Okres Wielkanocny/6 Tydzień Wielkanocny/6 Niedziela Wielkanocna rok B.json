@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413352.VI-Niedziela-Wielkanocna-rok-B",
-  "tytul_dnia": "VI Niedziela Wielkanocna rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413352.VI-Niedziela-Wielkanocna-rok-B",
+  "tytul_dnia": "6 Niedziela Wielkanocna rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -18,7 +19,7 @@
       "typ": "DRUGIE CZYTANIE",
       "sigla": "1 J 4, 7-10",
       "opis": "Bóg jest miłością",
-      "tekst": "Umiłowani, miłujmy się wzajemnie, ponieważ miłość jest z Boga, a każdy, kto miłuje, narodził się z Boga i zna Boga. Kto nie miłuje, nie zna Boga, bo .\nW tym objawiła się miłość Boga ku nam, że zesłał Syna swego Jednorodzonego na świat, abyśmy życie mieli dzięki Niemu.\nW tym przejawia się miłość, że nie my umiłowaliśmy Boga, ale że On sam nas umiłował i posłał Syna swojego jako ofiarę przebłagalną za nasze grzechy.\nOto słowo Boże."
+      "tekst": "Umiłowani, miłujmy się wzajemnie, ponieważ miłość jest z Boga, a każdy, kto miłuje, narodził się z Boga i zna Boga. Kto nie miłuje, nie zna Boga, bo Bóg jest miłością.\nW tym objawiła się miłość Boga ku nam, że zesłał Syna swego Jednorodzonego na świat, abyśmy życie mieli dzięki Niemu.\nW tym przejawia się miłość, że nie my umiłowaliśmy Boga, ale że On sam nas umiłował i posłał Syna swojego jako ofiarę przebłagalną za nasze grzechy.\nOto słowo Boże."
     },
     {
       "typ": "AKLAMACJA",
@@ -31,6 +32,56 @@
       "sigla": "J 15, 9-17",
       "opis": "Przykazanie miłości",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jak Mnie umiłował Ojciec, tak i Ja was umiłowałem. Trwajcie w miłości mojej! Jeśli będziecie zachowywać moje przykazania, będziecie trwać w miłości mojej, tak jak Ja zachowałem przykazania Ojca mego i trwam w Jego miłości.\nTo wam powiedziałem, aby radość moja w was była i aby radość wasza była pełna.\nTo jest moje przykazanie, abyście się wzajemnie miłowali, tak jak Ja was umiłowałem. Nikt nie ma większej miłości od tej, gdy ktoś życie swoje oddaje za przyjaciół swoich.\nWy jesteście przyjaciółmi moimi, jeżeli czynicie to, co wam przykazuję. Już was nie nazywam sługami, bo sługa nie wie, co czyni jego pan, ale nazwałem was przyjaciółmi, albowiem oznajmiłem wam wszystko, co usłyszałem od Ojca mego.\nNie wy Mnie wybraliście, ale Ja was wybrałem i przeznaczyłem was na to, abyście szli i owoc przynosili, i by owoc wasz trwał – aby Ojciec dał wam wszystko, o cokolwiek Go poprosicie w imię moje. To wam przykazuję, abyście się wzajemnie miłowali».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Radosna pieśń wielkanocna, która podkreśla uniwersalizm zbawienia, o którym mowa w pierwszym czytaniu i psalmie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń ta jest doskonałym komentarzem do drugiego czytania i Ewangelii, które mówią o miłości jako istocie chrześcijaństwa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Jest to niemal dosłowne powtórzenie centralnego przesłania z Ewangelii o przykazaniu miłości.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "760",
+      "piesn": "Bóg jest miłością",
+      "opis": "Prosta w formie pieśń, która streszcza główną myśl drugiego czytania z Listu św. Jana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń ta podkreśla godność ludu Bożego, wybranego przez Chrystusa, by iść i przynosić owoc miłości.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Klasyczna pieśń wielkanocna, która wyraża radość z bycia przyjaciółmi Chrystusa, jak mówi Ewangelia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "208",
+      "piesn": "Pragnę miłością Twą",
+      "opis": "Jest to osobista modlitwa o napełnienie serca miłością Bożą, do której wzywają czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Kanon z Taizé, który w medytacyjny sposób powtarza prawdę, że tam, gdzie jest miłość, tam jest Bóg.",
+      "moment": "ogolne"
     }
   ]
 }

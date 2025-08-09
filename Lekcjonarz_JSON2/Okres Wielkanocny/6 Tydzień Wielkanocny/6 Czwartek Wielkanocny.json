@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413363.Czwartek-VI-tygodnia-wielkanocnego",
-  "tytul_dnia": "Czwartek VI tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413363.Czwartek-VI-tygodnia-wielkanocnego",
+  "tytul_dnia": "6 Czwartek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 16-20",
       "opis": "Smutek wasz przemieni się w radość",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jeszcze chwila, a nie będziecie Mnie widzieć, i znowu chwila, a ujrzycie Mnie».\nWówczas niektórzy z Jego uczniów mówili między sobą: «Cóż to znaczy, co nam mówi: „Chwila, a nie będziecie Mnie widzieć, i znowu chwila, a ujrzycie Mnie”; oraz: „Idę do Ojca”?» Mówili więc: «Cóż znaczy ta chwila, o której mówi? Nie rozumiemy tego, co powiada».\nJezus poznał, że chcieli Go pytać, i rzekł do nich: «Pytacie się jeden drugiego o to, że powiedziałem: „Chwila, a nie będziecie Mnie widzieć, i znowu chwila, a ujrzycie Mnie?” Zaprawdę, zaprawdę, powiadam wam: Wy będziecie płakać i zawodzić, a świat się będzie weselił. Wy będziecie się smucić, ale smutek wasz przemieni się w radość».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "193",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Ta radosna pieśń wielkanocna doskonale oddaje obietnicę z Ewangelii, że smutek przemieni się w radość.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń odzwierciedla misyjną działalność św. Pawła opisaną w pierwszym czytaniu, który głosił Ewangelię Żydom i poganom.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "181",
+      "piesn": "Już Zbawiciel, Jezus żyje",
+      "opis": "Nawiązuje do obietnicy Jezusa o ponownym zobaczeniu Go, co jest źródłem radości wielkanocnej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "177",
+      "piesn": "Alleluja, żyje Pan",
+      "opis": "Jest to dynamiczny hymn uwielbienia, który pasuje do radosnego charakteru Okresu Wielkanocnego i psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń podkreśla triumf Chrystusa, który jest fundamentem misji Kościoła i radości wierzących.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Jest to uniwersalna pieśń wielkanocna, która dobrze wpisuje się w tematykę radości i zbawienia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "189",
+      "piesn": "Pan zmartwychwstał",
+      "opis": "Głosi centralną prawdę okresu wielkanocnego, która jest źródłem radości obiecanej w Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }

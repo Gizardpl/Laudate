@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413331.VI-Niedziela-Wielkanocna-rok-A",
-  "tytul_dnia": "VI Niedziela Wielkanocna rok A",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413331.VI-Niedziela-Wielkanocna-rok-A",
+  "tytul_dnia": "6 Niedziela Wielkanocna rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,56 @@
       "sigla": "J 14, 15-21",
       "opis": "Będę prosił Ojca, a da wam Ducha Prawdy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jeżeli Mnie miłujecie, będziecie zachowywać moje przykazania. Ja zaś będę prosił Ojca, a innego Parakleta da wam, aby z wami był na zawsze – Ducha Prawdy, którego świat przyjąć nie może, ponieważ Go nie widzi ani nie zna. Ale wy Go znacie, ponieważ u was przebywa i w was będzie.\nNie zostawię was sierotami. Przyjdę do was. Jeszcze chwila, a świat nie będzie już Mnie widział. Ale wy Mnie widzicie; ponieważ Ja żyję i wy żyć będziecie. W owym dniu poznacie, że Ja jestem w Ojcu moim, a wy we Mnie i Ja w was.\nKto ma przykazania moje i je zachowuje, ten Mnie miłuje. Kto zaś Mnie miłuje, ten będzie umiłowany przez Ojca mego, a również Ja będę go miłował i objawię mu siebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Pieśń ta, choć związana z Zesłaniem Ducha Świętego, idealnie pasuje do tematu otrzymania Ducha w Samarii z pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Jest to modlitwa o przyjście Ducha Świętego, obiecanego przez Jezusa w Ewangelii jako Paraklet i Duch Prawdy.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Sekwencja na Zesłanie Ducha Świętego doskonale oddaje treść Ewangelii o obietnicy Ducha, który będzie przebywał w wierzących.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń ta jest echem psalmu responsoryjnego, wzywającego całą ziemię do radosnego chwalenia Boga za Jego dzieła.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Potężny hymn wielkanocny posyła wiernych, umocnionych obietnicą Ducha, by świadczyli o Zmartwychwstałym.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Jest to modlitwa o dary Ducha Świętego, które są niezbędne do zachowywania przykazań i dawania świadectwa, o czym mówią czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "173",
+      "piesn": "Alleluja! Biją dzwony",
+      "opis": "Klasyczna, radosna pieśń wielkanocna, która wyraża radość zapanowującą w Samarii po przyjęciu słowa Bożego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Kolejny klasyczny hymn do Ducha Świętego, pasujący do głównego tematu liturgii słowa.",
+      "moment": "ogolne"
     }
   ]
 }

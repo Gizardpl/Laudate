@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413365.Sobota-VI-tygodnia-wielkanocnego",
-  "tytul_dnia": "Sobota VI tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413365.Sobota-VI-tygodnia-wielkanocnego",
+  "tytul_dnia": "6 Sobota Wielkanocna",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 23b-28",
       "opis": "Opuszczam świat i idę do Ojca",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Zaprawdę, zaprawdę, powiadam wam: O cokolwiek prosilibyście Ojca, da wam w imię moje. Do tej pory o nic nie prosiliście w imię moje: proście, a otrzymacie, aby radość wasza była pełna.\nMówiłem wam o tych sprawach w przypowieściach. Nadchodzi godzina, kiedy już nie będę wam mówił w przypowieściach, ale całkiem otwarcie oznajmię wam o Ojcu. W owym dniu będziecie prosić w imię moje, i nie mówię wam, że Ja będę musiał prosić Ojca za wami. Albowiem Ojciec sam was miłuje, bo wy Mnie umiłowaliście i uwierzyliście, że wyszedłem od Boga.\nWyszedłem od Ojca i przyszedłem na świat; znowu opuszczam świat i idę do Ojca».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "189",
+      "piesn": "Pan zmartwychwstał",
+      "opis": "Jest to radosna pieśń na wejście, która wprowadza w atmosferę wielkanocną i przygotowuje do słuchania o obietnicy pełnej radości.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "697",
+      "piesn": "Składamy Ci, Ojcze",
+      "opis": "Pieśń ta jest prostą modlitwą ofiarną, która dobrze pasuje do słów Ewangelii o proszeniu Ojca w imię Jezusa.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Podkreśla radość płynącą z Uczty Pańskiej, która jest zapowiedzią pełnej radości obiecanej w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "193",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Wyraża radość ze Zmartwychwstania, która jest podstawą obietnicy Jezusa, że radość uczniów będzie pełna.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "318",
+      "piesn": "O Chryste Królu",
+      "opis": "Nawiązuje do psalmu, który głosi królowanie Boga nad całą ziemią, i posyła wiernych do życia pod Jego panowaniem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Jest to narracyjna pieśń wielkanocna, która przypomina fundamenty wiary głoszonej przez Apollosa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń dziękczynna, która jest odpowiedzią na dar modlitwy w imię Jezusa, o którym mówi Ewangelia.",
+      "moment": "ogolne"
     }
   ]
 }

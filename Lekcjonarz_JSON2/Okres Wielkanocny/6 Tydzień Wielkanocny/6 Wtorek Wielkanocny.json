@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/413359.Wtorek-VI-tygodnia-wielkanocnego",
-  "tytul_dnia": "Wtorek VI tygodnia wielkanocnego",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413359.Wtorek-VI-tygodnia-wielkanocnego",
+  "tytul_dnia": "6 Wtorek Wielkanocny",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,50 @@
       "sigla": "J 16, 5-11",
       "opis": "Jeżeli nie odejdę, Paraklet nie przyjdzie do was",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Teraz idę do Tego, który Mnie posłał, a nikt z was nie pyta Mnie: „Dokąd idziesz?” Ale ponieważ to wam powiedziałem, smutek napełnił wam serce. Jednakże mówię wam prawdę: Pożyteczne jest dla was moje odejście. Bo jeżeli nie odejdę, Paraklet nie przyjdzie do was. A jeżeli odejdę, to poślę Go do was.\nOn zaś, gdy przyjdzie, przekona świat o grzechu, o sprawiedliwości i o sądzie. O grzechu – bo nie wierzą we Mnie; o sprawiedliwości zaś – bo idę do Ojca i już Mnie nie ujrzycie; wreszcie o sądzie – bo władca tego świata został osądzony».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "179",
+      "piesn": "Chrystus zmartwychwstał jest",
+      "opis": "Ta narracyjna pieśń wielkanocna dobrze oddaje atmosferę Bożego działania i mocy, ukazanej w cudownym uwolnieniu Pawła i Sylasa.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wyraża głębokie zaufanie Bogu, które było udziałem apostołów w więzieniu i które prowadzi do zbawienia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "184",
+      "piesn": "Nie zna śmierci Pan żywota",
+      "opis": "Pieśń ta celebruje zwycięstwo Chrystusa nad śmiercią, co jest fundamentem wiary i zbawienia, o które pytał strażnik więzienia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Jest to pieśń chwały za zwycięstwo Chrystusa, które daje apostołom siłę do śpiewania hymnów Bogu nawet w więzieniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Pieśń ta zapowiada Zesłanie Ducha Świętego, Parakleta, o którym Jezus mówi w dzisiejszej Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Jest to bezpośrednia modlitwa do Ducha Świętego, którego przyjście i działanie zapowiada Jezus w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "769",
+      "piesn": "Pan jest mocą",
+      "opis": "Oddaje treść psalmu responsoryjnego i doświadczenie apostołów, dla których Pan był mocą i wybawieniem.",
+      "moment": "ogolne"
     }
   ]
 }
