@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/2988255.Uroczystosc-Zeslania-Ducha-Swietego-rok-B",
   "tytul_dnia": "Uroczystość Zesłania Ducha Świętego rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -11,7 +12,7 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 104 (103), 1ab i 24ac. 29b-30. 31 i 34 (R.: por. 30)",
-      "opis": " (albo: Alleluja)",
+      "opis": "(albo: Alleluja)",
       "tekst": "Refren: Niech zstąpi Duch Twój i odnowi ziemię.\nBłogosław, duszo moja, Pana, *\nBoże mój, Panie, Ty jesteś bardzo wielki!\nJak liczne są dzieła Twoje, Panie, *\nziemia jest pełna Twoich stworzeń.\nRefren.\nKiedy odbierasz im oddech, marnieją *\ni w proch się obracają.\nStwarzasz je, napełniając swym Duchem, *\ni odnawiasz oblicze ziemi.\nRefren.\nNiech chwała Pana trwa na wieki, *\nniech Pan się raduje z dzieł swoich.\nNiech miła Mu będzie pieśń moja, *\nbędę radował się w Panu.\nRefren."
     },
     {
@@ -37,6 +38,56 @@
       "sigla": "J 15, 26-27; 16, 12-15",
       "opis": "Duch Prawdy doprowadzi was do całej prawdy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Gdy przyjdzie Paraklet, którego Ja wam poślę od Ojca, Duch Prawdy, który od Ojca pochodzi, On zaświadczy o Mnie. Ale wy też świadczycie, bo jesteście ze Mną od początku.\nJeszcze wiele mam wam do powiedzenia, ale teraz znieść nie możecie. Gdy zaś przyjdzie On, Duch Prawdy, doprowadzi was do całej prawdy. Bo nie będzie mówił od siebie, ale powie wszystko, cokolwiek usłyszy, i oznajmi wam rzeczy przyszłe. On Mnie otoczy chwałą, ponieważ z mojego weźmie i wam objawi. Wszystko, co ma Ojciec, jest moje. Dlatego powiedziałem, że z mojego weźmie i wam objawi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Pieśń ta wprost opisuje wydarzenia Zesłania Ducha Świętego, doskonale korespondując z pierwszym czytaniem z Dziejów Apostolskich.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Prośba o oczyszczenie i rozpalenie miłości Bożej nawiązuje do drugiego czytania, które przeciwstawia uczynki ciała owocom Ducha.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "773",
+      "piesn": "Ubi caritas et amor",
+      "opis": "Miłość jest pierwszym i najważniejszym owocem Ducha Świętego, o którym mowa w Liście do Galatów, co czyni tę pieśń idealną na Komunię.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "766",
+      "piesn": "Laudate omnes gentes",
+      "opis": "Wezwanie do wszystkich narodów, aby chwaliły Pana, odzwierciedla uniwersalizm wydarzenia Pięćdziesiątnicy opisanego w Dziejach Apostolskich.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń podkreśla misyjny wymiar Zesłania Ducha Świętego i posłania uczniów, aby świadczyli o Chrystusie, co jest tematem Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Klasyczny hymn do Ducha Świętego (Veni Creator Spiritus), który prosi o Jego dary i światło, pasuje do każdego momentu liturgii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Jest to tekst Sekwencji z dzisiejszej Mszy, kluczowy dla zrozumienia tajemnicy dnia i darów Ducha Świętego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Pieśń-modlitwa o siedem darów Ducha Świętego, o których owoce mówi drugie czytanie, doskonale pasuje do tematyki dnia.",
+      "moment": "ogolne"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/413542.Uroczystosc-Zeslania-Ducha-Swietego-rok-A",
   "tytul_dnia": "Uroczystość Zesłania Ducha Świętego rok A",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -11,7 +12,7 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 104 (103), 1ab i 24ac. 29b-30. 31 i 34 (R.: por. 30)",
-      "opis": " (albo: Alleluja)",
+      "opis": "(albo: Alleluja)",
       "tekst": "Refren: Niech zstąpi Duch Twój i odnowi ziemię.\nBłogosław, duszo moja, Pana, *\nBoże mój, Panie, Ty jesteś bardzo wielki!\nJak liczne są dzieła Twoje, Panie, *\nziemia jest pełna Twoich stworzeń.\nRefren.\nKiedy odbierasz im oddech, marnieją *\ni w proch się obracają.\nStwarzasz je, napełniając swym Duchem, *\ni odnawiasz oblicze ziemi.\nRefren.\nNiech chwała Pana trwa na wieki, *\nniech Pan się raduje z dzieł swoich.\nNiech miła Mu będzie pieśń moja, *\nbędę radował się w Panu.\nRefren."
     },
     {
@@ -36,7 +37,57 @@
       "typ": "EWANGELIA",
       "sigla": "J 20, 19-23",
       "opis": "Weźmijcie Ducha Świętego",
-      "tekst": "Wieczorem w dniu zmartwychwstania, tam gdzie przebywali uczniowie, choć drzwi były zamknięte z obawy przed Żydami, przyszedł Jezus, stanął pośrodku i rzekł do nich: «Pokój wam!» A to powiedziawszy, pokazał im ręce i bok. Uradowali się zatem uczniowie, ujrzawszy Pana.\nA Jezus znowu rzekł do nich: «Pokój wam! Jak Ojciec Mnie posłał, tak i Ja was posyłam». Po tych słowach tchnął na nich i powiedział im: «! Którym odpuścicie grzechy, są im odpuszczone, a którym zatrzymacie, są im zatrzymane».\nOto słowo Pańskie."
+      "tekst": "Wieczorem w dniu zmartwychwstania, tam gdzie przebywali uczniowie, choć drzwi były zamknięte z obawy przed Żydami, przyszedł Jezus, stanął pośrodku i rzekł do nich: «Pokój wam!» A to powiedziawszy, pokazał im ręce i bok. Uradowali się zatem uczniowie, ujrzawszy Pana.\nA Jezus znowu rzekł do nich: «Pokój wam! Jak Ojciec Mnie posłał, tak i Ja was posyłam». Po tych słowach tchnął na nich i powiedział im: «Weźmijcie Ducha Świętego! Którym odpuścicie grzechy, są im odpuszczone, a którym zatrzymacie, są im zatrzymane».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Ten starożytny hymn jest uroczystą prośbą do Ducha Stworzyciela o nawiedzenie i napełnienie serc wiernych, co idealnie rozpoczyna liturgię Zesłania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Pieśń prosi o siedmiorakie dary Ducha, co łączy się z drugim czytaniem, mówiącym o różnych darach łaski dla wspólnego dobra.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "221",
+      "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
+      "opis": "Jest to osobiste wezwanie Ducha Świętego, którego Jezus tchnął na apostołów w Ewangelii, aby zamieszkał w sercu wierzącego.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Uroczysty hymn dziękczynny 'Te Deum' jest odpowiedni na zakończenie okresu wielkanocnego, wielbiąc Boga za dar Ducha Świętego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Tekst tej pieśni opowiada o wydarzeniu Pięćdziesiątnicy, nawiązując do Dziejów Apostolskich i posłania uczniów z Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Pieśń ta jest muzyczną wersją Sekwencji, która stanowi serce liturgii słowa w tym dniu, wyjaśniając działanie Ducha Świętego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Nawiązuje do Ducha Świętego jako źródła życia, który odnawia oblicze ziemi, co jest myślą przewodnią psalmu responsoryjnego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń podkreśla charakter Kościoła, który narodził się w dniu Pięćdziesiątnicy jako zjednoczony lud Boży, o czym mówi drugie czytanie.",
+      "moment": "ogolne"
     }
   ]
 }

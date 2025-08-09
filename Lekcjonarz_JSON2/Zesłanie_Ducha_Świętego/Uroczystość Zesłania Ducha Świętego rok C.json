@@ -1,6 +1,7 @@
 {
   "url": "https://liturgia.wiara.pl/doc/2988293.Uroczystosc-Zeslania-Ducha-Swietego-rok-C",
   "tytul_dnia": "Uroczystość Zesłania Ducha Świętego rok C",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -11,7 +12,7 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 104 (103), 1ab i 24ac. 29b-30. 31 i 34 (R.: por. 30)",
-      "opis": " (albo: Alleluja)",
+      "opis": "(albo: Alleluja)",
       "tekst": "Refren: Niech zstąpi Duch Twój i odnowi ziemię.\nBłogosław, duszo moja, Pana, *\nBoże mój, Panie, Ty jesteś bardzo wielki!\nJak liczne są dzieła Twoje, Panie, *\nziemia jest pełna Twoich stworzeń.\nRefren.\nKiedy odbierasz im oddech, marnieją *\ni w proch się obracają.\nStwarzasz je, napełniając swym Duchem, *\ni odnawiasz oblicze ziemi.\nRefren.\nNiech chwała Pana trwa na wieki, *\nniech Pan się raduje z dzieł swoich.\nNiech miła Mu będzie pieśń moja, *\nbędę radował się w Panu.\nRefren."
     },
     {
@@ -37,6 +38,56 @@
       "sigla": "J 14, 15-16. 23b-26",
       "opis": "Duch Święty was wszystkiego nauczy",
       "tekst": "Jezus powiedział do swoich uczniów:\n«Jeżeli Mnie miłujecie, będziecie zachowywać moje przykazania. Ja zaś będę prosił Ojca, a innego Parakleta da wam, aby z wami był na zawsze.\nJeśli Mnie kto miłuje, będzie zachowywał moją naukę, a Ojciec mój umiłuje go i przyjdziemy do niego, i mieszkanie u niego uczynimy. Kto nie miłuje Mnie, ten nie zachowuje słów moich. A nauka, którą słyszycie, nie jest moja, ale Tego, który Mnie posłał, Ojca.\nTo wam powiedziałem, przebywając wśród was. A Paraklet, Duch Święty, którego Ojciec pośle w moim imieniu, On was wszystkiego nauczy i przypomni wam wszystko, co Ja wam powiedziałem».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "To uroczyste wezwanie Ducha Stworzyciela, aby napełnił serca wiernych, jest idealnym rozpoczęciem liturgii Zesłania Ducha Świętego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń nawiązuje do Ducha Świętego jako źródła życia, co koresponduje z drugim czytaniem, mówiącym o życiu według Ducha.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "221",
+      "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
+      "opis": "Osobista prośba o napełnienie miłością i mądrością Ducha Świętego, który zgodnie z Ewangelią wszystkiego nas nauczy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "227",
+      "piesn": "Chwała Ojcu i Synowi",
+      "opis": "Zesłanie Ducha Świętego jest objawieniem Trójcy Świętej, dlatego doksologia jest odpowiednią pieśnią na uwielbienie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Pieśń wprost opisuje wydarzenia z Dziejów Apostolskich, przypominając o darach Ducha Świętego i posłaniu apostołów na cały świat.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
+      "opis": "Jest to śpiewana wersja Sekwencji, kluczowego tekstu liturgicznego tego dnia, proszącego o dary Ducha Świętego.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "216",
+      "piesn": "Duchu Święty, przyjdź, prosimy",
+      "opis": "Prosta i bezpośrednia prośba o obecność i dary Ducha Świętego, która wpisuje się w każdy moment celebracji tej uroczystości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "770",
+      "piesn": "Spiritus Iesu Christi",
+      "opis": "Medytacyjna pieśń z Taizé, która prosi Ducha Chrystusa o umocnienie serca, co rezonuje z obietnicą Parakleta z Ewangelii.",
+      "moment": "ogolne"
     }
   ]
 }
