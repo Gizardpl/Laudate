@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412873.Czwartek-I-tygodnia-Wielkiego-Postu",
-  "tytul_dnia": "Czwartek I tygodnia Wielkiego Postu",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412873.Czwartek-I-tygodnia-Wielkiego-Postu",
+  "tytul_dnia": "1 Czwartek Wielkiego Postu",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,38 @@
       "sigla": "Mt 7, 7-12",
       "opis": "Kto prosi, otrzymuje",
       "tekst": "Jezus powiedział do swoich uczniów: «Proście, a będzie wam dane; szukajcie, a znajdziecie; kołaczcie, a otworzą wam. Albowiem każdy, kto prosi, otrzymuje; kto szuka, znajduje; a kołaczącemu otworzą. Gdy któregoś z was syn prosi o chleb, czy jest taki, który poda mu kamień? Albo gdy prosi o rybę, czy poda mu węża? Jeśli więc wy, choć źli jesteście, umiecie dawać dobre dary swoim dzieciom, to o ileż bardziej Ojciec wasz, który jest w niebie, da to, co dobre, tym, którzy Go proszą. Wszystko więc, co chcielibyście, żeby wam ludzie czynili, i wy im czyńcie. Albowiem to jest istota Prawa i Proroków». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "115",
+      "piesn": "Wysłuchaj, Panie",
+      "opis": "Pieśń ta jest modlitwą błagalną, która idealnie oddaje ducha modlitwy królowej Estery i nauki Jezusa o proszeniu Ojca."
+    },
+    {
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Tekst pieśni jest prostą i ufną prośbą skierowaną do Boga, co jest głównym tematem wszystkich dzisiejszych czytań."
+    },
+    {
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Refren \"Serce me do Ciebie wznoszę, Panie, szukam Cię!\" doskonale koresponduje z zachętą Jezusa: \"szukajcie, a znajdziecie\"."
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Utwór podkreśla zaufanie do Boga, które jest podstawą modlitwy, ukazanej zarówno w postawie Estery, jak i w nauczaniu Chrystusa."
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Nawiązuje do aklamacji przed Ewangelią, która jest fragmentem Psalmu 51, prosząc o czyste serce i odnowę ducha."
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wyraża postawę nawrócenia i powrotu do miłosiernego Ojca, który wysłuchuje próśb swoich dzieci, o czym zapewnia Ewangelia."
     }
   ]
 }

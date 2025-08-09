@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412864.I-Niedziela-Wielkiego-Postu-rok-B",
-  "tytul_dnia": "I Niedziela Wielkiego Postu rok B",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412864.I-Niedziela-Wielkiego-Postu-rok-B",
+  "tytul_dnia": "1 Niedziela Wielkiego Postu rok B",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -31,6 +32,43 @@
       "sigla": "Mk 1, 12-15",
       "opis": "Jezus był kuszony przez Szatana, aniołowie zaś Mu usługiwali",
       "tekst": "Duch wyprowadził Jezusa na pustynię. A przebywał na pustyni czterdzieści dni, kuszony przez Szatana, i był ze zwierzętami, aniołowie zaś Mu służyli. Gdy Jan został uwięziony, Jezus przyszedł do Galilei i głosił Ewangelię Bożą. Mówił: «Czas się wypełnił i bliskie jest królestwo Boże. Nawracajcie się i wierzcie w Ewangelię!» Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Refren tej pieśni jest dosłownym cytatem z końcowych słów Ewangelii: \"nawracajmy się i wierzmy w Ewangelię\"."
+    },
+    {
+      "numer": "103",
+      "piesn": "Dałeś nam przykład",
+      "opis": "Pieśń ta odnosi się do czterdziestodniowego pobytu Jezusa na pustyni, co jest głównym tematem Ewangelii."
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Jest to bezpośrednia odpowiedź na wezwanie Jezusa z Ewangelii do nawrócenia i pokuty."
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Hymn ten, prosząc o miłosierdzie, nawiązuje do wierności Boga i Jego przymierza, o którym mowa w pierwszym czytaniu."
+    },
+    {
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna, która dobrze oddaje ducha Wielkiego Postu i prośbę o miłosierdzie obecną w psalmie."
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Wyraża postawę pokuty i błagania, do której wzywa nas okres Wielkiego Postu, zainaugurowany przez Jezusa na pustyni."
+    },
+    {
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
+      "opis": "Krótka, lecz wymowna suplikacja, która jest sercem wielkopostnej modlitwy o przebaczenie i nawrócenie."
     }
   ]
 }

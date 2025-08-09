@@ -1,6 +1,7 @@
 {
-  "url": "https://liturgia.wiara.pl/doc/412878.Sobota-I-tygodnia-Wielkiego-Postu",
-  "tytul_dnia": "Sobota I tygodnia Wielkiego Postu",
+  "urlCzytania": "https://liturgia.wiara.pl/doc/412878.Sobota-I-tygodnia-Wielkiego-Postu",
+  "tytul_dnia": "1 Sobota Wielkiego Postu",
+  "czy_datowany": false,
   "czytania": [
     {
       "typ": "PIERWSZE CZYTANIE",
@@ -25,6 +26,38 @@
       "sigla": "Mt 5, 43-48",
       "opis": "Bądźcie doskonali, jak doskonały jest Ojciec wasz niebieski",
       "tekst": "Jezus powiedział do swoich uczniów:\n\n«Słyszeliście, że powiedziano: „Będziesz miłował swego bliźniego”, a nieprzyjaciela swego będziesz nienawidził. A Ja wam powiadam: Miłujcie waszych nieprzyjaciół i módlcie się za tych, którzy was prześladują, abyście się stali synami Ojca waszego, który jest w niebie; ponieważ On sprawia, że słońce Jego wschodzi nad złymi i nad dobrymi, i On zsyła deszcz na sprawiedliwych i niesprawiedliwych. Jeśli bowiem miłujecie tych, którzy was miłują, cóż za nagrodę mieć będziecie? Czyż i celnicy tego nie czynią? I jeśli pozdrawiacie tylko swych braci, cóż szczególnego czynicie? Czyż i poganie tego nie czynią? Bądźcie więc wy doskonali, jak doskonały jest Ojciec wasz niebieski». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń o przykazaniu miłości jest kluczowa w kontekście Ewangelii, która radykalnie rozszerza to przykazanie na nieprzyjaciół."
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Tekst o czynieniu pokoju i miłosierdziu doskonale rezonuje z Ewangelią o miłości nieprzyjaciół jako drodze do doskonałości."
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Wezwanie do cierpliwości i wybaczania sobie nawzajem jest praktycznym zastosowaniem miłości nieprzyjaciół, do której wzywa Jezus."
+    },
+    {
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń o Bożej dobroci, która jest wzorem dla naszej doskonałości, o której mówi Jezus: \"jak doskonały jest Ojciec wasz niebieski\"."
+    },
+    {
+      "numer": "99",
+      "piesn": "Boże, coś przyrzekł",
+      "opis": "Pieśń o odnowieniu serca jest dobrym tłem dla wezwania do doskonałości, która zaczyna się od wewnętrznej przemiany."
+    },
+    {
+      "numer": "118",
+      "piesn": "Zmiłuj się Stwórco",
+      "opis": "Prośba o łaskę do przemiany życia jest niezbędna, aby móc sprostać wysokim wymaganiom Ewangelii o miłości nieprzyjaciół."
     }
   ]
 }
