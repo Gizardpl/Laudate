@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413289.Wtorek-III-tygodnia-wielkanocnego",
+  "tytul_dnia": "3 Wtorek Okresu Wielkanocnego",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 7, 51 - 8, 1a",
+      "opis": "Męczeństwo Świętego Szczepana",
+      "tekst": "Szczepan mówił do ludu i starszych, i uczonych: «Ludzie twardego karku i opornych serc i uszu! Wy zawsze sprzeciwiacie się Duchowi Świętemu. Jak ojcowie wasi, tak i wy. Któregoż z proroków nie prześladowali wasi ojcowie? Pozabijali nawet tych, którzy przepowiadali przyjście Sprawiedliwego. A wy zdradziliście Go teraz i zamordowaliście. Wy, którzy otrzymaliście Prawo za pośrednictwem aniołów, lecz nie przestrzegaliście go». Gdy to usłyszeli, zawrzały gniewem ich serca i zgrzytali zębami na niego. A on, pełen Ducha Świętego, patrzył w niebo i ujrzał chwałę Bożą i Jezusa, stojącego po prawicy Boga. I rzekł: «Widzę niebo otwarte i Syna Człowieczego, stojącego po prawicy Boga». A oni podnieśli wielki krzyk, zatkali sobie uszy i rzucili się na niego wszyscy razem. Wyrzucili go poza miasto i kamienowali, a świadkowie złożyli swe szaty u stóp młodzieńca, zwanego Szawłem. Tak kamienowali Szczepana, który modlił się: «Panie Jezu, przyjmij ducha mego!» A gdy osunął się na kolana, zawołał głośno: «Panie, nie licz im tego grzechu!» Po tych słowach skonał. Szaweł zaś zgadzał się na zabicie Szczepana. Oto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 31 (30), 3c-4. 6 i 7b i 8a. 17 i 21ab (R.: por. 6a)",
+      "opis": "",
+      "tekst": "Refren: W ręce Twe, Panie, składam ducha mego.\n\nalbo: Alleluja.\nBądź dla mnie skałą schronienia, *\n\nwarownią, która ocala.\n\nTy bowiem jesteś moją skałą i twierdzą, *\n\nkieruj mną i prowadź przez wzgląd na swe imię.\nRefren.\nW ręce Twoje powierzam ducha mego, *\n\nTy mnie odkupisz, Panie, wierny Boże.\n\nJa zaś pokładam ufność w Panu. *\n\nWeselę się i cieszę Twoim miłosierdziem.\nRefren.\nNiech Twoje oblicze zajaśnieje nad Twym sługą, *\n\nwybaw mnie w swoim miłosierdziu.\n\nOsłaniasz ich Twą obecnością *\n\nod spisku mężów.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 6, 35ab",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ja jestem chlebem życia.\n\nKto do Mnie przychodzi, nie będzie łaknął."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 6, 30-35",
+      "opis": "Ja jestem chlebem życia",
+      "tekst": "W Kafarnaum lud powiedział do Jezusa: «Jaki więc Ty uczynisz znak, abyśmy go zobaczyli i Tobie uwierzyli? Cóż zdziałasz? Ojcowie nasi jedli mannę na pustyni, jak napisano: „Dał im do jedzenia chleb z nieba”». Rzekł do nich Jezus: «Zaprawdę, zaprawdę, powiadam wam: Nie Mojżesz dał wam chleb z nieba, ale dopiero Ojciec mój daje wam prawdziwy chleb z nieba. Albowiem chlebem Bożym jest Ten, który z nieba zstępuje i życie daje światu». Rzekli więc do Niego: «Panie, dawaj nam zawsze ten chleb!» Odpowiedział im Jezus: «Ja jestem chlebem życia. Kto do Mnie przychodzi, nie będzie łaknął; a kto we Mnie wierzy, nigdy pragnąć nie będzie». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Pieśń ta głosi prawdę o Zmartwychwstaniu, która była fundamentem wiary i męstwa św. Szczepana.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "250",
+      "piesn": "Karmisz, Panie",
+      "opis": "Wyraża wdzięczność za dar Eucharystii, która jest prawdziwym Chlebem z nieba, o którym naucza Jezus.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Jest to dosłowne powtórzenie słów Jezusa z Ewangelii, objawiającego siebie jako Chleb Życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Jest to zaproszenie do doświadczenia dobroci Pana w Eucharystii, która jest Chlebem dającym życie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Wiara w zwycięstwo Chrystusa nad śmiercią dała Szczepanowi siłę do męczeństwa i modlitwy za prześladowców.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Chlebem Żywym, o którym mówi Ewangelia i o który prosił lud: \"Panie, dawaj nam zawsze ten chleb!\".",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "571",
+      "piesn": "W otwartych niebiosach",
+      "opis": "Pieśń ta bezpośrednio opowiada o męczeństwie św. Szczepana, który widział otwarte niebo i Syna Człowieczego.",
+      "moment": "ogolne"
+    }
+  ]
+}

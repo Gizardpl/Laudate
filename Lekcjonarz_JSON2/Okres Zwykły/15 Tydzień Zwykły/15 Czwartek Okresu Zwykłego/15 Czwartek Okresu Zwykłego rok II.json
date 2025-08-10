@@ -30,21 +30,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "494",
+      "numer": "618",
       "piesn": "Pójdź do Jezusa",
       "opis": "Pieśń jest bezpośrednią odpowiedzią na wezwanie Jezusa z Ewangelii i aklamacji: 'Przyjdźcie do Mnie wszyscy'.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
+      "numer": "96",
       "piesn": "Bądź mi litościw",
       "opis": "Wobec doświadczenia ucisku, o którym mówią czytania, ta pieśń jest prośbą o Boże miłosierdzie i pokój.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
+      "numer": "264",
       "piesn": "Panie, dobry jak chleb",
-      "opis": "Jezus, który daje pokrzepienie utrudzonym, ofiaruje się nam w Eucharystii jako pokarm i źródło ukojenia.",
+      "opis": "Jezus, który daje pokrzepienie utrudzonym, ofiarowuje się nam w Eucharystii jako pokarm i źródło ukojenia.",
       "moment": "komunia"
     },
     {
@@ -54,21 +54,21 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Pieśń jest aktem zawierzenia Jezusowi, który jest naszą nadzieją i pokrzepieniem w trudnościach.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "350",
-      "piesn": "Najświętsze Serce Boże",
-      "opis": "Nawiązuje do słów Jezusa 'uczcie się ode Mnie, bo jestem cichy i pokornego serca'.",
+      "numer": "287",
+      "piesn": "Jezu dobry i cichy",
+      "opis": "Pieśń nawiązuje do słów Jezusa 'uczcie się ode Mnie, bo jestem cichy i pokornego serca'.",
       "moment": "ogolne"
     },
     {
-      "numer": "391",
+      "numer": "305",
       "piesn": "Z tej biednej ziemi",
-      "opis": "Wyraża tęsknotę za Bogiem i nadzieję na zmartwychwstanie, o której z wiarą mówi prorok Izajasz.",
+      "opis": "Pieśń wyraża tęsknotę za Bogiem i nadzieję na zmartwychwstanie, o której z wiarą mówi prorok Izajasz.",
       "moment": "ogolne"
     }
   ]

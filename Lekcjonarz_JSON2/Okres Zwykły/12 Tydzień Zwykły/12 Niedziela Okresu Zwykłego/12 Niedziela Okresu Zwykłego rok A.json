@@ -38,37 +38,31 @@
     {
       "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Pieśń doskonale oddaje przesłanie Ewangelii o Bożej opiece i wezwanie, by nie lękać się ludzi.",
+      "opis": "Pieśń doskonale oddaje przesłanie Ewangelii o Bożej opiece i wezwanie proroka Jeremiasza, by nie lękać się prześladowców.",
       "moment": "wejscie"
     },
     {
       "numer": "632",
       "piesn": "Wszystko Tobie oddać pragnę",
-      "opis": "Wyraża całkowite powierzenie się Bogu, co jest odpowiedzią na wezwanie Jezusa do odważnego wyznawania wiary.",
+      "opis": "Pieśń wyraża całkowite powierzenie się Bogu, co jest odpowiedzią na wezwanie Jezusa do odważnego wyznawania wiary przed ludźmi.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "264",
       "piesn": "Panie, dobry jak chleb",
-      "opis": "Komunia Święta umacnia nas do dawania świadectwa, o którym mowa w Ewangelii i aklamacji.",
+      "opis": "Komunia Święta umacnia nas do dawania świadectwa i przezwyciężania lęku, o czym mowa w Ewangelii i aklamacji.",
       "moment": "komunia"
     },
     {
-      "numer": "699",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Pieśń wyraża wiarę w moc Chrystusa, która jest źródłem siły do przezwyciężania lęku i dawania świadectwa.",
-      "moment": "komunia"
-    },
-    {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
       "opis": "Potężny hymn chwały na cześć Boga, który jest „potężnym mocarzem” i ratuje ubogich, jak słyszymy w pierwszym czytaniu.",
       "moment": "uwielbienie"
     },
     {
       "numer": "639",
       "piesn": "Nie rzucim, Chryste",
-      "opis": "Jest to pieśń-manifest wiary, która doskonale pasuje na zakończenie Mszy, wzywając do publicznego przyznania się do Chrystusa.",
+      "opis": "Pieśń-manifest wiary, która doskonale pasuje na zakończenie Mszy, wzywając do publicznego przyznania się do Chrystusa.",
       "moment": "rozeslanie"
     },
     {

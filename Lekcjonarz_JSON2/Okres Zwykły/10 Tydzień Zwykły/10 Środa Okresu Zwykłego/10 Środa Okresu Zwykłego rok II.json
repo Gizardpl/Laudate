@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru jedynego Boga, co jest głównym tematem wydarzeń na górze Karmel.",
+      "opis": "Pieśń jest mocną deklaracją wyboru jedynego Boga, co stanowi centralny temat czytania o proroku Eliaszu na górze Karmel.",
       "moment": "wejscie"
     },
     {
-      "numer": "157",
-      "piesn": "Boże, w ofierze",
-      "opis": "Ofiara Eliasza, przyjęta przez Boga, jest zapowiedzią doskonałej ofiary Chrystusa, którą uobecniamy na ołtarzu.",
+      "numer": "691",
+      "piesn": "Z pokorą upadamy",
+      "opis": "Ofiara Eliasza, przyjęta przez Boga ogniem z nieba, jest zapowiedzią doskonałej ofiary Chrystusa, którą składamy w pokorze.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory i wiary w jedynego Boga, której owocem jest wierność Jego Prawu.",
+      "numer": "247",
+      "piesn": "Jezusa ukrytego",
+      "opis": "W Komunii Świętej adorujemy jedynego, prawdziwego Boga, w przeciwieństwie do fałszywych bożków, których odrzucił lud na Karmelu.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Lud na górze Karmel oddał chwałę Bogu. Ten hymn jest naszym włączeniem się w to uwielbienie.",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Lud na górze Karmel oddał chwałę potędze Boga; ten hymn jest naszym włączeniem się w to potężne uwielbienie.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "408",
-      "piesn": "Com przyrzekł Bogu",
-      "opis": "Wierność Prawu Bożemu, które Chrystus wypełnił, jest odpowiedzią na Boże objawienie i naszą drogą do świętości.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by uczyć wypełniania przykazań i głosić, że 'Pan jest Bogiem', jak to uczynił prorok Eliasz.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Psalm responsoryjny mówi o zaufaniu Bogu. Ta pieśń jest wyrazem tego zaufania w przeciwieństwie do wiary w bożki.",
+      "opis": "Psalm responsoryjny jest wyznaniem zaufania jedynemu Bogu, a ta pieśń jest jego pięknym rozwinięciem.",
       "moment": "ogolne"
     },
     {
-      "numer": "425",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Jesteśmy posłani, by uczyć wypełniać przykazania i głosić, że 'Pan jest Bogiem', jak to uczynił Eliasz.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Wierność Prawu Bożemu, które Chrystus wypełnił, jest konsekwencją wyboru jedynego Boga i odrzucenia bożków.",
       "moment": "ogolne"
     }
   ]

@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "506",
-      "piesn": "Wysławiajcie Pana",
-      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Boga za Jego wielkie dzieła, co jest głównym tematem psalmu i pierwszego czytania.",
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Boga za Jego wielkie dzieła, co jest głównym tematem psalmu i pierwszego czytania o wyjściu z Egiptu.",
       "moment": "wejscie"
     },
     {
-      "numer": "119",
+      "numer": "102",
       "piesn": "Boże, w dobroci",
-      "opis": "Pieśń dziękczynna za łaskę wyzwolenia, o której opowiada historia wyjścia z Egiptu.",
+      "opis": "Pieśń dziękczynna za łaskę wyzwolenia, o której opowiada historia wyjścia z Egiptu i którą wspomina psalmista.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "350",
+      "numer": "291",
       "piesn": "Najświętsze Serce Boże",
-      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę Pańskiego. Ta pieśń jest aktem czci dla Jego Serca.",
+      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę Pańskiego, a ta pieśń jest aktem czci dla Jego Serca.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest uwielbieniem Boga za Jego potęgę i miłosierdzie, objawione w dziele wyzwolenia Izraela.",
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Hymn ten jest uwielbieniem Boga za Jego potęgę i miłosierdzie, objawione w dziele wyzwolenia Izraela z niewoli.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Jezus, Sługa Pański, jest naszym Królem, który prowadzi nas do prawdziwej wolności, tak jak Mojżesz prowadził Izraela.",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Jezus, cichy Sługa Pański, jest naszym Królem, który prowadzi nas do prawdziwej wolności, tak jak Mojżesz prowadził Izraela.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Pieśń o opiece Bożej dobrze oddaje ducha czuwania w noc paschalną, opisaną w pierwszym czytaniu.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
-      "opis": "Wobec knowań faryzeuszy, postawa Jezusa jest wzorem zaufania Bogu. Ta pieśń jest wyrazem naszego zawierzenia.",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
+      "opis": "Wobec knowań faryzeuszy, postawa Jezusa jest wzorem zaufania Bogu, a ta pieśń jest wyrazem naszego zawierzenia.",
       "moment": "ogolne"
     }
   ]

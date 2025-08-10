@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426646.Sroda-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Środa Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Oz 10, 1-3. 7-8. 12",
+      "opis": "Nadszedł czas, by szukać Pana",
+      "tekst": "Izrael był jak dorodny krzew winny, przynoszący wiele owoców; lecz gdy owoc jego się mnożył, wzrastała liczba ołtarzy; im większy dobrobyt w kraju, tym wspanialsze budowano stele. Ich serce jest obłudne, muszą pokutować!\nOn ich ołtarze zburzy i stele powywraca. Powiedzą wtedy: «My nie mamy króla, bo nie baliśmy się Pana - zresztą, cóż nam król pomoże?»\nSamaria upadnie, a król jej będzie jak odłamany konar na powierzchni wody. Zniszczone będą wyżyny Awen - grzech Izraela. Ciernie i osty wyrosną na ich ołtarzach.\nWtedy powiedzą górom: «Przykryjcie nas!», a wzgórzom: «Padnijcie na nas!»\nPosiejcie sobie sprawiedliwość, a zbierzecie miłość; wykarczujcie sobie karczowiska. To czas szukania Pana, aż przyjdzie i ześle wam sprawiedliwość.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 105 (104), 2-3. 4-5. 6-7 (R.: por. 4b)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Zawsze szukajcie Bożego oblicza.\nŚpiewajcie i grajcie Mu psalmy, *\nrozsławiajcie wszystkie Jego cuda.\nSzczyćcie się Jego świętym imieniem, *\nniech się weseli serce szukających Pana.\nRefren.\nRozmyślajcie o Panu i Jego potędze, *\nzawsze szukajcie Jego oblicza.\nPamiętajcie o cudach, które On uczynił, *\no Jego znakach, o wyrokach ust Jego.\nRefren.\nPotomkowie Abrahama, słudzy Jego, *\nsynowie Jakuba, Jego wybrańcy.\nOn, Pan, jest naszym Bogiem, *\nJego wyroki obejmują świat cały.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mk 1, 15",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Bliskie jest królestwo Boże.\nNawracajcie się i wierzcie w Ewangelię."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 10, 1-7",
+      "opis": "Rozesłanie Dwunastu",
+      "tekst": "Jezus przywołał do siebie dwunastu swoich uczniów i udzielił im władzy nad duchami nieczystymi, aby je wypędzali i leczyli wszystkie choroby i wszelkie słabości.\nA oto imiona dwunastu apostołów: pierwszy - Szymon, zwany Piotrem, i brat jego Andrzej, potem Jakub, syn Zebedeusza, i brat jego Jan, Filip i Bartłomiej, Tomasz i celnik Mateusz, Jakub, syn Alfeusza, i Tadeusz, Szymon Gorliwy i Judasz Iskariota, ten, który Go zdradził.\nTych to Dwunastu wysłał Jezus i dał im takie wskazania: «Nie idźcie do pogan i nie wstępujcie do żadnego miasta samarytańskiego. Idźcie raczej do owiec, które poginęły z domu Izraela. Idźcie i głoście: Bliskie już jest królestwo niebieskie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń bezpośrednio nawiązuje do Ewangelii, w której Jezus powołuje i wysyła Dwunastu do głoszenia Królestwa Bożego.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec grzechu obłudy serca, o którym mówi prorok Ozeasz, ta pieśń jest aktem skruchy i prośbą o sprawiedliwość.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Powołanie Apostołów, zwykłych ludzi, do wielkich dzieł, uświadamia nam naszą małość i potrzebę łaski Bożej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wypełnienie wezwania psalmisty, by zawsze szukać Bożego oblicza i rozmyślać o Jego potędze.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Apostołowie są posłani, by głosić Królestwo Chrystusa. Ta pieśń jest wyznaniem Jego królewskiej władzy i naszego posłuszeństwa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Pierwsze czytanie i psalm zachęcają do szukania Pana. Ta pieśń jest wyrazem tego właśnie pragnienia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Prośba o czyste serce, które nie będzie obłudne, ale gotowe, by siać sprawiedliwość i zbierać miłość.",
+      "moment": "ogolne"
+    }
+  ]
+}

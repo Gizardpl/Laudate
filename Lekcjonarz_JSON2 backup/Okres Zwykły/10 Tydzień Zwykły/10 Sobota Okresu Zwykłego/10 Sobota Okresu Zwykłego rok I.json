@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417009.Sobota-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "2 Kor 5, 14-21",
+      "opis": "Pojednanie z Bogiem w Chrystusie",
+      "tekst": "Bracia:\nMiłość Chrystusa przynagla nas, pomnych na to, że skoro Jeden umarł za wszystkich, to wszyscy pomarli. A właśnie za wszystkich umarł Chrystus po to, aby ci, co żyją, już nie żyli dla siebie, lecz dla Tego, który za nich umarł i zmartwychwstał.\nTak więc i my odtąd już nikogo nie znamy według ciała; a jeśli nawet według ciała poznaliśmy Chrystusa, to już więcej nie znamy Go w ten sposób. Jeżeli więc ktoś pozostaje w Chrystusie, jest nowym stworzeniem. To, co dawne, minęło, a oto wszystko stało się nowe. Wszystko zaś to pochodzi od Boga, który pojednał nas z sobą przez Chrystusa i zlecił nam posługę jednania. Albowiem w Chrystusie Bóg jednał z sobą świat, nie poczytując ludziom ich grzechów, nam zaś przekazując słowo jednania. Tak więc w imieniu Chrystusa spełniamy posłannictwo jakby Boga samego, który przez nas udziela napomnień.\nW imię Chrystusa prosimy: pojednajcie się z Bogiem! On to dla nas grzechem uczynił Tego, który nie znał grzechu, abyśmy się stali w Nim sprawiedliwością Bożą.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 103 (102), 1b-2. 3-4. 8-9. 11-12 (R.: por. 8a)",
+      "opis": "",
+      "tekst": "Refren: Pan jest łaskawy, pełen miłosierdzia.\nBłogosław, duszo moja, Pana, *\ni wszystko, co jest we mnie, święte imię Jego.\nBłogosław, duszo moja, Pana *\ni nie zapominaj o wszystkich Jego dobrodziejstwach.\nRefren.\nOn odpuszcza wszystkie twoje winy *\ni leczy wszystkie choroby.\nOn twoje życie ratuje od zguby, *\nobdarza cię łaską i zmiłowaniem.\nRefren.\nMiłosierny jest Pan i łaskawy, *\nnieskory do gniewu i bardzo cierpliwy.\nNie zapamiętuje się w sporze, *\nnie płonie gniewem na wieki.\nRefren.\nBo jak wysoko niebo wznosi się nad ziemią, *\ntak wielka jest łaska Pana dla Jego czcicieli.\nJak odległy jest wschód od zachodu, *\ntak daleko odsuwa od nas nasze winy.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Ps 119 (118), 36a. 29b",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nakłoń me serce do Twoich napomnień,\nobdarz mnie łaską Twojego Prawa."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 5, 33-37",
+      "opis": "Zakaz przysięgania",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Słyszeliście, że powiedziano przodkom: „Nie będziesz fałszywie przysięgał, lecz dotrzymasz Panu swej przysięgi”. A Ja wam powiadam: Wcale nie przysięgajcie - ani na niebo, bo jest tronem Boga; ani na ziemię, bo jest podnóżkiem stóp Jego; ani na Jerozolimę, bo jest miastem wielkiego Króla. Ani na swoją głowę nie przysięgaj, bo nawet jednego włosa nie możesz uczynić białym albo czarnym.\nNiech wasza mowa będzie: Tak, tak; nie, nie. A co nadto jest, od Złego pochodzi».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń jest parafrazą psalmu 103, który jest psalmem responsoryjnym tego dnia i sławi Boże miłosierdzie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Wobec wezwania do prawdomówności, ta pieśń jest odnowieniem przyrzeczeń wierności Bogu, które wymagają życia w prawdzie.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Jeden chleb",
+      "opis": "Pierwsze czytanie mówi o pojednaniu w Chrystusie. Eucharystia jest sakramentem jedności i pojednania.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "515",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Jest to pieśń dziękczynna za dar pojednania, który otrzymaliśmy przez Chrystusa, jak głosi św. Paweł.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pojednanie z Bogiem owocuje miłością braterską, która wyraża się w szczerości i prawdomówności.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń jest prośbą o miłosierdzie, które jest źródłem pojednania z Bogiem i ludźmi.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nowe stworzenie w Chrystusie, o którym mówi pierwsze czytanie, jest wezwaniem do jedności w prawdzie i miłości.",
+      "moment": "ogolne"
+    }
+  ]
+}

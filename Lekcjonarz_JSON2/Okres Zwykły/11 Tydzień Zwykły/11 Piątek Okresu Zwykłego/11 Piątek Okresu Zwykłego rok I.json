@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Wobec licznych niebezpieczeństw, które św. Paweł wymienia, ta pieśń jest wyrazem ufności w Bożą opiekę i ocalenie.",
+      "opis": "Wobec licznych niebezpieczeństw i słabości, które wymienia św. Paweł, pieśń ta jest wyrazem bezgranicznej ufności w Bożą opiekę.",
       "moment": "wejscie"
     },
     {
-      "numer": "409",
-      "piesn": "Cóż Ci, Jezu, damy",
-      "opis": "W odpowiedzi na wezwanie do gromadzenia skarbów w niebie, ta pieśń jest aktem ofiarowania Bogu wszystkiego, co posiadamy.",
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na wezwanie do gromadzenia skarbów w niebie, ta pieśń jest aktem ofiarowania Bogu serca jako największego skarbu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "240",
-      "piesn": "Panie, Tyś nam droższy",
-      "opis": "Pieśń ta doskonale oddaje sens Ewangelii, podkreślając, że prawdziwym skarbem jest Chrystus, a nie dobra materialne.",
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń wyraża postawę człowieka, który uznaje swoją słabość i odnajduje swój jedyny skarb w Eucharystii.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalmista, wysłuchuje wołania biedaka i uwalnia go od ucisku.",
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, w którym psalmista chlubi się Panem, który go wysłuchał i uwolnił od ucisku.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru skarbu w niebie, o którym mówi Jezus, ponad wszystkie wartości ziemskie.",
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Zakończenie liturgii jest posłaniem, by w codziennym życiu nasze serca były tam, gdzie jest nasz skarb - blisko Boga.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "391",
-      "piesn": "Z tej biednej ziemi",
-      "opis": "Nawiązuje do motywu gromadzenia skarbów w niebie, które jest naszą prawdziwą ojczyzną.",
+      "numer": "109",
+      "piesn": "Pan Jezus grzechy nasze",
+      "opis": "Nawiązuje do słów św. Pawła o noszeniu w ciele konania Jezusa, aby objawiło się w nas Jego życie.",
       "moment": "ogolne"
     },
     {
-      "numer": "353",
-      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
-      "opis": "Św. Paweł chlubi się ze swoich słabości i cierpień dla Chrystusa. Ta pieśń jest uwielbieniem krzyża, który jest źródłem tej mocy.",
+      "numer": "598",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Pieśń jest wyznaniem, że jedynym naszym skarbem i Królem, któremu chcemy służyć, jest Jezus.",
       "moment": "ogolne"
     }
   ]

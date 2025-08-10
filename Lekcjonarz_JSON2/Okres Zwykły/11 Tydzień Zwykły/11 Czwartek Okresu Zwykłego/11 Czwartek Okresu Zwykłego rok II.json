@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "349",
+      "numer": "315",
       "piesn": "Króluj nam, Chryste",
-      "opis": "Pieśń jest odpowiedzią na słowa psalmu 'Pan króluje, wesel się, ziemio!' i prośbę 'niech przyjdzie Twoje królestwo'.",
+      "opis": "Pieśń jest odpowiedzią na słowa psalmu 'Pan króluje, wesel się, ziemio!' oraz na prośbę 'niech przyjdzie Twoje królestwo' z Ewangelii.",
       "moment": "wejscie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
-      "opis": "Modlitwa Pańska zawiera wezwanie do przebaczenia. Ta pieśń jest modlitwą o ducha miłości i jedności.",
+      "numer": "611",
+      "piesn": "Ojcze z niebios",
+      "opis": "Ofiarowujemy nasze modlitwy Bogu jako Ojcu, zwracając się do Niego słowami, których nauczył nas Jezus.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
-      "piesn": "Panie, dobry jak chleb",
-      "opis": "W Modlitwie Pańskiej prosimy o chleb powszedni. Eucharystia jest najdoskonalszym wypełnieniem tej prośby.",
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "W Modlitwie Pańskiej prosimy o chleb powszedni, a Bóg Ojciec daje nam najcenniejszy pokarm - Ciało swojego Syna.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest uwielbieniem majestatu Boga, opisanego w psalmie i w pochwale proroka Eliasza.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest osobistym uwielbieniem majestatu Boga, opisanego w psalmie i ukazanego w pochwale proroka Eliasza.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru Boga i Jego królestwa, o które prosimy w Modlitwie Pańskiej.",
+      "opis": "Pieśń stanowi zobowiązanie do życia dla Boga i Jego Królestwa, o które prosimy w Modlitwie Pańskiej.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "486",
-      "piesn": "Panie, pragnienia ludzkich serc",
-      "opis": "Wyraża tęsknotę za Bogiem i Jego królestwem, co jest istotą modlitwy, której uczy nas Jezus.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Wezwanie do przebaczenia w Modlitwie Pańskiej jest fundamentem nowego przykazania miłości.",
       "moment": "ogolne"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Prośba o przebaczenie win jest centralnym elementem Modlitwy Pańskiej. Ta pieśń jest aktem pokutnym.",
+      "numer": "590",
+      "piesn": "Boże mocny, Boże cudów",
+      "opis": "Pieśń sławi moc Boga, objawioną przez cuda Eliasza i Jego królowanie nad całym światem.",
       "moment": "ogolne"
     }
   ]

@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426786.Sobota-XV-tydzien-zwykly-rok-I",
+  "tytul_dnia": "15 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Wj 12, 37-42",
+      "opis": "Wyjście Izraelitów z Egiptu",
+      "tekst": "Izraelici wyruszyli z Ramses do Sukkot w liczbie około sześciuset tysięcy mężów pieszych, nie licząc dzieci. Także wielkie mnóstwo cudzoziemców wyruszyło z nimi, nadto drobne i większe bydło, i olbrzymi dobytek. Z ciasta, które wynieśli z Egiptu, wypiekli przaśne placki, ponieważ się nie zakwasiło. Wypędzeni z Egiptu, nie mogąc się zatrzymać, nie zdołali przygotować nawet zapasów na drogę.\nA pobyt Izraelitów w Egipcie trwał czterysta trzydzieści lat. I oto tego samego dnia, po upływie czterystu trzydziestu lat, wyszły wszystkie zastępy Pana z ziemi egipskiej.\nTej nocy czuwał Pan nad wyjściem synów Izraela z ziemi egipskiej. Dlatego noc ta winna być czuwaniem na cześć Pana dla wszystkich Izraelitów po wszystkie pokolenia.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 136 (135), 1b i 23a i 24. 10a i 11a i 12. 13a i 14a i 15 (R.: por. Ps 113 [112], 2a)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Niech imię Pana będzie pochwalone.\nChwalcie Pana, bo jest dobry. *\nPamiętał o nas w naszym poniżeniu\ni uwolnił nas od wrogów, *\nbo Jego łaska na wieki.\nRefren.\nOn Egipcjanom pobił pierworodnych *\ni wywiódł spośród nich Izraela.\nRęką potężną, wyciągniętym ramieniem, *\nbo Jego łaska na wieki.\nRefren.\nRozdzielił Morze Czerwone *\ni środkiem morza przeprowadził Izraela.\nFaraona z wojskiem strącił w Morze Czerwone, *\nbo Jego łaska na wieki.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. 2 Kor 5, 19",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "W Chrystusie Bóg pojednał świat z sobą,\nnam zaś przekazał słowo jednania."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 12, 14-21",
+      "opis": "Jezus cichy i pokornego serca",
+      "tekst": "Faryzeusze wyszli i odbyli naradę przeciw Jezusowi, w jaki sposób Go zgładzić.\nGdy się Jezus dowiedział o tym, oddalił się stamtąd. A wielu poszło za Nim i uzdrowił ich wszystkich. Lecz zabronił im surowo, żeby Go nie ujawniali. Tak miało się spełnić słowo proroka Izajasza:\n«Oto mój Sługa, którego wybrałem;\nUmiłowany mój, w którym moje serce ma upodobanie.\nPołożę ducha mojego na Nim, a On zapowie Prawo narodom.\nNie będzie się spierał ani krzyczał i nikt nie usłyszy na ulicach Jego głosu.\nTrzciny zgniecionej nie złamie ani knota tlejącego nie dogasi, aż zwycięsko sąd przeprowadzi.\nW Jego imieniu narody nadzieję pokładać będą».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Pieśń jest radosnym wezwaniem do chwalenia Boga za Jego wielkie dzieła, co jest głównym tematem psalmu i pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za łaskę wyzwolenia, o której opowiada historia wyjścia z Egiptu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "350",
+      "piesn": "Najświętsze Serce Boże",
+      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę Pańskiego. Ta pieśń jest aktem czci dla Jego Serca.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest uwielbieniem Boga za Jego potęgę i miłosierdzie, objawione w dziele wyzwolenia Izraela.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Jezus, Sługa Pański, jest naszym Królem, który prowadzi nas do prawdziwej wolności, tak jak Mojżesz prowadził Izraela.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń o opiece Bożej dobrze oddaje ducha czuwania w noc paschalną, opisaną w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "426",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "Wobec knowań faryzeuszy, postawa Jezusa jest wzorem zaufania Bogu. Ta pieśń jest wyrazem naszego zawierzenia.",
+      "moment": "ogolne"
+    }
+  ]
+}

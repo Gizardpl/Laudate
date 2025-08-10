@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/411045.Poniedzialek-II-tydzien-zwykly-rok-II",
+  "tytul_dnia": "2 Poniedziałek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Sm 15, 16-23",
+      "opis": "Bóg odrzuca Saula",
+      "tekst": "Po zwycięstwie Saula nad Amalekitami Samuel powiedział Saulowi:\n\n«Dosyć! Powiem ci, co rzekł do mnie Pan tej nocy». Odrzekł: «Mów!» I mówił Samuel: «Czy to nie jest prawdą, że choć byłeś mały we własnych oczach, to jednak ty właśnie stałeś się głową pokoleń izraelskich? Pan bowiem namaścił cię na króla izraelskiego. Pan wysłał cię w drogę i nakazał: Obłożysz klątwą tych występnych Amalekitów, będziesz z nimi walczył, aż ich zniszczysz. Czemu więc nie posłuchałeś głosu Pana? Rzuciłeś się na łup, popełniłeś więc to, co złe w oczach Pana». Saul odpowiedział Samuelowi: «Posłuchałem głosu Pana: szedłem drogą, którą mnie posłał Pan. Przyprowadziłem Agaga, króla Amalekitów, a Amalekitów obłożyłem klątwą. Lud zaś zabrał ze zdobyczy drobne i większe bydło, aby je w Gilgal ofiarować Panu, Bogu twemu, jako pierwociny rzeczy obłożonych klątwą». Samuel odrzekł: «Czyż milsze są Panu całopalenia i ofiary krwawe od posłuszeństwa głosowi Pana? Właśnie, lepsze jest posłuszeństwo od ofiary, uległość - od tłuszczu baranów. Bo opór jest jak grzech wróżbiarstwa, a krnąbrność jak złość bałwochwalstwa. Ponieważ wzgardziłeś nakazem Pana, odrzucił cię On jako króla». Oto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 50 (49), 8-9. 16b-17. 21 i 23 (R.: por. 23b)",
+      "opis": "",
+      "tekst": "Refren: Temu, kto prawy, ukażę zbawienie.\n«Nie oskarżam cię za twoje ofiary, *\n\nbo twe całopalenia zawsze są przede Mną.\n\nNie przyjmę cielca z twego domu *\n\nani kozłów ze stad twoich».\nRefren.\n«Czemu wymieniasz moje przykazania *\n\ni na ustach masz moje przymierze?\n\nTy, co nienawidzisz karności, *\n\na słowa moje odrzuciłeś za siebie?»\nRefren.\n«Ty tak postępujesz, a Ja mam milczeć? †\n\nCzy myślisz, że jestem podobny do ciebie? *\n\nSkarcę ciebie i postawię ci to przed oczy.\n\nKto składa dziękczynną ofiarę, ten cześć Mi oddaje, *\n\na tym, którzy postępują uczciwie, ukażę Boże zbawienie».\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Hbr 4, 12",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Żywe jest słowo Boże i skuteczne,\n\nzdolne osądzić pragnienia i myśli serca."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mk 2, 18-22",
+      "opis": "Zwyczajów Starego Testamentu nie można przenosić do Nowego",
+      "tekst": "Uczniowie Jana i faryzeusze mieli właśnie post. Przyszli więc do Jezusa i pytali: «Dlaczego uczniowie Jana i uczniowie faryzeuszów poszczą, a Twoi uczniowie nie poszczą?» Jezus im odpowiedział: «Czy goście weselni mogą pościć, dopóki pan młody jest z nimi? Nie mogą pościć, jak długo mają pośród siebie pana młodego. Lecz przyjdzie czas, kiedy zabiorą im pana młodego, a wtedy, w ów dzień, będą pościć. Nikt nie przyszywa łaty z surowego sukna do starego ubrania. W przeciwnym razie nowa łata obrywa jeszcze część ze starego ubrania i gorsze staje się przedarcie. Nikt też młodego wina nie wlewa do starych bukłaków. W przeciwnym razie wino rozerwie bukłaki. Wino się wylewa i bukłaki przepadną. Raczej młode wino należy wlewać do nowych bukłaków». Oto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta wzywa do oddania pokłonu Bogu, podkreślając, że posłuszeństwo jest milsze od ofiar, jak uczy pierwsze czytanie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Jest to ofiarowanie darów w duchu posłuszeństwa, które jest prawdziwą ofiarą miłą Bogu, w przeciwieństwie do ofiary Saula.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "234",
+      "piesn": "Chwal, Syjonie, Zbawiciela",
+      "opis": "Sekwencja eucharystyczna sławi Chrystusa, Pana Młodego z Ewangelii, który daje nam siebie w Komunii Świętej jako pokarm nowego życia.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn ten jest wyrazem czci dla Boga, który pragnie szczerego posłuszeństwa, a nie pozornych ofiar.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Wyraża przylgnięcie do Chrystusa, który jest nowością - \"młodym winem\" wlanym w \"nowe bukłaki\" naszych serc.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Pieśń przypomina o nowości, jaką przyniósł Chrystus, Pan Młody, który jest z nami i zaprasza na gody.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Wyraża postawę otwarcia na Boże Słowo i pragnienie życia według Niego, w przeciwieństwie do króla Saula.",
+      "moment": "ogolne"
+    }
+  ]
+}

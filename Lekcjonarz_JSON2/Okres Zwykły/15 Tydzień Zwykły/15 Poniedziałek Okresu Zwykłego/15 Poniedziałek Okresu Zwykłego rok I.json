@@ -30,21 +30,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "W obliczu prześladowań, o których mówią oba czytania, pieśń ta jest wyrazem ufności w Bożą opiekę i ocalenie.",
       "moment": "wejscie"
     },
     {
-      "numer": "353",
-      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
-      "opis": "Pieśń bezpośrednio nawiązuje do słów Jezusa o konieczności wzięcia swojego krzyża, aby być godnym Go naśladować.",
+      "numer": "303",
+      "piesn": "Twemu Sercu cześć składamy",
+      "opis": "Pieśń ta nawiązuje do słów Jezusa o konieczności wzięcia swojego krzyża, aby być godnym Go naśladować.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
+      "numer": "699",
       "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory i uniżenia, która jest konieczna, by stracić swe życie dla Chrystusa i odnaleźć je na nowo.",
+      "opis": "Pieśń wyraża postawę pokory i uniżenia, która jest konieczna, by stracić swe życie dla Chrystusa i odnaleźć je na nowo.",
       "moment": "komunia"
     },
     {
@@ -54,21 +54,21 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
       "opis": "Pieśń jest deklaracją wyboru Boga ponad więzy rodzinne i ziemskie przywiązania, o czym mówi Ewangelia.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "354",
-      "piesn": "Krzyżu święty, nade wszystko",
-      "opis": "Jest to kolejna pieśń pasyjna, która pomaga rozważać tajemnicę krzyża w kontekście radykalnych wymagań Ewangelii.",
+      "numer": "300",
+      "piesn": "Serce Twe, Jezu",
+      "opis": "Pieśń pasyjna, która pomaga rozważać tajemnicę krzyża w kontekście radykalnych wymagań Ewangelii.",
       "moment": "ogolne"
     },
     {
-      "numer": "425",
+      "numer": "222",
       "piesn": "Idźcie na cały świat",
-      "opis": "Ewangelia kończy się rozesłaniem uczniów. Ta pieśń jest odnowieniem naszego misyjnego powołania do głoszenia Ewangelii.",
+      "opis": "Ewangelia jest częścią mowy misyjnej, a ta pieśń jest odnowieniem naszego powołania do głoszenia Ewangelii.",
       "moment": "ogolne"
     }
   ]

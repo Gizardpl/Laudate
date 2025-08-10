@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417013.Wtorek-X-tydzien-zwykly-rok-I",
+  "tytul_dnia": "10 Wtorek Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "2 Kor 1, 18-22",
+      "opis": "Przez Chrystusa wypowiada się nasze «Amen» Bogu na chwałę",
+      "tekst": "Bracia:\nBóg mi świadkiem, że w tym, co do was mówię, nie ma równocześnie «tak» i «nie». Syn Boży, Chrystus Jezus, Ten, którego głosiłem wam ja i Sylwan, i Tymoteusz, nie był «tak» i «nie», lecz dokonało się w Nim «tak». Albowiem ile tylko obietnic Bożych, wszystkie w Nim są «tak». Dlatego też przez Niego wypowiada się nasze «Amen» Bogu na chwałę.\nTym zaś, który umacnia nas wespół z wami w Chrystusie i który nas namaścił, jest Bóg. On też wycisnął na nas pieczęć i zostawił zadatek Ducha w sercach naszych.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 119 (118), 129-130. 131-132. 133 i 135 (R.: por. 135a)",
+      "opis": "",
+      "tekst": "Refren: Okaż swym sługom pogodne oblicze.\nTwoje napomnienia, Panie, są przedziwne, *\ndlatego przestrzega ich moja dusza.\nPoznanie Twoich słów oświeca *\ni naucza niedoświadczonych.\nRefren.\nZaczerpnę powietrza otwartymi ustami, *\nbo pragnę Twoich przykazań.\nZwróć się ku mnie i zmiłuj się nade mną, *\ntak jak czynisz z miłującymi Twe imię.\nRefren.\nUmocnij moje kroki Twoim słowem, *\nniech żadna niegodziwość nie panuje we mnie.\nOkaż Twemu słudze światłość swego oblicza *\ni naucz mnie Twoich ustaw.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 5, 16",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Tak niech wasze światło jaśnieje przed ludźmi,\naby widzieli wasze dobre uczynki i chwalili Ojca waszego."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 5, 13-16",
+      "opis": "Wy jesteście światłem świata",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Wy jesteście solą ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda, chyba na wyrzucenie i podeptanie przez ludzi.\nWy jesteście światłem świata. Nie może się ukryć miasto położone na górze. Nie zapala się też lampy i nie umieszcza pod korcem, ale na świeczniku, aby świeciła wszystkim, którzy są w domu.\nTak niech wasze światło jaśnieje przed ludźmi, aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "427",
+      "piesn": "Jezu, Tyś jest światłością",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do słów Jezusa 'Wy jesteście światłem świata' i prośbą o Jego światło.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "281",
+      "piesn": "O Stworzycielu, Duchu, przyjdź",
+      "opis": "Pierwsze czytanie mówi o zadatku Ducha w naszych sercach. Ta pieśń jest prośbą o Jego dary, byśmy mogli być światłem dla świata.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Eucharystia umacnia nas w Chrystusie, o czym pisze św. Paweł, i daje siłę do bycia solą ziemi.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, którego słowo, jak mówi psalm, oświeca i uczy niedoświadczonych.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by nasze światło jaśniało przed ludźmi i by głosić Ewangelię, która jest 'tak' powiedzianym Bogu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Bogiem i pragnienie Jego przykazań, o którym z taką pasją mówi psalmista.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Wspólnota wierzących, zjednoczona w Chrystusie, jest miastem położonym na górze, które nie może się ukryć.",
+      "moment": "ogolne"
+    }
+  ]
+}

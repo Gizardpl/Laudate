@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "494",
-      "piesn": "Pójdź do Jezusa",
-      "opis": "Pieśń jest zaproszeniem do pójścia za Jezusem, aby usłyszeć Jego naukę o błogosławieństwach.",
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do Ewangelii o Ośmiu Błogosławieństwach, wprowadzając w główną tematykę liturgii słowa.",
       "moment": "wejscie"
     },
     {
-      "numer": "119",
-      "piesn": "Boże, w dobroci",
-      "opis": "Wobec cierpień i ucisków, o których mówi św. Paweł, ta pieśń jest aktem dziękczynienia za Bożą pociechę.",
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Pieśń łączy ofiarowanie chleba i wina z ofiarą naszych trudów i cierpień, o których wspomina św. Paweł w pierwszym czytaniu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
-      "piesn": "Panie, dobry jak chleb",
-      "opis": "Eucharystia jest pokarmem dla tych, którzy łakną i pragną sprawiedliwości, o których mówi jedno z błogosławieństw.",
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Błogosławieństwo o łaknących i pragnących sprawiedliwości znajduje swoje wypełnienie w Eucharystii, gdzie Chrystus zaspokaja najgłębsze pragnienia serca.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalm, jest dobry i wyzwala od wszelkiej trwogi.",
+      "numer": "273",
+      "piesn": "Skosztujcie i zobaczcie",
+      "opis": "Pieśń jest muzycznym opracowaniem psalmu responsoryjnego, wzywając do uwielbienia Boga za Jego dobroć i ocalenie.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru życia według ducha błogosławieństw, nawet pośród prześladowań.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Po usłyszeniu nauki o błogosławieństwach, jesteśmy posłani, by żyć nią i świadczyć o niej w świecie.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Błogosławieństwo dla miłosiernych zachęca nas do prośby o miłosierdzie i serce zdolne do jego okazywania.",
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża dążenie do bliskości z Bogiem, które jest istotą życia według błogosławieństw.",
       "moment": "ogolne"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "W obliczu prześladowań, o których mówi ostatnie błogosławieństwo, pieśń ta jest wyrazem ufności w Bożą opiekę.",
+      "opis": "W kontekście cierpień, o których mówią czytania, pieśń ta jest aktem ufności w Bożą opatrzność i opiekę.",
       "moment": "ogolne"
     }
   ]

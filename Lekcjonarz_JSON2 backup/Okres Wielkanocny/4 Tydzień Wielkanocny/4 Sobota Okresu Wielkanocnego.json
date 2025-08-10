@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413317.Sobota-IV-tygodnia-wielkanocnego",
+  "tytul_dnia": "4 Sobota Okresu Wielkanocnego",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 13, 44-52",
+      "opis": "Apostołowie zwracają się do pogan",
+      "tekst": "W następny szabat, po kazaniu Pawła w synagodze w Antiochii Pizydyjskiej, zebrało się niemal całe miasto, aby słuchać słowa Bożego. Gdy Żydzi zobaczyli tłumy, ogarnęła ich zazdrość, i bluźniąc, sprzeciwiali się temu, co mówił Paweł.\nWtedy Paweł i Barnaba powiedzieli odważnie: «Należało głosić słowo Boże najpierw wam. Skoro jednak odrzucacie je i sami uznajecie się za niegodnych życia wiecznego, zwracamy się do pogan. Tak bowiem nakazał nam Pan: „Ustanowiłem cię światłością dla pogan, abyś był zbawieniem aż po krańce ziemi”».\nPoganie, słysząc to, radowali się i wielbili słowo Pańskie, a wszyscy, przeznaczeni do życia wiecznego, uwierzyli. Słowo Pańskie szerzyło się na cały kraj.\nAle Żydzi podburzyli pobożne a wpływowe niewiasty i znaczniejszych obywateli, wzniecili prześladowanie Pawła i Barnaby i wyrzucili ich ze swoich granic. A oni, strząsnąwszy na nich pył z nóg, przyszli do Ikonium. A uczniowie byli pełni wesela i Ducha Świętego.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 98 (97), 1bcde. 2-3b. 3c-4 (R.: por. 3cd)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Ziemia ujrzała swego Zbawiciela.\nŚpiewajcie Panu pieśń nową, *\nalbowiem uczynił cuda.\nZwycięstwo Mu zgotowała Jego prawica *\ni święte ramię Jego.\nRefren.\nPan okazał swoje zbawienie, *\nna oczach pogan objawił swą sprawiedliwość.\nWspomniał na dobroć i na wierność swoją *\ndla domu Izraela.\nRefren.\nUjrzały wszystkie krańce ziemi *\nzbawienie Boga naszego.\nWołaj z radości na cześć Pana, cała ziemio, *\ncieszcie się, weselcie i grajcie.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 8, 31b-32a",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Jeżeli trwacie w nauce mojej,\njesteście prawdziwie moimi uczniami i poznacie prawdę."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 14, 7-14",
+      "opis": "Kto Mnie zobaczył, zobaczył także i Ojca",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Gdybyście Mnie poznali, znalibyście i mojego Ojca. Ale teraz już Go znacie i zobaczyliście».\nRzekł do Niego Filip: «Panie, pokaż nam Ojca, a to nam wystarczy».\nOdpowiedział mu Jezus: «Filipie, tak długo jestem z wami, a jeszcze Mnie nie poznałeś? Kto Mnie widzi, widzi także i Ojca. Dlaczego więc mówisz: „Pokaż nam Ojca”? Czy nie wierzysz, że Ja jestem w Ojcu, a Ojciec we Mnie? Słów tych, które wam mówię, nie wypowiadam od siebie. To Ojciec, który trwa we Mnie, On sam dokonuje tych dzieł. Wierzcie Mi, że Ja jestem w Ojcu, a Ojciec we Mnie. Jeżeli zaś nie - wierzcie przynajmniej ze względu na same dzieła!\nZaprawdę, zaprawdę, powiadam wam: Kto we Mnie wierzy, będzie także dokonywał tych dzieł, których Ja dokonuję, a nawet większe od tych uczyni, bo Ja idę do Ojca. A o cokolwiek prosić będziecie w imię moje, to uczynię, aby Ojciec był otoczony chwałą w Synu. O cokolwiek prosić Mnie będziecie w imię moje, Ja to spełnię».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń ta wzywa do głoszenia zbawienia i chwały Pana wśród wszystkich narodów, co jest tematem pierwszego czytania i psalmu.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Nawiązuje do Kościoła, który przez wiarę w Chrystusa poznaje Ojca i jest posłany, by głosić Ewangelię.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Jest to wyznanie wiary w Jezusa, który jest w Ojcu, a Ojciec w Nim, co jest centralnym punktem nauczania w Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "195",
+      "piesn": "Wysławiajmy Chrysta Pana",
+      "opis": "Pieśń uwielbienia dla Chrystusa, przez którego poznajemy Ojca i otrzymujemy obietnicę życia wiecznego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Misja Pawła i Barnaby do pogan jest przykładem wypełniania nakazu Chrystusa, by głosić Ewangelię aż po krańce ziemi.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń o zwycięstwie Chrystusa jest fundamentem wiary i radości uczniów, o której mówi pierwsze czytanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "180",
+      "piesn": "Dziś Chrystus, Król",
+      "opis": "Głosi królewską chwałę Chrystusa, którego zbawienie, jak mówi psalm, ujrzały wszystkie krańce ziemi.",
+      "moment": "ogolne"
+    }
+  ]
+}

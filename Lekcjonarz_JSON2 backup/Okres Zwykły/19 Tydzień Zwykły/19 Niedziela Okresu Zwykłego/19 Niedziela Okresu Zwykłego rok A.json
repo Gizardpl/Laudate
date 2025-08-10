@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/556977.Niedziela-rok-A",
+  "tytul_dnia": "19 Niedziela Okresu Zwykłego rok A",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Krl 19, 9a. 11-13a",
+      "opis": "Bóg objawia się Eliaszowi",
+      "tekst": "Gdy Eliasz przyszedł do Bożej góry Horeb, wszedł do pewnej groty, gdzie przenocował. Wtedy Bóg rzekł: «Wyjdź, aby stanąć na górze wobec Pana!»\nA oto Pan przechodził. Gwałtowna wichura rozwalająca góry i druzgocąca skały szła przed Panem; ale Pana nie było w wichurze. A po wichurze - trzęsienie ziemi: Pana nie było w trzęsieniu ziemi. Po trzęsieniu ziemi powstał ogień: Pana nie było w ogniu. A po tym ogniu - szmer łagodnego powiewu. Kiedy tylko Eliasz go usłyszał, zasłoniwszy twarz płaszczem, wyszedł i stanął przy wejściu do groty.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 85 (84), 9ab i 10. 11-12. 13-14 (R.: por. 8)",
+      "opis": "",
+      "tekst": "Refren: Okaż swą łaskę i daj nam zbawienie.\nBędę słuchał tego, co Pan Bóg mówi: *\noto ogłasza pokój ludowi i swoim wyznawcom.\nZaprawdę, bliskie jest Jego zbawienie †\ndla tych, którzy Mu cześć oddają, *\ni chwała zamieszka w naszej ziemi.\nRefren.\nŁaska i wierność spotkają się z sobą, *\nucałują się sprawiedliwość i pokój.\nWierność z ziemi wyrośnie, *\na sprawiedliwość spojrzy z nieba.\nRefren.\nPan sam szczęściem obdarzy, *\na nasza ziemia wyda swój owoc.\nSprawiedliwość będzie kroczyć przed Nim, *\na śladami Jego kroków zbawienie.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Rz 9, 1-5",
+      "opis": "Izrael jest ludem Bożym",
+      "tekst": "Bracia:\nPrawdę mówię w Chrystusie, nie kłamię, potwierdza mi to moje sumienie w Duchu Świętym, że w sercu swoim odczuwam wielki smutek i nieustanny ból.\nWolałbym bowiem sam być pod klątwą, odłączonym od Chrystusa dla zbawienia braci moich, którzy według ciała są moimi rodakami. Są to Izraelici, do których należą przybrane synostwo i chwała, przymierza i nadanie Prawa, pełnienie służby Bożej i obietnice. Do nich należą praojcowie, z nich również jest Chrystus według ciała, Ten, który jest ponad wszystkim, Bóg błogosławiony na wieki. Amen.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Ps 130 (129), 5",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Pokładam nadzieję w Panu,\nufam Jego słowu."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 14, 22-33",
+      "opis": "Jezus chodzi po jeziorze",
+      "tekst": "Gdy tłum został nasycony, zaraz Jezus przynaglił uczniów, żeby wsiedli do łodzi i wyprzedzili Go na drugi brzeg, zanim odprawi tłumy. Gdy to uczynił, wyszedł sam jeden na górę, aby się modlić. Wieczór zapadł, a On sam tam przebywał.\nŁódź zaś była już o wiele stadiów oddalona od brzegu, miotana falami, bo wiatr był przeciwny. Lecz o czwartej straży nocnej przyszedł do nich, krocząc po jeziorze.\nUczniowie, zobaczywszy Go kroczącego po jeziorze, zlękli się, myśląc, że to zjawa, i ze strachu krzyknęli. Jezus zaraz przemówił do nich: «Odwagi! To Ja jestem, nie bójcie się!»\nNa to odezwał się Piotr: «Panie, jeśli to Ty jesteś, każ mi przyjść do siebie po wodzie!» A On rzekł: «Przyjdź!» Piotr wyszedł z łodzi i krocząc po wodzie, podszedł do Jezusa. Lecz na widok silnego wiatru uląkł się i gdy zaczął tonąć, krzyknął: «Panie, ratuj mnie!»\nJezus natychmiast wyciągnął rękę i chwycił go, mówiąc: «Czemu zwątpiłeś, człowiecze małej wiary?»\nGdy wsiedli do łodzi, wiatr się uciszył. Ci zaś, którzy byli w łodzi, upadli przed Nim, mówiąc: «Prawdziwie jesteś Synem Bożym».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń stanowi zaproszenie do zbliżenia się do Jezusa z wiarą, podobnie jak Piotr, który wyszedł z łodzi na spotkanie z Panem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Jeden chleb",
+      "opis": "Wspólnota uczniów w łodzi, zjednoczona strachem, a potem wiarą, jest obrazem Kościoła, który gromadzi się na łamaniu jednego Chleba.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "253",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń wyraża postawę Piotra, który mimo zwątpienia i lęku, woła do Pana i z pokorą przyjmuje Jego ratunek.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Jest to doskonała pieśń uwielbienia, która odzwierciedla reakcję uczniów w łodzi wyznających: 'Prawdziwie jesteś Synem Bożym'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń ta umacnia wiarę w Chrystusa jako przewodnika przez życiowe burze i trudności, o których mówi Ewangelia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Tekst tej pieśni idealnie pasuje do sceny na jeziorze, mówiąc o zaufaniu Bogu i Jego opiece pośród niebezpieczeństw.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "407",
+      "piesn": "Boże, miłości Twej",
+      "opis": "Nawiązuje do objawienia się Boga Eliasowi w łagodnym powiewie, a nie w gwałtownych zjawiskach, podkreślając subtelną obecność Bożej miłości.",
+      "moment": "ogolne"
+    }
+  ]
+}

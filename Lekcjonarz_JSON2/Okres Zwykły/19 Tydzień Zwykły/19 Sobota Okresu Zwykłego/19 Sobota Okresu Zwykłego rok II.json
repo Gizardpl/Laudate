@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża prośbę o czyste serce.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń wyraża pragnienie nawrócenia, do którego wzywa prorok Ezechiel, obiecując nowe serce i nowego ducha.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Jest to pieśń o charakterze pokutnym, która pasuje do wezwania z pierwszego czytania: 'Nawróćcie się! Odstąpcie od wszystkich waszych grzechów'.",
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Ofiarą miłą Bogu jest duch skruszony, o czym mówi psalm; ta pieśń jest aktem żalu i ofiarowania skruszonego serca.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "416",
-      "piesn": "Gdy się łączą ręce",
-      "opis": "Choć to pieśń ślubna, jej słowa o prostocie i czystości serca dobrze korespondują z Ewangelią o dzieciach przychodzących do Jezusa.",
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Pieśń nawiązuje do Ewangelii, w której Jezus przyjmuje dzieci, wzywając nas do posiadania czystego, dziecięcego serca.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Pieśń uwielbienia za Boże miłosierdzie i łaskę nawrócenia, o której mówi zarówno Ezechiel, jak i psalmista.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń uwielbienia za dar zbawienia i radość, którą Bóg przywraca nawróconym grzesznikom.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Pieśń ta jest wyrazem osobistej decyzji i odpowiedzialności za wiarę, co jest głównym tematem pierwszego czytania.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Po otrzymaniu Bożego błogosławieństwa, jak dzieci w Ewangelii, prosimy Pana, by nas prowadził drogą nowego życia.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "428",
-      "piesn": "Jezu, miłości Twej",
-      "opis": "Wyraża osobistą więź z Jezusem i pragnienie czystości serca, o której mówią czytania.",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to parafraza psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża prośbę o odnowienie ducha.",
       "moment": "ogolne"
     },
     {
-      "numer": "494",
+      "numer": "618",
       "piesn": "Pójdź do Jezusa",
-      "opis": "Jest to zaproszenie do nawrócenia i przyjścia do Jezusa z dziecięcą ufnością, o której wspomina Ewangelia.",
+      "opis": "Zaprasza do przyjścia do Jezusa z dziecięcą ufnością, by otrzymać od Niego nowe serce i nowe życie.",
       "moment": "ogolne"
     }
   ]

@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/426643.Sobota-XIV-tydzien-zwykly-rok-II",
+  "tytul_dnia": "14 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Iz 6, 1-8",
+      "opis": "Powołanie proroka Izajasza",
+      "tekst": "W roku śmierci króla Ozjasza ujrzałem Pana zasiadającego na wysokim i wyniosłym tronie, a tren Jego szaty wypełniał świątynię. Serafiny stały ponad Nim; każdy z nich miał po sześć skrzydeł; dwoma zakrywał swą twarz, dwoma okrywał swoje nogi, a dwoma latał.\nI wołał jeden do drugiego: «Święty, Święty, Święty jest Pan Zastępów. Cała ziemia pełna jest Jego chwały». Od głosu tego, który wołał, zadrgały futryny drzwi, a świątynia napełniła się dymem.\nI powiedziałem: «Biada mi! Jestem zgubiony! Wszak jestem mężem o nieczystych wargach i mieszkam pośród ludu o nieczystych wargach, a oczy moje oglądały Króla,\nPana Zastępów!»\nWówczas przyleciał do mnie jeden z serafinów, trzymając w ręce węgiel, który szczypcami wziął z ołtarza. Dotknął nim ust moich i rzekł: «Oto dotknęło to twoich warg, twoja wina jest zmazana, zgładzony twój grzech».\nI usłyszałem głos Pana mówiącego: «Kogo mam posłać? Kto by Nam poszedł?» Odpowiedziałem: «Oto ja, poślij mnie!»\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 93 (92), 1. 2 i 5 (R.: por. 1a)",
+      "opis": "",
+      "tekst": "Refren: Pan Bóg króluje, pełen majestatu.\nPan króluje, oblókł się w majestat, *\nPan wdział potęgę i nią się przepasał.\nTak świat utwierdził, *\nże się nie zachwieje.\nRefren.\nTwój tron niewzruszony na wieki, *\nistniejesz od wieków, Boże.\nŚwiadectwa Twoje bardzo godne są wiary; †\nTwojemu domowi świętość przystoi *\npo wszystkie dni, o Panie.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. 1 P 4, 14",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Błogosławieni jesteście, jeżeli złorzeczą wam z powodu imienia Chrystusa,\nalbowiem Duch Boży na was spoczywa."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 10, 24-33",
+      "opis": "Nie bójcie się ludzi",
+      "tekst": "Jezus powiedział do swoich apostołów:\n«Uczeń nie przewyższa nauczyciela ani sługa swego pana. Wystarczy, jeśli uczeń będzie jak jego nauczyciel, a sługa - jak jego pan. Jeśli pana domu przezwali Belzebubem, to o ileż bardziej nazwą tak jego domowników.\nNie bójcie się więc ich! Nie ma bowiem nic skrytego, co by nie miało być wyjawione, ani nic tajemnego, o czym by się nie miano dowiedzieć. Co mówię wam w ciemności, powtarzajcie w świetle, a co słyszycie na ucho, rozgłaszajcie na dachach.\nNie bójcie się tych, którzy zabijają ciało, lecz duszy zabić nie mogą. Bójcie się raczej Tego, który duszę i ciało może zatracić w piekle. Czyż nie sprzedają dwóch wróbli za asa? A przecież bez woli Ojca waszego żaden z nich nie spadnie na ziemię. U was zaś policzone są nawet wszystkie włosy na głowie. Dlatego nie bójcie się: jesteście ważniejsi niż wiele wróbli.\nDo każdego więc, kto się przyzna do Mnie przed ludźmi, przyznam się i Ja przed moim Ojcem, który jest w niebie. Lecz kto się Mnie zaprze przed ludźmi, tego zaprę się i Ja przed moim Ojcem, który jest w niebie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest doskonałą odpowiedzią na wizję chwały i majestatu Boga, którą miał prorok Izajasz.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Izajasz, świadom swej grzeszności, zostaje oczyszczony. Ta pieśń jest prośbą o oczyszczenie, byśmy mogli godnie służyć Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wobec wezwania do odważnego wyznawania wiary, ta pieśń wyraża naszą świadomość słabości i potrzebę Bożej mocy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "349",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Psalm głosi królowanie Boga pełnego majestatu. Ta pieśń jest wyznaniem wiary w królowanie Chrystusa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest mocną deklaracją wierności Bogu, do której wzywa Jezus, obiecując przyznanie się do nas przed Ojcem.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec lęku przed prześladowaniami, o którym mówi Ewangelia, pieśń ta przypomina o Bożej opatrzności i opiece.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Odpowiedź Izajasza 'Oto ja, poślij mnie!' jest wzorem dla naszego misyjnego posłannictwa, o którym przypomina ta pieśń.",
+      "moment": "ogolne"
+    }
+  ]
+}

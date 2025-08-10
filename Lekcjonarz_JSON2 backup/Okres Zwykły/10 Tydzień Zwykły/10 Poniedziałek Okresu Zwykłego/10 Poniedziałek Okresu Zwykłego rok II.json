@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417008.Poniedzialek-X-tydzien-zwykly-rok-II",
+  "tytul_dnia": "10 Poniedziałek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Krl 17, 1-6",
+      "opis": "Eliasz zapowiada suszę",
+      "tekst": "Prorok Eliasz z Tiszbe w Gileadzie rzekł do Achaba: «Na życie Pana, Boga Izraela, któremu służę! Nie będzie w tych latach ani rosy, ani deszczu, dopóki nie powiem».\nPotem Pan skierował do niego to słowo: «Odejdź stąd i udaj się na wschód, aby ukryć się przy potoku Kerit, który jest na wschód od Jordanu. Wodę będziesz pił z potoku, krukom zaś kazałem, żeby cię tam żywiły». Poszedł więc, aby uczynić według rozkazu Pańskiego, i podążył, żeby zamieszkać przy potoku Kerit na wschód od Jordanu. A kruki przynosiły mu rano chleb i mięso wieczorem, wodę zaś pił z potoku.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 121 (120), 1-2. 3-4. 5-6. 7-8",
+      "opis": "",
+      "tekst": "Refren: Naszą pomocą jest Zbawiciel świata.\nWznoszę swe oczy ku górom: *\nskąd nadejść ma dla mnie pomoc?\nPomoc moja od Pana, *\nktóry stworzył niebo i ziemię.\nRefren.\nOn nie pozwoli, by potknęła się twa noga, *\nani się nie zdrzemnie Ten, który ciebie strzeże.\nNie zdrzemnie się ani nie zaśnie *\nTen, który czuwa nad Izraelem.\nRefren.\nPan ciebie strzeże, †\njest cieniem nad tobą, *\nstoi po twojej prawicy.\nWe dnie nie porazi cię słońce *\nani księżyc wśród nocy.\nRefren.\nPan cię uchroni od zła wszelkiego, *\nochroni twoją duszę.\nPan będzie czuwał nad twoim wyjściem i powrotem, *\nteraz i po wszystkie czasy.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 5, 12a",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Cieszcie się i radujcie,\nalbowiem wielka jest wasza nagroda w niebie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 5, 1-12",
+      "opis": "Osiem błogosławieństw",
+      "tekst": "Jezus, widząc tłumy, wyszedł na górę. A gdy usiadł, przystąpili do Niego Jego uczniowie. Wtedy otworzył usta i nauczał ich tymi słowami:\nBłogosławieni ubodzy w duchu, albowiem do nich należy królestwo niebieskie.\nBłogosławieni, którzy się smucą, albowiem oni będą pocieszeni.\nBłogosławieni cisi, albowiem oni na własność posiądą ziemię.\nBłogosławieni, którzy łakną i pragną sprawiedliwości, albowiem oni będą nasyceni.\nBłogosławieni miłosierni, albowiem oni miłosierdzia dostąpią.\nBłogosławieni czystego serca, albowiem oni Boga oglądać będą.\nBłogosławieni, którzy wprowadzają pokój, albowiem oni będą nazwani synami Bożymi.\nBłogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie.\nBłogosławieni jesteście, gdy wam urągają i prześladują was i gdy z mego powodu mówią kłamliwie wszystko złe o was. Cieszcie się i radujcie, albowiem wielka jest wasza nagroda w niebie. Tak bowiem prześladowali proroków, którzy byli przed wami.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń jest parafrazą psalmu, który opowiada o Bożej opiece, jakiej doświadczył prorok Eliasz na pustyni.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Wobec cierpienia i prześladowań, o których mówi ostatnie błogosławieństwo, ta pieśń jest aktem dziękczynienia za dar wiary.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Eucharystia jest pokarmem dla tych, którzy łakną i pragną sprawiedliwości, o których mówi jedno z błogosławieństw.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest naszą pomocą i stróżem, jak głosi psalm responsoryjny.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń jest deklaracją wyboru życia według ducha błogosławieństw, nawet pośród prześladowań.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Błogosławieństwo dla miłosiernych zachęca nas do prośby o miłosierdzie i serce zdolne do jego okazywania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do pójścia za Jezusem, aby usłyszeć Jego naukę o błogosławieństwach.",
+      "moment": "ogolne"
+    }
+  ]
+}

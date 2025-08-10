@@ -36,21 +36,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "119",
+      "numer": "102",
       "piesn": "Boże, w dobroci",
       "opis": "Pieśń sławi dobroć i łaskawość Boga, co jest głównym tematem pierwszego czytania i psalmu responsoryjnego.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
+      "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Przypowieść o chwaście ukazuje cierpliwość Boga. Ta pieśń jest prośbą o Jego miłosierdzie nad nami, grzesznikami.",
+      "opis": "Przypowieść o chwaście ukazuje cierpliwość Boga, a ta pieśń jest prośbą o Jego miłosierdzie nad nami, grzesznikami.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "281",
-      "piesn": "O Stworzycielu, Duchu, przyjdź",
-      "opis": "Drugie czytanie mówi o Duchu Świętym, który wspiera naszą słabość. Ta pieśń jest modlitwą o Jego dary.",
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Drugie czytanie mówi o Duchu Świętym, który wspiera naszą słabość, a ta pieśń jest modlitwą o Jego dary.",
       "moment": "komunia"
     },
     {
@@ -60,20 +60,20 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Królestwo Boże, o którym mówią przypowieści, ma swojego Króla - Chrystusa, którego panowanie głosi ta pieśń.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "388",
-      "piesn": "Złączeni w jedno",
-      "opis": "Królestwo Boże jest jak zaczyn, który przemienia i jednoczy. Ta pieśń mówi o jedności Kościoła.",
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
+      "opis": "Królestwo Boże jest jak zaczyn, który przemienia i jednoczy, a ta pieśń mówi o jedności Kościoła.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Wobec tajemnicy zła w świecie, ta pieśń jest aktem zaufania w Bożą sprawiedliwość i miłosierdzie.",
       "moment": "ogolne"
     }

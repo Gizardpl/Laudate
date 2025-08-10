@@ -1,0 +1,75 @@
+{
+  "url": "https://liturgia.wiara.pl/doc/416406.Sobota-28-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "28 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Rz 4, 13. 16-18",
+      "opis": "Abraham wzorem wiary chrześcijan",
+      "tekst": "Bracia:\nNie od wypełniania Prawa została uzależniona obietnica dana Abrahamowi i jego potomstwu, że będzie dziedzicem świata, ale od sprawiedliwości uzyskanej przez wiarę.\nDlatego dziedzictwo przypada dzięki wierze, aby było z łaski i aby w ten sposób obietnica pozostała niewzruszona dla całego potomstwa, nie tylko dla potomstwa opierającego się na Prawie, ale i dla tego, które żyje dzięki wierze Abrahama. On to jest Ojcem nas wszystkich - jak jest napisane: «Uczyniłem cię ojcem wielu narodów» - przed obliczem Boga. Jemu on uwierzył jako Temu, który ożywia umarłych i powołuje do istnienia to, co nie istnieje.\nOn to wbrew nadziei uwierzył nadziei, że stanie się «ojcem wielu narodów», zgodnie z tym, co było powiedziane: «Takie będzie twoje potomstwo».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 105 (104), 6-7. 8-9. 42-43 (R.: por. 8a)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Pan Bóg pamięta o swoim przymierzu.\nPotomkowie Abrahama, słudzy Jego, *\nsynowie Jakuba, Jego wybrańcy.\nOn, Pan, jest naszym Bogiem, *\nJego wyroki obejmują świat cały.\nRefren.\nNa wieki pamięta o swoim przymierzu, *\nobietnicy danej tysiącu pokoleń,\no przymierzu, które zawarł z Abrahamem, *\nprzysiędze danej Izaakowi.\nRefren.\nPamiętał bowiem o swym świętym słowie *\ndanym Abrahamowi, swojemu słudze.\nI wyprowadził lud swój wśród radości, *\nz weselem swoich wybranych.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. J 15, 26b. 27a",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Świadectwo o Mnie da Duch prawdy\ni wy także świadczyć będziecie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 12, 8-12",
+      "opis": "Duch Święty czuwa nad uczniami Jezusa",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Kto się przyzna do Mnie wobec ludzi, przyzna się i Syn Człowieczy do niego wobec aniołów Bożych; a kto się Mnie wyprze wobec ludzi, tego wyprę się i Ja wobec aniołów Bożych.\nKażdemu, kto powie jakieś słowo przeciw Synowi Człowieczemu, będzie odpuszczone, lecz temu, kto bluźni przeciw Duchowi Świętemu, nie będzie odpuszczone.\nKiedy was ciągać będą po synagogach, urzędach i władzach, nie martwcie się, w jaki sposób albo czym macie się bronić lub co mówić, bo Duch Święty pouczy was w tej właśnie godzinie, co należy powiedzieć».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pierwsze czytanie ukazuje Abrahama jako wzór wiary. Ta pieśń jest modlitwą o umocnienie naszej wiary na jego wzór.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Wobec wezwania do odważnego przyznawania się do Chrystusa, ta pieśń jest aktem ofiarowania i wyznaniem wierności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń jest modlitwą do Ducha Świętego, który, jak obiecuje Jezus w Ewangelii, pouczy nas, co mamy mówić w godzinie próby.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który jest zadatkiem naszego dziedzictwa i umocnieniem w dawaniu świadectwa.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń misyjna, która jest posłaniem do odważnego głoszenia Ewangelii, do czego uzdalnia nas Duch Święty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest osobistym wyznaniem wiary w Boga, który jest wierny swoim obietnicom, jak pokazuje historia Abrahama.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń jest wezwaniem do Ducha Świętego, który jest źródłem życia i mocy do dawania świadectwa, jak uczy Ewangelia.",
+      "moment": "ogolne"
+    }
+  ]
+}

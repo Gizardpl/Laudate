@@ -31,44 +31,44 @@
   "piesniSugerowane": [
     {
       "numer": "96",
-      "piesn": "Kto się w opiekę",
-      "opis": "Pieśń wyraża zaufanie Bogu, który jak w pierwszym czytaniu, jest obroną swojego ludu i ocala go od wrogów.",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża skruchę podobną do tej, którą okazał Achab.",
       "moment": "wejscie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Wybór ciasnej bramy, o której mówi Jezus, jest aktem woli i ofiarowaniem życia Bogu, o czym śpiewamy w tej pieśni.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wobec grzechów opisanych w pierwszym czytaniu, ta pieśń jest aktem pokuty i prośbą o Boże miłosierdzie.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "486",
-      "piesn": "Panie, pragnienia ludzkich serc",
-      "opis": "Pieśń mówi o drodze do Boga, która jest wąska, ale prowadzi do życia i spełnienia najgłębszych pragnień.",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Ewangelia wzywa do miłości nieprzyjaciół, a ta pieśń jest modlitwą o serce zdolne do takiej miłości.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest uwielbieniem dla Boga, który jest wielki i godzien chwały, jak głosi psalm.",
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który jest miłosierny i odpuszcza grzechy tym, którzy się upokarzają, jak król Achab.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
-      "opis": "Złota reguła z Ewangelii jest fundamentem życia wspólnoty, opartego na miłości i wzajemnym szacunku.",
+      "numer": "245",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Pieśń wyraża miłość do Chrystusa, która jest źródłem siły do wypełnienia przykazania miłości nieprzyjaciół.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "349",
-      "piesn": "Króluj nam, Chryste",
-      "opis": "Wobec potęgi ziemskich królów, ta pieśń jest wyznaniem wiary w jedyne i wieczne królestwo Chrystusa.",
+      "numer": "122",
+      "piesn": "Krzyżu Chrystusa",
+      "opis": "Miłość nieprzyjaciół znajduje swój najpełniejszy wyraz w Chrystusie na krzyżu, który modlił się za swoich prześladowców.",
       "moment": "ogolne"
     },
     {
-      "numer": "408",
-      "piesn": "Com przyrzekł Bogu",
-      "opis": "Pieśń o wierności Bogu jest odpowiedzią na Jego łaskawość i opiekę, opisaną w czytaniach.",
+      "numer": "200",
+      "piesn": "Jezu, ufam Tobie",
+      "opis": "W obliczu sądu Bożego i własnej grzeszności, ta pieśń jest aktem zawierzenia i zaufania miłosierdziu Bożemu.",
       "moment": "ogolne"
     }
   ]

@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/556986.Niedziela-rok-B",
+  "tytul_dnia": "19 Niedziela Okresu Zwykłego rok B",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Krl 19, 4-8",
+      "opis": "Cudowny pokarm przywraca siły Eliaszowi",
+      "tekst": "Eliasz poszedł na pustynię na odległość jednego dnia drogi. Przyszedłszy, usiadł pod jednym z janowców i pragnąc umrzeć, powiedział: «Wielki już czas, o Panie! Zabierz moje życie, bo nie jestem lepszy od moich przodków». Po czym położył się pod jednym z janowców i zasnął.\nA oto anioł, trącając go, powiedział mu: «Wstań, jedz!»\nEliasz spojrzał, a oto przy jego głowie podpłomyk i dzban z wodą. Zjadł więc i wypił, i znów się położył.\nPonownie anioł Pański wrócił i trącając go, powiedział: «Wstań, jedz, bo przed tobą długa droga». Powstawszy zatem, zjadł i wypił. Następnie umocniony tym pożywieniem szedł czterdzieści dni i czterdzieści nocy aż do Bożej góry Horeb.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R.: por. 9a)",
+      "opis": "",
+      "tekst": "Refren: Wszyscy zobaczcie, jak nasz Pan jest dobry.\nBędę błogosławił Pana po wieczne czasy, *\nJego chwała będzie zawsze na moich ustach.\nDusza moja chlubi się Panem, *\nniech słyszą to pokorni i niech się weselą.\nRefren.\nWysławiajcie razem ze mną Pana, *\nwspólnie wywyższajmy Jego imię.\nSzukałem pomocy u Pana, a On mnie wysłuchał *\ni wyzwolił od wszelkiej trwogi.\nRefren.\nSpójrzcie na Niego, a rozpromienicie się radością, *\noblicza wasze nie zapłoną wstydem.\nOto zawołał biedak i Pan go usłyszał, *\ni uwolnił od wszelkiego ucisku.\nRefren.\nAnioł Pański otacza szańcem bogobojnych, *\naby ich ocalić.\nSkosztujcie i zobaczcie, jak Pan jest dobry, *\nszczęśliwy człowiek, który znajduje w Nim ucieczkę.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Ef 4, 30 - 5, 2",
+      "opis": "Naśladować Boga, który objawił swoją miłość w Chrystusie",
+      "tekst": "Bracia:\nNie zasmucajcie Bożego Ducha Świętego, którym zostaliście opieczętowani na dzień odkupienia. Niech zniknie spośród was wszelka gorycz, uniesienie, gniew, wrzaskliwość, znieważanie - wraz z wszelką złością. Bądźcie dla siebie nawzajem dobrzy i miłosierni. Przebaczajcie sobie, tak jak i Bóg wam przebaczył w Chrystusie.\nBądźcie więc naśladowcami Boga, jako dzieci umiłowane, i postępujcie drogą miłości, bo i Chrystus was umiłował i samego siebie wydał za nas w ofierze i dani na woń miłą Bogu.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 6, 51ab",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ja jestem chlebem żywym, który zstąpił z nieba.\nJeśli ktoś spożywa ten chleb, będzie żył na wieki."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 6, 41-51",
+      "opis": "Chleb żywy, który zstąpił z nieba",
+      "tekst": "Żydzi szemrali przeciwko Jezusowi, dlatego że powiedział: «Ja jestem chlebem, który z nieba zstąpił». I mówili: «Czyż to nie jest Jezus, syn Józefa, którego ojca i matkę my znamy? Jakżeż może Он teraz mówić: Z nieba zstąpiłem».\nJezus rzekł im w odpowiedzi: «Nie szemrajcie między sobą! Nikt nie może przyjść do Mnie, jeżeli go nie pociągnie Ojciec, który Mnie posłał; Ja zaś wskrzeszę go w dniu ostatecznym. Napisane jest u Proroków: „Oni wszyscy będą uczniami Boga”. Każdy, kto od Ojca usłyszał i przyjął naukę, przyjdzie do Mnie. Nie znaczy to, aby ktokolwiek widział Ojca; jedynie Ten, który jest od Boga, widział Ojca. Zaprawdę, zaprawdę, powiadam wam: Kto we Mnie wierzy, ma życie wieczne.\nJa jestem chlebem życia. Ojcowie wasi jedli mannę na pustyni i pomarli. To jest chleb, który z nieba zstępuje: Kto go je, nie umrze. Ja jestem chlebem żywym, który zstąpił z nieba. Jeśli ktoś spożywa ten chleb, będzie żył na wieki. Chlebem, który Ja dam, jest moje Ciało, wydane za życie świata».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Pieśń ta jest radosnym wezwaniem do chwalenia Boga, co bezpośrednio nawiązuje do psalmu: 'Skosztujcie i zobaczcie, jak Pan jest dobry'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "409",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "W odpowiedzi na dar Ciała Chrystusa, o którym mówi Ewangelia, pieśń ta wyraża chęć złożenia Bogu daru z naszego życia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "234",
+      "piesn": "O Panie, Ty nam dajesz",
+      "opis": "Tekst tej pieśni wprost mówi o przyjmowaniu Ciała i Krwi Pańskiej jako pokarmu na życie wieczne, co jest głównym tematem Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "156",
+      "piesn": "Bądźże pozdrowiona, Hostio żywa",
+      "opis": "Jest to pieśń adoracyjna, idealna na uwielbienie po Komunii, skupiona na tajemnicy Chleba, który zstąpił z nieba.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "172",
+      "piesn": "Pan zstąpił z nieba",
+      "opis": "Pieśń bezpośrednio odnosi się do słów Jezusa 'Ja jestem chlebem żywym, który zstąpił z nieba', podsumowując liturgię dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Nawiązuje do troski Boga, który karmi swój lud, podobnie jak nakarmił Eliasza na pustyni i jak karmi nas swoim Ciałem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "To doskonały komentarz do drugiego czytania, które wzywa: 'Bądźcie dla siebie nawzajem dobrzy i miłosierni. Przebaczajcie sobie'.",
+      "moment": "ogolne"
+    }
+  ]
+}

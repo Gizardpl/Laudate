@@ -38,7 +38,7 @@
     {
       "numer": "554",
       "piesn": "Racz być, Chryste, przebłagany",
-      "opis": "Pieśń ta jest modlitwą do Chrystusa za wstawiennictwem wszystkich stanów Kościoła w niebie - aniołów, apostołów, męczenników i dziewic, co idealnie pasuje na rozpoczęcie uroczystości Wszystkich Świętych.",
+      "opis": "Pieśń ta jest modlitwą do Chrystusa za wstawiennictwem wszystkich stanów Kościoła w niebie, co idealnie pasuje na rozpoczęcie uroczystości Wszystkich Świętych.",
       "moment": "wejscie"
     },
     {
@@ -54,15 +54,15 @@
       "moment": "komunia"
     },
     {
-      "numer": "553",
-      "piesn": "Bądź uwielbion",
-      "opis": "Pieśń jest hymnem uwielbienia Boga w Jego świętych, łącząc głosy Kościoła pielgrzymującego z chórem zbawionych w niebie.",
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Uroczysty hymn chwały, który wzywa całą ziemię i niebo do wysławiania Boga, łącząc Kościół pielgrzymujący z triumfującym.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn Te Deum jest doskonałym wyborem na zakończenie tak wielkiej uroczystości, oddając chwałę Bogu wraz z całym Kościołem triumfującym.",
+      "numer": "553",
+      "piesn": "Bądź uwielbion",
+      "opis": "Pieśń jest hymnem uwielbienia Boga w Jego świętych, łącząc głosy Kościoła pielgrzymującego z chórem zbawionych w niebie.",
       "moment": "rozeslanie"
     },
     {

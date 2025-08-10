@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416123.Poniedzialek-VI-tydzien-zwykly-rok-II",
+  "tytul_dnia": "6 Poniedziałek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Jk 1, 1-11",
+      "opis": "To, co wystawia wiarę na próbę, rodzi wytrwałość",
+      "tekst": "Jakub, sługa Boga i Pana Jezusa Chrystusa, śle pozdrowienie dwunastu pokoleniom w diasporze.\nZa pełną radość poczytujcie sobie, bracia moi, ilekroć spadają na was różne doświadczenia. Wiedzcie, że to, co wystawia waszą wiarę na próbę, rodzi wytrwałość. Wytrwałość zaś winna być dziełem doskonałym, abyście byli doskonali i bez zarzutu, w niczym nie wykazując braków.\nJeśli zaś komuś z was brakuje mądrości, niech prosi o nią Boga, który daje wszystkim chętnie i nie wymawiając, a na pewno ją otrzyma. Niech zaś prosi z wiarą, a nie wątpi o niczym. Kto bowiem żywi wątpliwości, podobny jest do fali morskiej wzbudzonej wiatrem i miotanej to tu, to tam. Człowiek ten niech nie myśli, że otrzyma cokolwiek od Pana, bo jest mężem chwiejnym, niestałym na wszystkich swych drogach.\nNiech się zaś ubogi brat chlubi z wyniesienia swego, bogaty natomiast ze swego poniżenia, bo przeminie niby kwiat polny. Wzeszło bowiem palące słońce i wysuszyło łąkę, a kwiat jej opadł i zniknął piękny jej wygląd. Tak też bogaty przeminie w swoich poczynaniach.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 119 (118), 67-68. 71-72. 75-76 (R.: por. 77a)",
+      "opis": "",
+      "tekst": "Refren: Okaż mi litość, niech ożyję, Panie.\nBłądziłem, zanim przyszło utrapienie, *\nteraz jednak strzegę Twego słowa.\nDobry jesteś i dobrze czynisz, *\nnaucz mnie ustaw swoich.\nRefren.\nDobrze to dla mnie, że mnie poniżyłeś, *\nbym się nauczył Twoich ustaw.\nPrawo ust Twoich jest dla mnie lepsze *\nniż tysiące sztuk złota i srebra.\nRefren.\nWiem, Panie, że sprawiedliwe są Twoje wyroki, *\nże dotknąłeś mnie słusznie.\nNiech Twoja łaska będzie mi pociechą *\nzgodnie z obietnicą, daną Twemu słudze.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "J 14, 6",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ja jestem drogą i prawdą, i życiem.\nNikt nie przychodzi do Ojca inaczej jak tylko przeze Mnie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mk 8, 11-13",
+      "opis": "Jezus nie chce dać znaku",
+      "tekst": "Faryzeusze zaczęli rozprawiać z Jezusem, a chcąc wystawić Go na próbę, domagali się od Niego znaku. On zaś westchnął w głębi duszy i rzekł: «Czemu to plemię domaga się znaku? Zaprawdę, powiadam wam: żaden znak nie będzie dany temu plemieniu».\nA zostawiwszy ich, wsiadł z powrotem do łodzi i odpłynął na drugą stronę.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta jest wyrazem zaufania Bogu w doświadczeniach, co jest głównym tematem pierwszego czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę zawierzenia i oddania Bogu swoich prób i trudności, o których mówi św. Jakub.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Jest to prośba o wiarę, która nie domaga się znaków, jak faryzeusze, ale ufa Bogu bezwarunkowo.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń dziękczynna za Bożą pomoc w trudnościach, co jest odpowiedzią na treść psalmu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to modlitwa o Boże prowadzenie i wytrwałość w próbach, do której zachęca pierwsze czytanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Podkreśla szczęście płynące z zaufania Bożej Opatrzności, nawet w trudnych doświadczeniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, która jest źródłem siły w doświadczeniach.",
+      "moment": "ogolne"
+    }
+  ]
+}

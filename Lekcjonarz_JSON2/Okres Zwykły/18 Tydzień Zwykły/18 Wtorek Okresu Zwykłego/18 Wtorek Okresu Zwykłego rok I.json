@@ -30,44 +30,44 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
       "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, wyrażając prośbę o przebaczenie grzechu szemrania.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
       "opis": "Pieśń pokutna pasuje do postawy Aarona, który uznaje grzech i prosi o litość, a także Mojżesza, który wstawia się za Miriam.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "253",
+      "numer": "283",
       "piesn": "Zbliżam się w pokorze",
       "opis": "Wyraża postawę Piotra, który mimo zwątpienia i lęku, z pokorą zwraca się do Jezusa o ratunek.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
       "opis": "Uczniowie w łodzi wyznali: 'Prawdziwie jesteś Synem Bożym', a ten hymn jest uroczystym rozwinięciem tego wyznania wiary.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Pieśń umacnia wiarę w Chrystusa, który panuje nad żywiołami i prowadzi swój Kościół przez życiowe burze.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Idealnie pasuje do sceny na jeziorze, mówiąc o zaufaniu Bogu i Jego opiece pośród niebezpieczeństw.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Jest to pieśń o zaufaniu, które jest kluczowe w scenie kroczenia Piotra po wodzie i odpowiedzią na Jezusowe pytanie 'Czemu zwątpiłeś?'.",
       "moment": "ogolne"
     }

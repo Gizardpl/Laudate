@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Wobec zbrodni opisanej w pierwszym czytaniu, ta pieśń pokutna jest wołaniem o Boże miłosierdzie i sprawiedliwość.",
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Pieśń jest wołaniem o Bożą sprawiedliwość w obliczu zła opisanego w pierwszym czytaniu, a także echem psalmu.",
       "moment": "wejscie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
-      "opis": "Nowe prawo Chrystusa, polegające na nieodpłacaniu złem za zło, jest wyrazem miłości, do której wzywa ta pieśń.",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Wobec zbrodni i nienawiści, ofiarujemy Bogu pragnienie życia w miłości, która nie odpłaca złem za zło.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory i uniżenia, która jest konieczna, by przyjąć łaskę Bożą i żyć Ewangelią.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Komunia z Chrystusem umacnia nas do życia nowym przykazaniem miłości, które przezwycięża logikę odwetu.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Jest to pieśń uwielbienia dla Boga, który, jak mówi psalmista, brzydzi się człowiekiem podstępnym i krwawym.",
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Jest to modlitwa o miłosierdzie i sprawiedliwość, będąca odpowiedzią na zło i podstęp potępione w psalmie.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "353",
-      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
-      "opis": "Postawa niestawiania oporu złemu znajduje swoje najpełniejsze wypełnienie w Chrystusie na krzyżu.",
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jesteśmy posłani w świat pełen niesprawiedliwości, aby świadczyć o radykalnej nowości Ewangelii przebaczenia.",
       "moment": "rozeslanie"
     },
     {
       "numer": "96",
-      "piesn": "Kto się w opiekę",
-      "opis": "Nabot, wierny dziedzictwu przodków, został niesprawiedliwie skazany. Ta pieśń wyraża ufność w ostateczną sprawiedliwość Bożą.",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna jest wyrazem odcięcia się od postawy grzechu, ukazanej w czynie króla Achaba.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
-      "opis": "W świecie pełnym zła i niesprawiedliwości, ta pieśń jest aktem zawierzenia i zaufania miłosierdziu Bożemu.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to prośba o Boże prowadzenie na trudnej drodze życia według Ewangelii, a nie według zasad tego świata.",
       "moment": "ogolne"
     }
   ]

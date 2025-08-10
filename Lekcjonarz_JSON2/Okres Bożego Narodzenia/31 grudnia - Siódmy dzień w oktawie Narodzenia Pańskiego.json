@@ -44,13 +44,13 @@
     {
       "numer": "247",
       "piesn": "Jezusa ukrytego",
-      "opis": "Ewangelia mówi o Słowie, które zamieszkało wśród nas. Ta pieśń łączy tę tajemnicę z obecnością Jezusa w Eucharystii.",
+      "opis": "Ewangelia mówi o Słowie, które zamieszkało wśród nas, a ta pieśń łączy tę tajemnicę z obecnością Jezusa w Eucharystii.",
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest tradycyjnie śpiewany na zakończenie roku jako dziękczynienie Bogu za wszelkie łaski, co idealnie pasuje na dzień 31 grudnia.",
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Ten klasyczny hymn dziękczynny jest doskonałym wyrazem wdzięczności Bogu za wszystkie łaski otrzymane w kończącym się roku.",
       "moment": "uwielbienie"
     },
     {
@@ -62,13 +62,13 @@
     {
       "numer": "17",
       "piesn": "Grzechem Adama ludzie uwikłani",
-      "opis": "Choć to pieśń adwentowa, jej treść o Słowie, które staje się Ciałem, by zbawić człowieka, doskonale pasuje do Prologu Ewangelii św. Jana.",
+      "opis": "Treść o Słowie, które staje się Ciałem by zbawić człowieka, doskonale pasuje do Prologu Ewangelii św. Jana.",
       "moment": "ogolne"
     },
     {
-      "numer": "42",
-      "piesn": "Tryumfy Króla Niebieskiego",
-      "opis": "Radosna kolęda o zwycięstwie Chrystusa nad złem, co nawiązuje do pierwszego czytania o antychrystach i zwycięstwie wierzących.",
+      "numer": "238",
+      "piesn": "Idzie, idzie Bóg prawdziwy",
+      "opis": "Uroczysta pieśń o przyjściu prawdziwego Boga podkreśla majestat Wcielonego Słowa z Ewangelii św. Jana.",
       "moment": "ogolne"
     }
   ]

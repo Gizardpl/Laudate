@@ -66,15 +66,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga, który jest Panem historii i ostatecznym celem naszego życia.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "184",
       "piesn": "Nie zna śmierci Pan żywota",
       "opis": "Choć to pieśń wielkanocna, jej treść o zwycięstwie nad śmiercią i nadziei zmartwychwstania doskonale koresponduje z czytaniami.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń ta głosi zwycięstwo Chrystusa nad śmiercią, co jest naszą nadzieją w obliczu zapowiedzi czasów ostatecznych.",
       "moment": "ogolne"
     }
   ]

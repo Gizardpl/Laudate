@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417212.11-Niedziela-zwykla-rok-B",
+  "tytul_dnia": "11 Niedziela Okresu Zwykłego rok B",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Ez 17, 22-24",
+      "opis": "Bóg wywyższa drzewo niskie",
+      "tekst": "Tak mówi Pan Bóg: «Ja także wezmę wierzchołek z wysokiego cedru i zasadzę, z najwyższych jego pędów ułamię gałązkę i zasadzę ją na górze wyniosłej i wysokiej.\nNa wysokiej górze izraelskiej ją zasadzę. Ona wypuści gałązki i wyda owoc, i stanie się cedrem wspaniałym. Wszystko ptactwo pod nim zamieszka, wszystkie istoty skrzydlate zamieszkają w cieniu jego gałęzi.\nI wszystkie drzewa na polu poznają, że Ja jestem Pan, który poniża drzewo wysokie, który drzewo niskie wywyższa, który sprawia, że drzewo zielone usycha, który zieloność daje drzewu suchemu. Ja, Pan, rzekłem i to uczynię».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 92 (91), 2-3. 13-14. 15-16 (R.: por. 2)",
+      "opis": "",
+      "tekst": "Refren: Dobrze jest śpiewać Tobie, Panie Boże.\nDobrze jest dziękować Panu, *\nśpiewać Twojemu imieniu, Najwyższy,\nrano głosić Twoją łaskawość, *\na wierność Twoją nocami.\nRefren.\nSprawiedliwy zakwitnie jak palma, *\nrozrośnie się jak cedr na Libanie.\nZasadzeni w domu Pańskim *\nrozkwitną na dziedzińcach naszego Boga.\nRefren.\nNawet i w starości wydadzą owoc, *\nzawsze pełni życiodajnych soków,\naby świadczyć, że Pan jest sprawiedliwy, *\nOn moją Opoką i nie ma w Nim nieprawości.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "2 Kor 5, 6-10",
+      "opis": "Staramy się podobać Bogu",
+      "tekst": "Bracia:\nMając ufność, wiemy, że jak długo pozostajemy w ciele, jesteśmy pielgrzymami, z daleka od Pana. Albowiem według wiary, a nie dzięki widzeniu postępujemy. Mamy jednak nadzieję i chcielibyśmy raczej opuścić nasze ciało i stanąć w obliczu Pana.\nDlatego też staramy się Jemu podobać, czy to gdy z Nim, czy gdy z daleka od Niego jesteśmy. Wszyscy bowiem musimy stanąć przed trybunałem Chrystusa, aby każdy otrzymał zapłatę za uczynki dokonane w ciele, złe lub dobre.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mk 4, 26-34",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ziarnem jest słowo Boże, a siewcą jest Chrystus,\nkażdy, kto Go znajdzie, będzie żył na wieki."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mk 4, 26-34",
+      "opis": "Przypowieść o ziarnku gorczycy",
+      "tekst": "Jezus mówił do tłumów:\n«Z królestwem Bożym dzieje się tak, jak gdyby ktoś nasienie wrzucił w ziemię. Czy śpi, czy czuwa, we dnie i w nocy, nasienie kiełkuje i rośnie, sam nie wie jak. Ziemia sama z siebie wydaje plon, najpierw źdźbło, potem kłos, a potem pełne ziarno w kłosie. Gdy zaś plon dojrzeje, zaraz zapuszcza sierp, bo pora już na żniwo».\nMówił jeszcze: «Z czym porównamy królestwo Boże lub w jakiej przypowieści je przedstawimy? Jest ono jak ziarnko gorczycy; gdy się je wsiewa w ziemię, jest najmniejsze ze wszystkich nasion na ziemi. Lecz wsiane, wyrasta i staje się większe od innych jarzyn; wypuszcza wielkie gałęzie, tak że ptaki podniebne gnieżdżą się w jego cieniu».\nW wielu takich przypowieściach głosił im naukę, o ile mogli ją rozumieć. A bez przypowieści nie przemawiał do nich. Osobno zaś objaśniał wszystko swoim uczniom.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń mówi o wzrastaniu Królestwa Chrystusowego, co jest głównym tematem przypowieści z Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "157",
+      "piesn": "Boże, w ofierze",
+      "opis": "W tej pieśni ofiarujemy owoce naszej pracy, które Bóg, jak w przypowieści o zasiewie, pomnaża swoją łaską.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Ziarno wrzucone w ziemię wydaje plon. Eucharystia jest owocem ziemi i pracy rąk ludzkich, a przede wszystkim darem samego Boga.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Jest to radosne wezwanie do dziękczynienia, o którym mówi psalm responsoryjny: 'Dobrze jest dziękować Panu'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Jesteśmy posłani, by siać ziarno Słowa Bożego, które ma moc wzrastać i przemieniać świat.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Królestwo Boże, jak wielkie drzewo, gromadzi wszystkich ludzi. Ta pieśń mówi o jedności Kościoła.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Królestwem Bożym i wiarę w jego wzrost, nawet z najmniejszych początków.",
+      "moment": "ogolne"
+    }
+  ]
+}

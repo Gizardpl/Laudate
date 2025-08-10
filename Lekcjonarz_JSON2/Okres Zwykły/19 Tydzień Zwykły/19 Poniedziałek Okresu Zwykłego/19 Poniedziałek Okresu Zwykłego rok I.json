@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Pieśń wyraża pragnienie służenia Bogu i przestrzegania Jego praw, co jest głównym przesłaniem pierwszego czytania z Księgi Powtórzonego Prawa.",
+      "opis": "Pieśń jest deklaracją wierności Bogu i Jego prawu, do czego wzywa Mojżesz w pierwszym czytaniu.",
       "moment": "wejscie"
     },
     {
-      "numer": "157",
-      "piesn": "Boże, w ofierze",
-      "opis": "Pasuje do tematu ofiary Syna Człowieczego, zapowiedzianej w Ewangelii, a także naszego daru posłuszeństwa woli Bożej.",
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Jest odpowiedzią na wezwanie do służenia Panu z całego serca, ofiarując Mu całe nasze życie.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory wobec tajemnicy Chrystusa, Syna Bożego, który jako Syn jest wolny, a mimo to uniża się, by nie dać powodu do zgorszenia.",
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Wyraża postawę uniżenia wobec tajemnicy Chrystusa, Syna Bożego, który zapowiada swoją mękę i płaci podatek.",
       "moment": "komunia"
     },
     {
-      "numer": "506",
-      "piesn": "Wysławiajcie Pana",
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
       "opis": "Jest to pieśń chwały, która doskonale koresponduje z wezwaniem psalmu: 'Chwal, Jeruzalem, Pana'.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Podkreśla królewską godność Chrystusa, do której nawiązuje Jezus w rozmowie z Piotrem o płaceniu podatków przez synów królewskich.",
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Podkreśla królewską godność Chrystusa, Syna wolnego od płacenia podatków, któremu pragniemy służyć.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "408",
-      "piesn": "Com przyrzekł Bogu",
-      "opis": "Pieśń o wierności Bogu dobrze oddaje ducha pierwszego czytania, wzywającego do służenia Panu z całego serca i całej duszy.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pierwsze czytanie wzywa do miłości Boga i bliźniego, co znajduje swoje wypełnienie w nowym przykazaniu Chrystusa.",
       "moment": "ogolne"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Tekst tej pieśni o Bożej opiece może być pocieszeniem w kontekście smutnej zapowiedzi męki i śmierci Jezusa z Ewangelii.",
+      "opis": "W kontekście zapowiedzi męki Jezusa, pieśń ta jest wyrazem ufności w Bożą opiekę i ocalenie.",
       "moment": "ogolne"
     }
   ]

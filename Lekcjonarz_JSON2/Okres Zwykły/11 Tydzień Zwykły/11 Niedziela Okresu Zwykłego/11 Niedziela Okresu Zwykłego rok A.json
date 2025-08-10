@@ -36,45 +36,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "425",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Pieśń jest bezpośrednim nawiązaniem do Ewangelii o rozesłaniu Dwunastu, aby głosili Dobrą Nowinę.",
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do pierwszego czytania, w którym Bóg nazywa swój lud 'królestwem kapłanów'.",
       "moment": "wejscie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "W odpowiedzi na Boże wybranie, opisane w pierwszym czytaniu, ta pieśń jest aktem ofiarowania wierności Bogu.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "W odpowiedzi na wezwanie Jezusa, by prosić o robotników na żniwo, ofiarujemy naszą gotowość do podjęcia misji.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "485",
-      "piesn": "Pan jest pasterzem moim",
-      "opis": "Jezus lituje się nad tłumem jak nad owcami bez pasterza. Eucharystia jest pokarmem od Dobrego Pasterza.",
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Ewangelia ukazuje Jezusa jako Pasterza litującego się nad owcami, a Komunia jest pokarmem od Niego.",
       "moment": "komunia"
     },
     {
-      "numer": "506",
-      "piesn": "Wysławiajcie Pana",
-      "opis": "Radosny charakter tej pieśni dobrze koresponduje z wezwaniem psalmu: 'Służcie Panu z weselem'.",
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Jest to radosna odpowiedź na wezwanie psalmu: 'Służcie Panu z weselem, stańcie przed obliczem Pana z okrzykami radości'.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Jesteśmy posłani przez Chrystusa, naszego Króla, by budować Jego królestwo kapłanów i lud święty.",
+      "numer": "225",
+      "piesn": "Nadziejo Izraela",
+      "opis": "Pieśń jest modlitwą o powołania, stanowiącą bezpośrednią odpowiedź na prośbę Jezusa z Ewangelii.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "119",
+      "numer": "102",
       "piesn": "Boże, w dobroci",
-      "opis": "Pieśń dziękczynna za miłość Boga, który pojednał nas ze sobą przez śmierć swojego Syna.",
+      "opis": "Pieśń dziękczynna za miłość Boga, który pojednał nas ze sobą przez śmierć swojego Syna, o czym mówi drugie czytanie.",
       "moment": "ogolne"
     },
     {
-      "numer": "388",
-      "piesn": "Złączeni w jedno",
-      "opis": "Nawiązuje do Izraela jako ludu świętego i własności Boga, co jest zapowiedzią Kościoła zjednoczonego w Chrystusie.",
+      "numer": "592",
+      "piesn": "Boże, zmiłuj się nad nami",
+      "opis": "Jest to modlitwa o błogosławieństwo dla ludu, który Bóg wybrał jako swoją szczególną własność.",
       "moment": "ogolne"
     }
   ]

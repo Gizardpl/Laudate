@@ -1,0 +1,75 @@
+{
+  "url": "https://liturgia.wiara.pl/doc/416400.Sobota-28-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "28 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Ef 1, 15-23",
+      "opis": "Bóg ustanowił Chrystusa Głową Kościoła",
+      "tekst": "Bracia:\nUsłyszawszy o waszej wierze w Pana Jezusa i o miłości względem wszystkich świętych, nie zaprzestaję dziękczynienia, wspominając was w moich modlitwach. Proszę w nich, aby Bóg Pana naszego, Jezusa Chrystusa, Ojciec chwały, dał wam ducha mądrości i objawienia w głębszym poznawaniu Jego samego. Niech da wam światłe oczy serca, byście wiedzieli, czym jest nadzieja, do której On wzywa, czym bogactwo chwały Jego dziedzictwa wśród świętych i czym przeogromna Jego moc względem nas wierzących - na podstawie działania Jego potęgi i siły.\nWykazał On je, gdy wskrzesił Go z martwych i posadził  po swojej prawicy na wyżynach niebieskich, ponad wszelką Zwierzchnością i Władzą, i Mocą, i Panowaniem, i ponad wszelkim innym imieniem, wzywanym nie tylko w tym wieku, ale i w przyszłym.\nI wszystko poddał pod Jego stopy, a Jego samego ustanowił nade wszystko Głową dla Kościoła, który jest Jego Ciałem, Pełnią Tego, który napełnia wszystko wszelkimi sposobami.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 8, 2 i 3b. 4-5. 6-7 (R.: por. 7)",
+      "opis": "",
+      "tekst": "Refren: Dałeś Synowi władzę nad swym dziełem.\nO Panie, nasz Panie, *\njak przedziwne jest Twoje imię po całej ziemi.\nTy swój majestat wyniosłeś nad niebiosa. *\nUsta dzieci i niemowląt oddają Ci chwałę.\nRefren.\nGdy patrzę na Twe niebo, dzieło palców Twoich, *\nna księżyc i gwiazdy, które Ty utwierdziłeś:\nczym jest człowiek, że o nim pamiętasz, *\nczym syn człowieczy, że troszczysz się o niego?\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. J 15, 26b. 27a",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Świadectwo o Mnie da Duch prawdy\ni wy także świadczyć będziecie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 12, 8-12",
+      "opis": "Duch Święty czuwa nad uczniami Jezusa",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Kto się przyzna do Mnie wobec ludzi, przyzna się i Syn Człowieczy do niego wobec aniołów Bożych; a kto się Mnie wyprze wobec ludzi, tego wyprę się i Ja wobec aniołów Bożych.\nKażdemu, kto powie jakieś słowo przeciw Synowi Człowieczemu, będzie odpuszczone, lecz temu, kto bluźni przeciw Duchowi Świętemu, nie będzie odpuszczone.\nKiedy was ciągać będą po synagogach, urzędach i władzach, nie martwcie się, w jaki sposób albo czym macie się bronić lub co mówić, bo Duch Święty pouczy was w tej właśnie godzinie, co należy powiedzieć».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "217",
+      "piesn": "O Stworzycielu, Duchu",
+      "opis": "Pieśń jest modlitwą do Ducha Świętego, który, jak obiecuje Jezus w Ewangelii, pouczy nas, co mamy mówić w godzinie próby.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Wobec wezwania do odważnego przyznawania się do Chrystusa, ta pieśń jest aktem ofiarowania i prośbą o umocnienie w wierze.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "W Komunii przyjmujemy Tego, którego mamy wyznawać. Ta pieśń jest prośbą do Ducha Świętego o dary potrzebne do dawania świadectwa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który jest duchem mądrości i objawienia, o którego modli się św. Paweł w pierwszym czytaniu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest wyznaniem wierności Chrystusowi i Kościołowi, którego Głową jest Chrystus, jak mówi pierwsze czytanie.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń podkreśla godność Ludu Bożego, który jest Ciałem Chrystusa, o czym z zachwytem pisze św. Paweł.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Pieśń jest wezwaniem do Ducha Świętego, który jest źródłem życia i mocy do dawania świadectwa, jak uczy Ewangelia.",
+      "moment": "ogolne"
+    }
+  ]
+}

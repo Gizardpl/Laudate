@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru Boga, co jest echem słów narodu z pierwszego czytania: 'My również chcemy służyć Panu'.",
+      "opis": "Pieśń jest mocną deklaracją wyboru, która jest echem słów Jozuego i ludu: 'Ja sam i mój dom służyć chcemy Panu'.",
       "moment": "wejscie"
     },
     {
-      "numer": "408",
-      "piesn": "Com przyrzekł Bogu",
-      "opis": "Tekst pieśni o wierności złożonym obietnicom idealnie pasuje do sceny odnowienia przymierza w Sychem.",
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "W odpowiedzi na wezwanie do służby Panu, ofiarujemy Mu nasze serca i całe życie z dziecięcą prostotą.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
-      "piesn": "Panie, dobry jak chleb",
-      "opis": "Ewangelia o dzieciach przychodzących do Jezusa przypomina o prostocie serca, z jaką powinniśmy przyjmować Go w Komunii Świętej.",
+      "numer": "261",
+      "piesn": "Pan Jezus już się zbliża",
+      "opis": "Pieśń wyraża radość i prostotę serca dziecka, które przychodzi do Jezusa, o czym mówi Ewangelia.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Pieśń uwielbienia za Boży dar mądrości i prowadzenia, o którym mówi psalmista: 'Błogosławię Pana, który dał mi rozsądek'.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to osobiste wyznanie wiary i uwielbienia, które pasuje do postawy psalmisty: 'Pan moim dziedzictwem'.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "425",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Po odnowieniu przymierza i przyjęciu błogosławieństwa, jesteśmy posłani, aby świadczyć o Bogu, który jest naszym dziedzictwem.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Po odnowieniu przymierza i przyjęciu błogosławieństwa, prosimy Pana o prowadzenie nas z dziecięcą ufnością.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "485",
-      "piesn": "Pan jest pasterzem moim",
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
       "opis": "Treść pieśni koresponduje z refrenem psalmu 'Pan mym dziedzictwem, moim przeznaczeniem', wyrażając pełne zaufanie Bogu.",
       "moment": "ogolne"
     },
     {
-      "numer": "648",
-      "piesn": "O, Maryjo, przyjm w ofierze",
-      "opis": "Pieśń maryjna o charakterze ofiarnym, w której zawierzamy siebie, co wpisuje się w akt wyboru i oddania się Bogu z pierwszego czytania.",
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Pieśń ta wprost nawiązuje do sceny błogosławienia dzieci z Ewangelii, prosząc o przyjęcie do Serca Jezusowego.",
       "moment": "ogolne"
     }
   ]

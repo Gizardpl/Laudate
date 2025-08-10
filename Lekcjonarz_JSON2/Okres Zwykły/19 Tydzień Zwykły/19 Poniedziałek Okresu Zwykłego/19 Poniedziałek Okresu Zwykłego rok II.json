@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn Te Deum jest idealnym otwarciem liturgii, której pierwsze czytanie opisuje majestatyczną wizję chwały Pańskiej.",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Pieśń jest majestatycznym hymnem, który oddaje atmosferę wizji chwały Pańskiej opisanej przez proroka Ezechiela.",
       "moment": "wejscie"
     },
     {
-      "numer": "409",
+      "numer": "598",
       "piesn": "Cóż Ci, Jezu, damy",
-      "opis": "Pieśń ta wyraża gotowość do złożenia daru w odpowiedzi na zapowiedź ofiary Jezusa i Jego gest zapłacenia podatku za siebie i Piotra.",
+      "opis": "Wobec zapowiedzi męki, ta pieśń jest ofiarą naszego serca i pragnieniem, by Chrystus królował w naszym życiu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "226",
+      "numer": "251",
       "piesn": "Kłaniam się Tobie",
-      "opis": "Pieśń adoracyjna, która oddaje cześć ukrytemu Bóstwu, co koresponduje z postawą Ezechiela padającego na twarz przed chwałą Pana.",
+      "opis": "Pieśń adoracyjna, w której wyznajemy wiarę w Bóstwo ukryte w Eucharystii, podobnie jak Ezechiel padł na twarz przed chwałą Pana.",
       "moment": "komunia"
     },
     {
-      "numer": "434",
-      "piesn": "Kleszczmy rękoma",
-      "opis": "Radosne wezwanie do chwalenia Boga przez wszystkie narody doskonale współgra z treścią psalmu responsoryjnego.",
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Jest to muzyczne opracowanie psalmu 148, który wzywa całe stworzenie do chwalenia majestatu Pana.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Podkreśla królewską godność Chrystusa, o której mowa w Ewangelii w kontekście wolności synów królewskich od płacenia podatków.",
+      "numer": "315",
+      "piesn": "Króluj nam, Chryste",
+      "opis": "Podkreśla królewską godność Chrystusa, Syna Bożego, który jest wolny od ziemskich danin, jak słyszymy w Ewangelii.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "427",
-      "piesn": "Jezu, Tyś jest światłością",
-      "opis": "Nawiązuje do blasku i ognia z wizji Ezechiela, ukazując Chrystusa jako światłość i objawienie chwały Ojca.",
+      "numer": "109",
+      "piesn": "Pan Jezus grzechy nasze",
+      "opis": "Nawiązuje do zapowiedzi męki i zmartwychwstania Syna Człowieczego, która jest centralnym punktem Ewangelii.",
       "moment": "ogolne"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory wobec tajemnicy Chrystusa, Syna Bożego, który zapowiada swoją mękę i uniża się płacąc podatek.",
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Cud ze staterem w pyszczku ryby jest znakiem Bożej opatrzności, o której z ufnością mówi ta pieśń.",
       "moment": "ogolne"
     }
   ]

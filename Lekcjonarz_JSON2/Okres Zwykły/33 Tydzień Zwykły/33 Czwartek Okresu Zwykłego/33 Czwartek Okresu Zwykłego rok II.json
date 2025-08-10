@@ -60,15 +60,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga, którą w niebie oddają Mu wszystkie stworzenia, jak opisuje to Apokalipsa.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "595",
       "piesn": "Cały świat niech śpiewa",
       "opis": "Pieśń wzywa cały świat do radosnego śpiewu na cześć Pana, podobnie jak czynią to zbawieni w wizji niebiańskiej liturgii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
+      "opis": "Radosny hymn, który jest echem 'nowej pieśni' śpiewanej Barankowi przez wszystkie narody w Apokalipsie.",
       "moment": "ogolne"
     }
   ]

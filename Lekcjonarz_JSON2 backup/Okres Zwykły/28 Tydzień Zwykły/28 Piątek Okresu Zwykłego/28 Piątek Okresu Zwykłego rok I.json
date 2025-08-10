@@ -1,0 +1,75 @@
+{
+  "url": "https://liturgia.wiara.pl/doc/416407.Piatek-28-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "28 Piątek Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Rz 4, 1-8",
+      "opis": "Abraham został usprawiedliwiony przez wiarę",
+      "tekst": "Bracia:\nZapytajmy, co zyskał Abraham, praojciec nasz według ciała? Jeżeli bowiem Abraham został usprawiedliwiony dzięki uczynkom, ma powód do chlubienia się, ale nie przed Bogiem. Bo cóż mówi Pismo? «Uwierzył Abraham Bogu i zostało mu to policzone za sprawiedliwość».\nOtóż temu, który pracuje, liczy się zapłatę nie tytułem łaski, lecz należności. Temu jednak, który nie wykonuje pracy, a wierzy w Tego, co usprawiedliwia grzesznika, wiarę jego liczy się za tytuł do usprawiedliwienia, zgodnie z pochwałą, jaką Dawid wypowiada o człowieku, którego Bóg usprawiedliwia niezależnie od uczynków: «Błogosławieni ci, których nieprawości zostały odpuszczone i których grzechy zostały zakryte. Błogosławiony mąż, któremu Pan nie liczy grzechu».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 32 (31), 1b-2. 5 i 11 (R.: por. 7)",
+      "opis": "",
+      "tekst": "Refren: Tyś mą ucieczką i moją radością.\nSzczęśliwy człowiek, †\nktóremu nieprawość została odpuszczona, *\na jego grzech zapomniany.\nSzczęśliwy ten, któremu Pan nie poczytuje winy, *\na w jego duszy nie kryje się podstęp.\nRefren.\nGrzech wyznałem Tobie i nie skryłem mej winy. †\nRzekłem: «Wyznaję mą nieprawość Panu», *\na Ty darowałeś niegodziwość mego grzechu.\nCieszcie się i weselcie w Panu, sprawiedliwi, *\nradośnie śpiewajcie wszyscy prawego serca!\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Ps 33 (32), 22",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Niech nas ogarnie Twoja łaska, Panie,\nwedług nadziei pokładanej w Tobie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 12, 1-7",
+      "opis": "Głosić słowo Boże bez obawy",
+      "tekst": "Kiedy ogromne tłumy zebrały się koło Jezusa, tak że jedni cisnęli się na drugich, zaczął mówić najpierw do swoich uczniów: «Strzeżcie się kwasu, to znaczy obłudy faryzeuszów. Nie ma bowiem nic ukrytego, co by nie wyszło na jaw, ani nic tajemnego, co by się nie stało wiadome. Dlatego wszystko, co powiedzieliście w mroku, w świetle będzie słyszane, a co w izbie szeptaliście do ucha, głoszone będzie na dachach.\nA mówię wam, przyjaciołom moim: Nie bójcie się tych, którzy zabijają ciało, a potem nic już więcej uczynić nie mogą. Pokażę wam, kogo się macie obawiać: bójcie się Tego, który po zabiciu ma moc wtrącić do piekła. Tak, mówię wam: Tego się bójcie! Czyż nie sprzedają pięciu wróbli za dwa asy? A przecież żaden z nich nie jest zapomniany w oczach Bożych. U was zaś nawet włosy na głowie wszystkie są policzone. Nie bójcie się: jesteście ważniejsi niż wiele wróbli».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "614",
+      "piesn": "Panie, umocnij wiarę naszą",
+      "opis": "Pierwsze czytanie ukazuje Abrahama jako wzór wiary. Ta pieśń jest modlitwą o umocnienie naszej wiary na jego wzór.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Wobec wezwania Jezusa 'Nie bójcie się', ta pieśń jest aktem ofiarowania i zawierzenia się Bożej opiece.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest wyznaniem wiary w Tego, który nas usprawiedliwia, o czym mówi pierwsze czytanie.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "98",
+      "piesn": "Błogosławiony, komu odpuszczone",
+      "opis": "Dziękczynna pieśń, która jest echem psalmu responsoryjnego o szczęściu człowieka, któremu Bóg odpuścił grzechy.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest wyznaniem wierności Chrystusowi bez lęku, do czego wzywa Ewangelia, zapewniając o Bożej opatrzności.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "W kontekście Ewangelii, która zapewnia, że jesteśmy ważniejsi niż wróble, ta pieśń jest wyrazem ufności w Bożą opatrzność.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Pieśń wyraża pragnienie bliskości z Bogiem, który jest źródłem naszego bezpieczeństwa i odwagi w głoszeniu Ewangelii.",
+      "moment": "ogolne"
+    }
+  ]
+}

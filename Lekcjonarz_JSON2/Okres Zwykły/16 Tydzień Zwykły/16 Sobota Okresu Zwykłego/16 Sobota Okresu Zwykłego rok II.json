@@ -30,44 +30,44 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Pieśń jest odpowiedzią na wezwanie do nawrócenia i poprawy postępowania, które Jeremiasz kieruje do ludu.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń ta jest osobistą odpowiedzią na wezwanie proroka Jeremiasza do nawrócenia i porzucenia grzesznego postępowania.",
       "moment": "wejscie"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Prośba o oczyszczenie z grzechów wymienionych w pierwszym czytaniu jest warunkiem godnego złożenia ofiary.",
+      "numer": "100",
+      "piesn": "Boże litościwy, zmiłuj się nade mną!",
+      "opis": "Prośba o oczyszczenie z grzechów wymienionych przez Jeremiasza jest warunkiem godnego złożenia ofiary serca.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "486",
-      "piesn": "Panie, pragnienia ludzkich serc",
+      "numer": "605",
+      "piesn": "Jak miłe przybytki",
       "opis": "Pieśń wyraża tęsknotę za przebywaniem w domu Bożym, o której mówi psalmista, w przeciwieństwie do tych, którzy czynią go 'jaskinią zbójców'.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest wyrazem czci dla Boga, którego świątynia ma być domem modlitwy, a nie miejscem fałszywego kultu.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń uwielbienia za Bożą dobroć i ratunek, która kontrastuje z postawą ludu, który pokładał ufność w 'zwodniczych słowach'.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Wobec przestrogi przed złem (chwastem) w świecie, pieśń ta jest deklaracją wyboru życia zgodnego z wolą Bożą.",
+      "opis": "Wobec przestrogi proroka przed złem (chwastem) w świecie, pieśń ta jest deklaracją wyboru życia zgodnego z wolą Bożą.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "388",
-      "piesn": "Złączeni w jedno",
+      "numer": "242",
+      "piesn": "Jeden chleb",
       "opis": "Kościół, rola Boża, jest miejscem, gdzie dobro i zło istnieją obok siebie aż do czasu żniwa. Pieśń wzywa do jedności w dobrym.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Przypowieść o chwaście uczy cierpliwości Boga. Ta pieśń jest aktem zaufania Jego miłosierdziu i ostatecznej sprawiedliwości.",
       "moment": "ogolne"
     }

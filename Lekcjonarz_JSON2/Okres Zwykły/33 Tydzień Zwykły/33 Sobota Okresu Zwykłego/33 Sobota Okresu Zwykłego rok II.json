@@ -60,15 +60,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga żywych, o którym mówi Jezus, i dziękczynieniem za obietnicę życia wiecznego.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "178",
       "piesn": "Chrystus Pan zmartwychwstał",
       "opis": "Prosta i radosna pieśń wielkanocna, która w kontekście Ewangelii przypomina o fundamencie naszej wiary w zmartwychwstanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "183",
+      "piesn": "Nadzieja nasza w Zmartwychwstałym",
+      "opis": "Pieśń ta wyraża fundamentalną prawdę dnia: nasza nadzieja jest w Zmartwychwstałym Chrystusie, co jest odpowiedzią na pytanie saduceuszy.",
       "moment": "ogolne"
     }
   ]

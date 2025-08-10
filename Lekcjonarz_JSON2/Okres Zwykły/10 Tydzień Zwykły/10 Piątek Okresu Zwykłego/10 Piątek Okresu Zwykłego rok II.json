@@ -30,15 +30,15 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "486",
-      "piesn": "Panie, pragnienia ludzkich serc",
-      "opis": "Pieśń wyraża tęsknotę za Bogiem, która jest echem wołania psalmisty: 'Szukam, o Panie, Twojego oblicza'.",
+      "numer": "600",
+      "piesn": "Do Ciebie wznoszę serce me",
+      "opis": "Pieśń jest echem wołania psalmisty: 'Szukam, o Panie, Twojego oblicza', wyrażając tęsknotę za Bogiem.",
       "moment": "wejscie"
     },
     {
       "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Ewangelia wzywa do radykalnej walki z grzechem. Ta pieśń jest prośbą o czyste serce i ofiarowanie Bogu naszej woli.",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Ewangelia wzywa do radykalnej walki z grzechem; ta pieśń jest prośbą o czyste serce, które możemy ofiarować Bogu.",
       "moment": "ofiarowanie"
     },
     {
@@ -48,27 +48,27 @@
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
       "opis": "Jest to pieśń uwielbienia dla Boga, który jest pomocą i ocaleniem, o czym z nadzieją mówi psalmista.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "408",
-      "piesn": "Com przyrzekł Bogu",
-      "opis": "Wierność przysiędze małżeńskiej i radykalizm w walce z grzechem są wyrazem naszej wierności Bogu.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Radykalne wymagania Ewangelii dotyczące czystości i wierności są możliwe do spełnienia tylko w mocy przykazania miłości.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "427",
+      "numer": "765",
       "piesn": "Jezu, Tyś jest światłością",
       "opis": "Nawiązuje do aklamacji, która wzywa nas, byśmy byli źródłem światła w świecie, trzymając się Słowa Życia.",
       "moment": "ogolne"
     },
     {
-      "numer": "425",
+      "numer": "222",
       "piesn": "Idźcie na cały świat",
-      "opis": "Bóg posyła Eliasza z nową misją. My również jesteśmy posłani, by głosić Ewangelię czystości i wierności.",
+      "opis": "Bóg posyła Eliasza z nową misją; my również jesteśmy posłani, by głosić Ewangelię czystości i wierności.",
       "moment": "ogolne"
     }
   ]

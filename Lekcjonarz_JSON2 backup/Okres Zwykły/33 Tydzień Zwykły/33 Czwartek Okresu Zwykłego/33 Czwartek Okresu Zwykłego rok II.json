@@ -1,0 +1,75 @@
+{
+  "url": "https://liturgia.wiara.pl/doc/414206.Czwartek-33-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "33 Czwartek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Ap 5, 1-10",
+      "opis": "Bóg wręcza Barankowi księgę przeznaczeń",
+      "tekst": "Ja, Jan, ujrzałem na prawej dłoni Zasiadającego na tronie księgę zapisaną wewnątrz i na odwrocie opieczętowaną siedmiu pieczęciami.\nI ujrzałem potężnego anioła, obwieszczającego głosem donośnym: «Kto godzien jest otworzyć księgę i złamać jej pieczęcie?» A nie mógł nikt - na niebie ani na ziemi, ani pod ziemią - otworzyć księgi ani na nią patrzeć. A ja bardzo płakałem, że nie znalazł się nikt godny, by księgę otworzyć ani na nią patrzeć.\nI mówi do mnie jeden ze Starców: «Przestań płakać! Oto zwyciężył Lew z pokolenia Judy, Odrośl Dawida, tak że otworzy księgę i siedem jej pieczęci».\nI ujrzałem między tronem z czterema Istotami żyjącymi a kręgiem Starców stojącego Baranka, jakby zabitego, a miał siedem rogów i siedmioro oczu, którymi jest siedem Duchów Boga wysłanych na całą ziemię. On poszedł i z prawicy Zasiadającego na tronie wziął księgę. A kiedy wziął księgę, cztery Istoty żyjące i dwudziestu czterech Starców upadło przed Barankiem, każdy mając harfę i złote czasze pełne kadzideł, którymi są modlitwy świętych. I taką nową pieśń śpiewają: «Godzien jesteś wziąć księgę i jej pieczęcie otworzyć, bo zostałeś zabity i krwią Twoją nabyłeś dla Boga ludzi z każdego pokolenia, języka, ludu i narodu, i uczyniłeś ich Bogu naszemu królestwem i kapłanami, a będą królować na ziemi».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 149, 1b-2. 3-4. 5-6a i 9b (R.: por. Ap 5, 10)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Tyś nas uczynił kapłanami Boga.\nŚpiewajcie Panu pieśń nową, *\ngłoście Jego chwałę w zgromadzeniu świętych.\nNiech się Izrael cieszy swoim Stwórcą, *\na synowie Syjonu radują swym Królem.\nRefren.\nNiech imię Jego czczą tańcem, *\nniech grają Mu na bębnie i cytrze.\nBo Pan swój lud miłuje, *\npokornych wieńczy zwycięstwem.\nRefren.\nNiech święci cieszą się w chwale, *\nniech się weselą przy uczcie niebieskiej.\nChwała Boża niech będzie w ich ustach; *\nto jest chwałą wszystkich Jego świętych.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Ps 95 (94), 8a. 7d",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nie zatwardzajcie dzisiaj serc waszych,\nlecz słuchajcie głosu Pańskiego."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 19, 41-44",
+      "opis": "Zapowiedź zburzenia Jerozolimy",
+      "tekst": "Gdy Jezus był już blisko Jerozolimy, na widok miasta zapłakał nad nim i rzekł: «O gdybyś i ty poznało w ten dzień to, co służy pokojowi! Ale teraz zostało to zakryte przed twoimi oczami.\nBo przyjdą na ciebie dni, gdy twoi nieprzyjaciele otoczą cię wałem, oblegną cię i ścisną zewsząd. Powalą na ziemię ciebie i twoje dzieci z tobą, a nie zostawią w tobie kamienia na kamieniu za to, żeś nie rozpoznało czasu twojego nawiedzenia».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "278",
+      "piesn": "Upadnij na kolana",
+      "opis": "Pieśń jest aktem adoracji Boga, na wzór Starców z Apokalipsy, którzy upadają przed Barankiem.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "233",
+      "piesn": "Bądźże pozdrowiona",
+      "opis": "W tej pieśni pozdrawiamy Baranka Bożego ukrytego w Hostii, Tego, który w pierwszym czytaniu jest godzien otworzyć zapieczętowaną księgę.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "260",
+      "piesn": "Oto Święte Ciało Pana",
+      "opis": "Pieśń nazywa Jezusa w Eucharystii 'Bożym Barankiem', co bezpośrednio nawiązuje do wizji z Apokalipsy.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Dziękczynienie za to, że Baranek uczynił nas 'królestwem i kapłanami', co jest treścią nowej pieśni śpiewanej w niebie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Wobec płaczu Jezusa nad Jerozolimą, która nie rozpoznała czasu nawiedzenia, ta pieśń jest wezwaniem do nawrócenia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga, którą w niebie oddają Mu wszystkie stworzenia, jak opisuje to Apokalipsa.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Pieśń wzywa cały świat do radosnego śpiewu na cześć Pana, podobnie jak czynią to zbawieni w wizji niebiańskiej liturgii.",
+      "moment": "ogolne"
+    }
+  ]
+}

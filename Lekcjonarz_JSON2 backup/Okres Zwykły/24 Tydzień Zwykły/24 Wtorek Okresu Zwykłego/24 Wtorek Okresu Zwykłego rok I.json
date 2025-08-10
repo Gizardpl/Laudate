@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/418122.Wtorek-24-tydzien-zwykly-Rok-I",
+  "tytul_dnia": "24 Wtorek Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Tm 3, 1-13",
+      "opis": "Cechy wymagane od biskupów i diakonów",
+      "tekst": "Nauka to godna wiary: jeśli ktoś dąży do biskupstwa, pragnie dobrego zadania. Biskup więc powinien być bez zarzutu, mąż jednej żony, trzeźwy, rozsądny, przyzwoity, gościnny, sposobny do nauczania, nieprzebierający miary w piciu wina, nieskłonny do bicia, ale opanowany, niekłótliwy, niechciwy na grosz, dobrze zarządzający własnym domem, z całą godnością trzymający swoje dzieci w uległości. Jeśli ktoś bowiem nie umie stanąć na czele własnego domu, jakżeż będzie się troszczył o Kościół Boży? Nie może to być świeżo ochrzczony, ażeby wbiwszy się w pychę, nie wpadł w diabelskie potępienie. Powinien też mieć dobre świadectwo ze strony tych, którzy są z zewnątrz, ażeby się nie naraził na wzgardę i sidła diabelskie.\nDiakonami tak samo powinni być ludzie godni, nieobłudni w mowie, nienadużywający wina, niechciwi brudnego zysku, lecz utrzymujący tajemnicę wiary w czystym sumieniu. I oni niech będą najpierw poddawani próbie, i dopiero wtedy niech spełniają posługę, jeśli są bez zarzutu. Kobiety również - godne, nieskłonne do oczerniania, trzeźwe, wierne we wszystkim. Diakoni niech będą mężami jednej żony, rządzący dobrze dziećmi i własnymi domami. Ci bowiem, skoro dobrze spełnili czynności diakońskie, zdobywają sobie zaszczytny stopień i wielką pewność w wierze, która jest w Chrystusie Jezusie.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 101 (100), 1b-2b. 2c-3b. 5-6 (R.: por. 2c)",
+      "opis": "",
+      "tekst": "Refren: Zawsze uczciwie będę postępował.\nBędę śpiewał o sprawiedliwości i łasce, *\nTobie chcę śpiewać, o Panie.\nBędę szedł drogą nieskalaną, *\nkiedyż Ty do mnie przyjdziesz?\nRefren.\nBędę chodził z sercem niewinnym *\nwewnątrz swojego domu.\nNie będę zwracał oczu *\nku sprawie niegodziwej.\nRefren.\nZniszczę każdego, kto skrycie uwłacza bliźniemu, *\npysznych oczu i serca nadętego nie zniosę.\nOczy swe zwracam na wiernych tej ziemi, †\naby ze mną zamieszkać mogli. *\nTen, który kroczy drogą nieskalaną, będzie mi usługiwał.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Łk 7, 16",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Wielki prorok powstał między nami\ni Bóg nawiedził lud swój."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 7, 11-17",
+      "opis": "Wskrzeszenie młodzieńca z Nain",
+      "tekst": "Jezus udał się do pewnego miasta, zwanego Nain; a podążali z Nim Jego uczniowie i tłum wielki. Gdy przybliżył się do bramy miejskiej, właśnie wynoszono umarłego - jedynego syna matki, a ta była wdową. Towarzyszył jej spory tłum z miasta.\nNa jej widok Pan zlitował się nad nią i rzekł do niej: «Nie płacz». Potem przystąpił, dotknął się mar - a ci, którzy je nieśli, przystanęli - i rzekł: «Młodzieńcze, tobie mówię, wstań!» A zmarły usiadł i zaczął mówić; i oddał go jego matce.\nWszystkich zaś ogarnął strach; wielbili Boga i mówili: «Wielki prorok powstał wśród nas, i Bóg nawiedził lud swój». I rozeszła się ta wieść o Nim po całej Judei i po całej okolicznej krainie.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest zaproszeniem do spotkania z Jezusem, który, jak w Ewangelii, przynosi pociechę i życie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "W kontekście pierwszego czytania o biskupach i diakonach, ta pieśń o kapłaństwie jest odpowiednia na przygotowanie darów.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "202",
+      "piesn": "Miłosierdzia, Jezu mój",
+      "opis": "Pieśń jest wołaniem o miłosierdzie, które Jezus okazuje wdowie z Nain, wskrzeszając jej syna.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "596",
+      "piesn": "Chrystus, Chrystus, to nadzieja",
+      "opis": "Chrystus, który zwyciężył śmierć, jest nadzieją dla wszystkich, co w sposób cudowny ukazuje Ewangelia.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "647",
+      "piesn": "Mój Odkupiciel",
+      "opis": "Pieśń o zmartwychwstaniu jest wyrazem wiary w moc Chrystusa, który jest Panem życia i śmierci.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "223",
+      "piesn": "Kapłańskie Serce Jezusa",
+      "opis": "Ta pieśń, modlitwa za kapłanów, nawiązuje do wymagań stawianych im w pierwszym czytaniu.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "305",
+      "piesn": "Z tej biednej ziemi",
+      "opis": "Pieśń jest wołaniem o litość, którą Jezus okazał w Ewangelii, litując się nad płaczącą matką.",
+      "moment": "ogolne"
+    }
+  ]
+}

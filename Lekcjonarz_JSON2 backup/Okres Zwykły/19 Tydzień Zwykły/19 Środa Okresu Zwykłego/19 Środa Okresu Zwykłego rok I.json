@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/556998.Sroda-XIX-tydzien-zwykly-rok-I",
+  "tytul_dnia": "19 Środa Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Pwt 34, 1-12",
+      "opis": "Śmierć Mojżesza",
+      "tekst": "Ze stepów Moabu Mojżesz wszedł na górę Nebo, na szczyt Pisga, naprzeciw Jerycha. Pan zaś pokazał mu całą ziemię Gilead aż po Dan, całą - Neftalego, ziemię Efraima i Manassesa, całą krainę Judy aż po Morze Zachodnie, Negeb, okolicę doliny koło Jerycha, miasta palm, aż do Soaru.\nRzekł Pan do niego: «Oto kraj, który poprzysiągłem Abrahamowi, Izaakowi i Jakubowi tymi słowami: Dam go twemu potomstwu. Pozwoliłem ci zobaczyć go własnymi oczami, lecz tam nie wejdziesz».\nTam, w krainie Moabu, według postanowienia Pana, umarł Mojżesz, sługa Pański. I pochowano go w dolinie krainy Moabu naprzeciw Bet-Peor, a nikt nie zna jego grobu aż po dziś dzień. W chwili śmierci miał Mojżesz sto dwadzieścia lat, a wzrok jego nie był przyćmiony i siły go nie opuściły. Izraelici opłakiwali Mojżesza na stepach Moabu przez trzydzieści dni. Potem skończyły się dni żałoby po Mojżeszu.\nJozue, syn Nuna, pełen był ducha mądrości, gdyż Mojżesz położył na niego ręce. Izraelici słuchali go i czynili, jak im Pan rozkazał przez Mojżesza.\nNie powstał więcej w Izraelu prorok podobny do Mojżesza, który by poznał Pana twarzą w twarz, ani równy we wszystkich znakach i cudach, które polecił mu Pan czynić w ziemi egipskiej wobec faraona, wszystkich sług jego i całego jego kraju; ani równy mocą ręki i całą wielką grozą, jaką wywołał Mojżesz na oczach całego Izraela.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 66 (65), 1b-3a. 5 i 8. 16-17 (R.: por. 20a i 9a)",
+      "opis": "",
+      "tekst": "Refren: Błogosławiony Bóg, co daje życie.\nZ radością sławcie Boga, wszystkie ziemie, *\nopiewajcie chwałę Jego imienia,\ncześć Mu wspaniałą oddajcie. *\nPowiedzcie Bogu: «Jak zadziwiające są Twe dzieła!»\nRefren.\nPrzyjdźcie i patrzcie na dzieła Boga, *\nzadziwiających rzeczy dokonał wśród ludzi!\nBłogosławcie, ludy, naszemu Bogu *\ni rozgłaszajcie Jego chwałę.\nRefren.\nPrzyjdźcie i słuchajcie mnie wszyscy, †\nktórzy boicie się Boga, *\nopowiem, co uczynił mej duszy.\nDo Niego wołałem moimi ustami, *\nchwaliłem Go moim językiem.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. 2 Kor 5, 19",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "W Chrystusie Bóg pojednał świat z sobą,\nnam zaś przekazał słowo jednania."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 18, 15-20",
+      "opis": "Braterskie upomnienie",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Gdy brat twój zgrzeszy przeciw tobie, idź i upomnij go w cztery oczy. Jeśli cię usłucha, pozyskasz swego brata. Jeśli zaś nie usłucha, weź z sobą jeszcze jednego albo dwóch, żeby na słowie dwóch albo trzech świadków oparła się cała sprawa. Jeśli i tych nie usłucha, donieś Kościołowi. A jeśli nawet Kościoła nie usłucha, niech ci będzie jak poganin i celnik.\nZaprawdę, powiadam wam: Wszystko, cokolwiek zwiążecie na ziemi, będzie związane w niebie, a co rozwiążecie na ziemi, będzie rozwiązane w niebie.\nDalej, zaprawdę, powiadam wam: Jeśli dwóch z was na ziemi zgodnie o coś prosić będzie, to wszystko otrzymają od mojego Ojca, który jest w niebie. Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem pośród nich».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Pieśń podkreśla jedność wspólnoty Kościoła, o której mówi Ewangelia w kontekście braterskiego upomnienia i wspólnej modlitwy.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Nawiązuje do wierności sługi Bożego Mojżesza, który aż do śmierci wypełniał swoje posłannictwo, co jest wzorem dla naszej służby.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "219",
+      "piesn": "Jeden chleb",
+      "opis": "Pieśń mówi o Ciele Chrystusa, które buduje Kościół, gdzie obowiązuje zasada braterskiej miłości i upomnienia z Ewangelii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Ta radosna pieśń chwały dobrze koresponduje z psalmem, który wzywa do opiewania wspaniałych dzieł Boga.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "419",
+      "piesn": "Gdzie miłość wzajemna",
+      "opis": "Pieśń jest bezpośrednim komentarzem do Ewangelii, podkreślając, że obecność Boga jest tam, gdzie panuje miłość i zgoda.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "486",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Mówi o pielgrzymowaniu do niebieskiej ojczyzny, której Mojżesz nie mógł osiągnąć, ale którą nam obiecał Chrystus.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Nawiązuje do przekazania posłannictwa przez Mojżesza Jozuemu, co jest figurą misji powierzonej przez Chrystusa Kościołowi.",
+      "moment": "ogolne"
+    }
+  ]
+}

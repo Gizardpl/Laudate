@@ -30,33 +30,33 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "619",
-      "piesn": "Pójdźmy do Pana",
-      "opis": "Pieśń ta wzywa do oddania pokłonu Bogu, podkreślając, że posłuszeństwo jest milsze od ofiar, jak uczy pierwsze czytanie.",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna oddaje ducha czytań, które przeciwstawiają Bogu miłe posłuszeństwo i nieposłuszeństwo króla Saula.",
       "moment": "wejscie"
     },
     {
-      "numer": "695",
-      "piesn": "Przyjmij, o Najświętszy Panie",
-      "opis": "Jest to ofiarowanie darów w duchu posłuszeństwa, które jest prawdziwą ofiarą miłą Bogu, w przeciwieństwie do ofiary Saula.",
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Ofiarą miłą Bogu jest serce skruszone, a nie zewnętrzne ofiary bez posłuszeństwa, jak naucza prorok Samuel.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "234",
-      "piesn": "Chwal, Syjonie, Zbawiciela",
-      "opis": "Sekwencja eucharystyczna sławi Chrystusa, Pana Młodego z Ewangelii, który daje nam siebie w Komunii Świętej jako pokarm nowego życia.",
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Ewangelia mówi o gościach weselnych i Panu Młodym, co jest obrazem Uczty Eucharystycznej, na którą jesteśmy zaproszeni.",
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn ten jest wyrazem czci dla Boga, który pragnie szczerego posłuszeństwa, a nie pozornych ofiar.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Jest to pieśń uwielbienia dla Boga, który patrzy w serce i pragnie ofiary dziękczynnej, a nie całopaleń.",
       "moment": "uwielbienie"
     },
     {
       "numer": "629",
       "piesn": "Tyś naszą drogą",
-      "opis": "Wyraża przylgnięcie do Chrystusa, który jest nowością - \"młodym winem\" wlanym w \"nowe bukłaki\" naszych serc.",
+      "opis": "Wyraża przylgnięcie do Chrystusa, który jest nowością - 'młodym winem' wlanym w 'nowe bukłaki' naszych serc.",
       "moment": "rozeslanie"
     },
     {
@@ -66,9 +66,9 @@
       "moment": "ogolne"
     },
     {
-      "numer": "600",
-      "piesn": "Do Ciebie wznoszę serce me",
-      "opis": "Wyraża postawę otwarcia na Boże Słowo i pragnienie życia według Niego, w przeciwieństwie do króla Saula.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Nowość Ewangelii, symbolizowana przez młode wino i nowe bukłaki, polega na przykazaniu miłości.",
       "moment": "ogolne"
     }
   ]

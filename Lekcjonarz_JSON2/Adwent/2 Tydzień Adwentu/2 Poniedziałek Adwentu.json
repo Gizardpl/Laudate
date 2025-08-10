@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "569",
-      "piesn": "Niech będzie Bóg nasz pochwalony",
-      "opis": "Wspomnienie św. Mikołaja, biskupa, zachęca do uwielbienia Boga w Jego świętych, co jest tematem tej pieśni.",
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pierwsze czytanie jest radosnym proroctwem o zbawieniu i odnowie, a ta pieśń wzywa całe stworzenie do radości z przyjścia Pana.",
       "moment": "wejscie"
     },
     {
-      "numer": "568",
-      "piesn": "Krzyknijmy wszyscy",
-      "opis": "Pieśń ku czci patrona dnia, św. Mikołaja, jest odpowiednia na ofiarowanie, jako wyraz naszej czci i prośby o wstawiennictwo.",
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń ta wzywa do przygotowania serc, by Pan mógł w nich zamieszkać i dokonać cudu uzdrowienia, o którym mówi Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "618",
       "piesn": "Pójdź do Jezusa",
-      "opis": "Ewangelia pokazuje Jezusa, który uzdrawia duszę i ciało. Ta pieśń jest zaproszeniem do Niego, by doznać Jego uzdrawiającej mocy w Komunii.",
+      "opis": "Ewangelia pokazuje Jezusa, który uzdrawia duszę i ciało, a ta pieśń jest zaproszeniem do Niego, by doznać Jego uzdrawiającej mocy w Komunii.",
       "moment": "komunia"
-    },
-    {
-      "numer": "2",
-      "piesn": "Niech się radują",
-      "opis": "Pierwsze czytanie jest radosnym proroctwem o zbawieniu i odnowie, a ta pieśń wzywa całe stworzenie do radości z przyjścia Pana.",
-      "moment": "uwielbienie"
-    },
-    {
-      "numer": "4",
-      "piesn": "Oto Pan przybywa",
-      "opis": "Pieśń ta, wzywając do nawrócenia i odnowy, stanowi dobre posłanie, przypominając, że Bóg przychodzi, by nas zbawić.",
-      "moment": "rozeslanie"
-    },
-    {
-      "numer": "8",
-      "piesn": "Przyjdź, Panie Jezu",
-      "opis": "W kontekście pierwszego czytania o Bogu, który sam przychodzi, by nas zbawić, ta pieśń jest osobistym wołaniem o Jego obecność.",
-      "moment": "ogolne"
     },
     {
       "numer": "10",
       "piesn": "W tym świętym oczekiwaniu",
-      "opis": "Pieśń wzywa do przygotowania na przyjście Pana, który w Ewangelii objawia swoją moc odpuszczania grzechów i uzdrawiania.",
+      "opis": "Pieśń ta wyraża dziękczynienie za zbawienie, które objawia się w cudach Jezusa opisanych w Ewangelii, zapowiedzianych przez Izajasza.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest prośbą o przyjście Pana, który jako jedyny może nas ocalić, co jest głównym przesłaniem liturgii dnia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Adwentowe wezwanie do nawrócenia i czuwania jest odpowiedzią na objawioną w czytaniach moc zbawczą Boga.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń przypomina o konieczności przygotowania serc na przyjście Pana, który przynosi uzdrowienie i odpuszczenie grzechów.",
       "moment": "ogolne"
     }
   ]

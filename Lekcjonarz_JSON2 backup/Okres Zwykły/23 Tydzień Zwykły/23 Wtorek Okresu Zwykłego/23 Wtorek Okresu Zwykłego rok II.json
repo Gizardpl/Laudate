@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/424666.Wtorek-23-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "23 Wtorek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "1 Kor 6, 1-11",
+      "opis": "Niesprawiedliwi nie posiądą królestwa Bożego",
+      "tekst": "Bracia:\nCzy odważy się ktoś z was, gdy zdarzy się nieporozumienie z drugim, szukać sprawiedliwości u niesprawiedliwych, zamiast u świętych? Czyż nie wiecie, że święci będą sędziami tego świata? A jeśli świat będzie przez was sądzony, to czy nie jesteście godni wyrokować w tak błahych sprawach? Czyż nie wiecie, że będziemy sądzili także aniołów? O ileż przeto więcej sprawy doczesne! Wy zaś, gdy macie sprawy doczesne do rozstrzygnięcia, zwracacie się do ludzi za nic uważanych w Kościele!\nMówię to, aby was zawstydzić. Bo czyż nie znajdzie się wśród was ktoś na tyle mądry, by mógł rozstrzygać spory między swymi braćmi? A tymczasem brat oskarża brata, i to przed niewierzącymi. Już samo to jest godne potępienia, że w ogóle zdarzają się wśród was sądowe sprawy. Czemuż nie znosicie raczej niesprawiedliwości? Czemuż nie ponosicie raczej szkody? Tymczasem wy dopuszczacie się niesprawiedliwości i wyrządzacie szkody, i to właśnie braciom.\nCzyż nie wiecie, że niesprawiedliwi nie posiądą królestwa Bożego? Nie łudźcie się! Ani rozpustnicy, ani bałwochwalcy, ani cudzołożnicy, ani rozwiąźli, ani mężczyźni współżyjący z sobą, ani złodzieje, ani chciwi, ani pijacy, ani oszczercy, ani zdziercy nie odziedziczą królestwa Bożego. A takimi byli niektórzy z was. Lecz zostaliście obmyci, uświęceni i usprawiedliwieni w imię Pana naszego, Jezusa Chrystusa, i przez Ducha Boga naszego.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 149, 1b-2. 3-4. 5-6a i 9b (R.: por. 4a)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Pan w swoim ludzie upodobał sobie.\nŚpiewajcie Panu pieśń nową,*\ngłoście Jego chwałę w zgromadzeniu świętych.\nNiech się Izrael cieszy swoim Stwórcą, *\na synowie Syjonu radują swym Królem.\nRefren.\nNiech imię Jego czczą tańcem, *\nniech grają Mu na bębnie i cytrze.\nBo Pan swój lud miłuje, *\npokornych wieńczy zwycięstwem.\nRefren.\nNiech święci cieszą się w chwale, *\nniech się weselą przy uczcie niebieskiej.\nChwała Boża niech będzie w ich ustach; *\nto jest chwałą wszystkich Jego świętych.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. J 15, 16",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nie wy Mnie wybraliście, ale Ja was wybrałem,\nabyście szli i owoc przynosili."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 6, 12-19",
+      "opis": "Wybór Dwunastu",
+      "tekst": "Pewnego razu Jezus wyszedł na górę, aby się modlić, i całą noc trwał na modlitwie do Boga. Z nastaniem dnia przywołał swoich uczniów i wybrał spośród nich dwunastu, których też nazwał apostołami: Szymona, któremu nadał imię Piotr, i brata jego, Andrzeja, Jakuba, Jana, Filipa, Bartłomieja, Mateusza, Tomasza, Jakuba, syna Alfeusza, Szymona z przydomkiem Gorliwy, Judę, syna Jakuba, i Judasza Iskariotę, który stał się zdrajcą.\nZszedł z nimi na dół i zatrzymał się na równinie; był tam liczny tłum Jego uczniów i wielkie mnóstwo ludu z całej Judei i z Jeruzalem oraz z nadmorskich okolic Tyru i Sydonu; przyszli oni, aby Go słuchać i znaleźć uzdrowienie ze swych chorób. Także i ci, których dręczyły duchy nieczyste, doznawali uzdrowienia.\nA cały tłum starał się Go dotknąć, ponieważ moc wychodziła od Niego i uzdrawiała wszystkich.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest echem Ewangelii o wyborze i posłaniu Dwunastu Apostołów do głoszenia Dobrej Nowiny.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń o miłości i jedności jest odpowiedzią na problem sporów i niesprawiedliwości we wspólnocie, poruszony w pierwszym czytaniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Eucharystia jednoczy nas w jedno Ciało, co jest lekarstwem na podziały i wezwaniem do świętości, o której mówi św. Paweł.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Radosny charakter pieśni odpowiada radości ludu Bożego, w którym Pan ma upodobanie, jak śpiewa psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń przypomina o powołaniu całego Kościoła do świętości, które ma swoje źródło w wyborze Apostołów.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "573",
+      "piesn": "Chwała wam apostołowie",
+      "opis": "Pieśń ta jest bezpośrednim uczczeniem Apostołów, których Jezus powołuje w dzisiejszej Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń o przykazaniu miłości jest fundamentem życia wspólnoty, która, jak uczy św. Paweł, ma unikać sporów i niesprawiedliwości.",
+      "moment": "ogolne"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430466.Sobota-XVII-tydzien-zwykly-rok-II",
+  "tytul_dnia": "17 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Jr 26, 11-16. 24",
+      "opis": "Jeremiasz ocalony od śmierci",
+      "tekst": "Kapłani i prorocy zwrócili się do przywódców i do całego ludu tymi słowami: «Człowiek ten zasługuje na wyrok śmierci, gdyż prorokował przeciw temu miastu, jak to słyszeliście na własne uszy».\nJeremiasz zaś rzekł do wszystkich przywódców i do całego ludu: «Pan posłał mnie, bym głosił przeciw temu domowi i przeciw temu miastu wszystkie słowa, które słyszeliście. Teraz więc zmieńcie swoje postępowanie i swoje uczynki, słuchajcie głosu Pana, Boga waszego; wtedy ogarnie Pana żal nad nieszczęściem, jakie postanowił przeciw wam. Ja zaś jestem w waszych rękach. Uczyńcie ze mną, co wam się wyda dobre i sprawiedliwe. Wiedzcie jednak dobrze, że jeżeli mnie zabijecie, krew niewinnego spadnie na was, na to miasto i na jego mieszkańców. Naprawdę bowiem posłał mnie Pan do was, by waszym uszom głosić wszystkie te słowa».\nWtedy powiedzieli przywódcy i cały lud do kapłanów i proroków: «Człowiek ten nie zasługuje na wyrok śmierci, gdyż przemawiał do nas w imię Pana, Boga naszego».\nAchikam, syn Szafana, ochraniał Jeremiasza, by nie został wydany w ręce ludu na śmierć.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 69 (68), 15-16. 30-31. 33-34 (R.: por. 14c)",
+      "opis": "",
+      "tekst": "Refren: W Twojej dobroci wysłuchaj mnie, Panie.\nWyrwij mnie z bagna, abym nie utonął, †\nwybaw mnie od tych, co mnie nienawidzą, *\nratuj mnie z wodnej głębiny.\nNiechaj nie porwie mnie nurt wody, †\nniech nie pochłonie mnie głębia, *\nniech się nie zamknie nade mną paszcza otchłani.\nRefren.\nJestem nędzny i pełen cierpienia, *\nniech pomoc Twa, Boże, mnie strzeże.\nPieśnią chcę chwalić imię Boga *\ni wielbić Go z dziękczynieniem.\nRefren.\nPatrzcie i cieszcie się, ubodzy, *\nniech ożyje serce szukających Boga.\nBo Pan wysłuchuje biednych *\ni swoimi więźniami nie gardzi.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 5, 10",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości,\nalbowiem do nich należy królestwo niebieskie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 14, 1-12",
+      "opis": "Śmierć Jana Chrzciciela",
+      "tekst": "W owym czasie doszła do uszu tetrarchy Heroda wieść o Jezusie. I rzekł do swych dworzan: «To Jan Chrzciciel. On powstał z martwych i dlatego moce cudotwórcze w nim działają».\nHerod bowiem kazał pochwycić Jana i związanego wtrącić do więzienia, z powodu Herodiady, żony brata jego, Filipa. Jan bowiem upominał go: «Nie wolno ci jej trzymać». Chętnie też byłby go zgładził, bał się jednak ludu, ponieważ miano go za proroka.\nOtóż, kiedy obchodzono urodziny Heroda, tańczyła wobec gości córka Herodiady i spodobała się Herodowi. Zatem pod przysięgą obiecał jej dać wszystko, o cokolwiek poprosi. A ona przedtem już podmówiona przez swą matkę powiedziała: «Daj mi tu na misie głowę Jana Chrzciciela!» Zasmucił się król. Lecz przez wzgląd na przysięgę i na współbiesiadników kazał jej dać. Posławszy więc kata, kazał ściąć Jana w więzieniu. Przyniesiono głowę jego na misie i dano dziewczynie, a ona zaniosła ją swojej matce.\nUczniowie zaś Jana przyszli, zabrali jego ciało i pogrzebali je; potem poszli i donieśli o tym Jezusowi.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń wyraża ufność w Bożą opiekę, która ocaliła Jeremiasza i której potrzebował Jan Chrzciciel w swoim męczeństwie.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Postawa proroków, którzy głoszą słowo Boże mimo sprzeciwu, jest wyrazem oddania, o którym mówi ta pieśń.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wobec męczeństwa Jana i odwagi Jeremiasza, ta pieśń wyraża naszą małość i potrzebę umocnienia od Pana.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' wysławia Boga za 'zastęp chwalebny proroków', do których należeli Jeremiasz i Jan Chrzciciel.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń głosi ostateczne zwycięstwo Chrystusa, w którym udział mają wszyscy Jego wierni świadkowie i męczennicy.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "510",
+      "piesn": "Boże, coś Polskę",
+      "opis": "Modlitwa za Ojczyznę, aby była wierna Bogu i Jego prorokom, a nie odrzucała ich głosu, jak to miało miejsce w czytaniach.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "408",
+      "piesn": "Com przyrzekł Bogu",
+      "opis": "Pieśń o wierności Bogu aż do końca jest doskonałym komentarzem do postawy proroków z dzisiejszej liturgii.",
+      "moment": "ogolne"
+    }
+  ]
+}

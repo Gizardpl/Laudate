@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "349",
+      "numer": "315",
       "piesn": "Króluj nam, Chryste",
-      "opis": "Pieśń wyznaje panowanie Chrystusa, który w Ewangelii objawia się jako Pan szabatu, większy niż świątynia.",
+      "opis": "Pieśń wyznaje panowanie Chrystusa, który w Ewangelii objawia się jako Pan szabatu, większy niż świątynia i Prawo.",
       "moment": "wejscie"
     },
     {
-      "numer": "173",
-      "piesn": "Panie, ofiarujem Tobie",
-      "opis": "Pieśń eucharystyczna, która nawiązuje do ofiary Baranka Paschalnego i ofiary pochwalnej z psalmu.",
+      "numer": "695",
+      "piesn": "Przyjmij, o Najświętszy Panie",
+      "opis": "Pieśń eucharystyczna, która nawiązuje do ofiary Baranka Paschalnego i ofiary pochwalnej, o której śpiewa psalmista.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "156",
-      "piesn": "Bądźże pozdrowiona, Hostio żywa",
-      "opis": "Baranek Paschalny jest zapowiedzią Chrystusa, Baranka Bożego, którego przyjmujemy w Komunii Świętej.",
+      "numer": "233",
+      "piesn": "Bądźże pozdrowiona",
+      "opis": "Starotestamentalny Baranek Paschalny jest zapowiedzią Chrystusa, prawdziwego Baranka Bożego, którego przyjmujemy w Komunii Świętej.",
       "moment": "komunia"
     },
     {
-      "numer": "165",
+      "numer": "611",
       "piesn": "Ojcze z niebios",
-      "opis": "Pieśń dziękczynna za dar zbawienia, który jest owocem Paschy Chrystusa, zapowiedzianej w pierwszym czytaniu.",
+      "opis": "Pieśń jest dziękczynieniem za dar zbawienia, który jest owocem Paschy Chrystusa, zapowiedzianej w pierwszym czytaniu.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "172",
+      "numer": "263",
       "piesn": "Pan zstąpił z nieba",
-      "opis": "Pieśń podsumowuje tajemnicę Eucharystii jako wypełnienie Paschy i daru Chleba Życia.",
+      "opis": "Pieśń ta podsumowuje tajemnicę Eucharystii jako wypełnienie Paschy i daru Chleba Życia na drogę do wieczności.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
-      "opis": "Jezus uczy, że miłosierdzie jest ważniejsze niż ofiara, a ta pieśń jest wezwaniem do życia miłością.",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Jezus uczy, że miłosierdzie jest ważniejsze niż ofiara, a ta pieśń jest wezwaniem do życia miłością i dobrocią.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
-      "opis": "Jest to pieśń o zaufaniu Bożemu miłosierdziu, które jest kluczem do zrozumienia Ewangelii.",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
+      "opis": "Jest to pieśń o zaufaniu Bożemu miłosierdziu, które jest kluczem do zrozumienia słów Jezusa z dzisiejszej Ewangelii.",
       "moment": "ogolne"
     }
   ]

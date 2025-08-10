@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Pieśń jest parafrazą psalmu, który opowiada o Bożej opiece, jakiej doświadczył prorok Eliasz na pustyni.",
+      "opis": "Pieśń doskonale oddaje treść psalmu responsoryjnego oraz opisuje ufność proroka Eliasza w Bożą opiekę.",
       "moment": "wejscie"
     },
     {
-      "numer": "119",
-      "piesn": "Boże, w dobroci",
-      "opis": "Wobec cierpienia i prześladowań, o których mówi ostatnie błogosławieństwo, ta pieśń jest aktem dziękczynienia za dar wiary.",
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Jest to pieśń dziękczynna za Bożą opatrzność, która karmiła Eliasza i która jest źródłem naszego życia.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
+      "numer": "264",
       "piesn": "Panie, dobry jak chleb",
-      "opis": "Eucharystia jest pokarmem dla tych, którzy łakną i pragną sprawiedliwości, o których mówi jedno z błogosławieństw.",
+      "opis": "Cudowny pokarm zesłany Eliaszowi jest zapowiedzią Eucharystii, Chleba, który zaspokaja głód ludzkich serc.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Jest to pieśń uwielbienia dla Boga, który jest naszą pomocą i stróżem, jak głosi psalm responsoryjny.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest wyrazem dziękczynienia za Bożą pomoc i opiekę, o której zapewniają nas dzisiejsze czytania.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru życia według ducha błogosławieństw, nawet pośród prześladowań.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Zakończenie liturgii jest posłaniem do życia w świecie w oparciu o ufność w Boże prowadzenie, na wzór Eliasza i ludzi żyjących duchem błogosławieństw.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Błogosławieństwo dla miłosiernych zachęca nas do prośby o miłosierdzie i serce zdolne do jego okazywania.",
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ta pieśń jest bezpośrednim echem Ewangelii o Ośmiu Błogosławieństwach, stanowiącej program życia chrześcijańskiego.",
       "moment": "ogolne"
     },
     {
-      "numer": "494",
-      "piesn": "Pójdź do Jezusa",
-      "opis": "Pieśń jest zaproszeniem do pójścia za Jezusem, aby usłyszeć Jego naukę o błogosławieństwach.",
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Pieśń podkreśla centralną prawdę dzisiejszej liturgii słowa: pełne zaufanie Bożej opatrzności jest źródłem pokoju.",
       "moment": "ogolne"
     }
   ]

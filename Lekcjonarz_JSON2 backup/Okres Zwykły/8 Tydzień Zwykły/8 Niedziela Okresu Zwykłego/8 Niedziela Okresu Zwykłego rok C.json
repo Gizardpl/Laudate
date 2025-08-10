@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416211.8-Niedziela-zwykla-rok-C",
+  "tytul_dnia": "8 Niedziela Okresu Zwykłego rok C",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Syr 27, 4-7",
+      "opis": "Wypowiedzi człowieka ujawniają jego wartość",
+      "tekst": "Gdy sitem się przesiewa, zostają odpadki, podobnie błędy człowieka przy jego ocenie.\nPiec poddaje próbie naczynia garncarza, a sprawdzianem człowieka jest jego wypowiedź.\nJak o uprawie drzewa świadczy jego owoc, tak mowa o zamyśle serca człowieka.\nNie chwal męża przed wypowiedzią, to bowiem jest próbą dla ludzi.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 92 (91), 2-3. 13-14. 15-16 (R.: por. 2)",
+      "opis": "",
+      "tekst": "Refren: Dobrze jest śpiewać Tobie, Panie Boże.\nDobrze jest dziękować Panu, *\nśpiewać Twojemu imieniu, Najwyższy,\nrano głosić Twoją łaskawość, *\na wierność Twoją nocami.\nRefren.\nSprawiedliwy zakwitnie jak palma, *\nrozrośnie się jak cedr na Libanie.\nZasadzeni w domu Pańskim *\nrozkwitną na dziedzińcach naszego Boga.\nRefren.\nNawet i w starości wydadzą owoc, *\nzawsze pełni życiodajnych soków,\naby świadczyć, że Pan jest sprawiedliwy, *\nOn moją Opoką i nie ma w Nim nieprawości.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "1 Kor 15, 54b-58",
+      "opis": "Przez Chrystusa zwyciężamy śmierć",
+      "tekst": "Bracia:\nKiedy już to, co śmiertelne, przyodzieje się w nieśmiertelność, wtedy sprawdzą się słowa, które zostały napisane: «Zwycięstwo pochłonęło śmierć. Gdzież jest, o śmierci, twoje zwycięstwo? Gdzież jest, o śmierci, twój oścień?» Ościeniem zaś śmierci jest grzech, a siłą grzechu Prawo. Bogu niech będą dzięki za to, że dał nam odnieść zwycięstwo przez Pana naszego, Jezusa Chrystusa.\nPrzeto, bracia moi najmilsi, bądźcie wytrwali i niezachwiani, zajęci zawsze ofiarnie dziełem Pańskim, pamiętając, że trud wasz nie pozostaje daremny w Panu.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Flp 2, 15d. 16a",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Jawicie się jako źródło światła w świecie,\ntrzymając się mocno Słowa Życia."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 6, 39-45",
+      "opis": "Z obfitości serca mówią usta",
+      "tekst": "Jezus opowiedział uczniom przypowieść:\n«Czy może niewidomy prowadzić niewidomego? Czy nie wpadną w dół obydwaj?\nUczeń nie przewyższa nauczyciela. Lecz każdy, dopiero w pełni wykształcony, będzie jak jego nauczyciel.\nCzemu to widzisz drzazgę w oku swego brata, a nie dostrzegasz belki we własnym oku? Jak możesz mówić swemu bratu: „Bracie, pozwól, że usunę drzazgę, która jest w twoim oku”, podczas gdy sam belki w swoim oku nie widzisz? Obłudniku, usuń najpierw belkę ze swego oka, a wtedy przejrzysz, ażeby usunąć drzazgę z oka brata swego.\nNie ma drzewa dobrego, które by wydawało zły owoc, ani też drzewa złego, które by dobry owoc wydawało. Po własnym owocu bowiem poznaje się każde drzewo; nie zrywa się fig z ciernia, ani z krzaka jeżyny nie zbiera się winogron. Dobry człowiek z dobrego skarbca swego serca wydobywa dobro, a zły człowiek ze złego skarbca wydobywa zło. Bo z obfitości serca mówią jego usta».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "619",
+      "piesn": "Pójdźmy do Pana",
+      "opis": "Pieśń ta jest zaproszeniem do oddania czci Panu, którego sprawiedliwość i wierność opiewa psalm.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Nawiązuje bezpośrednio do Ewangelii, która mówi o poznawaniu drzewa po owocach i człowieka po czynach.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "700",
+      "piesn": "Przygotuję Ci serce",
+      "opis": "Jest to modlitwa o czyste serce, z którego, jak uczy Jezus, wydobywa się dobro.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Pieśń ta jest dziękczynieniem za zwycięstwo nad śmiercią i grzechem, o którym mówi drugie czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "586",
+      "piesn": "Błogosław Panie nas",
+      "opis": "Jest to prośba o błogosławieństwo, aby trud wiernych nie był daremny, jak zapewnia św. Paweł.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "627",
+      "piesn": "Ty, Boże, wszystko wiesz",
+      "opis": "Podkreśla, że Bóg zna serce człowieka, co jest kluczowe w kontekście Jezusowej nauki o obłudzie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "107",
+      "piesn": "O Boże mój, o Zbawicielu mój",
+      "opis": "Jest to prośba o czyste serce i prawego ducha, by móc wydawać dobre owoce.",
+      "moment": "ogolne"
+    }
+  ]
+}

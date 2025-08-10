@@ -44,7 +44,7 @@
     {
       "numer": "311",
       "piesn": "Chrystus Wodzem",
-      "opis": "Przypowieść z Ewangelii mówi o człowieku, który otrzymuje godność królewską. Ta pieśń jest aklamacją na cześć Chrystusa Króla, Pana, któremu służymy.",
+      "opis": "Przypowieść z Ewangelii mówi o człowieku, który otrzymuje godność królewską, a ta pieśń jest aklamacją na cześć Chrystusa Króla, któremu służymy.",
       "moment": "komunia"
     },
     {
@@ -60,15 +60,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' oddaje majestat liturgii niebiańskiej, opisanej w pierwszym czytaniu, gdzie Starsi i Istoty żyjące oddają pokłon Bogu.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "597",
       "piesn": "Chwalcie Pana wszyscy",
       "opis": "Pieśń ta jest parafrazą psalmu 148, wzywającego całe stworzenie do chwalenia Pana, co doskonale koresponduje z wizją liturgii niebiańskiej.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Pieśń wzywa do przyłączenia się do chórów niebieskich, oddających cześć Bogu, co jest centralnym obrazem z Apokalipsy.",
       "moment": "ogolne"
     }
   ]

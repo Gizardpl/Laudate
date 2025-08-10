@@ -30,21 +30,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "570",
-      "piesn": "Chwalmy mężnego pasterza",
-      "opis": "Pieśń ku czci św. Ambrożego, patrona dnia, który był wielkim pasterzem Kościoła, co nawiązuje do obrazu Dobrego Pasterza z Ewangelii i pierwszego czytania.",
-      "moment": "wejscie"
-    },
-    {
       "numer": "4",
       "piesn": "Oto Pan przybywa",
       "opis": "Pieśń jest adwentowym wezwaniem do przygotowania dróg dla Pana, o czym mówi pierwsze czytanie z Księgi Izajasza.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "10",
+      "piesn": "W tym świętym oczekiwaniu",
+      "opis": "Pieśń ta, mówiąc o obniżaniu się szczytów i podnoszeniu dolin, jest echem proroctwa Izajasza z pierwszego czytania.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "612",
       "piesn": "O Panie, Tyś moim Pasterzem",
-      "opis": "Pieśń ta jest parafrazą Psalmu 23 i doskonale oddaje treść Ewangelii o Pasterzu szukającym zagubionej owcy.",
+      "opis": "Pieśń ta doskonale oddaje treść Ewangelii o Pasterzu szukającym zagubionej owcy, a także obraz pasterza z pierwszego czytania.",
       "moment": "komunia"
     },
     {
@@ -54,21 +54,21 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "10",
-      "piesn": "W tym świętym oczekiwaniu",
-      "opis": "Pieśń ta, mówiąc o obniżaniu się szczytów i podnoszeniu dolin, jest echem proroctwa Izajasza z pierwszego czytania.",
-      "moment": "rozeslanie"
-    },
-    {
       "numer": "7",
       "piesn": "Przybądź, Panie",
       "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' jest kwintesencją adwentowego wezwania, które słyszymy w pierwszym czytaniu.",
-      "moment": "ogolne"
+      "moment": "rozeslanie"
     },
     {
       "numer": "615",
       "piesn": "Pan mój, Wódz i Pasterz",
       "opis": "Kolejna pieśń pasterska, która wyraża ufność w prowadzenie Boże, co jest głównym tematem Ewangelii o zagubionej owcy.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "568",
+      "piesn": "Krzyknijmy wszyscy",
+      "opis": "Dzień ten jest wspomnieniem św. Mikołaja, biskupa, którego postać przypomina o dobroci Boga, Dawcy wszelkich darów.",
       "moment": "ogolne"
     }
   ]

@@ -30,8 +30,8 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
       "opis": "Hymn do Ducha Świętego doskonale wprowadza w tematykę pierwszego czytania, które mówi o Duchu, który przenika głębokości Boga.",
       "moment": "wejscie"
     },
@@ -42,9 +42,9 @@
       "moment": "ofiarowanie"
     },
     {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Sekwencja do Ducha Świętego jest modlitwą o światło i zrozumienie, które pozwala przyjąć pełne mocy słowo Jezusa z Ewangelii.",
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Ta kontemplacyjna pieśń jest modlitwą o Ducha Świętego, który uzdalnia nas do przyjęcia pełnego mocy słowa Jezusa.",
       "moment": "komunia"
     },
     {
@@ -54,21 +54,21 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "220",
-      "piesn": "Przybądź, Stwórco, Duchu Boży",
-      "opis": "Hymn 'Veni Creator Spiritus' jest modlitwą o Ducha Świętego, aby oświecał nasze umysły i serca do przyjęcia mądrości Bożej.",
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Hymn ten jest modlitwą o Ducha Świętego, aby oświecał nasze umysły i serca do przyjęcia mądrości Bożej.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "214",
-      "piesn": "Duchu mądrości",
-      "opis": "Pieśń prosi o dar mądrości i rozumu, który, jak uczy św. Paweł, pochodzi od Ducha Bożego, a nie od ducha świata.",
+      "numer": "770",
+      "piesn": "Spiritus Iesu Christi",
+      "opis": "Pieśń prosi o dar Ducha, który, jak uczy św. Paweł, pochodzi od Boga, a nie od ducha świata.",
       "moment": "ogolne"
     },
     {
-      "numer": "772",
-      "piesn": "Ty jesteś źródłem życia",
-      "opis": "Pieśń jest wołaniem do Ducha Świętego jako źródła życia, który uzdalnia nas do duchowego rozumienia spraw Bożych.",
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Jest to ogólna pieśń chwały, dobrze pasująca do psalmu responsoryjnego, który wzywa do wielbienia dzieł Pana.",
       "moment": "ogolne"
     }
   ]

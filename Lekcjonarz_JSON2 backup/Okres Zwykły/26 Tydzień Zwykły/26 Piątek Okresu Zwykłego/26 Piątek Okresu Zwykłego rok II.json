@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417335.Piatek-26-tydzien-zwykly-Rok-II",
+  "tytul_dnia": "26 Piątek Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Hi 38, 1. 12-21; 40, 3-5",
+      "opis": "Bóg przypomina Hiobowi, jak ograniczona jest jego wiedza",
+      "tekst": "Z wichru Pan zwrócił się do Hioba i rzekł: «Czy w życiu rozkazałeś rankowi, wyznaczyłeś miejsce jutrzence, by objęła krańce ziemi, aby z niej usunięci zostali bezbożni? Zmienia się jak glina pod pieczęcią, barwi się jak suknia. Bezbożnym odjęte ich światło i strzaskane ramię wyniosłe. Czy dotarłeś do źródeł morza? Czy doszedłeś do dna Otchłani? Czy wskazano ci bramy śmierci? Widziałeś drzwi do ciemności? Czy zgłębiłeś przestrzeń ziemi? Powiedz, czy znasz to wszystko? Którędy droga do mieszkania światła? A gdzie siedziba mroku, abyś go zawiódł do jego granicy i rozpoznał ścieżki do jego domu? Jeśli to wiesz, to się wtedy zrodziłeś, a liczba twych dni jest ogromna».\nA Hiob odpowiedział Panu: «Jestem mały, cóż Ci odpowiem! Rękę położę na ustach. Raz przemówiłem i nie odpowiem, i drugi raz, a niczego nie dodam».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 139 (138), 1b-3. 7-8. 9-10. 13-14b (R.: por. 24b)",
+      "opis": "",
+      "tekst": "Refren: Prowadź mnie, Panie, swą drogą odwieczną.\nPrzenikasz i znasz mnie, Panie, *\nTy wiesz, kiedy siedzę i wstaję.\nZ daleka spostrzegasz moje myśli, †\nprzyglądasz się, jak spoczywam i chodzę, *\ni znasz wszystkie moje drogi.\nRefren.\nGdzie ucieknę przed duchem Twoim? *\nGdzie oddalę się od Twego oblicza?\nJeśli wstąpię do nieba, Ty tam jesteś, *\njesteś przy mnie, gdy położę się w Otchłani.\nRefren.\nGdybym wziął skrzydła jutrzenki, *\ngdybym zamieszkał na krańcach morza,\ntam również będzie mnie wiodła Twa ręka *\ni podtrzyma mnie Twoja prawica.\nRefren.\nTy bowiem stworzyłeś moje wnętrze *\ni utkałeś mnie w łonie mej matki.\nSławię Cię, że mnie tak cudownie stworzyłeś, *\ngodne podziwu są Twoje dzieła.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Ps 95 (94), 8a. 7d",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Nie zatwardzajcie dzisiaj serc waszych,\nlecz słuchajcie głosu Pańskiego."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 10, 13-16",
+      "opis": "Kto gardzi Chrystusem, gardzi Tym, który Go posłał",
+      "tekst": "Jezus powiedział:\n«Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się cuda, które u was się dokonały, już dawno by się nawróciły, siedząc w worze i popiele. Toteż Tyrowi i Sydonowi lżej będzie na sądzie niżeli wam.\nA ty, Kafarnaum, czy aż do nieba masz być wyniesione? Aż do Otchłani zejdziesz!\nKto was słucha, Mnie słucha, a kto wami gardzi, Mną gardzi; lecz kto Mną gardzi, gardzi Tym, który mnie posłał».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń wyraża podziw dla Boga Stwórcy, co koresponduje z mową Boga do Hioba o potędze stworzenia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "108",
+      "piesn": "Padnijmy twarzą na ziemię",
+      "opis": "Pieśń wzywa do pokory i skruchy, co jest właściwą postawą w obliczu Bożej wielkości i ostrzeżeń z Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "627",
+      "piesn": "Ty, Boże, wszystko wiesz",
+      "opis": "Ta pieśń, oparta na Psalmie 139, idealnie pasuje do psalmu responsoryjnego, mówiąc o Bogu, który nas przenika i zna.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest aktem uwielbienia majestatu Boga, o którym z taką mocą mówi pierwsze czytanie.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Wezwanie do nawrócenia jest odpowiedzią na słowa Jezusa z Ewangelii, który gani miasta za brak pokuty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "590",
+      "piesn": "Boże mocny, Boże cudów",
+      "opis": "Pieśń wychwala Boga za Jego cuda i moc, co jest tematem rozmowy Boga z Hiobem.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "628",
+      "piesn": "Ty, wszechmocny Panie",
+      "opis": "Pieśń podkreśla wszechmoc i opatrzność Boga, co jest pocieszeniem w kontekście ludzkiej małości ukazanej w Księdze Hioba.",
+      "moment": "ogolne"
+    }
+  ]
+}

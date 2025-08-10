@@ -30,21 +30,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
+      "numer": "96",
       "piesn": "Bądź mi litościw",
       "opis": "Pieśń pokutna, która jest odpowiedzią na grzechy ucisku i niesprawiedliwości opisane w pierwszym czytaniu.",
       "moment": "wejscie"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
       "opis": "Wobec grzechów pychy i nieprawości, ta pieśń jest prośbą o czyste serce, które miłe jest Bogu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "350",
+      "numer": "291",
       "piesn": "Najświętsze Serce Boże",
-      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę. Ta pieśń jest aktem czci dla Jego Serca, które jest źródłem miłości.",
+      "opis": "Ewangelia ukazuje Jezusa jako cichego i pokornego Sługę, a ta pieśń jest aktem czci dla Jego Serca, które jest źródłem miłości.",
       "moment": "komunia"
     },
     {
@@ -54,20 +54,20 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
       "opis": "Postawa Sługi Pańskiego z Ewangelii jest wzorem miłości i miłosierdzia, do którego wzywa ta pieśń.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Wobec zagrożenia ze strony faryzeuszy, pieśń ta wyraża ufność w Bożą opiekę, której doświadczał Jezus.",
       "moment": "ogolne"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Pieśń jest aktem zawierzenia Jezusowi, który jest nadzieją narodów i obrońcą uciśnionych.",
       "moment": "ogolne"
     }

@@ -30,44 +30,44 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "494",
+      "numer": "618",
       "piesn": "Pójdź do Jezusa",
       "opis": "Pieśń jest bezpośrednim echem zaproszenia Jezusa z Ewangelii: 'Przyjdźcie do Mnie wszyscy, którzy utrudzeni jesteście'.",
       "moment": "wejscie"
     },
     {
-      "numer": "119",
+      "numer": "102",
       "piesn": "Boże, w dobroci",
-      "opis": "Pieśń dziękczynna za Bożą wierność przymierzu, o której przypomina psalm responsoryjny.",
+      "opis": "Pieśń dziękczynna za Bożą wierność przymierzu, o której przypomina psalm responsoryjny, a którą Bóg objawił Mojżeszowi.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "233",
+      "numer": "264",
       "piesn": "Panie, dobry jak chleb",
       "opis": "Jezus, który daje pokrzepienie i ukojenie, ofiarowuje się nam jako pokarm w Eucharystii.",
       "moment": "komunia"
     },
     {
-      "numer": "506",
-      "piesn": "Wysławiajcie Pana",
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
       "opis": "Jest to radosne wezwanie do chwalenia Boga za Jego cuda i wierność, co jest głównym tematem psalmu.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
       "opis": "Wobec trudów i obciążeń, o których mówi Ewangelia, ta pieśń jest aktem zawierzenia i szukania ukojenia w Jezusie.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "350",
-      "piesn": "Najświętsze Serce Boże",
-      "opis": "Nawiązuje do słów Jezusa 'uczcie się ode Mnie, bo jestem cichy i pokornego serca'.",
+      "numer": "287",
+      "piesn": "Jezu dobry i cichy",
+      "opis": "Pieśń nawiązuje do słów Jezusa 'uczcie się ode Mnie, bo jestem cichy i pokornego serca'.",
       "moment": "ogolne"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Pieśń wyznaje wiarę w Jezusa jako Pana, którego imię, objawione Mojżeszowi, jest imieniem Boga wiernego i zbawiającego.",
       "moment": "ogolne"
     }

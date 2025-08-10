@@ -30,21 +30,21 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Pieśń ta jest modlitwą o dary Ducha Świętego, który napełnił apostołów odwagą i o którym Jezus mówi Nikodemowi.",
+      "numer": "182",
+      "piesn": "Minęły cienie i mroki nocy",
+      "opis": "Pieśń ta mówi o nowym życiu zrodzonym w 'paschalnym źródle', co jest bezpośrednim nawiązaniem do rozmowy Jezusa z Nikodemem o narodzinach z wody i Ducha.",
       "moment": "wejscie"
     },
     {
       "numer": "192",
       "piesn": "Weselmy się, chrześcijanie",
-      "opis": "Wyraża radość ze Zmartwychwstania, które jest źródłem nowego życia z Ducha, o którym naucza Ewangelia.",
+      "opis": "Pieśń ta wyraża radość Zmartwychwstania, które jest źródłem nowego życia z Ducha, o którym naucza Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "220",
       "piesn": "Przybądź, Stwórco, Duchu Boży",
-      "opis": "Hymn do Ducha Świętego nawiązuje do Jego stwórczej mocy, odradzającej człowieka w sakramencie chrztu.",
+      "opis": "Hymn do Ducha Świętego nawiązuje do Jego stwórczej mocy, odradzającej człowieka w sakramencie chrztu, o czym mówi Ewangelia.",
       "moment": "komunia"
     },
     {
@@ -63,13 +63,13 @@
       "numer": "198",
       "piesn": "Zwycięzca śmierci",
       "opis": "Pieśń o zwycięstwie Chrystusa jest źródłem odwagi dla apostołów, którzy proszą Boga o moc do głoszenia słowa.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     },
     {
-      "numer": "182",
-      "piesn": "Minęły cienie i mroki nocy",
-      "opis": "Mówi o nowym życiu, które otrzymujemy w \"paschalnym źródle\", co bezpośrednio odnosi się do nauki o chrzcie z Ewangelii.",
-      "moment": "ogólne"
+      "numer": "177",
+      "piesn": "Alleluja, żyje Pan",
+      "opis": "Prosta i radosna pieśń wielkanocna podkreśla fakt Zmartwychwstania, które jest fundamentem odwagi apostołów i nowego życia w Duchu.",
+      "moment": "ogolne"
     }
   ]
 }

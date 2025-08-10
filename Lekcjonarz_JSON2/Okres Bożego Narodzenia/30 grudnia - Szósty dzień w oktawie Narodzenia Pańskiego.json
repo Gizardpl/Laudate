@@ -38,19 +38,19 @@
     {
       "numer": "599",
       "piesn": "Czego chcesz od nas, Panie",
-      "opis": "Pieśń jest aktem ofiarowania wdzięcznego serca Bogu, co jest odpowiedzią na wezwanie z pierwszego czytania do wypełniania woli Bożej.",
+      "opis": "Życie prorokini Anny było ofiarą modlitwy, a ta pieśń ofiarowuje Bogu 'wdzięczne serce' jako najlepszy dar.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "41",
-      "piesn": "Pójdźmy wszyscy do stajenki",
-      "opis": "Jest to radosna kolęda zapraszająca do adoracji Dzieciątka, o którym mówiła prorokini Anna w Ewangelii.",
+      "numer": "233",
+      "piesn": "Bądźże pozdrowiona",
+      "opis": "Pieśń ta jest aktem adoracji Jezusa, Syna Maryi, którego w świątyni rozpoznała i wielbiła prorokini Anna.",
       "moment": "komunia"
     },
     {
-      "numer": "38",
-      "piesn": "Gdy się Chrystus rodzi",
-      "opis": "Kolęda ta głosi radość całemu stworzeniu, co jest echem psalmu, i opowiada o narodzinach Zbawiciela, którego Anna rozpoznała w świątyni.",
+      "numer": "595",
+      "piesn": "Cały świat niech śpiewa",
+      "opis": "Ta radosna pieśń jest echem uwielbienia prorokini Anny, wzywając cały świat do uznania w Dziecięciu swego Pana.",
       "moment": "uwielbienie"
     },
     {
@@ -66,9 +66,9 @@
       "moment": "ogolne"
     },
     {
-      "numer": "32",
-      "piesn": "Dzisiaj w Betlejem",
-      "opis": "Popularna kolęda, która w prosty sposób opowiada historię narodzenia i wzywa do radości, co jest głównym tematem Oktawy Bożego Narodzenia.",
+      "numer": "593",
+      "piesn": "Bóg kiedyś stał się jednym z nas",
+      "opis": "Ta prosta, podobna do kolędy pieśń, dobrze oddaje tajemnicę Wcielenia, którą rozważa Kościół w oktawie Narodzenia Pańskiego.",
       "moment": "ogolne"
     }
   ]

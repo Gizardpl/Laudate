@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Pieśń wyznaje wiarę w Chrystusa jako Pana i Króla, co jest echem wyznania Piotra 'Ty jesteś Mesjasz, Syn Boga żywego'.",
       "moment": "wejscie"
     },
     {
-      "numer": "119",
+      "numer": "102",
       "piesn": "Boże, w dobroci",
       "opis": "Pieśń dziękczynna za dary Bożej opatrzności, takie jak woda ze skały w pierwszym czytaniu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
+      "numer": "699",
       "piesn": "Panie, nie jestem godzien",
       "opis": "Wyraża pokorę wobec tajemnicy Chrystusa i kontrastuje z postawą Piotra, który po wyznaniu wiary próbuje pouczać Jezusa.",
       "moment": "komunia"
     },
     {
-      "numer": "513",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn Te Deum jest doskonałym sposobem na uwielbienie Boga i wyznanie wiary w Chrystusa, tak jak uczynił to Piotr.",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Uroczysty hymn ten jest doskonałym sposobem na uwielbienie Boga i wyznanie wiary w Chrystusa, tak jak uczynił to Piotr.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "388",
-      "piesn": "Złączeni w jedno",
+      "numer": "634",
+      "piesn": "Złącz, Panie, miłujących Cię",
       "opis": "Pieśń o jedności Kościoła zbudowanego na opoce, którą jest Piotr, co bezpośrednio nawiązuje do słów Jezusa z Ewangelii.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
       "opis": "Pieśń jest mocnym wyznaniem wiary, które może być odpowiedzią na pytanie Jezusa: 'A wy za kogo Mnie uważacie?'.",
       "moment": "ogolne"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Psalm responsoryjny ostrzega przed zatwardziałością serca, a ta pieśń pokutna prosi o serce czyste i otwarte na głos Pana.",
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Psalm responsoryjny ostrzega przed zatwardziałością serca, a ta pieśń wzywa do nawrócenia i otwarcia serca na głos Pana.",
       "moment": "ogolne"
     }
   ]

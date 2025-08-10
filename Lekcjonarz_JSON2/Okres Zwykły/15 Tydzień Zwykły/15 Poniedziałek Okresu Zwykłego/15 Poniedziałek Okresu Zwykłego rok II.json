@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
+      "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Pieśń pokutna, która jest odpowiedzią na wezwanie do nawrócenia i oczyszczenia z pierwszego czytania.",
+      "opis": "Pieśń pokutna, która jest odpowiedzią na wezwanie do nawrócenia i oczyszczenia, zawarte w pierwszym czytaniu.",
       "moment": "wejscie"
     },
     {
-      "numer": "353",
-      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
+      "numer": "303",
+      "piesn": "Twemu Sercu cześć składamy",
       "opis": "Ofiarą miłą Bogu jest nasze życie, a ta pieśń nawiązuje do konieczności wzięcia krzyża, o której mówi Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
+      "numer": "699",
       "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory, która jest warunkiem prawdziwej pobożności, w przeciwieństwie do czczych ofiar.",
+      "opis": "Pieśń wyraża postawę pokory, która jest warunkiem prawdziwej pobożności, w przeciwieństwie do czczych ofiar potępionych przez Izajasza.",
       "moment": "komunia"
     },
     {
-      "numer": "515",
+      "numer": "601",
       "piesn": "Dzięki, o Panie",
-      "opis": "Prawdziwą ofiarą, jak mówi psalm, jest dziękczynienie. Ta pieśń jest wyrazem wdzięczności za dar zbawienia.",
+      "opis": "Prawdziwą ofiarą, jak mówi psalm, jest dziękczynienie, a ta pieśń jest wyrazem wdzięczności za dar zbawienia.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą radykalnych wymagań Ewangelii.",
+      "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą radykalnych wymagań postawionych w Ewangelii.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Jest to prośba o oczyszczenie serca, co jest warunkiem prawdziwej pobożności, o której mówi prorok Izajasz.",
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
+      "opis": "Jest to prośba o oczyszczenie serca, które jest warunkiem prawdziwej pobożności, o jakiej naucza prorok Izajasz.",
       "moment": "ogolne"
     },
     {
-      "numer": "425",
+      "numer": "222",
       "piesn": "Idźcie na cały świat",
-      "opis": "Ewangelia kończy się rozesłaniem uczniów. Ta pieśń przypomina o misji głoszenia Ewangelii mimo trudności.",
+      "opis": "Ewangelia kończy się rozesłaniem uczniów, a ta pieśń przypomina o misji głoszenia Ewangelii mimo wszelkich trudności.",
       "moment": "ogolne"
     }
   ]

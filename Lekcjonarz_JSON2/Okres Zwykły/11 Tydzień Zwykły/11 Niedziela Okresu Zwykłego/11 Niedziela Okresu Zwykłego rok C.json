@@ -42,45 +42,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
+      "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Pieśń wyraża postawę skruchy króla Dawida i grzesznej kobiety, którzy uznali swoją winę i otrzymali przebaczenie.",
+      "opis": "Pieśń wyraża ducha pokuty i wołania o miłosierdzie, który cechuje postawę króla Dawida i grzesznej kobiety.",
       "moment": "wejscie"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Jest to pieśń o charakterze pokutnym, która jest ofiarą skruszonego serca, miłą Bogu bardziej niż inne dary.",
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Ofiara skruszonego serca i miłości jest najmilsza Bogu, co doskonale ukazuje gest kobiety w domu faryzeusza.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "428",
+      "numer": "245",
       "piesn": "Jezu, miłości Twej",
-      "opis": "Pieśń jest wyrazem miłości do Jezusa, która jest owocem doświadczenia przebaczenia, jak w przypadku kobiety z Ewangelii.",
+      "opis": "Pieśń jest wyrazem miłości do Jezusa, która rodzi się z doświadczenia Jego przebaczenia, jak w przypadku kobiety z Ewangelii.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Psalm responsoryjny mówi o radości z odpuszczenia grzechów. Ta pieśń jest uwielbieniem za Boże miłosierdzie.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Psalm responsoryjny mówi o radości z odpuszczenia grzechów; ta pieśń wyraża tę samą radość powrotu do Ojca.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "426",
-      "piesn": "Jezu, ufam Tobie",
-      "opis": "Pieśń jest aktem zawierzenia, który podsumowuje postawę kobiety, której wiara ją ocaliła.",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
+      "opis": "Słowa Jezusa 'Twoja wiara cię ocaliła' znajdują swoje echo w refrenie pieśni 'Jezu, ufam Tobie'.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "353",
-      "piesn": "Krzyżu Chrystusa, bądźże pochwalony",
-      "opis": "Nawiązuje do drugiego czytania, w którym św. Paweł mówi o zjednoczeniu z Chrystusem ukrzyżowanym.",
+      "numer": "116",
+      "piesn": "Z głębi mojego serca",
+      "opis": "Ta pieśń pokutna, podobnie jak psalm, wyraża głęboką skruchę i nadzieję na Boże przebaczenie.",
       "moment": "ogolne"
     },
     {
-      "numer": "494",
+      "numer": "618",
       "piesn": "Pójdź do Jezusa",
-      "opis": "Zaprasza grzeszników do spotkania z Jezusem, który, jak w Ewangelii, nie odrzuca skruszonych serc.",
+      "opis": "Pieśń jest zaproszeniem dla wszystkich grzeszników, by przyszli do Jezusa, który z miłością przyjmuje i odpuszcza grzechy.",
       "moment": "ogolne"
     }
   ]

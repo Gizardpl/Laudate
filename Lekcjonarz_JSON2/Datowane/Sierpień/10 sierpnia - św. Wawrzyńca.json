@@ -32,43 +32,43 @@
     {
       "numer": "500",
       "piesn": "Nie bez ran ten bój się toczył",
-      "opis": "Pieśń ta, dedykowana św. Wawrzyńcowi, opisuje jego męczeństwo jako zwycięską walkę, co idealnie pasuje na rozpoczęcie liturgii.",
+      "opis": "Pieśń poświęcona św. Wawrzyńcowi opisuje jego męczeństwo jako zwycięską walkę, co jest idealnym wprowadzeniem w liturgię tego święta.",
       "moment": "wejscie"
     },
     {
       "numer": "574",
       "piesn": "Wielbimy Ciebie, wszechmogący Boże",
-      "opis": "Hymn ku czci męczenników, który podkreśla wartość ich ofiary, jest doskonały na przygotowanie darów, ofiarowując Bogu ich przykład.",
+      "opis": "Utwór ten jest hymnem dziękczynnym za świadectwo męczenników, których ofiara krwi, podobnie jak dary chleba i wina, użyźnia Kościół.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "1",
       "piesn": "Błogosławieni",
-      "opis": "Pieśń o błogosławieństwach dobrze oddaje postawę św. Wawrzyńca, który służąc ubogim i oddając życie, osiągnął wieczną nagrodę.",
+      "opis": "Pieśń ta, a zwłaszcza słowa o miłosierdziu wobec braci, nawiązuje do tradycji o św. Wawrzyńcu, który skarbami Kościoła nazwał ubogich.",
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn 'Te Deum' jest odpowiednim dziękczynieniem za świadectwo męczennika, którego 'orszszak biały' wielbi Boga w niebie.",
+      "numer": "553",
+      "piesn": "Bądź uwielbion",
+      "opis": "Hymn ten jest bezpośrednim uwielbieniem Boga za dar świętości, jakim obdarzył On Wawrzyńca, co stanowi doskonałe dziękczynienie za jego męczeńskie świadectwo.",
       "moment": "uwielbienie"
     },
     {
       "numer": "575",
       "piesn": "Witaj, święty męczenniku",
-      "opis": "Pieśń ta jest hołdem dla męczennika, który wiernie stał przy Chrystusie, co jest przesłaniem dzisiejszego święta na rozesłanie.",
+      "opis": "Pieśń ta jest hołdem dla męczennika, który wiernie stał przy Chrystusie, co stanowi wzór i posłanie dla wiernych na zakończenie liturgii.",
       "moment": "rozeslanie"
     },
     {
       "numer": "554",
       "piesn": "Racz być, Chryste, przebłagany",
-      "opis": "Modlitwa za wstawiennictwem męczenników, która prosi o ich pomoc w drodze do nieba, jest dobrym wyborem na ten dzień.",
+      "opis": "Pieśń jest modlitwą o wstawiennictwo chóru męczenników, do którego dołączył św. Wawrzyniec, prosząc o odpuszczenie grzechów.",
       "moment": "ogolne"
     },
     {
       "numer": "584",
       "piesn": "Święci, niebieskiej mieszkańcy krainy",
-      "opis": "Pieśń ta zwraca się do wszystkich świętych, w tym męczenników, z prośbą o wstawiennictwo i opiekę.",
+      "opis": "Jest to ogólna pieśń do świętych patronów, która pasuje do dnia każdego świętego, prosząc o ich wstawiennictwo.",
       "moment": "ogolne"
     }
   ]

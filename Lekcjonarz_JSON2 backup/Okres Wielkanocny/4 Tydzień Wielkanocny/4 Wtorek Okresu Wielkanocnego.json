@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/413302.Wtorek-IV-tygodnia-wielkanocnego",
+  "tytul_dnia": "4 Wtorek Okresu Wielkanocnego",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Dz 11, 19-26",
+      "opis": "Pierwsi „chrześcijanie” w Antiochii",
+      "tekst": "Ci, których rozproszyło prześladowanie, jakie wybuchło z powodu Szczepana, dotarli aż do Fenicji, na Cypr i do Antiochii, głosząc słowo samym tylko Żydom. Niektórzy z nich pochodzili z Cypru i z Cyreny. Oni to po przybyciu do Antiochii przemawiali też do Greków i głosili Dobrą Nowinę o Panu Jezusie. A ręka Pańska była z nimi, bo wielka liczba uwierzyła i nawróciła się do Pana.\nWieść o tym doszła do uszu Kościoła w Jeruzalem. Wysłano do Antiochii Barnabę. Gdy on przybył i zobaczył działanie łaski Bożej, ucieszył się i zachęcał wszystkich, aby całym sercem wytrwali przy Panu; był bowiem człowiekiem dobrym i pełnym Ducha Świętego i wiary. Pozyskano wtedy wielką liczbę wiernych dla Pana.\nBarnaba udał się też do Tarsu, aby odszukać Szawła. A kiedy go znalazł, przyprowadził do Antiochii i przez cały rok pracowali razem w Kościele, nauczając wielką rzeszę ludzi. W Antiochii też po raz pierwszy nazwano uczniów chrześcijanami.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 87 (86), 1b-3. 4-5. 6-7 (R.: por. Ps 117 [116], 1b)",
+      "opis": " (albo: Alleluja)",
+      "tekst": "Refren: Wszystkie narody, wysławiajcie Pana.\nGród Jego wznosi się na świętych górach, †\numiłował Pan bramy Syjonu *\nbardziej niż wszystkie namioty Jakuba.\nWspaniałe rzeczy głoszą o tobie, *\nmiasto Boże.\nRefren.\nWymienię Egipt i Babilon wśród tych, którzy mnie znają. †\nOto Filistea, Tyr i Etiopia, *\nnawet taki kraj tam się narodził.\nO Syjonie powiedzą: «Każdy człowiek urodził się na nim, *\na Najwyższy sam go umacnia».\nRefren.\nPan zapisuje w księdze ludów: *\n«Oni się tam narodzili».\nI tańcząc, śpiewać będą: *\n«Wszystkie moje źródła są w tobie».\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. J 10, 27",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Moje owce słuchają mego głosu,\nJa znam je, a one idą za Mną."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "J 10, 22-30",
+      "opis": "Moje owce słuchają mego głosu",
+      "tekst": "Obchodzono w Jerozolimie uroczystość Poświęcenia Świątyni. Było to w zimie. Jezus przechadzał się w świątyni, w portyku Salomona.\nOtoczyli Go Żydzi i mówili do Niego: «Dokąd będziesz nas trzymał w niepewności? Jeśli Ty jesteś Mesjaszem, powiedz nam otwarcie!»\nRzekł do nich Jezus: «Powiedziałem wam, a nie wierzycie. Czyny, których dokonuję w imię mojego Ojca, świadczą o Mnie. Ale wy nie wierzycie, bo nie jesteście z moich owiec.\nMoje owce słuchają mego głosu, a Ja znam je. Idą one za Mną, a Ja daję im życie wieczne. Nie zginą na wieki i nikt nie wyrwie ich z mojej ręki. Ojciec mój, który Mi je dał, jest większy od wszystkich. I nikt nie może ich wyrwać z ręki mego Ojca. Ja i Ojciec jedno jesteśmy».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Pieśń ta jest parafrazą Psalmu 23, który tematycznie łączy się z Ewangelią o Dobrym Pasterzu i Jego owcach.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Nawiązuje do Kościoła, który gromadzi wiernych z różnych narodów, jak opisano w pierwszym czytaniu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "615",
+      "piesn": "Pan mój, Wódz i Pasterz",
+      "opis": "Jest to kolejna wersja Psalmu 23, która podkreśla osobistą więź z Chrystusem Dobrym Pasterzem, który daje życie wieczne.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń uwielbienia, która wzywa wszystkie narody do chwalenia Pana, co jest tematem psalmu responsoryjnego.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Misja głoszenia Ewangelii Grekom w Antiochii jest przykładem wypełniania nakazu Chrystusa.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "197",
+      "piesn": "Zmartwychpowstał Pan prawdziwie",
+      "opis": "Wiara w Zmartwychwstałego Pana jest fundamentem życia wiecznego, które On daje swoim owcom.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "242",
+      "piesn": "Jeden chleb",
+      "opis": "Podkreśla jedność owczarni Chrystusa, do której należą zarówno Żydzi, jak i poganie.",
+      "moment": "ogolne"
+    }
+  ]
+}

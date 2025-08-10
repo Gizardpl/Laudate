@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/429102.21-Niedziela-zwykla-Rok-A",
+  "tytul_dnia": "21 Niedziela Okresu Zwykłego rok A",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Iz 22, 19-23",
+      "opis": "Klucz domu Dawidowego",
+      "tekst": "Tak mówi Pan do Szebny, zarządcy pałacu: «Gdy strącę cię z twego urzędu i przepędzę cię z twojej posady, tego dnia powołam sługę mego, Eliakima, syna Chilkiasza. Oblokę go w twoją tunikę, przepaszę go twoim pasem, twoją władzę oddam w jego ręce; on będzie ojcem dla mieszkańców Jeruzalem oraz dla domu Judy.\nPołożę klucz domu Dawidowego na jego ramieniu; gdy on otworzy, nikt nie zamknie, gdy on zamknie, nikt nie otworzy. Wbiję go jak kołek na miejscu pewnym; i stanie się on tronem chwały dla domu swego ojca».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 138 (137), 1b-2a. 2b-3. 6 i 8bc (R.: por. 8b)",
+      "opis": "",
+      "tekst": "Refren: Panie, Twa łaska trwa po wszystkie wieki.\nBędę Cię sławił, Panie, z całego serca, *\nbo usłyszałeś słowa ust moich.\nBędę śpiewał Ci psalm wobec aniołów, *\npokłon Ci oddam w Twoim świętym przybytku.\nRefren.\nI będę sławił Twe imię za łaskę i wierność Twoją, *\nbo ponad wszystko wywyższyłeś Twe imię i obietnicę.\nWysłuchałeś mnie, kiedy Cię wzywałem, *\npomnożyłeś moc mojej duszy.\nRefren.\nZaprawdę Pan jest wzniosły, †\npatrzy łaskawie na pokornego, *\npyszałka zaś dostrzega z daleka.\nPanie, Twa łaska trwa na wieki, *\nnie porzucaj dzieła rąk swoich.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Rz 11, 33-36",
+      "opis": "Hymn na cześć mądrości Bożej",
+      "tekst": "O głębokości bogactw, mądrości i wiedzy Boga! Jakże niezbadane są Jego wyroki i nie do wyśledzenia Jego drogi! Kto bowiem poznał myśl Pana albo kto był Jego doradcą? Lub kto Go pierwszy obdarował, aby nawzajem otrzymać odpłatę?\nAlbowiem z Niego i przez Niego, i dla Niego jest wszystko. Jemu chwała na wieki! Amen.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 16, 18",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Ty jesteś Piotr, czyli Opoka, i na tej opoce zbuduję mój Kościół,\na bramy piekielne go nie przemogą."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 16, 13-20",
+      "opis": "Ty jesteś Piotr i tobie dam klucze królestwa niebieskiego",
+      "tekst": "Gdy Jezus przyszedł w okolice Cezarei Filipowej, pytał swych uczniów: «Za kogo ludzie uważają Syna Człowieczego?» A oni odpowiedzieli: «Jedni za Jana Chrzciciela, inni za Eliasza, jeszcze inni za Jeremiasza albo za jednego z proroków».\nJezus zapytał ich: «A wy za kogo Mnie uważacie?»\nOdpowiedział Szymon Piotr: «Ty jesteś Mesjasz, Syn Boga żywego».\nNa to Jezus mu rzekł: «Błogosławiony jesteś, Szymonie, synu Jony. Albowiem nie objawiły ci tego ciało i krew, lecz Ojciec mój, który jest w niebie. Otóż i Ja tobie powiadam: Ty jesteś Piotr, czyli Opoka, i na tej opoce zbuduję Kościół mój, a bramy piekielne go nie przemogą. I tobie dam klucze królestwa niebieskiego; cokolwiek zwiążesz na ziemi, będzie związane w niebie, a co rozwiążesz na ziemi, będzie rozwiązane w niebie».\nWtedy surowo zabronił uczniom, aby nikomu nie mówili, że On jest Mesjaszem.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "433",
+      "piesn": "Na Boży rozkaz",
+      "opis": "Pieśń bezpośrednio nawiązuje do prymatu Piotra i władzy kluczy, co jest centralnym tematem Ewangelii i aklamacji.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Modlitwa za Kościół, zbudowany na opoce Piotrowej, jest naturalną odpowiedzią na słowa Jezusa z Ewangelii.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest osobistym wyznaniem wiary w Chrystusa, podobnym do tego, które złożył Piotr w Cezarei Filipowej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "478",
+      "piesn": "Jeśli chcesz szukać patrona",
+      "opis": "Pieśń do św. Piotra, którego Ewangelia ukazuje jako fundament Kościoła, jest doskonałym uwielbieniem po Komunii.",
+      "moment": "uwielbienienie"
+    },
+    {
+      "numer": "477",
+      "piesn": "Bóg, wieczna światłość",
+      "opis": "Choć pieśń jest przeznaczona na święto Apostołów Piotra i Pawła, jej treść o książętach Kościoła pasuje do dzisiejszej Ewangelii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "636",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' jest wyrazem uwielbienia dla niezbadanej mądrości Boga, o której mówi drugie czytanie.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń podkreśla godność Ludu Bożego, czyli Kościoła, którego fundamentem jest Piotr Apostoł.",
+      "moment": "ogolne"
+    }
+  ]
+}

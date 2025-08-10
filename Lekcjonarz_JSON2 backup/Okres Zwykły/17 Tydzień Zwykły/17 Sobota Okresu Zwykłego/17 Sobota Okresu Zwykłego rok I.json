@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/430472.Sobota-XVII-tydzien-zwykly-rok-I",
+  "tytul_dnia": "17 Sobota Okresu Zwykłego rok I",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Kpł 25, 1. 8-17",
+      "opis": "Rok jubileuszowy",
+      "tekst": "Pan powiedział do Mojżesza na górze Synaj: «Policzysz sobie siedem lat szabatowych, to jest siedem razy po siedem lat, tak że czas siedmiu lat szabatowych będzie obejmował czterdzieści dziewięć lat. Dziesiątego dnia siódmego miesiąca zadmiesz w róg. W Dniu Przebłagania zadmiecie w róg w całej waszej ziemi. Będziecie święcić pięćdziesiąty rok, obwieścicie wyzwolenie w kraju dla wszystkich jego mieszkańców. Będzie to dla was jubileusz - każdy z was powróci do swej własności i każdy powróci do swego rodu. Cały ten rok pięćdziesiąty będzie dla was rokiem jubileuszowym - nie będziecie siać, nie będziecie żąć tego, co urośnie, nie będziecie zbierać nieobciętych winogron, bo to będzie dla was rzecz święta. Wolno wam jednak będzie jeść to, co urośnie na polu.\nW tym roku jubileuszowym każdy powróci do swej własności. Kiedy więc będziecie sprzedawać coś bliźniemu albo kupować coś od bliźniego, nie wyrządzajcie krzywdy jeden drugiemu. Ale odpowiednio do liczby lat, które upłynęły od jubileuszu, będziesz kupował od bliźniego, a on sprzeda tobie odpowiednio do liczby lat plonów. Im więcej lat pozostaje do jubileuszu, tym większą cenę zapłacisz, im mniej lat pozostaje, tym mniejszą cenę zapłacisz, bo ilość plonów on ci sprzedaje.\nNie będziecie wyrządzać krzywdy jeden drugiemu. Będziesz się bał Boga twego, bo Ja jestem Pan, Bóg wasz!»\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 67 (66), 2-3. 4-5. 7-8 (R.: por. 4)",
+      "opis": "",
+      "tekst": "Refren: Niech wszystkie ludy sławią Ciebie, Boże.\nNiech Bóg się zmiłuje nad nami i nam błogosławi; *\nniech nam ukaże pogodne oblicze.\nAby na ziemi znano Jego drogę, *\nJego zbawienie wśród wszystkich narodów.\nRefren.\nNiech Ciebie, Boże, wysławiają ludy, *\nniech wszystkie narody oddają Ci chwałę.\nNiech się narody cieszą i weselą, †\nbo rządzisz ludami sprawiedliwie *\ni kierujesz narodami na ziemi.\nRefren:\nZiemia wydała swój owoc; *\nBóg, nasz Bóg, nam pobłogosławił.\nNiech nam Bóg błogosławi *\ni niech cześć Mu oddają wszystkie krańce ziemi.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mt 5, 10",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości,\nalbowiem do nich należy królestwo niebieskie."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 14, 1-12",
+      "opis": "Śmierć Jana Chrzciciela",
+      "tekst": "W owym czasie doszła do uszu tetrarchy Heroda wieść o Jezusie. I rzekł do swych dworzan: «To Jan Chrzciciel. On powstał z martwych i dlatego moce cudotwórcze w nim działają».\nHerod bowiem kazał pochwycić Jana i związanego wtrącić do więzienia, z powodu Herodiady, żony brata jego, Filipa. Jan bowiem upominał go: «Nie wolno ci jej trzymać». Chętnie też byłby go zgładził, bał się jednak ludu, ponieważ miano go za proroka.\nOtóż, kiedy obchodzono urodziny Heroda, tańczyła wobec gości córka Herodiady i spodobała się Herodowi. Zatem pod przysięgą obiecał jej dać wszystko, o cokolwiek poprosi. A ona przedtem już podmówiona przez swą matkę powiedziała: «Daj mi tu na misie głowę Jana Chrzciciela!» Zasmucił się król. Lecz przez wzgląd na przysięgę i na współbiesiadników kazał jej dać. Posławszy więc kata, kazał ściąć Jana w więzieniu. Przyniesiono głowę jego na misie i dano dziewczynie, a ona zaniosła ją swojej matce.\nUczniowie zaś Jana przyszli, zabrali jego ciało i pogrzebali je; potem poszli i donieśli o tym Jezusowi.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "96",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń mówi o Bożej opiece nad sprawiedliwymi, co jest pociechą w kontekście męczeńskiej śmierci Jana Chrzciciela.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Jan Chrzciciel oddał życie w obronie prawa Bożego, a ta pieśń jest deklaracją wierności temu prawu ponad wszystko.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "236",
+      "piesn": "Panie, nie jestem godzien",
+      "opis": "Wobec męczeństwa Jana, który był głosem wołającym na pustyni, ta pieśń wyraża naszą małość i potrzebę łaski.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Psalm responsoryjny wzywa wszystkie ludy do sławienia Boga, a ta pieśń jest radosnym wypełnieniem tego wezwania.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Pieśń ta głosi zwycięstwo Chrystusa nad złem i śmiercią, co jest ostateczną odpowiedzią na niesprawiedliwą śmierć Jana.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "510",
+      "piesn": "Boże, coś Polskę",
+      "opis": "Modlitwa za Ojczyznę, aby panowała w niej sprawiedliwość, za którą ginął Jan Chrzciciel.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "513",
+      "piesn": "Ciebie, Boga, wysławiamy",
+      "opis": "Hymn 'Te Deum' wysławia 'zastęp chwalebny proroków', do których należy św. Jan Chrzciciel.",
+      "moment": "ogolne"
+    }
+  ]
+}

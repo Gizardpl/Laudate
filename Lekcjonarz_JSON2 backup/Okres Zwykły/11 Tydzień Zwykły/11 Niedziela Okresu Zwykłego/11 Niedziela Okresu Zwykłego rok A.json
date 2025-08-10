@@ -1,0 +1,81 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/417193.11-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "11 Niedziela Okresu Zwykłego rok A",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Wj 19, 2-6a",
+      "opis": "Obietnice Boże dla ludu wybranego",
+      "tekst": "Po przybyciu na pustynię Synaj Izraelici rozbili obóz na pustyni. Izrael obozował tam naprzeciw góry.\nMojżesz wszedł wtedy na górę do Boga, a Pan zawołał na niego z góry i powiedział: «Tak powiesz domowi Jakuba i to oznajmisz Izraelitom: Wy widzieliście, co uczyniłem Egiptowi, jak niosłem was na skrzydłach orlich i przywiodłem was do Mnie. Teraz, jeśli pilnie słuchać będziecie głosu mego i strzec mojego przymierza, będziecie szczególną moją własnością pośród wszystkich narodów, gdyż do Mnie należy cała ziemia. Lecz wy będziecie Mi królestwem kapłanów i ludem świętym».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 100 (99), 2-3. 4-5 (R.: por. 3c)",
+      "opis": "",
+      "tekst": "Refren: My ludem Pana i Jego owcami.\nSłużcie Panu z weselem, *\nstańcie przed obliczem Pana z okrzykami radości.\nWiedzcie, że Pan jest Bogiem, †\nOn sam nas stworzył, jesteśmy Jego własnością, *\nJego ludem, owcami Jego pastwiska.\nRefren.\nW Jego bramy wstępujcie z dziękczynieniem, †\nz hymnami w Jego przedsionki, *\nchwalcie i błogosławcie Jego imię.\nAlbowiem Pan jest dobry, †\nJego łaska trwa na wieki, *\na Jego wierność przez pokolenia.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Rz 5, 6-11",
+      "opis": "Pojednani z Bogiem przez śmierć Chrystusa, dostąpimy zbawienia przez Jego życie",
+      "tekst": "Bracia:\nChrystus umarł za nas, jako za grzeszników, w oznaczonym czasie, gdy jeszcze byliśmy bezsilni. A nawet za człowieka sprawiedliwego podejmuje się ktoś umrzeć tylko z największą trudnością. Chociaż może jeszcze za człowieka życzliwego odważyłby się ktoś ponieść śmierć. Bóg zaś okazuje nam swoją miłość właśnie przez to, że Chrystus umarł za nas, gdy byliśmy jeszcze grzesznikami.\nTym bardziej więc będziemy przez Niego zachowani od karzącego gniewu, gdy teraz przez krew Jego zostaliśmy usprawiedliwieni. Jeżeli bowiem, będąc nieprzyjaciółmi, zostaliśmy pojednani z Bogiem przez śmierć Jego Syna, to tym bardziej, będąc już pojednanymi, dostąpimy zbawienia przez Jego życie. I nie tylko to - ale i chlubić się możemy w Bogu przez Pana naszego Jezusa Chrystusa, przez którego teraz uzyskaliśmy pojednanie.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Mk 1, 15",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Bliskie jest królestwo Boże.\nNawracajcie się i wierzcie w Ewangelię."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 9, 36 - 10, 8",
+      "opis": "Rozesłanie Dwunastu",
+      "tekst": "Jezus, widząc tłumy, litował się nad nimi, bo byli znękani i porzuceni, jak owce nie mające pasterza. Wtedy rzekł do swych uczniów: «Żniwo wprawdzie wielkie, ale robotników mało. Proście Pana żniwa, żeby wyprawił robotników na swoje żniwo».\nWtedy przywołał do siebie dwunastu swoich uczniów i udzielił im władzy nad duchami nieczystymi, aby je wypędzali i leczyli wszystkie choroby i wszelkie słabości. A oto imiona dwunastu apostołów: pierwszy - Szymon, zwany Piotrem, i brat jego Andrzej, potem Jakub, syn Zebedeusza, i brat jego Jan, Filip i Bartłomiej, Tomasz i celnik Mateusz, Jakub, syn Alfeusza, i Tadeusz, Szymon Gorliwy i Judasz Iskariota, ten, który Go zdradził.\nTych to Dwunastu wysłał Jezus i dał im takie wskazania: «Nie idźcie do pogan i nie wstępujcie do żadnego miasta samarytańskiego. Idźcie raczej do owiec, które poginęły z domu Izraela. Idźcie i głoście: Bliskie już jest królestwo niebieskie. Uzdrawiajcie chorych, wskrzeszajcie umarłych, oczyszczajcie trędowatych, wypędzajcie złe duchy. Darmo otrzymaliście, darmo dawajcie».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "425",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń jest bezpośrednim nawiązaniem do Ewangelii o rozesłaniu Dwunastu, aby głosili Dobrą Nowinę.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "W odpowiedzi na Boże wybranie, opisane w pierwszym czytaniu, ta pieśń jest aktem ofiarowania wierności Bogu.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "485",
+      "piesn": "Pan jest pasterzem moim",
+      "opis": "Jezus lituje się nad tłumem jak nad owcami bez pasterza. Eucharystia jest pokarmem od Dobrego Pasterza.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "506",
+      "piesn": "Wysławiajcie Pana",
+      "opis": "Radosny charakter tej pieśni dobrze koresponduje z wezwaniem psalmu: 'Służcie Panu z weselem'.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "406",
+      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "opis": "Jesteśmy posłani przez Chrystusa, naszego Króla, by budować Jego królestwo kapłanów i lud święty.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "119",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń dziękczynna za miłość Boga, który pojednał nas ze sobą przez śmierć swojego Syna.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "388",
+      "piesn": "Złączeni w jedno",
+      "opis": "Nawiązuje do Izraela jako ludu świętego i własności Boga, co jest zapowiedzią Kościoła zjednoczonego w Chrystusie.",
+      "moment": "ogolne"
+    }
+  ]
+}

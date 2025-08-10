@@ -30,15 +30,15 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Pieśń ta jest modlitwą o Ducha Świętego, który odradza do nowego życia, o czym Jezus mówi Nikodemowi.",
+      "numer": "216",
+      "piesn": "Duchu Święty, przyjdź, prosimy",
+      "opis": "Modlitwa do Ducha Świętego jest odpowiednim rozpoczęciem liturgii, w której Ewangelia mówi o konieczności narodzin z Ducha.",
       "moment": "wejscie"
     },
     {
       "numer": "242",
       "piesn": "Jeden chleb",
-      "opis": "Nawiązuje do jedności pierwszej wspólnoty chrześcijańskiej, opisanej w Dziejach Apostolskich, gdzie \"jeden duch i jedno serce ożywiały wszystkich\".",
+      "opis": "Nawiązuje do jedności pierwszej wspólnoty chrześcijańskiej, opisanej w Dziejach Apostolskich, gdzie 'jeden duch i jedno serce ożywiały wszystkich'.",
       "moment": "ofiarowanie"
     },
     {
@@ -62,14 +62,14 @@
     {
       "numer": "182",
       "piesn": "Minęły cienie i mroki nocy",
-      "opis": "Mówi o nowym życiu, które otrzymujemy w \"paschalnym źródle\", co bezpośrednio odnosi się do nauki o chrzcie z Ewangelii.",
-      "moment": "ogólne"
+      "opis": "Mówi o nowym życiu, które otrzymujemy w 'paschalnym źródle', co bezpośrednio odnosi się do nauki o chrzcie z Ewangelii.",
+      "moment": "ogolne"
     },
     {
       "numer": "692",
       "piesn": "Gdzie miłość wzajemna i dobroć",
       "opis": "Pieśń ta jest hymnem na cześć miłości braterskiej, która była znakiem rozpoznawczym pierwszej gminy chrześcijańskiej.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     }
   ]
 }

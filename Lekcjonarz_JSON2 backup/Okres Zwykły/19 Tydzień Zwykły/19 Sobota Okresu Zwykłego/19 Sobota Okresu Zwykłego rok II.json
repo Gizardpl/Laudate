@@ -1,0 +1,75 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/556991.Sobota-XIX-tydzien-zwykly-rok-II",
+  "tytul_dnia": "19 Sobota Okresu Zwykłego rok II",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Ez 18, 1-10. 13b. 30-32",
+      "opis": "Odpowiedzialność osobista",
+      "tekst": "Pan skierował do mnie te słowa: «Z jakiego powodu powtarzacie między sobą to przysłowie o ziemi izraelskiej: „Ojcowie jedli zielone winogrona, a zęby ścierpły synom?” Na moje życie - mówi Pan Bóg. Nie będziecie więcej powtarzali tego przysłowia w Izraelu. Oto wszystkie osoby są moje: tak osoba ojca, jak osoba syna. Są moje. Umrze tylko ta osoba, która zgrzeszyła.\nKtokolwiek jest sprawiedliwy i przestrzega prawa i sprawiedliwości, kto nie jada na górach i oczu nie podnosi ku bożkom domu Izraela, nie bezcześci żony bliźniego, nie zbliża się do żony w okresie jej nieczystości, nie krzywdzi nikogo, zwraca zastaw dłużnikowi, nie trudni się rozbojem, łaknącemu udziela chleba, nagiego przyodziewa szatą, nie uprawia lichwy, nie żąda odsetek, odsuwa swą rękę od nieprawości, sprawiedliwie rozsądza między jednym a drugim człowiekiem, stosuje się do moich ustaw i zachowuje wiernie moje przykazania, postępując uczciwie - ten na pewno żyć będzie - mówi Pan Bóg.\nLecz jeśliby zrodził syna gwałtownika i rozlewającego krew, winnego jednej z tych zbrodni, syn ten nie będzie żył. Ten na pewno umrze, a odpowiedzialność za krew jego spadnie na niego samego.\nDlatego, domu Izraela, będę was sądził, każdego według jego postępowania - mówi Pan Bóg. Nawróćcie się! Odstąpcie od wszystkich waszych grzechów, aby wam już więcej nie były sposobnością do przewiny. Odrzućcie od siebie wszystkie grzechy, które popełnialiście przeciwko Mnie, i uczyńcie sobie nowe serce i nowego ducha. Dlaczego mielibyście umrzeć, domu Izraela? Ja nie mam żadnego upodobania w śmierci - mówi Pan Bóg. Zatem nawróćcie się, a żyć będziecie».\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 51 (50), 12-13. 14-15. 18-19 (R.: por. 12a)",
+      "opis": "",
+      "tekst": "Refren: Stwórz, o mój Boże, we mnie serce czyste.\nStwórz, Boże, we mnie serce czyste *\ni odnów we mnie moc ducha.\nNie odrzucaj mnie od swego oblicza *\ni nie odbieraj mi świętego ducha swego.\nRefren.\nPrzywróć mi radość Twojego zbawienia *\ni wzmocnij mnie duchem ofiarnym.\nBędę nieprawych nauczał dróg Twoich *\ni wrócą do Ciebie grzesznicy.\nRefren.\nOfiarą bowiem Ty się nie radujesz, *\na całopalenia, choćbym dał, nie przyjmiesz.\nBoże, moją ofiarą jest duch skruszony, *\npokornym i skruszonym sercem Ty, Boże, nie gardzisz.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Mt 11, 25",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Wysławiam Cię, Ojcze, Panie nieba i ziemi,\nże tajemnice królestwa objawiłeś prostaczkom."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 19, 13-15",
+      "opis": "Jezus błogosławi dzieci",
+      "tekst": "Przynoszono do Jezusa dzieci, aby położył na nie ręce i pomodlił się za nie; a uczniowie szorstko zabraniali im tego. Lecz Jezus rzekł: «Dopuśćcie dzieci i nie przeszkadzajcie im przyjść do Mnie; do takich bowiem należy królestwo niebieskie». Położył na nie ręce i poszedł stamtąd.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "101",
+      "piesn": "Boże, obmyj mnie",
+      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża prośbę o czyste serce.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "118",
+      "piesn": "Bądź mi litościw",
+      "opis": "Jest to pieśń o charakterze pokutnym, która pasuje do wezwania z pierwszego czytania: 'Nawróćcie się! Odstąpcie od wszystkich waszych grzechów'.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "416",
+      "piesn": "Gdy się łączą ręce",
+      "opis": "Choć to pieśń ślubna, jej słowa o prostocie i czystości serca dobrze korespondują z Ewangelią o dzieciach przychodzących do Jezusa.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Błogosław, duszo moja, Pana",
+      "opis": "Pieśń uwielbienia za Boże miłosierdzie i łaskę nawrócenia, o której mówi zarówno Ezechiel, jak i psalmista.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "476",
+      "piesn": "My chcemy Boga",
+      "opis": "Pieśń ta jest wyrazem osobistej decyzji i odpowiedzialności za wiarę, co jest głównym tematem pierwszego czytania.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "428",
+      "piesn": "Jezu, miłości Twej",
+      "opis": "Wyraża osobistą więź z Jezusem i pragnienie czystości serca, o której mówią czytania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "494",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Jest to zaproszenie do nawrócenia i przyjścia do Jezusa z dziecięcą ufnością, o której wspomina Ewangelia.",
+      "moment": "ogolne"
+    }
+  ]
+}

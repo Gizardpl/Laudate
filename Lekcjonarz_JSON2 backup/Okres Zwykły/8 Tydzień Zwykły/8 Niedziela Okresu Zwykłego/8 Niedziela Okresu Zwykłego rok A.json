@@ -1,0 +1,87 @@
+{
+  "urlCzytania": "https://liturgia.wiara.pl/doc/416213.8-Niedziela-zwykla-rok-A",
+  "tytul_dnia": "8 Niedziela Okresu Zwykłego rok A",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Iz 49, 14-15",
+      "opis": "Bóg nie opuszcza swojego ludu",
+      "tekst": "Mówił Syjon: «Pan mnie opuścił, Pan o mnie zapomniał».\n«Czyż może niewiasta zapomnieć o swym niemowlęciu, ta, która kocha syna swego łona? A nawet gdyby ona zapomniała, Ja nie zapomnę o tobie» - mówi Pan.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 62 (61), 2-3. 6-7. 8-9b (R.: por. 6a)",
+      "opis": "",
+      "tekst": "Refren: Jedynie w Bogu spokój znajdzie dusza.\nJedynie w Bogu spokój znajduje ma dusza, *\nod Niego przychodzi moje zbawienie.\nTylko On jest opoką i zbawieniem moim, *\nOn moją twierdzą, więc się nie zachwieję.\nRefren.\nJedynie w Bogu szukaj spokoju, duszo moja, *\nbo od Niego pochodzi moja nadzieja.\nTylko On jest opoką i zbawieniem moim, *\nOn moją twierdzą, więc się nie zachwieję.\nRefren.\nW Bogu zbawienie moje i chwała, *\nBóg opoką mocy mojej i moją ucieczką.\nW każdym czasie Jemu ufaj, narodzie, *\nprzed Nim wylejcie wasze serca.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "1 Kor 4, 1-5",
+      "opis": "Bóg jest sędzią, nie sądźcie przedwcześnie",
+      "tekst": "Bracia:\nNiech uważają nas ludzie za sługi Chrystusa i za szafarzy tajemnic Bożych. A od szafarzy już tutaj się żąda, aby każdy z nich był wierny.\nMnie zaś najmniej zależy na tym, czy będę osądzony przez was, czy przez jakikolwiek trybunał ludzki. Co więcej, nawet sam siebie nie sądzę. Sumienie nie wyrzuca mi wprawdzie niczego, ale to mnie jeszcze nie usprawiedliwia. Pan jest moim sędzią.\nPrzeto nie sądźcie przedwcześnie, dopóki nie przyjdzie Pan, który rozjaśni to, co w ciemnościach ukryte, i ujawni zamysły serc. Wtedy każdy otrzyma od Boga pochwałę.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Por. Hbr 4, 12",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Żywe jest słowo Boże i skuteczne,\nzdolne osądzić pragnienia i myśli serca."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Mt 6, 24-34",
+      "opis": "Ufność w opatrzność Bożą",
+      "tekst": "Jezus powiedział do swoich uczniów:\n«Nikt nie może dwom panom służyć. Bo albo jednego będzie nienawidził, a drugiego - miłował; albo z jednym będzie trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i Mamonie!\nDlatego powiadam wam: Nie martwcie się o swoje życie, o to, co macie jeść i pić, ani o swoje ciało, czym się macie przyodziać. Czyż życie nie znaczy więcej niż pokarm, a ciało więcej niż odzienie? Przypatrzcie się ptakom podniebnym: nie sieją ani żną i nie zbierają do spichlerzy, a Ojciec wasz niebieski je żywi. Czyż wy nie jesteście ważniejsi niż one?\nKto z was, martwiąc się, może choćby jedną chwilę dołożyć do wieku swego życia?\nA o odzienie czemu się martwicie? Przypatrzcie się liliom polnym, jak rosną: nie pracują ani przędą. A powiadam wam: nawet Salomon w całym swym przepychu nie był tak ubrany jak jedna z nich. Jeśli więc ziele polne, które dziś jest, a jutro do pieca będzie wrzucone, Bóg tak przyodziewa, to czyż nie tym bardziej was, ludzie małej wiary?\nNie martwcie się zatem i nie mówcie: co będziemy jedli? co będziemy pili? czym będziemy się przyodziewali? Bo o to wszystko poganie zabiegają. Przecież Ojciec wasz niebieski wie, że tego wszystkiego potrzebujecie. Starajcie się naprzód o królestwo Boga i o Jego sprawiedliwość, a to wszystko będzie wam dodane.\nNie martwcie się więc o jutro, bo jutrzejszy dzień sam o siebie martwić się będzie. Dosyć ma dzień każdy swojej biedy».\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta jest doskonałym hymnem o zaufaniu Bożej Opatrzności, co stanowi główny temat Ewangelii.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Wyraża postawę oddania Bogu swoich trosk i zawierzenia Mu, do czego zachęca Jezus.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Jest to pieśń o zaufaniu, która dobrze oddaje treść psalmu i pierwszego czytania o wierności Boga.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "626",
+      "piesn": "Szczęśliwy, kogo opatrzność Boska",
+      "opis": "Jest to pieśń uwielbienia dla Bożej Opatrzności, która troszczy się o swoje dzieci.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Pieśń na rozesłanie, która jest prośbą o Boże prowadzenie i opiekę w codziennym życiu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "768",
+      "piesn": "Pan blisko jest",
+      "opis": "Przypomina o bliskości i wierności Boga, który nigdy nie zapomina o swoim ludzie, jak mówi prorok Izajasz.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie szukania najpierw królestwa Bożego, co jest kluczem do pokoju serca.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "771",
+      "piesn": "Ty dasz mi pokój serca",
+      "opis": "Nawiązuje do psalmu, który mówi, że jedynie w Bogu dusza znajduje spokój.",
+      "moment": "ogolne"
+    }
+  ]
+}
