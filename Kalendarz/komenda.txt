@@ -1,0 +1,2 @@
+kotlinc PobierzKalendarz.kt -include-runtime -d skrypt.jar
+java -jar skrypt.jar 2026 "C:\Users\blzej\Desktop\Laudate\Kalendarz"

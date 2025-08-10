@@ -1,0 +1,2447 @@
+{
+  "Świętej Bożej Rodzicielki Maryi": {
+    "data": "01-01-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Świętych Bazylego Wielkiego i Grzegorza z Nazjanzu, biskupów i doktorów Kościoła": {
+    "data": "02-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Sobota przed Objawieniem Pańskim": {
+    "data": "03-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszego Imienia Jezus": {
+    "data": "03-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "II Niedziela po Bożym Narodzeniu": {
+    "data": "04-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek przed Objawieniem Pańskim": {
+    "data": "05-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Objawienie Pańskie": {
+    "data": "06-01-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Środa po Objawieniu Pańskim": {
+    "data": "07-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Rajmunda z Penyafort, prezbitera": {
+    "data": "07-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek po Objawieniu Pańskim": {
+    "data": "08-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Piątek po Objawieniu Pańskim": {
+    "data": "09-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Sobota po Objawieniu Pańskim": {
+    "data": "10-01-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Chrzest Pański": {
+    "data": "11-01-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Poniedziałek I tygodnia zwykłego": {
+    "data": "12-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek I tygodnia zwykłego": {
+    "data": "13-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Hilarego, biskupa i doktora Kościoła": {
+    "data": "13-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa I tygodnia zwykłego": {
+    "data": "14-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Czwartek I tygodnia zwykłego": {
+    "data": "15-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek I tygodnia zwykłego": {
+    "data": "16-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Antoniego, opata": {
+    "data": "17-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "II Niedziela Zwykła": {
+    "data": "18-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Józefa Sebastiana Pelczara, biskupa": {
+    "data": "19-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek II tygodnia zwykłego": {
+    "data": "20-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Fabiana, papieża i męczennika": {
+    "data": "20-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Sebastiana, męczennika": {
+    "data": "20-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Agnieszki, dziewicy i męczennicy": {
+    "data": "21-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Czwartek II tygodnia zwykłego": {
+    "data": "22-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Wincentego Pallottiego, prezbitera": {
+    "data": "22-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Wincentego, diakona i męczennika": {
+    "data": "22-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Piątek II tygodnia zwykłego": {
+    "data": "23-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Franciszka Salezego, biskupa i doktora Kościoła": {
+    "data": "24-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "III Niedziela Zwykła": {
+    "data": "25-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych biskupów Tymoteusza i Tytusa": {
+    "data": "26-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek III tygodnia zwykłego": {
+    "data": "27-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Anieli Merici, dziewicy": {
+    "data": "27-01-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Tomasza z Akwinu, prezbitera i doktora Kościoła": {
+    "data": "28-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek III tygodnia zwykłego": {
+    "data": "29-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek III tygodnia zwykłego": {
+    "data": "30-01-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Bosko, prezbitera": {
+    "data": "31-01-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "IV Niedziela Zwykła": {
+    "data": "01-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Ofiarowanie Pańskie": {
+    "data": "02-02-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Wtorek IV tygodnia zwykłego": {
+    "data": "03-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Błażeja, biskupa i męczennika": {
+    "data": "03-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Oskara, biskupa": {
+    "data": "03-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa IV tygodnia zwykłego": {
+    "data": "04-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Agaty, dziewicy i męczennicy": {
+    "data": "05-02-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Pawła Miki i Towarzyszy": {
+    "data": "06-02-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Sobota IV tygodnia zwykłego": {
+    "data": "07-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (07-02)": {
+    "data": "07-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "V Niedziela Zwykła": {
+    "data": "08-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek V tygodnia zwykłego": {
+    "data": "09-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Scholastyki, dziewicy": {
+    "data": "10-02-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa V tygodnia zwykłego": {
+    "data": "11-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny z Lourdes": {
+    "data": "11-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek V tygodnia zwykłego": {
+    "data": "12-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek V tygodnia zwykłego": {
+    "data": "13-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Cyryla, mnicha i Metodego, biskupa": {
+    "data": "14-02-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "VI Niedziela Zwykła": {
+    "data": "15-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek VI tygodnia zwykłego": {
+    "data": "16-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek VI tygodnia zwykłego": {
+    "data": "17-02-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Siedmiu Założycieli Zakonu Serwitów Najświętszej Maryi Panny": {
+    "data": "17-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa Popielcowa": {
+    "data": "18-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Czwartek po Popielcu": {
+    "data": "19-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek po Popielcu": {
+    "data": "20-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Sobota po Popielcu": {
+    "data": "21-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Piotra Damianiego, biskupa i doktora Kościoła": {
+    "data": "21-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "I Niedziela Wielkiego Postu": {
+    "data": "22-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Poniedziałek I tygodnia Wielkiego Postu": {
+    "data": "23-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Polikarpa, biskupa i męczennika": {
+    "data": "23-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek I tygodnia Wielkiego Postu": {
+    "data": "24-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Środa I tygodnia Wielkiego Postu": {
+    "data": "25-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Czwartek I tygodnia Wielkiego Postu": {
+    "data": "26-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek I tygodnia Wielkiego Postu": {
+    "data": "27-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Grzegorza z Nareku, opata i doktora Kościoła": {
+    "data": "27-02-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Sobota I tygodnia Wielkiego Postu": {
+    "data": "28-02-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "II Niedziela Wielkiego Postu": {
+    "data": "01-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Poniedziałek II tygodnia Wielkiego Postu": {
+    "data": "02-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek II tygodnia Wielkiego Postu": {
+    "data": "03-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Kazimierza": {
+    "data": "04-03-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Czwartek II tygodnia Wielkiego Postu": {
+    "data": "05-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek II tygodnia Wielkiego Postu": {
+    "data": "06-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Sobota II tygodnia Wielkiego Postu": {
+    "data": "07-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Świętych męczennic Perpetuy i Felicyty": {
+    "data": "07-03-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "III Niedziela Wielkiego Postu": {
+    "data": "08-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Poniedziałek III tygodnia Wielkiego Postu": {
+    "data": "09-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Franciszki Rzymianki, zakonnicy": {
+    "data": "09-03-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek III tygodnia Wielkiego Postu": {
+    "data": "10-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Środa III tygodnia Wielkiego Postu": {
+    "data": "11-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Czwartek III tygodnia Wielkiego Postu": {
+    "data": "12-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek III tygodnia Wielkiego Postu": {
+    "data": "13-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Sobota III tygodnia Wielkiego Postu": {
+    "data": "14-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "IV Niedziela Wielkiego Postu „Laetare”": {
+    "data": "15-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Poniedziałek IV tygodnia Wielkiego Postu": {
+    "data": "16-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek IV tygodnia Wielkiego Postu": {
+    "data": "17-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Patryka, biskupa": {
+    "data": "17-03-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Środa IV tygodnia Wielkiego Postu": {
+    "data": "18-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Cyryla Jerozolimskiego, biskupa i doktora Kościoła": {
+    "data": "18-03-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Św. Józefa, Oblubieńca Najświętszej Maryi Panny": {
+    "data": "19-03-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Piątek IV tygodnia Wielkiego Postu": {
+    "data": "20-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Sobota IV tygodnia Wielkiego Postu": {
+    "data": "21-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "V Niedziela Wielkiego Postu": {
+    "data": "22-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Poniedziałek V tygodnia Wielkiego Postu": {
+    "data": "23-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Turybiusza z Mongrovejo, biskupa": {
+    "data": "23-03-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek V tygodnia Wielkiego Postu": {
+    "data": "24-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Zwiastowanie Pańskie": {
+    "data": "25-03-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Czwartek V tygodnia Wielkiego Postu": {
+    "data": "26-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek V tygodnia Wielkiego Postu": {
+    "data": "27-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Sobota V tygodnia Wielkiego Postu": {
+    "data": "28-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Niedziela Palmowa Męki Pańskiej": {
+    "data": "29-03-2026",
+    "typ": "",
+    "kolor": "Czerwony"
+  },
+  "Wielki Poniedziałek": {
+    "data": "30-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielki Wtorek": {
+    "data": "31-03-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielka Środa": {
+    "data": "01-04-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielki Czwartek: Wieczerzy Pańskiej": {
+    "data": "02-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Wielki Piątek: Męki Pańskiej": {
+    "data": "03-04-2026",
+    "typ": "",
+    "kolor": "Czerwony"
+  },
+  "Wielka Sobota": {
+    "data": "04-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Niedziela Zmartwychwstania Pańskiego": {
+    "data": "05-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek w Oktawie Wielkanocy": {
+    "data": "06-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wtorek w Oktawie Wielkanocy": {
+    "data": "07-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Środa w Oktawie Wielkanocy": {
+    "data": "08-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Czwartek w Oktawie Wielkanocy": {
+    "data": "09-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Piątek w Oktawie Wielkanocy": {
+    "data": "10-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Sobota w Oktawie Wielkanocy": {
+    "data": "11-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "II Niedziela Wielkanocna czyli Miłosierdzia Bożego": {
+    "data": "12-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek II Tygodnia Wielkanocnego": {
+    "data": "13-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Marcina I, papieża i męczennika": {
+    "data": "13-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Wtorek II Tygodnia Wielkanocnego": {
+    "data": "14-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Środa II Tygodnia Wielkanocnego": {
+    "data": "15-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Czwartek II Tygodnia Wielkanocnego": {
+    "data": "16-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Piątek II Tygodnia Wielkanocnego": {
+    "data": "17-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Sobota II Tygodnia Wielkanocnego": {
+    "data": "18-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "III Niedziela Wielkanocna": {
+    "data": "19-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek III Tygodnia Wielkanocnego": {
+    "data": "20-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Wtorek III Tygodnia Wielkanocnego": {
+    "data": "21-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Anzelma, biskupa i doktora Kościoła": {
+    "data": "21-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa III Tygodnia Wielkanocnego": {
+    "data": "22-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Wojciecha, biskupa i męczennika": {
+    "data": "23-04-2026",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Piątek III Tygodnia Wielkanocnego": {
+    "data": "24-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Fidelisa z Sigmaringen, prezbitera i męczennika": {
+    "data": "24-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Jerzego, męczennika": {
+    "data": "24-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Marka, Ewangelisty": {
+    "data": "25-04-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "IV Niedziela Wielkanocna": {
+    "data": "26-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek IV Tygodnia Wielkanocnego": {
+    "data": "27-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Wtorek IV Tygodnia Wielkanocnego": {
+    "data": "28-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Ludwika Marii Grignion de Montfort, prezbitera": {
+    "data": "28-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Piotra Chanela, prezbitera i męczennika": {
+    "data": "28-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła": {
+    "data": "29-04-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Czwartek IV Tygodnia Wielkanocnego": {
+    "data": "30-04-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Piusa V, papieża": {
+    "data": "30-04-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Piątek IV Tygodnia Wielkanocnego": {
+    "data": "01-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Józefa, rzemieślnika": {
+    "data": "01-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Atanazego, biskupa i doktora Kościoła": {
+    "data": "02-05-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "V Niedziela Wielkanocna": {
+    "data": "03-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny, Królowej Polski": {
+    "data": "04-05-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wtorek V Tygodnia Wielkanocnego": {
+    "data": "05-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława Kazimierczyka, prezbitera": {
+    "data": "05-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych Apostołów Filipa i Jakuba": {
+    "data": "06-05-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Czwartek V Tygodnia Wielkanocnego": {
+    "data": "07-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława, biskupa i męczennika": {
+    "data": "08-05-2026",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Sobota V Tygodnia Wielkanocnego": {
+    "data": "09-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "VI Niedziela Wielkanocna": {
+    "data": "10-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek VI Tygodnia Wielkanocnego": {
+    "data": "11-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Wtorek VI Tygodnia Wielkanocnego": {
+    "data": "12-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Pankracego, męczennika": {
+    "data": "12-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Nereusza i Achillesa": {
+    "data": "12-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Środa VI Tygodnia Wielkanocnego": {
+    "data": "13-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny Fatimskiej": {
+    "data": "13-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Macieja, Apostoła": {
+    "data": "14-05-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Piątek VI Tygodnia Wielkanocnego": {
+    "data": "15-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Andrzeja Boboli, prezbitera i męczennika": {
+    "data": "16-05-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Wniebowstąpienie Pańskie": {
+    "data": "17-05-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Poniedziałek VII Tygodnia Wielkanocnego": {
+    "data": "18-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Jana I, papieża i męczennika": {
+    "data": "18-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Wtorek VII Tygodnia Wielkanocnego": {
+    "data": "19-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Środa VII Tygodnia Wielkanocnego": {
+    "data": "20-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Bernardyna ze Sieny, prezbitera": {
+    "data": "20-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek VII Tygodnia Wielkanocnego": {
+    "data": "21-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Krzysztofa Magallanesa, prezbitera, i Towarzyszy": {
+    "data": "21-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Piątek VII Tygodnia Wielkanocnego": {
+    "data": "22-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Rity z Cascii, zakonnicy": {
+    "data": "22-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota VII Tygodnia Wielkanocnego": {
+    "data": "23-05-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Niedziela Zesłania Ducha Świętego": {
+    "data": "24-05-2026",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny, Matki Kościoła": {
+    "data": "25-05-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Filipa Nereusza, prezbitera": {
+    "data": "26-05-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa VIII tygodnia zwykłego": {
+    "data": "27-05-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Augustyna z Canterbury, biskupa": {
+    "data": "27-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Pawła VI, papieża": {
+    "data": "27-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana": {
+    "data": "28-05-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Urszuli Ledóchowskiej, dziewicy": {
+    "data": "29-05-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Sobota VIII tygodnia zwykłego": {
+    "data": "30-05-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Sarkandra, prezbitera i męczennika": {
+    "data": "30-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Zdzisławy": {
+    "data": "30-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (30-05)": {
+    "data": "30-05-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Trójcy": {
+    "data": "31-05-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Justyna, męczennika": {
+    "data": "01-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Wtorek IX tygodnia zwykłego": {
+    "data": "02-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Marcelina i Piotra": {
+    "data": "02-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Karola Lwangi i Towarzyszy": {
+    "data": "03-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Najświętszego Ciała i Krwi Chrystusa": {
+    "data": "04-06-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Bonifacego, biskupa i męczennika": {
+    "data": "05-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Sobota IX tygodnia zwykłego": {
+    "data": "06-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Norberta, biskupa": {
+    "data": "06-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (06-06)": {
+    "data": "06-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "X Niedziela Zwykła": {
+    "data": "07-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jadwigi Królowej": {
+    "data": "08-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek X tygodnia zwykłego": {
+    "data": "09-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Efrema, diakona i doktora Kościoła": {
+    "data": "09-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa X tygodnia zwykłego": {
+    "data": "10-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Barnaby, Apostoła": {
+    "data": "11-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Najświętszego Serca Pana Jezusa": {
+    "data": "12-06-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Niepokalanego Serca Najświętszej Maryi Panny": {
+    "data": "13-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Antoniego z Padwy, prezbitera i doktora Kościoła": {
+    "data": "13-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XI Niedziela Zwykła": {
+    "data": "14-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XI tygodnia zwykłego": {
+    "data": "15-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek XI tygodnia zwykłego": {
+    "data": "16-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Alberta Chmielowskiego, zakonnika": {
+    "data": "17-06-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XI tygodnia zwykłego": {
+    "data": "18-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XI tygodnia zwykłego": {
+    "data": "19-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Romualda, opata": {
+    "data": "19-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota XI tygodnia zwykłego": {
+    "data": "20-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (20-06)": {
+    "data": "20-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XII Niedziela Zwykła": {
+    "data": "21-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XII tygodnia zwykłego": {
+    "data": "22-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Paulina z Noli, biskupa": {
+    "data": "22-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Jana Fishera, biskupa i Tomasza More’a": {
+    "data": "22-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Wtorek XII tygodnia zwykłego": {
+    "data": "23-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Narodzenie św. Jana Chrzciciela": {
+    "data": "24-06-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Czwartek XII tygodnia zwykłego": {
+    "data": "25-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XII tygodnia zwykłego": {
+    "data": "26-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Zygmunta Gorazdowskiego, prezbitera": {
+    "data": "26-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota XII tygodnia zwykłego": {
+    "data": "27-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Cyryla Aleksandryjskiego, biskupa i doktora Kościoła": {
+    "data": "27-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (27-06)": {
+    "data": "27-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XIII Niedziela Zwykła": {
+    "data": "28-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Apostołów Piotra i Pawła": {
+    "data": "29-06-2026",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Wtorek XIII tygodnia zwykłego": {
+    "data": "30-06-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych pierwszych męczenników świętego Kościoła Rzymskiego": {
+    "data": "30-06-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Środa XIII tygodnia zwykłego": {
+    "data": "01-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Ottona z Bambergu, biskupa": {
+    "data": "01-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek XIII tygodnia zwykłego": {
+    "data": "02-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Tomasza, Apostoła": {
+    "data": "03-07-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Sobota XIII tygodnia zwykłego": {
+    "data": "04-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Elżbiety Portugalskiej": {
+    "data": "04-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (04-07)": {
+    "data": "04-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XIV Niedziela Zwykła": {
+    "data": "05-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Bł. Marii Teresy Ledóchowskiej, dziewicy": {
+    "data": "06-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek XIV tygodnia zwykłego": {
+    "data": "07-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana z Dukli, prezbitera": {
+    "data": "08-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XIV tygodnia zwykłego": {
+    "data": "09-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Augustyna Zhao Rong, prezbitera,i Towarzyszy": {
+    "data": "09-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Piątek XIV tygodnia zwykłego": {
+    "data": "10-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Benedykta, opata": {
+    "data": "11-07-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "XV Niedziela Zwykła": {
+    "data": "12-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych pustelników Andrzeja Świerada i Benedykta": {
+    "data": "13-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek XV tygodnia zwykłego": {
+    "data": "14-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Henryka": {
+    "data": "14-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Kamila de Lellis, prezbitera": {
+    "data": "14-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Bonawentury, biskupa i doktora Kościoła": {
+    "data": "15-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny z Góry Karmel": {
+    "data": "16-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Piątek XV tygodnia zwykłego": {
+    "data": "17-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XV tygodnia zwykłego": {
+    "data": "18-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Szymona z Lipnicy, prezbitera": {
+    "data": "18-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (18-07)": {
+    "data": "18-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XVI Niedziela Zwykła": {
+    "data": "19-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XVI tygodnia zwykłego": {
+    "data": "20-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Bł. Czesława, prezbitera": {
+    "data": "20-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Wtorek XVI tygodnia zwykłego": {
+    "data": "21-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Apolinarego, biskupa i męczennika": {
+    "data": "21-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Wawrzyńca z Brindisi, prezbitera i doktora Kościoła": {
+    "data": "21-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Marii Magdaleny": {
+    "data": "22-07-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Brygidy, zakonnicy": {
+    "data": "23-07-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Kingi, dziewicy": {
+    "data": "24-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jakuba, Apostoła": {
+    "data": "25-07-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "XVII Niedziela Zwykła": {
+    "data": "26-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XVII tygodnia zwykłego": {
+    "data": "27-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek XVII tygodnia zwykłego": {
+    "data": "28-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Sarbeliusza Makhlufa, prezbitera": {
+    "data": "28-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych Marty, Marii i Łazarza": {
+    "data": "29-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XVII tygodnia zwykłego": {
+    "data": "30-07-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Piotra Chryzologa, biskupa i doktora Kościoła": {
+    "data": "30-07-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Ignacego z Loyoli, prezbitera": {
+    "data": "31-07-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła": {
+    "data": "01-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "XVIII Niedziela Zwykła": {
+    "data": "02-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XVIII tygodnia zwykłego": {
+    "data": "03-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Marii Vianneya, prezbitera": {
+    "data": "04-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa XVIII tygodnia zwykłego": {
+    "data": "05-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Rocznica poświęcenia rzymskiej Bazyliki Najświętszej Maryi Panny": {
+    "data": "05-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Przemienienie Pańskie": {
+    "data": "06-08-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Piątek XVIII tygodnia zwykłego": {
+    "data": "07-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Kajetana, prezbitera": {
+    "data": "07-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Sykstusa II, papieża, i Towarzyszy": {
+    "data": "07-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Dominika, prezbitera": {
+    "data": "08-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "XIX Niedziela Zwykła": {
+    "data": "09-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Wawrzyńca, diakona i męczennika": {
+    "data": "10-08-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Św. Klary, dziewicy": {
+    "data": "11-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa XIX tygodnia zwykłego": {
+    "data": "12-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Joanny Franciszki de Chantal, zakonnicy": {
+    "data": "12-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek XIX tygodnia zwykłego": {
+    "data": "13-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Poncjana, papieża, i Hipolita,prezbitera": {
+    "data": "13-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Maksymiliana Marii Kolbego, prezbitera i męczennika": {
+    "data": "14-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Wniebowzięcie Najświętszej Maryi Panny": {
+    "data": "15-08-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "XX Niedziela Zwykła": {
+    "data": "16-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jacka, prezbitera": {
+    "data": "17-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek XX tygodnia zwykłego": {
+    "data": "18-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Środa XX tygodnia zwykłego": {
+    "data": "19-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Eudesa, prezbitera": {
+    "data": "19-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Bernarda, opata i doktora Kościoła": {
+    "data": "20-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Piusa X, papieża": {
+    "data": "21-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny, Królowej": {
+    "data": "22-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "XXI Niedziela Zwykła": {
+    "data": "23-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Bartłomieja, Apostoła": {
+    "data": "24-08-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Wtorek XXI tygodnia zwykłego": {
+    "data": "25-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Józefa Kalasantego, prezbitera": {
+    "data": "25-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Ludwika": {
+    "data": "25-08-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny Częstochowskiej": {
+    "data": "26-08-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Moniki": {
+    "data": "27-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Augustyna, biskupa i doktora Kościoła": {
+    "data": "28-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Męczeństwo św. Jana Chrzciciela": {
+    "data": "29-08-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "XXII Niedziela Zwykła": {
+    "data": "30-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXII tygodnia zwykłego": {
+    "data": "31-08-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek XXII tygodnia zwykłego": {
+    "data": "01-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Środa XXII tygodnia zwykłego": {
+    "data": "02-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Grzegorza Wielkiego, papieża i doktora Kościoła": {
+    "data": "03-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Piątek XXII tygodnia zwykłego": {
+    "data": "04-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Błogosławionych dziewicy i męczennicy Marii Stelli i Towarzyszek": {
+    "data": "04-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Sobota XXII tygodnia zwykłego": {
+    "data": "05-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Teresa z Kalkuty, męczennicy": {
+    "data": "05-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (05-09)": {
+    "data": "05-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXIII Niedziela Zwykła": {
+    "data": "06-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXIII tygodnia zwykłego": {
+    "data": "07-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Melchiora Grodzieckiego, prezbitera i męczennika": {
+    "data": "07-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Narodzenie Najświętszej Maryi Panny": {
+    "data": "08-09-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Środa XXIII tygodnia zwykłego": {
+    "data": "09-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Piotra Klawera, prezbitera": {
+    "data": "09-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek XXIII tygodnia zwykłego": {
+    "data": "10-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXIII tygodnia zwykłego": {
+    "data": "11-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XXIII tygodnia zwykłego": {
+    "data": "12-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszego Imienia Maryi": {
+    "data": "12-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXIV Niedziela Zwykła": {
+    "data": "13-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Podwyższenie Krzyża Świętego": {
+    "data": "14-09-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny Bolesnej": {
+    "data": "15-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Korneliusza, papieża, i Cypriana, biskupa": {
+    "data": "16-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Czwartek XXIV tygodnia zwykłego": {
+    "data": "17-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Hildegardy z Bingen, dziewicy i doktora Kościoła": {
+    "data": "17-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Roberta Bellarmina, biskupa i doktora Kościoła": {
+    "data": "17-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Zygmunta Szczęsnego Felińskiego, biskupa": {
+    "data": "17-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława Kostki, zakonnika": {
+    "data": "18-09-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Sobota XXIV tygodnia zwykłego": {
+    "data": "19-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Januarego, biskupa i męczennika": {
+    "data": "19-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny (19-09)": {
+    "data": "19-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXV Niedziela Zwykła": {
+    "data": "20-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Mateusza, Apostoła i Ewangelisty": {
+    "data": "21-09-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Wtorek XXV tygodnia zwykłego": {
+    "data": "22-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Pio z Pietrelciny, prezbitera": {
+    "data": "23-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XXV tygodnia zwykłego": {
+    "data": "24-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXV tygodnia zwykłego": {
+    "data": "25-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XXV tygodnia zwykłego": {
+    "data": "26-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Kosmy i Damiana": {
+    "data": "26-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Wawrzyńca Ruiz i Towarzyszy": {
+    "data": "26-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny (26-09)": {
+    "data": "26-09-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXVI Niedziela Zwykła": {
+    "data": "27-09-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Wacława, męczennika": {
+    "data": "28-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Świętych Archaniołów Michała, Gabriela i Rafała": {
+    "data": "29-09-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Hieronima, prezbitera i doktora Kościoła": {
+    "data": "30-09-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła": {
+    "data": "01-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Świętych Aniołów Stróżów": {
+    "data": "02-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Sobota XXVI tygodnia zwykłego": {
+    "data": "03-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (03-10)": {
+    "data": "03-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXVII Niedziela Zwykła": {
+    "data": "04-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Faustyny Kowalskiej, dziewicy": {
+    "data": "05-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek XXVII tygodnia zwykłego": {
+    "data": "06-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Brunona, prezbitera": {
+    "data": "06-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny Różańcowej": {
+    "data": "07-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XXVII tygodnia zwykłego": {
+    "data": "08-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXVII tygodnia zwykłego": {
+    "data": "09-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Leonardiego, prezbitera": {
+    "data": "09-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Dionizego, biskupa, i Towarzyszy": {
+    "data": "09-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Sobota XXVII tygodnia zwykłego": {
+    "data": "10-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (10-10)": {
+    "data": "10-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXVIII Niedziela Zwykła": {
+    "data": "11-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXVIII tygodnia zwykłego": {
+    "data": "12-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Bł. Jana Beyzyma, prezbitera": {
+    "data": "12-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Bł. Honorata Koźmińskiego, prezbitera": {
+    "data": "13-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa XXVIII tygodnia zwykłego": {
+    "data": "14-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Kaliksta I, papieża i męczennika": {
+    "data": "14-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Małgorzaty Marii Alacoque, dziewicy": {
+    "data": "14-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Teresy od Jezusa, dziewicy i doktora Kościoła": {
+    "data": "15-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jadwigi Śląskiej": {
+    "data": "16-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Ignacego Antiocheńskiego, biskupa i męczennika": {
+    "data": "17-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "XXIX Niedziela Zwykła": {
+    "data": "18-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXIX tygodnia zwykłego": {
+    "data": "19-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Pawła od Krzyża, prezbitera": {
+    "data": "19-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Jana de Brebeuf, Izaaka Jogues’a, prezbiterów, i Towarzyszy": {
+    "data": "19-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Jana Kantego, prezbitera": {
+    "data": "20-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Środa XXIX tygodnia zwykłego": {
+    "data": "21-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Pawła II, papieża": {
+    "data": "22-10-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Piątek XXIX tygodnia zwykłego": {
+    "data": "23-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Kapistrana, prezbitera": {
+    "data": "23-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Józefa Bilczewskiego, biskupa": {
+    "data": "23-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota XXIX tygodnia zwykłego": {
+    "data": "24-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Antoniego Marii Clareta, biskupa": {
+    "data": "24-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (24-10)": {
+    "data": "24-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXX Niedziela Zwykła": {
+    "data": "25-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXX tygodnia zwykłego": {
+    "data": "26-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Wtorek XXX tygodnia zwykłego": {
+    "data": "27-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Apostołów Szymona i Judy Tadeusza": {
+    "data": "28-10-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Czwartek XXX tygodnia zwykłego": {
+    "data": "29-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXX tygodnia zwykłego": {
+    "data": "30-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XXX tygodnia zwykłego": {
+    "data": "31-10-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (31-10)": {
+    "data": "31-10-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Wszystkich Świętych": {
+    "data": "01-11-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wspomnienie wszystkich wiernych zmarłych": {
+    "data": "02-11-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wtorek XXXI tygodnia zwykłego": {
+    "data": "03-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Marcina de Porres, zakonnika": {
+    "data": "03-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Karola Boremeusza, biskupa": {
+    "data": "04-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Czwartek XXXI tygodnia zwykłego": {
+    "data": "05-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXXI tygodnia zwykłego": {
+    "data": "06-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XXXI tygodnia zwykłego": {
+    "data": "07-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (07-11)": {
+    "data": "07-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXXII Niedziela Zwykła": {
+    "data": "08-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Rocznica poświęcenia Bazyliki Laterańskiej": {
+    "data": "09-11-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Leona Wielkiego, papieża i doktora Kościoła": {
+    "data": "10-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Marcina z Tours, biskupa": {
+    "data": "11-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jozafata, biskupa i męczennika": {
+    "data": "12-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Świętych Benedykta, Jana, Mateusza, Izaaka i Krystyna, pierwszych męczenników Polski": {
+    "data": "13-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Sobota XXXII tygodnia zwykłego": {
+    "data": "14-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (14-11)": {
+    "data": "14-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "XXXIII Niedziela Zwykła": {
+    "data": "15-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Poniedziałek XXXIII tygodnia zwykłego": {
+    "data": "16-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Rocznica poświęcenia rzymskich bazylik świętych apostołów Piotra i Pawła": {
+    "data": "16-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Gertrudy, dziewicy": {
+    "data": "16-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Małgorzaty Szkockiej": {
+    "data": "16-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Elżbiety Węgierskiej, zakonnicy": {
+    "data": "17-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Bł. Karoliny Kózkówny, dziewicy i męczennicy": {
+    "data": "18-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Czwartek XXXIII tygodnia zwykłego": {
+    "data": "19-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Rafała Kalinowskiego, prezbitera": {
+    "data": "20-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Ofiarowanie Najświętszej Maryi Panny": {
+    "data": "21-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Jezusa Chrystusa, Króla Wszechświata": {
+    "data": "22-11-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Poniedziałek XXXIV tygodnia zwykłego": {
+    "data": "23-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Klemensa I, papieża i męczennika": {
+    "data": "23-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Kolumbana, opata": {
+    "data": "23-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Andrzeja Dung-Lac, prezbitera, iTowarzyszy": {
+    "data": "24-11-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Środa XXXIV tygodnia zwykłego": {
+    "data": "25-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Katarzyny Aleksandryjskiej, dziewicy i męczennicy": {
+    "data": "25-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Czwartek XXXIV tygodnia zwykłego": {
+    "data": "26-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Piątek XXXIV tygodnia zwykłego": {
+    "data": "27-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Sobota XXXIV tygodnia zwykłego": {
+    "data": "28-11-2026",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (28-11)": {
+    "data": "28-11-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "I Niedziela Adwentu": {
+    "data": "29-11-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Andrzeja, Apostoła": {
+    "data": "30-11-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Wtorek I tygodnia Adwentu": {
+    "data": "01-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Środa I tygodnia Adwentu": {
+    "data": "02-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Franciszka Ksawerego, prezbitera": {
+    "data": "03-12-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Piątek I tygodnia Adwentu": {
+    "data": "04-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Barbary, dziewicy i męczennicy": {
+    "data": "04-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Jana Damasceńskiego, prezbitera i doktora Kościoła": {
+    "data": "04-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota I tygodnia Adwentu": {
+    "data": "05-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "II Niedziela Adwentu": {
+    "data": "06-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Ambrożego, biskupa i doktora Kościoła": {
+    "data": "07-12-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Niepokalane poczęcie Najświętszej Maryi Panny": {
+    "data": "08-12-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Środa II tygodnia Adwentu": {
+    "data": "09-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Jana Diego Cuauhtlatoatzin": {
+    "data": "09-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Czwartek II tygodnia Adwentu": {
+    "data": "10-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Najświętszej Maryi Panny Loretańskiej": {
+    "data": "10-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Piątek II tygodnia Adwentu": {
+    "data": "11-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Damazego I, papieża": {
+    "data": "11-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota II tygodnia Adwentu": {
+    "data": "12-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Najświętszej Maryi Panny z Guadalupe": {
+    "data": "12-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "III Niedziela Adwentu": {
+    "data": "13-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Jana od Krzyża, prezbitera i doktora Kościoła": {
+    "data": "14-12-2026",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Wtorek III tygodnia Adwentu": {
+    "data": "15-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Środa III tygodnia Adwentu": {
+    "data": "16-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (17 grudnia)": {
+    "data": "17-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (18 grudnia)": {
+    "data": "18-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (19 grudnia)": {
+    "data": "19-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "IV Niedziela Adwentu": {
+    "data": "20-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (21 grudnia)": {
+    "data": "21-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Piotra Kanizjusza, prezbitera i doktora Kościoła": {
+    "data": "21-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (22 grudnia)": {
+    "data": "22-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (23 grudnia)": {
+    "data": "23-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Dzień adwentu (24 grudnia)": {
+    "data": "24-12-2026",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Narodzenie Pańskie": {
+    "data": "25-12-2026",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Szczepana, pierwszego męczennika": {
+    "data": "26-12-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Świętej Rodziny Jezusa, Maryi i Józefa": {
+    "data": "27-12-2026",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Świętych Młodziaków, męczenników": {
+    "data": "28-12-2026",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "V dzień w oktawie Narodzenia Pańskiego": {
+    "data": "29-12-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Tomasza Becketa, biskupa i męczennika": {
+    "data": "29-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "VI dzień w oktawie Narodzenia Pańskiego": {
+    "data": "30-12-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "VII dzień w oktawie Narodzenia Pańskiego": {
+    "data": "31-12-2026",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Sylwestra I, papieża": {
+    "data": "31-12-2026",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  }
+}
