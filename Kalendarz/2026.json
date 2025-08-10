@@ -1,5 +1,5 @@
 {
-  "Świętej Bożej Rodzicielki Maryi": {
+  "1 stycznia - Uroczystość Świętej Bożej Rodzicielki Maryi": {
     "data": "01-01-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -19,7 +19,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "II Niedziela po Bożym Narodzeniu": {
+  "2 Niedziela po Narodzeniu Pańskim": {
     "data": "04-01-2026",
     "typ": "",
     "kolor": "Biały"
@@ -29,7 +29,7 @@
     "typ": "",
     "kolor": "Biały"
   },
-  "Objawienie Pańskie": {
+  "6 stycznia - Uroczystość Objawienia Pańskiego": {
     "data": "06-01-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -59,17 +59,17 @@
     "typ": "",
     "kolor": "Biały"
   },
-  "Chrzest Pański": {
+  "Niedziela Chrztu Pańskiego": {
     "data": "11-01-2026",
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Poniedziałek I tygodnia zwykłego": {
+  "1 Poniedziałek Okresu Zwykłego": {
     "data": "12-01-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek I tygodnia zwykłego": {
+  "1 Wtorek Okresu Zwykłego": {
     "data": "13-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -79,17 +79,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Środa I tygodnia zwykłego": {
+  "1 Środa Okresu Zwykłego": {
     "data": "14-01-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Czwartek I tygodnia zwykłego": {
+  "1 Czwartek Okresu Zwykłego": {
     "data": "15-01-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek I tygodnia zwykłego": {
+  "1 Piątek Okresu Zwykłego": {
     "data": "16-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -99,7 +99,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "II Niedziela Zwykła": {
+  "2 Niedziela Okresu Zwykłego": {
     "data": "18-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -109,7 +109,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek II tygodnia zwykłego": {
+  "2 Wtorek Okresu Zwykłego": {
     "data": "20-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -129,7 +129,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Czwartek II tygodnia zwykłego": {
+  "2 Czwartek Okresu Zwykłego": {
     "data": "22-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -144,7 +144,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Piątek II tygodnia zwykłego": {
+  "2 Piątek Okresu Zwykłego": {
     "data": "23-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -154,17 +154,17 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "III Niedziela Zwykła": {
+  "3 Niedziela Okresu Zwykłego": {
     "data": "25-01-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Świętych biskupów Tymoteusza i Tytusa": {
+  "26 stycznia - św. biskupów Tymoteusza i Tytusa": {
     "data": "26-01-2026",
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek III tygodnia zwykłego": {
+  "3 Wtorek Okresu Zwykłego": {
     "data": "27-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -179,12 +179,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek III tygodnia zwykłego": {
+  "3 Czwartek Okresu Zwykłego": {
     "data": "29-01-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek III tygodnia zwykłego": {
+  "3 Piątek Okresu Zwykłego": {
     "data": "30-01-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -194,17 +194,17 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "IV Niedziela Zwykła": {
+  "4 Niedziela Okresu Zwykłego": {
     "data": "01-02-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Ofiarowanie Pańskie": {
+  "2 lutego - Ofiarowanie Pańskie": {
     "data": "02-02-2026",
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Wtorek IV tygodnia zwykłego": {
+  "4 Wtorek Okresu Zwykłego": {
     "data": "03-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -219,7 +219,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Środa IV tygodnia zwykłego": {
+  "4 Środa Okresu Zwykłego": {
     "data": "04-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -234,7 +234,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Sobota IV tygodnia zwykłego": {
+  "4 Sobota Okresu Zwykłego": {
     "data": "07-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -244,12 +244,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "V Niedziela Zwykła": {
+  "5 Niedziela Okresu Zwykłego": {
     "data": "08-02-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek V tygodnia zwykłego": {
+  "5 Poniedziałek Okresu Zwykłego": {
     "data": "09-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -259,7 +259,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa V tygodnia zwykłego": {
+  "5 Środa Okresu Zwykłego": {
     "data": "11-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -269,12 +269,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek V tygodnia zwykłego": {
+  "5 Czwartek Okresu Zwykłego": {
     "data": "12-02-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek V tygodnia zwykłego": {
+  "5 Piątek Okresu Zwykłego": {
     "data": "13-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -284,17 +284,17 @@
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "VI Niedziela Zwykła": {
+  "6 Niedziela Okresu Zwykłego": {
     "data": "15-02-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek VI tygodnia zwykłego": {
+  "6 Poniedziałek Okresu Zwykłego": {
     "data": "16-02-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek VI tygodnia zwykłego": {
+  "6 Wtorek Okresu Zwykłego": {
     "data": "17-02-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -329,12 +329,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "I Niedziela Wielkiego Postu": {
+  "1 Niedziela Wielkiego Postu": {
     "data": "22-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Poniedziałek I tygodnia Wielkiego Postu": {
+  "1 Poniedziałek Wielkiego Postu": {
     "data": "23-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -344,22 +344,22 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Wtorek I tygodnia Wielkiego Postu": {
+  "1 Wtorek Wielkiego Postu": {
     "data": "24-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Środa I tygodnia Wielkiego Postu": {
+  "1 Środa Wielkiego Postu": {
     "data": "25-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Czwartek I tygodnia Wielkiego Postu": {
+  "1 Czwartek Wielkiego Postu": {
     "data": "26-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Piątek I tygodnia Wielkiego Postu": {
+  "1 Piątek Wielkiego Postu": {
     "data": "27-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -369,42 +369,42 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Sobota I tygodnia Wielkiego Postu": {
+  "1 Sobota Wielkiego Postu": {
     "data": "28-02-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "II Niedziela Wielkiego Postu": {
+  "2 Niedziela Wielkiego Postu": {
     "data": "01-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Poniedziałek II tygodnia Wielkiego Postu": {
+  "2 Poniedziałek Wielkiego Postu": {
     "data": "02-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Wtorek II tygodnia Wielkiego Postu": {
+  "2 Wtorek Wielkiego Postu": {
     "data": "03-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Św. Kazimierza": {
+  "4 marca - św. Kazimierza królewicza": {
     "data": "04-03-2026",
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Czwartek II tygodnia Wielkiego Postu": {
+  "2 Czwartek Wielkiego Postu": {
     "data": "05-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Piątek II tygodnia Wielkiego Postu": {
+  "2 Piątek Wielkiego Postu": {
     "data": "06-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Sobota II tygodnia Wielkiego Postu": {
+  "2 Sobota Wielkiego Postu": {
     "data": "07-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -414,12 +414,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "III Niedziela Wielkiego Postu": {
+  "3 Niedziela Wielkiego Postu": {
     "data": "08-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Poniedziałek III tygodnia Wielkiego Postu": {
+  "3 Poniedziałek Wielkiego Postu": {
     "data": "09-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -429,42 +429,42 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Wtorek III tygodnia Wielkiego Postu": {
+  "3 Wtorek Wielkiego Postu": {
     "data": "10-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Środa III tygodnia Wielkiego Postu": {
+  "3 Środa Wielkiego Postu": {
     "data": "11-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Czwartek III tygodnia Wielkiego Postu": {
+  "3 Czwartek Wielkiego Postu": {
     "data": "12-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Piątek III tygodnia Wielkiego Postu": {
+  "3 Piątek Wielkiego Postu": {
     "data": "13-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Sobota III tygodnia Wielkiego Postu": {
+  "3 Sobota Wielkiego Postu": {
     "data": "14-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "IV Niedziela Wielkiego Postu „Laetare”": {
+  "4 Niedziela Wielkiego Postu": {
     "data": "15-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Poniedziałek IV tygodnia Wielkiego Postu": {
+  "4 Poniedziałek Wielkiego Postu": {
     "data": "16-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Wtorek IV tygodnia Wielkiego Postu": {
+  "4 Wtorek Wielkiego Postu": {
     "data": "17-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -474,7 +474,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Środa IV tygodnia Wielkiego Postu": {
+  "4 Środa Wielkiego Postu": {
     "data": "18-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -489,22 +489,22 @@
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Piątek IV tygodnia Wielkiego Postu": {
+  "4 Piątek Wielkiego Postu": {
     "data": "20-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Sobota IV tygodnia Wielkiego Postu": {
+  "4 Sobota Wielkiego Postu": {
     "data": "21-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "V Niedziela Wielkiego Postu": {
+  "5 Niedziela Wielkiego Postu": {
     "data": "22-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Poniedziałek V tygodnia Wielkiego Postu": {
+  "5 Poniedziałek Wielkiego Postu": {
     "data": "23-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -514,27 +514,27 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Wtorek V tygodnia Wielkiego Postu": {
+  "5 Wtorek Wielkiego Postu": {
     "data": "24-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Zwiastowanie Pańskie": {
+  "25 marca - Uroczystość Zwiastowania Pańskiego": {
     "data": "25-03-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Czwartek V tygodnia Wielkiego Postu": {
+  "5 Czwartek Wielkiego Postu": {
     "data": "26-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Piątek V tygodnia Wielkiego Postu": {
+  "5 Piątek Wielkiego Postu": {
     "data": "27-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Sobota V tygodnia Wielkiego Postu": {
+  "5 Sobota Wielkiego Postu": {
     "data": "28-03-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -559,17 +559,17 @@
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Wielki Czwartek: Wieczerzy Pańskiej": {
+  "Wielki Czwartek": {
     "data": "02-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Wielki Piątek: Męki Pańskiej": {
+  "Wielki Piątek Męki Pańskiej": {
     "data": "03-04-2026",
     "typ": "",
     "kolor": "Czerwony"
   },
-  "Wielka Sobota": {
+  "Wigilia Paschalna": {
     "data": "04-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -609,12 +609,12 @@
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "II Niedziela Wielkanocna czyli Miłosierdzia Bożego": {
+  "2 Niedziela Okresu Wielkanocnego": {
     "data": "12-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Poniedziałek II Tygodnia Wielkanocnego": {
+  "2 Poniedziałek Okresu Wielkanocnego": {
     "data": "13-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -624,42 +624,42 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Wtorek II Tygodnia Wielkanocnego": {
+  "2 Wtorek Okresu Wielkanocnego": {
     "data": "14-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Środa II Tygodnia Wielkanocnego": {
+  "2 Środa Okresu Wielkanocnego": {
     "data": "15-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Czwartek II Tygodnia Wielkanocnego": {
+  "2 Czwartek Okresu Wielkanocnego": {
     "data": "16-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Piątek II Tygodnia Wielkanocnego": {
+  "2 Piątek Okresu Wielkanocnego": {
     "data": "17-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Sobota II Tygodnia Wielkanocnego": {
+  "2 Sobota Okresu Wielkanocnego": {
     "data": "18-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "III Niedziela Wielkanocna": {
+  "3 Niedziela Okresu Wielkanocnego": {
     "data": "19-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Poniedziałek III Tygodnia Wielkanocnego": {
+  "3 Poniedziałek Okresu Wielkanocnego": {
     "data": "20-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Wtorek III Tygodnia Wielkanocnego": {
+  "3 Wtorek Okresu Wielkanocnego": {
     "data": "21-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -669,7 +669,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Środa III Tygodnia Wielkanocnego": {
+  "3 Środa Okresu Wielkanocnego": {
     "data": "22-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -679,7 +679,7 @@
     "typ": "Uroczystość",
     "kolor": "Czerwony"
   },
-  "Piątek III Tygodnia Wielkanocnego": {
+  "3 Piątek Okresu Wielkanocnego": {
     "data": "24-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -699,17 +699,17 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "IV Niedziela Wielkanocna": {
+  "4 Niedziela Okresu Wielkanocnego": {
     "data": "26-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Poniedziałek IV Tygodnia Wielkanocnego": {
+  "4 Poniedziałek Okresu Wielkanocnego": {
     "data": "27-04-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Wtorek IV Tygodnia Wielkanocnego": {
+  "4 Wtorek Okresu Wielkanocnego": {
     "data": "28-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -729,7 +729,7 @@
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Czwartek IV Tygodnia Wielkanocnego": {
+  "4 Czwartek Okresu Wielkanocnego": {
     "data": "30-04-2026",
     "typ": "",
     "kolor": "Biały"
@@ -739,7 +739,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Piątek IV Tygodnia Wielkanocnego": {
+  "4 Piątek Okresu Wielkanocnego": {
     "data": "01-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -754,7 +754,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "V Niedziela Wielkanocna": {
+  "5 Niedziela Okresu Wielkanocnego": {
     "data": "03-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -764,7 +764,7 @@
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Wtorek V Tygodnia Wielkanocnego": {
+  "5 Wtorek Okresu Wielkanocnego": {
     "data": "05-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -774,12 +774,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Świętych Apostołów Filipa i Jakuba": {
+  "6 maja - św. Apostołów Filipa i Jakuba": {
     "data": "06-05-2026",
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Czwartek V Tygodnia Wielkanocnego": {
+  "5 Czwartek Okresu Wielkanocnego": {
     "data": "07-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -789,22 +789,22 @@
     "typ": "Uroczystość",
     "kolor": "Czerwony"
   },
-  "Sobota V Tygodnia Wielkanocnego": {
+  "5 Sobota Okresu Wielkanocnego": {
     "data": "09-05-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "VI Niedziela Wielkanocna": {
+  "6 Niedziela Okresu Wielkanocnego": {
     "data": "10-05-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Poniedziałek VI Tygodnia Wielkanocnego": {
+  "6 Poniedziałek Okresu Wielkanocnego": {
     "data": "11-05-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Wtorek VI Tygodnia Wielkanocnego": {
+  "6 Wtorek Okresu Wielkanocnego": {
     "data": "12-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -819,7 +819,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Środa VI Tygodnia Wielkanocnego": {
+  "6 Środa Okresu Wielkanocnego": {
     "data": "13-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -834,7 +834,7 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Piątek VI Tygodnia Wielkanocnego": {
+  "6 Piątek Okresu Wielkanocnego": {
     "data": "15-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -844,12 +844,12 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Wniebowstąpienie Pańskie": {
+  "Uroczystość Wniebowstąpienia Pańskiego": {
     "data": "17-05-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Poniedziałek VII Tygodnia Wielkanocnego": {
+  "7 Poniedziałek Okresu Wielkanocnego": {
     "data": "18-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -859,12 +859,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Wtorek VII Tygodnia Wielkanocnego": {
+  "7 Wtorek Okresu Wielkanocnego": {
     "data": "19-05-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Środa VII Tygodnia Wielkanocnego": {
+  "7 Środa Okresu Wielkanocnego": {
     "data": "20-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -874,7 +874,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek VII Tygodnia Wielkanocnego": {
+  "7 Czwartek Okresu Wielkanocnego": {
     "data": "21-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -884,7 +884,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Piątek VII Tygodnia Wielkanocnego": {
+  "7 Piątek Okresu Wielkanocnego": {
     "data": "22-05-2026",
     "typ": "",
     "kolor": "Biały"
@@ -894,12 +894,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota VII Tygodnia Wielkanocnego": {
+  "7 Sobota Okresu Wielkanocnego": {
     "data": "23-05-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "Niedziela Zesłania Ducha Świętego": {
+  "Uroczystość Zesłania Ducha Świętego": {
     "data": "24-05-2026",
     "typ": "Uroczystość",
     "kolor": "Czerwony"
@@ -914,7 +914,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa VIII tygodnia zwykłego": {
+  "8 Środa Okresu Zwykłego": {
     "data": "27-05-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -939,7 +939,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Sobota VIII tygodnia zwykłego": {
+  "8 Sobota Okresu Zwykłego": {
     "data": "30-05-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -959,7 +959,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Najświętszej Trójcy": {
+  "Uroczystość Najświętszej Trójcy": {
     "data": "31-05-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -969,7 +969,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Wtorek IX tygodnia zwykłego": {
+  "9 Wtorek Okresu Zwykłego": {
     "data": "02-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -984,7 +984,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Najświętszego Ciała i Krwi Chrystusa": {
+  "Uroczystość Najświętszego Ciała i Krwi Chrystusa": {
     "data": "04-06-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -994,7 +994,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Sobota IX tygodnia zwykłego": {
+  "9 Sobota Okresu Zwykłego": {
     "data": "06-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1009,7 +1009,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "X Niedziela Zwykła": {
+  "10 Niedziela Okresu Zwykłego": {
     "data": "07-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1019,7 +1019,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek X tygodnia zwykłego": {
+  "10 Wtorek Okresu Zwykłego": {
     "data": "09-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1029,7 +1029,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Środa X tygodnia zwykłego": {
+  "10 Środa Okresu Zwykłego": {
     "data": "10-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1039,12 +1039,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Najświętszego Serca Pana Jezusa": {
+  "Uroczystość Najświętszego Serca Pana Jezusa": {
     "data": "12-06-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Niepokalanego Serca Najświętszej Maryi Panny": {
+  "Wspomnienie Niepokalanego Serca NMP": {
     "data": "13-06-2026",
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
@@ -1054,17 +1054,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XI Niedziela Zwykła": {
+  "11 Niedziela Okresu Zwykłego": {
     "data": "14-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XI tygodnia zwykłego": {
+  "11 Poniedziałek Okresu Zwykłego": {
     "data": "15-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek XI tygodnia zwykłego": {
+  "11 Wtorek Okresu Zwykłego": {
     "data": "16-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1074,12 +1074,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XI tygodnia zwykłego": {
+  "11 Czwartek Okresu Zwykłego": {
     "data": "18-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XI tygodnia zwykłego": {
+  "11 Piątek Okresu Zwykłego": {
     "data": "19-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1089,7 +1089,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota XI tygodnia zwykłego": {
+  "11 Sobota Okresu Zwykłego": {
     "data": "20-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1099,12 +1099,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XII Niedziela Zwykła": {
+  "12 Niedziela Okresu Zwykłego": {
     "data": "21-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XII tygodnia zwykłego": {
+  "12 Poniedziałek Okresu Zwykłego": {
     "data": "22-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1119,22 +1119,22 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Wtorek XII tygodnia zwykłego": {
+  "12 Wtorek Okresu Zwykłego": {
     "data": "23-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Narodzenie św. Jana Chrzciciela": {
+  "24 czerwca - Uroczystość Narodzenia św. Jana Chrzciciela": {
     "data": "24-06-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Czwartek XII tygodnia zwykłego": {
+  "12 Czwartek Okresu Zwykłego": {
     "data": "25-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XII tygodnia zwykłego": {
+  "12 Piątek Okresu Zwykłego": {
     "data": "26-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1144,7 +1144,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota XII tygodnia zwykłego": {
+  "12 Sobota Okresu Zwykłego": {
     "data": "27-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1159,17 +1159,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XIII Niedziela Zwykła": {
+  "13 Niedziela Okresu Zwykłego": {
     "data": "28-06-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Świętych Apostołów Piotra i Pawła": {
+  "29 czerwca - Uroczystość św. Apostołów Piotra i Pawła": {
     "data": "29-06-2026",
     "typ": "Uroczystość",
     "kolor": "Czerwony"
   },
-  "Wtorek XIII tygodnia zwykłego": {
+  "13 Wtorek Okresu Zwykłego": {
     "data": "30-06-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1179,7 +1179,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Środa XIII tygodnia zwykłego": {
+  "13 Środa Okresu Zwykłego": {
     "data": "01-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1189,7 +1189,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek XIII tygodnia zwykłego": {
+  "13 Czwartek Okresu Zwykłego": {
     "data": "02-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1199,7 +1199,7 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Sobota XIII tygodnia zwykłego": {
+  "13 Sobota Okresu Zwykłego": {
     "data": "04-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1214,7 +1214,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XIV Niedziela Zwykła": {
+  "14 Niedziela Okresu Zwykłego": {
     "data": "05-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1224,7 +1224,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek XIV tygodnia zwykłego": {
+  "14 Wtorek Okresu Zwykłego": {
     "data": "07-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1234,7 +1234,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XIV tygodnia zwykłego": {
+  "14 Czwartek Okresu Zwykłego": {
     "data": "09-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1244,7 +1244,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Piątek XIV tygodnia zwykłego": {
+  "14 Piątek Okresu Zwykłego": {
     "data": "10-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1254,7 +1254,7 @@
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "XV Niedziela Zwykła": {
+  "15 Niedziela Okresu Zwykłego": {
     "data": "12-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1264,7 +1264,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek XV tygodnia zwykłego": {
+  "15 Wtorek Okresu Zwykłego": {
     "data": "14-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1289,12 +1289,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Piątek XV tygodnia zwykłego": {
+  "15 Piątek Okresu Zwykłego": {
     "data": "17-07-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XV tygodnia zwykłego": {
+  "15 Sobota Okresu Zwykłego": {
     "data": "18-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1309,12 +1309,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XVI Niedziela Zwykła": {
+  "16 Niedziela Okresu Zwykłego": {
     "data": "19-07-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XVI tygodnia zwykłego": {
+  "16 Poniedziałek Okresu Zwykłego": {
     "data": "20-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1324,7 +1324,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Wtorek XVI tygodnia zwykłego": {
+  "16 Wtorek Okresu Zwykłego": {
     "data": "21-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1339,7 +1339,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Św. Marii Magdaleny": {
+  "22 lipca - Święto św. Marii Magdaleny": {
     "data": "22-07-2026",
     "typ": "Święto",
     "kolor": "Biały"
@@ -1359,17 +1359,17 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "XVII Niedziela Zwykła": {
+  "17 Niedziela Okresu Zwykłego": {
     "data": "26-07-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XVII tygodnia zwykłego": {
+  "17 Poniedziałek Okresu Zwykłego": {
     "data": "27-07-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek XVII tygodnia zwykłego": {
+  "17 Wtorek Okresu Zwykłego": {
     "data": "28-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1384,7 +1384,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XVII tygodnia zwykłego": {
+  "17 Czwartek Okresu Zwykłego": {
     "data": "30-07-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1404,12 +1404,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "XVIII Niedziela Zwykła": {
+  "18 Niedziela Okresu Zwykłego": {
     "data": "02-08-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XVIII tygodnia zwykłego": {
+  "18 Poniedziałek Okresu Zwykłego": {
     "data": "03-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1419,7 +1419,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa XVIII tygodnia zwykłego": {
+  "18 Środa Okresu Zwykłego": {
     "data": "05-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1429,12 +1429,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Przemienienie Pańskie": {
+  "6 sierpnia - Święto Przemienienia Pańskiego": {
     "data": "06-08-2026",
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Piątek XVIII tygodnia zwykłego": {
+  "18 Piątek Okresu Zwykłego": {
     "data": "07-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1454,7 +1454,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "XIX Niedziela Zwykła": {
+  "19 Niedziela Okresu Zwykłego": {
     "data": "09-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1469,7 +1469,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa XIX tygodnia zwykłego": {
+  "19 Środa Okresu Zwykłego": {
     "data": "12-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1479,7 +1479,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek XIX tygodnia zwykłego": {
+  "19 Czwartek Okresu Zwykłego": {
     "data": "13-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1494,12 +1494,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Wniebowzięcie Najświętszej Maryi Panny": {
+  "15 sierpnia - Uroczystość Wniebowzięcia NMP": {
     "data": "15-08-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "XX Niedziela Zwykła": {
+  "20 Niedziela Okresu Zwykłego": {
     "data": "16-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1509,12 +1509,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek XX tygodnia zwykłego": {
+  "20 Wtorek Okresu Zwykłego": {
     "data": "18-08-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Środa XX tygodnia zwykłego": {
+  "20 Środa Okresu Zwykłego": {
     "data": "19-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1539,7 +1539,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "XXI Niedziela Zwykła": {
+  "21 Niedziela Okresu Zwykłego": {
     "data": "23-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1549,7 +1549,7 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Wtorek XXI tygodnia zwykłego": {
+  "21 Wtorek Okresu Zwykłego": {
     "data": "25-08-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1564,7 +1564,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Najświętszej Maryi Panny Częstochowskiej": {
+  "26 sierpnia - Uroczystość NMP Częstochowskiej": {
     "data": "26-08-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -1579,27 +1579,27 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Męczeństwo św. Jana Chrzciciela": {
+  "29 sierpnia - Męczeństwo św. Jana Chrzciciela": {
     "data": "29-08-2026",
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "XXII Niedziela Zwykła": {
+  "22 Niedziela Okresu Zwykłego": {
     "data": "30-08-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXII tygodnia zwykłego": {
+  "22 Poniedziałek Okresu Zwykłego": {
     "data": "31-08-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek XXII tygodnia zwykłego": {
+  "22 Wtorek Okresu Zwykłego": {
     "data": "01-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Środa XXII tygodnia zwykłego": {
+  "22 Środa Okresu Zwykłego": {
     "data": "02-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1609,7 +1609,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Piątek XXII tygodnia zwykłego": {
+  "22 Piątek Okresu Zwykłego": {
     "data": "04-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1619,7 +1619,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Sobota XXII tygodnia zwykłego": {
+  "22 Sobota Okresu Zwykłego": {
     "data": "05-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1634,12 +1634,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXIII Niedziela Zwykła": {
+  "23 Niedziela Okresu Zwykłego": {
     "data": "06-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXIII tygodnia zwykłego": {
+  "23 Poniedziałek Okresu Zwykłego": {
     "data": "07-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1649,12 +1649,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Narodzenie Najświętszej Maryi Panny": {
+  "8 września - Narodzenie NMP": {
     "data": "08-09-2026",
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Środa XXIII tygodnia zwykłego": {
+  "23 Środa Okresu Zwykłego": {
     "data": "09-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1664,17 +1664,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek XXIII tygodnia zwykłego": {
+  "23 Czwartek Okresu Zwykłego": {
     "data": "10-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXIII tygodnia zwykłego": {
+  "23 Piątek Okresu Zwykłego": {
     "data": "11-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XXIII tygodnia zwykłego": {
+  "23 Sobota Okresu Zwykłego": {
     "data": "12-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1684,17 +1684,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXIV Niedziela Zwykła": {
+  "24 Niedziela Okresu Zwykłego": {
     "data": "13-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Podwyższenie Krzyża Świętego": {
+  "14 września - Święto Podwyższenia Krzyża Świętego": {
     "data": "14-09-2026",
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Najświętszej Maryi Panny Bolesnej": {
+  "15 września - NMP Bolesnej": {
     "data": "15-09-2026",
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
@@ -1704,7 +1704,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Czwartek XXIV tygodnia zwykłego": {
+  "24 Czwartek Okresu Zwykłego": {
     "data": "17-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1729,7 +1729,7 @@
     "typ": "Święto",
     "kolor": "Biały"
   },
-  "Sobota XXIV tygodnia zwykłego": {
+  "24 Sobota Okresu Zwykłego": {
     "data": "19-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1744,7 +1744,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXV Niedziela Zwykła": {
+  "25 Niedziela Okresu Zwykłego": {
     "data": "20-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1754,7 +1754,7 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Wtorek XXV tygodnia zwykłego": {
+  "25 Wtorek Okresu Zwykłego": {
     "data": "22-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1764,17 +1764,17 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XXV tygodnia zwykłego": {
+  "25 Czwartek Okresu Zwykłego": {
     "data": "24-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXV tygodnia zwykłego": {
+  "25 Piątek Okresu Zwykłego": {
     "data": "25-09-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XXV tygodnia zwykłego": {
+  "25 Sobota Okresu Zwykłego": {
     "data": "26-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1794,7 +1794,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXVI Niedziela Zwykła": {
+  "26 Niedziela Okresu Zwykłego": {
     "data": "27-09-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1819,12 +1819,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Świętych Aniołów Stróżów": {
+  "2 października - Świętych Aniołów Stróżów": {
     "data": "02-10-2026",
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Sobota XXVI tygodnia zwykłego": {
+  "26 Sobota Okresu Zwykłego": {
     "data": "03-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1834,7 +1834,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXVII Niedziela Zwykła": {
+  "27 Niedziela Okresu Zwykłego": {
     "data": "04-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1844,7 +1844,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek XXVII tygodnia zwykłego": {
+  "27 Wtorek Okresu Zwykłego": {
     "data": "06-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1859,12 +1859,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XXVII tygodnia zwykłego": {
+  "27 Czwartek Okresu Zwykłego": {
     "data": "08-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXVII tygodnia zwykłego": {
+  "27 Piątek Okresu Zwykłego": {
     "data": "09-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1879,7 +1879,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Sobota XXVII tygodnia zwykłego": {
+  "27 Sobota Okresu Zwykłego": {
     "data": "10-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1889,12 +1889,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXVIII Niedziela Zwykła": {
+  "28 Niedziela Okresu Zwykłego": {
     "data": "11-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXVIII tygodnia zwykłego": {
+  "28 Poniedziałek Okresu Zwykłego": {
     "data": "12-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1909,7 +1909,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa XXVIII tygodnia zwykłego": {
+  "28 Środa Okresu Zwykłego": {
     "data": "14-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1939,12 +1939,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "XXIX Niedziela Zwykła": {
+  "29 Niedziela Okresu Zwykłego": {
     "data": "18-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXIX tygodnia zwykłego": {
+  "29 Poniedziałek Okresu Zwykłego": {
     "data": "19-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1964,7 +1964,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Środa XXIX tygodnia zwykłego": {
+  "29 Środa Okresu Zwykłego": {
     "data": "21-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1974,7 +1974,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Piątek XXIX tygodnia zwykłego": {
+  "29 Piątek Okresu Zwykłego": {
     "data": "23-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -1989,7 +1989,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota XXIX tygodnia zwykłego": {
+  "29 Sobota Okresu Zwykłego": {
     "data": "24-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2004,37 +2004,37 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXX Niedziela Zwykła": {
+  "30 Niedziela Okresu Zwykłego": {
     "data": "25-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXX tygodnia zwykłego": {
+  "30 Poniedziałek Okresu Zwykłego": {
     "data": "26-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Wtorek XXX tygodnia zwykłego": {
+  "30 Wtorek Okresu Zwykłego": {
     "data": "27-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Świętych Apostołów Szymona i Judy Tadeusza": {
+  "28 października - św. Apostołów Szymona i Judy Tadeusza": {
     "data": "28-10-2026",
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Czwartek XXX tygodnia zwykłego": {
+  "30 Czwartek Okresu Zwykłego": {
     "data": "29-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXX tygodnia zwykłego": {
+  "30 Piątek Okresu Zwykłego": {
     "data": "30-10-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XXX tygodnia zwykłego": {
+  "30 Sobota Okresu Zwykłego": {
     "data": "31-10-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2044,17 +2044,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Wszystkich Świętych": {
+  "1 listopada - Uroczystość Wszystkich Świętych": {
     "data": "01-11-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Wspomnienie wszystkich wiernych zmarłych": {
+  "2 listopada - Wspomnienie Wszystkich Wiernych Zmarłych": {
     "data": "02-11-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Wtorek XXXI tygodnia zwykłego": {
+  "31 Wtorek Okresu Zwykłego": {
     "data": "03-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2069,17 +2069,17 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Czwartek XXXI tygodnia zwykłego": {
+  "31 Czwartek Okresu Zwykłego": {
     "data": "05-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXXI tygodnia zwykłego": {
+  "31 Piątek Okresu Zwykłego": {
     "data": "06-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XXXI tygodnia zwykłego": {
+  "31 Sobota Okresu Zwykłego": {
     "data": "07-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2089,12 +2089,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXXII Niedziela Zwykła": {
+  "32 Niedziela Okresu Zwykłego": {
     "data": "08-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Rocznica poświęcenia Bazyliki Laterańskiej": {
+  "9 listopada - Rocznica poświęcenia Bazyliki Laterańskiej": {
     "data": "09-11-2026",
     "typ": "Święto",
     "kolor": "Biały"
@@ -2119,7 +2119,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Sobota XXXII tygodnia zwykłego": {
+  "32 Sobota Okresu Zwykłego": {
     "data": "14-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2129,12 +2129,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "XXXIII Niedziela Zwykła": {
+  "33 Niedziela Okresu Zwykłego": {
     "data": "15-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Poniedziałek XXXIII tygodnia zwykłego": {
+  "33 Poniedziałek Okresu Zwykłego": {
     "data": "16-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2164,7 +2164,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Czwartek XXXIII tygodnia zwykłego": {
+  "33 Czwartek Okresu Zwykłego": {
     "data": "19-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2174,7 +2174,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Ofiarowanie Najświętszej Maryi Panny": {
+  "21 listopada - Ofiarowanie Najświętszej Maryi Panny": {
     "data": "21-11-2026",
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
@@ -2184,7 +2184,7 @@
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Poniedziałek XXXIV tygodnia zwykłego": {
+  "34 Poniedziałek Okresu Zwykłego": {
     "data": "23-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2204,7 +2204,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Czerwony"
   },
-  "Środa XXXIV tygodnia zwykłego": {
+  "34 Środa Okresu Zwykłego": {
     "data": "25-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2214,17 +2214,17 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Czerwony"
   },
-  "Czwartek XXXIV tygodnia zwykłego": {
+  "34 Czwartek Okresu Zwykłego": {
     "data": "26-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Piątek XXXIV tygodnia zwykłego": {
+  "34 Piątek Okresu Zwykłego": {
     "data": "27-11-2026",
     "typ": "",
     "kolor": "Zielony"
   },
-  "Sobota XXXIV tygodnia zwykłego": {
+  "34 Sobota Okresu Zwykłego": {
     "data": "28-11-2026",
     "typ": "",
     "kolor": "Zielony"
@@ -2234,7 +2234,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "I Niedziela Adwentu": {
+  "1 Niedziela Adwentu": {
     "data": "29-11-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2244,12 +2244,12 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "Wtorek I tygodnia Adwentu": {
+  "1 Wtorek Adwentu": {
     "data": "01-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Środa I tygodnia Adwentu": {
+  "1 Środa Adwentu": {
     "data": "02-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2259,7 +2259,7 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Piątek I tygodnia Adwentu": {
+  "1 Piątek Adwentu": {
     "data": "04-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2274,12 +2274,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota I tygodnia Adwentu": {
+  "1 Sobota Adwentu": {
     "data": "05-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "II Niedziela Adwentu": {
+  "2 Niedziela Adwentu": {
     "data": "06-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2289,12 +2289,12 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Niepokalane poczęcie Najświętszej Maryi Panny": {
+  "8 grudnia - Uroczystość Niepokalanego Poczęcia NMP": {
     "data": "08-12-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
   },
-  "Środa II tygodnia Adwentu": {
+  "2 Środa Adwentu": {
     "data": "09-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2304,7 +2304,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Czwartek II tygodnia Adwentu": {
+  "2 Czwartek Adwentu": {
     "data": "10-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2314,7 +2314,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Piątek II tygodnia Adwentu": {
+  "2 Piątek Adwentu": {
     "data": "11-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2324,7 +2324,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "Sobota II tygodnia Adwentu": {
+  "2 Sobota Adwentu": {
     "data": "12-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2334,7 +2334,7 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "III Niedziela Adwentu": {
+  "3 Niedziela Adwentu": {
     "data": "13-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2344,37 +2344,37 @@
     "typ": "Wspomnienie obowiązkowe",
     "kolor": "Biały"
   },
-  "Wtorek III tygodnia Adwentu": {
+  "3 Wtorek Adwentu": {
     "data": "15-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Środa III tygodnia Adwentu": {
+  "3 Środa Adwentu": {
     "data": "16-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (17 grudnia)": {
+  "17 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "17-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (18 grudnia)": {
+  "18 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "18-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (19 grudnia)": {
+  "19 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "19-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "IV Niedziela Adwentu": {
+  "4 Niedziela Adwentu": {
     "data": "20-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (21 grudnia)": {
+  "21 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "21-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
@@ -2384,22 +2384,22 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (22 grudnia)": {
+  "22 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "22-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (23 grudnia)": {
+  "23 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "23-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Dzień adwentu (24 grudnia)": {
+  "24 grudnia - Dzień powszedni w okresie Adwentu": {
     "data": "24-12-2026",
     "typ": "",
     "kolor": "Fioletowy"
   },
-  "Narodzenie Pańskie": {
+  "25 grudnia - Uroczystość Narodzenia Pańskiego": {
     "data": "25-12-2026",
     "typ": "Uroczystość",
     "kolor": "Biały"
@@ -2419,7 +2419,7 @@
     "typ": "Święto",
     "kolor": "Czerwony"
   },
-  "V dzień w oktawie Narodzenia Pańskiego": {
+  "29 grudnia - Piąty dzień w oktawie Narodzenia Pańskiego": {
     "data": "29-12-2026",
     "typ": "",
     "kolor": "Biały"
@@ -2429,12 +2429,12 @@
     "typ": "Wspomnienie dowolne",
     "kolor": "Biały"
   },
-  "VI dzień w oktawie Narodzenia Pańskiego": {
+  "30 grudnia - Szósty dzień w oktawie Narodzenia Pańskiego": {
     "data": "30-12-2026",
     "typ": "",
     "kolor": "Biały"
   },
-  "VII dzień w oktawie Narodzenia Pańskiego": {
+  "31 grudnia - Siódmy dzień w oktawie Narodzenia Pańskiego": {
     "data": "31-12-2026",
     "typ": "",
     "kolor": "Biały"
