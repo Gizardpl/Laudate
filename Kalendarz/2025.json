@@ -1,0 +1,3369 @@
+{
+  "1 stycznia - Uroczystość Świętej Bożej Rodzicielki Maryi": {
+    "data": "01-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Świętych Bazylego Wielkiego i Grzegorza z Nazjanzu, biskupów i doktorów Kościoła": {
+    "data": "02-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Piątek przed Objawieniem Pańskim": {
+    "data": "03-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszego Imienia Jezus": {
+    "data": "03-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Sobota przed Objawieniem Pańskim": {
+    "data": "04-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "2 Niedziela po Narodzeniu Pańskim": {
+    "data": "05-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "6 stycznia - Uroczystość Objawienia Pańskiego": {
+    "data": "06-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wtorek po Objawieniu Pańskim": {
+    "data": "07-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Rajmunda z Penyafort, prezbitera": {
+    "data": "07-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Środa po Objawieniu Pańskim": {
+    "data": "08-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Czwartek po Objawieniu Pańskim": {
+    "data": "09-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Piątek po Objawieniu Pańskim": {
+    "data": "10-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Sobota po Objawieniu Pańskim": {
+    "data": "11-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Niedziela Chrztu Pańskiego": {
+    "data": "12-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "1 Poniedziałek Okresu Zwykłego": {
+    "data": "13-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Hilarego, biskupa i doktora Kościoła": {
+    "data": "13-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "1 Wtorek Okresu Zwykłego": {
+    "data": "14-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "1 Środa Okresu Zwykłego": {
+    "data": "15-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "1 Czwartek Okresu Zwykłego": {
+    "data": "16-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Antoniego, opata": {
+    "data": "17-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "1 Sobota Okresu Zwykłego": {
+    "data": "18-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (18-01)": {
+    "data": "18-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Niedziela Okresu Zwykłego": {
+    "data": "19-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "2 Poniedziałek Okresu Zwykłego": {
+    "data": "20-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Fabiana, papieża i męczennika": {
+    "data": "20-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Sebastiana, męczennika": {
+    "data": "20-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Agnieszki, dziewicy i męczennicy": {
+    "data": "21-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "2 Środa Okresu Zwykłego": {
+    "data": "22-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Wincentego Pallottiego, prezbitera": {
+    "data": "22-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Wincentego, diakona i męczennika": {
+    "data": "22-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "2 Czwartek Okresu Zwykłego": {
+    "data": "23-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Franciszka Salezego, biskupa i doktora Kościoła": {
+    "data": "24-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Nawrócenie św. Pawła, Apostoła": {
+    "data": "25-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "3 Niedziela Okresu Zwykłego": {
+    "data": "26-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "3 Poniedziałek Okresu Zwykłego": {
+    "data": "27-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Anieli Merici, dziewicy": {
+    "data": "27-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Tomasza z Akwinu, prezbitera i doktora Kościoła": {
+    "data": "28-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "3 Środa Okresu Zwykłego": {
+    "data": "29-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "3 Czwartek Okresu Zwykłego": {
+    "data": "30-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Bosko, prezbitera": {
+    "data": "31-01-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "3 Sobota Okresu Zwykłego": {
+    "data": "01-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (01-02)": {
+    "data": "01-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 lutego - Ofiarowanie Pańskie": {
+    "data": "02-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "4 Poniedziałek Okresu Zwykłego": {
+    "data": "03-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Błażeja, biskupa i męczennika": {
+    "data": "03-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Oskara, biskupa": {
+    "data": "03-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "4 Wtorek Okresu Zwykłego": {
+    "data": "04-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Agaty, dziewicy i męczennicy": {
+    "data": "05-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Pawła Miki i Towarzyszy": {
+    "data": "06-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "4 Piątek Okresu Zwykłego": {
+    "data": "07-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "4 Sobota Okresu Zwykłego": {
+    "data": "08-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Hieronima Emilianiego": {
+    "data": "08-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Józefiny Bakhity, dziewicy": {
+    "data": "08-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (08-02)": {
+    "data": "08-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "5 Niedziela Okresu Zwykłego": {
+    "data": "09-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Scholastyki, dziewicy": {
+    "data": "10-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "5 Wtorek Okresu Zwykłego": {
+    "data": "11-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny z Lourdes": {
+    "data": "11-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "5 Środa Okresu Zwykłego": {
+    "data": "12-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "5 Czwartek Okresu Zwykłego": {
+    "data": "13-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Cyryla, mnicha i Metodego, biskupa": {
+    "data": "14-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "5 Sobota Okresu Zwykłego": {
+    "data": "15-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (15-02)": {
+    "data": "15-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "6 Niedziela Okresu Zwykłego": {
+    "data": "16-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "6 Poniedziałek Okresu Zwykłego": {
+    "data": "17-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Siedmiu Założycieli Zakonu Serwitów Najświętszej Maryi Panny": {
+    "data": "17-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "6 Wtorek Okresu Zwykłego": {
+    "data": "18-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "6 Środa Okresu Zwykłego": {
+    "data": "19-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "6 Czwartek Okresu Zwykłego": {
+    "data": "20-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "6 Piątek Okresu Zwykłego": {
+    "data": "21-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Piotra Damianiego, biskupa i doktora Kościoła": {
+    "data": "21-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Katedry św. Piotra, Apostoła": {
+    "data": "22-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "7 Niedziela Okresu Zwykłego": {
+    "data": "23-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "7 Poniedziałek Okresu Zwykłego": {
+    "data": "24-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "7 Wtorek Okresu Zwykłego": {
+    "data": "25-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "7 Środa Okresu Zwykłego": {
+    "data": "26-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "7 Czwartek Okresu Zwykłego": {
+    "data": "27-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Grzegorza z Nareku, opata i doktora Kościoła": {
+    "data": "27-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "7 Piątek Okresu Zwykłego": {
+    "data": "28-02-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "7 Sobota Okresu Zwykłego": {
+    "data": "01-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (01-03)": {
+    "data": "01-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "8 Niedziela Okresu Zwykłego": {
+    "data": "02-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "8 Poniedziałek Okresu Zwykłego": {
+    "data": "03-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "4 marca - św. Kazimierza królewicza": {
+    "data": "04-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Środa Popielcowa": {
+    "data": "05-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Czwartek po Popielcu": {
+    "data": "06-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Piątek po Popielcu": {
+    "data": "07-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Świętych męczennic Perpetuy i Felicyty": {
+    "data": "07-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Sobota po Popielcu": {
+    "data": "08-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Jana Bożego, zakonnika": {
+    "data": "08-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "1 Niedziela Wielkiego Postu": {
+    "data": "09-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Poniedziałek Wielkiego Postu": {
+    "data": "10-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Wtorek Wielkiego Postu": {
+    "data": "11-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Środa Wielkiego Postu": {
+    "data": "12-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Czwartek Wielkiego Postu": {
+    "data": "13-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Piątek Wielkiego Postu": {
+    "data": "14-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Sobota Wielkiego Postu": {
+    "data": "15-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "2 Niedziela Wielkiego Postu": {
+    "data": "16-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "2 Poniedziałek Wielkiego Postu": {
+    "data": "17-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Patryka, biskupa": {
+    "data": "17-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "2 Wtorek Wielkiego Postu": {
+    "data": "18-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Cyryla Jerozolimskiego, biskupa i doktora Kościoła": {
+    "data": "18-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Św. Józefa, Oblubieńca Najświętszej Maryi Panny": {
+    "data": "19-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "2 Czwartek Wielkiego Postu": {
+    "data": "20-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "2 Piątek Wielkiego Postu": {
+    "data": "21-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "2 Sobota Wielkiego Postu": {
+    "data": "22-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Niedziela Wielkiego Postu": {
+    "data": "23-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Poniedziałek Wielkiego Postu": {
+    "data": "24-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "25 marca - Uroczystość Zwiastowania Pańskiego": {
+    "data": "25-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "3 Środa Wielkiego Postu": {
+    "data": "26-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Czwartek Wielkiego Postu": {
+    "data": "27-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Piątek Wielkiego Postu": {
+    "data": "28-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Sobota Wielkiego Postu": {
+    "data": "29-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Niedziela Wielkiego Postu": {
+    "data": "30-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Poniedziałek Wielkiego Postu": {
+    "data": "31-03-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Wtorek Wielkiego Postu": {
+    "data": "01-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Środa Wielkiego Postu": {
+    "data": "02-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Franciszka z Paoli, pustelnika": {
+    "data": "02-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "Czwartek IV tygodnia Wielkiego Postu": {
+    "data": "03-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Piątek Wielkiego Postu": {
+    "data": "04-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Izydora, biskupa i doktora Kościoła": {
+    "data": "04-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "4 Sobota Wielkiego Postu": {
+    "data": "05-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Wincentego Ferreriusza, prezbitera": {
+    "data": "05-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "5 Niedziela Wielkiego Postu": {
+    "data": "06-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "5 Poniedziałek Wielkiego Postu": {
+    "data": "07-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Jana Chrzciciela de la Salle, prezbitera": {
+    "data": "07-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Fioletowy"
+  },
+  "5 Wtorek Wielkiego Postu": {
+    "data": "08-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "5 Środa Wielkiego Postu": {
+    "data": "09-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "5 Czwartek Wielkiego Postu": {
+    "data": "10-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "5 Piątek Wielkiego Postu": {
+    "data": "11-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "5 Sobota Wielkiego Postu": {
+    "data": "12-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Niedziela Palmowa Męki Pańskiej": {
+    "data": "13-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Czerwony"
+  },
+  "Wielki Poniedziałek": {
+    "data": "14-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielki Wtorek": {
+    "data": "15-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielka Środa": {
+    "data": "16-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Wielki Czwartek": {
+    "data": "17-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Wielki Piątek Męki Pańskiej": {
+    "data": "18-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Czerwony"
+  },
+  "Wigilia Paschalna": {
+    "data": "19-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Niedziela Zmartwychwstania Pańskiego": {
+    "data": "20-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Poniedziałek w Oktawie Wielkanocy": {
+    "data": "21-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wtorek w Oktawie Wielkanocy": {
+    "data": "22-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Środa w Oktawie Wielkanocy": {
+    "data": "23-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Czwartek w Oktawie Wielkanocy": {
+    "data": "24-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Piątek w Oktawie Wielkanocy": {
+    "data": "25-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Sobota w Oktawie Wielkanocy": {
+    "data": "26-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "2 Niedziela Okresu Wielkanocnego": {
+    "data": "27-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Wojciecha, biskupa i męczennika": {
+    "data": "28-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła": {
+    "data": "29-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "2 Środa Okresu Wielkanocnego": {
+    "data": "30-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Piusa V, papieża": {
+    "data": "30-04-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Czwartek Okresu Wielkanocnego": {
+    "data": "01-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Józefa, rzemieślnika": {
+    "data": "01-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Atanazego, biskupa i doktora Kościoła": {
+    "data": "02-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny, Królowej Polski": {
+    "data": "03-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "3 Niedziela Okresu Wielkanocnego": {
+    "data": "04-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "3 Poniedziałek Okresu Wielkanocnego": {
+    "data": "05-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława Kazimierczyka, prezbitera": {
+    "data": "05-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "6 maja - św. Apostołów Filipa i Jakuba": {
+    "data": "06-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "3 Środa Okresu Wielkanocnego": {
+    "data": "07-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława, biskupa i męczennika": {
+    "data": "08-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "3 Piątek Okresu Wielkanocnego": {
+    "data": "09-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "3 Sobota Okresu Wielkanocnego": {
+    "data": "10-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Jan z Ávili, prezbitera i doktora Kościoła": {
+    "data": "10-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "4 Niedziela Okresu Wielkanocnego": {
+    "data": "11-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "4 Poniedziałek Okresu Wielkanocnego": {
+    "data": "12-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Pankracego, męczennika": {
+    "data": "12-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Nereusza i Achillesa": {
+    "data": "12-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "4 Wtorek Okresu Wielkanocnego": {
+    "data": "13-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny Fatimskiej": {
+    "data": "13-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Macieja, Apostoła": {
+    "data": "14-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "4 Czwartek Okresu Wielkanocnego": {
+    "data": "15-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Andrzeja Boboli, prezbitera i męczennika": {
+    "data": "16-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "4 Sobota Okresu Wielkanocnego": {
+    "data": "17-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "5 Niedziela Okresu Wielkanocnego": {
+    "data": "18-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "5 Poniedziałek Okresu Wielkanocnego": {
+    "data": "19-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "5 Wtorek Okresu Wielkanocnego": {
+    "data": "20-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Bernardyna ze Sieny, prezbitera": {
+    "data": "20-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "5 Środa Okresu Wielkanocnego": {
+    "data": "21-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Krzysztofa Magallanesa, prezbitera, i Towarzyszy": {
+    "data": "21-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "5 Czwartek Okresu Wielkanocnego": {
+    "data": "22-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Rity z Cascii, zakonnicy": {
+    "data": "22-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "5 Piątek Okresu Wielkanocnego": {
+    "data": "23-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny, Wspomożycielki Wiernych": {
+    "data": "24-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "6 Niedziela Okresu Wielkanocnego": {
+    "data": "25-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Filipa Nereusza, prezbitera": {
+    "data": "26-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "6 Wtorek Okresu Wielkanocnego": {
+    "data": "27-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Augustyna z Canterbury, biskupa": {
+    "data": "27-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Pawła VI, papieża": {
+    "data": "27-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "6 Środa Okresu Wielkanocnego": {
+    "data": "28-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Bł. Stefan Wyszyński, biskupa": {
+    "data": "28-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Urszuli Ledóchowskiej, dziewicy": {
+    "data": "29-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "6 Piątek Okresu Wielkanocnego": {
+    "data": "30-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Jana Sarkandra, prezbitera i męczennika": {
+    "data": "30-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Zdzisławy": {
+    "data": "30-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Nawiedzenie Najświętszej Maryi Panny": {
+    "data": "31-05-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Uroczystość Wniebowstąpienia Pańskiego": {
+    "data": "01-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "7 Poniedziałek Okresu Wielkanocnego": {
+    "data": "02-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Marcelina i Piotra": {
+    "data": "02-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Karola Lwangi i Towarzyszy": {
+    "data": "03-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "7 Środa Okresu Wielkanocnego": {
+    "data": "04-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Bonifacego, biskupa i męczennika": {
+    "data": "05-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "7 Piątek Okresu Wielkanocnego": {
+    "data": "06-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Norberta, biskupa": {
+    "data": "06-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "7 Sobota Okresu Wielkanocnego": {
+    "data": "07-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Uroczystość Zesłania Ducha Świętego": {
+    "data": "08-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny, Matki Kościoła": {
+    "data": "09-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "10 Wtorek Okresu Zwykłego": {
+    "data": "10-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Barnaby, Apostoła": {
+    "data": "11-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana": {
+    "data": "12-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Antoniego z Padwy, prezbitera i doktora Kościoła": {
+    "data": "13-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Bł. Michała Kozala, biskupa i męczennika": {
+    "data": "14-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Uroczystość Najświętszej Trójcy": {
+    "data": "15-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "11 Poniedziałek Okresu Zwykłego": {
+    "data": "16-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Alberta Chmielowskiego, zakonnika": {
+    "data": "17-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "11 Środa Okresu Zwykłego": {
+    "data": "18-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Uroczystość Najświętszego Ciała i Krwi Chrystusa": {
+    "data": "19-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "11 Piątek Okresu Zwykłego": {
+    "data": "20-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Alojzego Gonzagi, zakonnika": {
+    "data": "21-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "12 Niedziela Okresu Zwykłego": {
+    "data": "22-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "12 Poniedziałek Okresu Zwykłego": {
+    "data": "23-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "24 czerwca - Uroczystość Narodzenia św. Jana Chrzciciela": {
+    "data": "24-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "12 Środa Okresu Zwykłego": {
+    "data": "25-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "12 Czwartek Okresu Zwykłego": {
+    "data": "26-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Zygmunta Gorazdowskiego, prezbitera": {
+    "data": "26-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Uroczystość Najświętszego Serca Pana Jezusa": {
+    "data": "27-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Wspomnienie Niepokalanego Serca NMP": {
+    "data": "28-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Ireneusza, biskupa, męczennika i doktora Kościoła": {
+    "data": "28-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "29 czerwca - Uroczystość św. Apostołów Piotra i Pawła": {
+    "data": "29-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Czerwony"
+  },
+  "13 Poniedziałek Okresu Zwykłego": {
+    "data": "30-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych pierwszych męczenników świętego Kościoła Rzymskiego": {
+    "data": "30-06-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "13 Wtorek Okresu Zwykłego": {
+    "data": "01-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Ottona z Bambergu, biskupa": {
+    "data": "01-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "13 Środa Okresu Zwykłego": {
+    "data": "02-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Tomasza, Apostoła": {
+    "data": "03-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "13 Piątek Okresu Zwykłego": {
+    "data": "04-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Elżbiety Portugalskiej": {
+    "data": "04-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "13 Sobota Okresu Zwykłego": {
+    "data": "05-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Antoniego Marii Zaccarii, prezbitera": {
+    "data": "05-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Marii Goretti, dziewicy i męczennicy": {
+    "data": "05-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Najświętszej Maryi Panny (05-07)": {
+    "data": "05-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "14 Niedziela Okresu Zwykłego": {
+    "data": "06-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "14 Poniedziałek Okresu Zwykłego": {
+    "data": "07-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana z Dukli, prezbitera": {
+    "data": "08-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "14 Środa Okresu Zwykłego": {
+    "data": "09-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Augustyna Zhao Rong, prezbitera,i Towarzyszy": {
+    "data": "09-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "14 Czwartek Okresu Zwykłego": {
+    "data": "10-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Benedykta, opata": {
+    "data": "11-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Brunona Bonifacego z Kwerfurtu, biskupa i męczennika": {
+    "data": "12-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "15 Niedziela Okresu Zwykłego": {
+    "data": "13-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "15 Poniedziałek Okresu Zwykłego": {
+    "data": "14-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Henryka": {
+    "data": "14-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Kamila de Lellis, prezbitera": {
+    "data": "14-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Bonawentury, biskupa i doktora Kościoła": {
+    "data": "15-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny z Góry Karmel": {
+    "data": "16-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "15 Czwartek Okresu Zwykłego": {
+    "data": "17-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "15 Piątek Okresu Zwykłego": {
+    "data": "18-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Szymona z Lipnicy, prezbitera": {
+    "data": "18-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "15 Sobota Okresu Zwykłego": {
+    "data": "19-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (19-07)": {
+    "data": "19-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "16 Niedziela Okresu Zwykłego": {
+    "data": "20-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "16 Poniedziałek Okresu Zwykłego": {
+    "data": "21-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Apolinarego, biskupa i męczennika": {
+    "data": "21-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Wawrzyńca z Brindisi, prezbitera i doktora Kościoła": {
+    "data": "21-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "22 lipca - Święto św. Marii Magdaleny": {
+    "data": "22-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Brygidy, zakonnicy": {
+    "data": "23-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Kingi, dziewicy": {
+    "data": "24-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jakuba, Apostoła": {
+    "data": "25-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Świętych Joachima i Anny, rodziców Najświętszej Maryi Panny": {
+    "data": "26-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "17 Niedziela Okresu Zwykłego": {
+    "data": "27-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "17 Poniedziałek Okresu Zwykłego": {
+    "data": "28-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Sarbeliusza Makhlufa, prezbitera": {
+    "data": "28-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych Marty, Marii i Łazarza": {
+    "data": "29-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "17 Środa Okresu Zwykłego": {
+    "data": "30-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Piotra Chryzologa, biskupa i doktora Kościoła": {
+    "data": "30-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Ignacego z Loyoli, prezbitera": {
+    "data": "31-07-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła": {
+    "data": "01-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "17 Sobota Okresu Zwykłego": {
+    "data": "02-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Euzebiusza z Vercelli, biskupa": {
+    "data": "02-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Piotra Juliani Eymarda, prezbitera": {
+    "data": "02-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (02-08)": {
+    "data": "02-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "18 Niedziela Okresu Zwykłego": {
+    "data": "03-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Marii Vianneya, prezbitera": {
+    "data": "04-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "18 Wtorek Okresu Zwykłego": {
+    "data": "05-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Rocznica poświęcenia rzymskiej Bazyliki Najświętszej Maryi Panny": {
+    "data": "05-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "6 sierpnia - Święto Przemienienia Pańskiego": {
+    "data": "06-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "18 Czwartek Okresu Zwykłego": {
+    "data": "07-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Kajetana, prezbitera": {
+    "data": "07-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Sykstusa II, papieża, i Towarzyszy": {
+    "data": "07-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Dominika, prezbitera": {
+    "data": "08-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Teresy Benedykty od Krzyża, dziewicy i męczennicy": {
+    "data": "09-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "19 Niedziela Okresu Zwykłego": {
+    "data": "10-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Klary, dziewicy": {
+    "data": "11-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "19 Wtorek Okresu Zwykłego": {
+    "data": "12-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Joanny Franciszki de Chantal, zakonnicy": {
+    "data": "12-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "19 Środa Okresu Zwykłego": {
+    "data": "13-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Poncjana, papieża, i Hipolita,prezbitera": {
+    "data": "13-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Maksymiliana Marii Kolbego, prezbitera i męczennika": {
+    "data": "14-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "15 sierpnia - Uroczystość Wniebowzięcia NMP": {
+    "data": "15-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "19 Sobota Okresu Zwykłego": {
+    "data": "16-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Stefana Węgierskiego": {
+    "data": "16-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (16-08)": {
+    "data": "16-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "20 Niedziela Okresu Zwykłego": {
+    "data": "17-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "20 Poniedziałek Okresu Zwykłego": {
+    "data": "18-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "20 Wtorek Okresu Zwykłego": {
+    "data": "19-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Eudesa, prezbitera": {
+    "data": "19-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Bernarda, opata i doktora Kościoła": {
+    "data": "20-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Piusa X, papieża": {
+    "data": "21-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny, Królowej": {
+    "data": "22-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "20 Sobota Okresu Zwykłego": {
+    "data": "23-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Róży z Limy, dziewicy": {
+    "data": "23-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (23-08)": {
+    "data": "23-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "21 Niedziela Okresu Zwykłego": {
+    "data": "24-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "21 Poniedziałek Okresu Zwykłego": {
+    "data": "25-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Józefa Kalasantego, prezbitera": {
+    "data": "25-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Ludwika": {
+    "data": "25-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "26 sierpnia - Uroczystość NMP Częstochowskiej": {
+    "data": "26-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Moniki": {
+    "data": "27-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Augustyna, biskupa i doktora Kościoła": {
+    "data": "28-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "29 sierpnia - Męczeństwo św. Jana Chrzciciela": {
+    "data": "29-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "21 Sobota Okresu Zwykłego": {
+    "data": "30-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (30-08)": {
+    "data": "30-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "22 Niedziela Okresu Zwykłego": {
+    "data": "31-08-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "22 Poniedziałek Okresu Zwykłego": {
+    "data": "01-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "22 Wtorek Okresu Zwykłego": {
+    "data": "02-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Grzegorza Wielkiego, papieża i doktora Kościoła": {
+    "data": "03-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "22 Czwartek Okresu Zwykłego": {
+    "data": "04-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Błogosławionych dziewicy i męczennicy Marii Stelli i Towarzyszek": {
+    "data": "04-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "22 Piątek Okresu Zwykłego": {
+    "data": "05-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Teresa z Kalkuty, męczennicy": {
+    "data": "05-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "22 Sobota Okresu Zwykłego": {
+    "data": "06-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (06-09)": {
+    "data": "06-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "23 Niedziela Okresu Zwykłego": {
+    "data": "07-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "8 września - Narodzenie NMP": {
+    "data": "08-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "23 Wtorek Okresu Zwykłego": {
+    "data": "09-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Piotra Klawera, prezbitera": {
+    "data": "09-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "23 Środa Okresu Zwykłego": {
+    "data": "10-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "23 Czwartek Okresu Zwykłego": {
+    "data": "11-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "23 Piątek Okresu Zwykłego": {
+    "data": "12-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszego Imienia Maryi": {
+    "data": "12-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Jana Chryzostoma, biskupa i doktora Kościoła": {
+    "data": "13-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "14 września - Święto Podwyższenia Krzyża Świętego": {
+    "data": "14-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "15 września - NMP Bolesnej": {
+    "data": "15-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Korneliusza, papieża, i Cypriana, biskupa": {
+    "data": "16-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "24 Środa Okresu Zwykłego": {
+    "data": "17-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Hildegardy z Bingen, dziewicy i doktora Kościoła": {
+    "data": "17-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Roberta Bellarmina, biskupa i doktora Kościoła": {
+    "data": "17-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Zygmunta Szczęsnego Felińskiego, biskupa": {
+    "data": "17-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Stanisława Kostki, zakonnika": {
+    "data": "18-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "24 Piątek Okresu Zwykłego": {
+    "data": "19-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Januarego, biskupa i męczennika": {
+    "data": "19-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Andrzeja Kim Taegon, prezbitera,Pawła Chong Hasang i Towarzyszy": {
+    "data": "20-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "25 Niedziela Okresu Zwykłego": {
+    "data": "21-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "25 Poniedziałek Okresu Zwykłego": {
+    "data": "22-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Pio z Pietrelciny, prezbitera": {
+    "data": "23-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "25 Środa Okresu Zwykłego": {
+    "data": "24-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "25 Czwartek Okresu Zwykłego": {
+    "data": "25-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "25 Piątek Okresu Zwykłego": {
+    "data": "26-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych męczenników Kosmy i Damiana": {
+    "data": "26-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Świętych męczenników Wawrzyńca Ruiz i Towarzyszy": {
+    "data": "26-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Wincentego à Paulo, prezbitera": {
+    "data": "27-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "26 Niedziela Okresu Zwykłego": {
+    "data": "28-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Świętych Archaniołów Michała, Gabriela i Rafała": {
+    "data": "29-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Hieronima, prezbitera i doktora Kościoła": {
+    "data": "30-09-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła": {
+    "data": "01-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "2 października - Świętych Aniołów Stróżów": {
+    "data": "02-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "26 Piątek Okresu Zwykłego": {
+    "data": "03-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Franciszka z Asyżu, zakonnika": {
+    "data": "04-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "27 Niedziela Okresu Zwykłego": {
+    "data": "05-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "27 Poniedziałek Okresu Zwykłego": {
+    "data": "06-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Brunona, prezbitera": {
+    "data": "06-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny Różańcowej": {
+    "data": "07-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "27 Środa Okresu Zwykłego": {
+    "data": "08-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "27 Czwartek Okresu Zwykłego": {
+    "data": "09-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Leonardiego, prezbitera": {
+    "data": "09-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Dionizego, biskupa, i Towarzyszy": {
+    "data": "09-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "27 Piątek Okresu Zwykłego": {
+    "data": "10-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "27 Sobota Okresu Zwykłego": {
+    "data": "11-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana XXIII, papieża": {
+    "data": "11-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (11-10)": {
+    "data": "11-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "28 Niedziela Okresu Zwykłego": {
+    "data": "12-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Bł. Honorata Koźmińskiego, prezbitera": {
+    "data": "13-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "28 Wtorek Okresu Zwykłego": {
+    "data": "14-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Kaliksta I, papieża i męczennika": {
+    "data": "14-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Małgorzaty Marii Alacoque, dziewicy": {
+    "data": "14-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Teresy od Jezusa, dziewicy i doktora Kościoła": {
+    "data": "15-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jadwigi Śląskiej": {
+    "data": "16-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Ignacego Antiocheńskiego, biskupa i męczennika": {
+    "data": "17-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Św. Łukasza, Ewangelisty": {
+    "data": "18-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "29 Niedziela Okresu Zwykłego": {
+    "data": "19-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Kantego, prezbitera": {
+    "data": "20-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "29 Wtorek Okresu Zwykłego": {
+    "data": "21-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Pawła II, papieża": {
+    "data": "22-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "29 Czwartek Okresu Zwykłego": {
+    "data": "23-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Jana Kapistrana, prezbitera": {
+    "data": "23-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Józefa Bilczewskiego, biskupa": {
+    "data": "23-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "29 Piątek Okresu Zwykłego": {
+    "data": "24-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Antoniego Marii Clareta, biskupa": {
+    "data": "24-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "29 Sobota Okresu Zwykłego": {
+    "data": "25-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (25-10)": {
+    "data": "25-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "30 Niedziela Okresu Zwykłego": {
+    "data": "26-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "30 Poniedziałek Okresu Zwykłego": {
+    "data": "27-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "28 października - św. Apostołów Szymona i Judy Tadeusza": {
+    "data": "28-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "30 Środa Okresu Zwykłego": {
+    "data": "29-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "30 Czwartek Okresu Zwykłego": {
+    "data": "30-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "30 Piątek Okresu Zwykłego": {
+    "data": "31-10-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "1 listopada - Uroczystość Wszystkich Świętych": {
+    "data": "01-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "2 listopada - Wspomnienie Wszystkich Wiernych Zmarłych": {
+    "data": "02-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "31 Poniedziałek Okresu Zwykłego": {
+    "data": "03-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Marcina de Porres, zakonnika": {
+    "data": "03-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Karola Boremeusza, biskupa": {
+    "data": "04-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "31 Środa Okresu Zwykłego": {
+    "data": "05-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "31 Czwartek Okresu Zwykłego": {
+    "data": "06-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "31 Piątek Okresu Zwykłego": {
+    "data": "07-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "31 Sobota Okresu Zwykłego": {
+    "data": "08-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (08-11)": {
+    "data": "08-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "9 listopada - Rocznica poświęcenia Bazyliki Laterańskiej": {
+    "data": "09-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Św. Leona Wielkiego, papieża i doktora Kościoła": {
+    "data": "10-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Marcina z Tours, biskupa": {
+    "data": "11-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Jozafata, biskupa i męczennika": {
+    "data": "12-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Świętych Benedykta, Jana, Mateusza, Izaaka i Krystyna, pierwszych męczenników Polski": {
+    "data": "13-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "32 Piątek Okresu Zwykłego": {
+    "data": "14-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "32 Sobota Okresu Zwykłego": {
+    "data": "15-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Alberta Wielkiego, biskupa i doktora Kościoła": {
+    "data": "15-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Najświętszej Maryi Panny (15-11)": {
+    "data": "15-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "33 Niedziela Okresu Zwykłego": {
+    "data": "16-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Elżbiety Węgierskiej, zakonnicy": {
+    "data": "17-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Bł. Karoliny Kózkówny, dziewicy i męczennicy": {
+    "data": "18-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "33 Środa Okresu Zwykłego": {
+    "data": "19-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Rafała Kalinowskiego, prezbitera": {
+    "data": "20-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "21 listopada - Ofiarowanie Najświętszej Maryi Panny": {
+    "data": "21-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "Św. Cecylii, dziewicy i męczennicy": {
+    "data": "22-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "Jezusa Chrystusa, Króla Wszechświata": {
+    "data": "23-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Świętych męczenników Andrzeja Dung-Lac, prezbitera, iTowarzyszy": {
+    "data": "24-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "34 Wtorek Okresu Zwykłego": {
+    "data": "25-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Św. Katarzyny Aleksandryjskiej, dziewicy i męczennicy": {
+    "data": "25-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "34 Środa Okresu Zwykłego": {
+    "data": "26-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "34 Czwartek Okresu Zwykłego": {
+    "data": "27-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "34 Piątek Okresu Zwykłego": {
+    "data": "28-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "34 Sobota Okresu Zwykłego": {
+    "data": "29-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Zielony"
+  },
+  "Najświętszej Maryi Panny (29-11)": {
+    "data": "29-11-2025",
+    "rok_litera": "C",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "1 Niedziela Adwentu": {
+    "data": "30-11-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Poniedziałek Adwentu": {
+    "data": "01-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Wtorek Adwentu": {
+    "data": "02-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Franciszka Ksawerego, prezbitera": {
+    "data": "03-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Biały"
+  },
+  "1 Czwartek Adwentu": {
+    "data": "04-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Barbary, dziewicy i męczennicy": {
+    "data": "04-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Czerwony"
+  },
+  "Św. Jana Damasceńskiego, prezbitera i doktora Kościoła": {
+    "data": "04-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "1 Piątek Adwentu": {
+    "data": "05-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "1 Sobota Adwentu": {
+    "data": "06-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Mikołaja, biskupa": {
+    "data": "06-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Niedziela Adwentu": {
+    "data": "07-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "8 grudnia - Uroczystość Niepokalanego Poczęcia NMP": {
+    "data": "08-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "2 Wtorek Adwentu": {
+    "data": "09-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Jana Diego Cuauhtlatoatzin": {
+    "data": "09-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Środa Adwentu": {
+    "data": "10-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Najświętszej Maryi Panny Loretańskiej": {
+    "data": "10-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Czwartek Adwentu": {
+    "data": "11-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Św. Damazego I, papieża": {
+    "data": "11-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "2 Piątek Adwentu": {
+    "data": "12-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "Najświętszej Maryi Panny z Guadalupe": {
+    "data": "12-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "Św. Łucji, dziewicy i męczennicy": {
+    "data": "13-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie obowiązkowe",
+    "kolor": "Czerwony"
+  },
+  "3 Niedziela Adwentu": {
+    "data": "14-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Poniedziałek Adwentu": {
+    "data": "15-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "3 Wtorek Adwentu": {
+    "data": "16-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "17 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "17-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "18 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "18-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "19 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "19-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "20 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "20-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "4 Niedziela Adwentu": {
+    "data": "21-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "22 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "22-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "23 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "23-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "24 grudnia - Dzień powszedni w okresie Adwentu": {
+    "data": "24-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Fioletowy"
+  },
+  "25 grudnia - Uroczystość Narodzenia Pańskiego": {
+    "data": "25-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Uroczystość",
+    "kolor": "Biały"
+  },
+  "Św. Szczepana, pierwszego męczennika": {
+    "data": "26-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Czerwony"
+  },
+  "Św. Jana, Apostoła i Ewangelisty": {
+    "data": "27-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "Świętej Rodziny Jezusa, Maryi i Józefa": {
+    "data": "28-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Święto",
+    "kolor": "Biały"
+  },
+  "29 grudnia - Piąty dzień w oktawie Narodzenia Pańskiego": {
+    "data": "29-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Tomasza Becketa, biskupa i męczennika": {
+    "data": "29-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  },
+  "30 grudnia - Szósty dzień w oktawie Narodzenia Pańskiego": {
+    "data": "30-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "31 grudnia - Siódmy dzień w oktawie Narodzenia Pańskiego": {
+    "data": "31-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "",
+    "kolor": "Biały"
+  },
+  "Św. Sylwestra I, papieża": {
+    "data": "31-12-2025",
+    "rok_litera": "A",
+    "rok_cyfra": "1",
+    "typ": "Wspomnienie dowolne",
+    "kolor": "Biały"
+  }
+}

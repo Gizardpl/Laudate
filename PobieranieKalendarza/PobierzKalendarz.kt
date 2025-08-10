@@ -3,12 +3,21 @@ import java.net.HttpURLConnection
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Paths
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
 import kotlin.system.exitProcess
 
-// Klasa danych do przechowywania informacji o pojedynczym wydarzeniu
-data class LiturgicalEvent(val name: String, val date: String, val type: String, val color: String)
+// Zaktualizowana klasa danych z dodatkowymi polami
+data class LiturgicalEvent(
+    val name: String,
+    val date: String,
+    val rok_litera: String, // Rok A, B lub C
+    val rok_cyfra: String,   // Rok "1" lub "2"
+    val type: String,
+    val color: String
+)
 
-// Słownik tłumaczeń wbudowany bezpośrednio w kod
+// Kompletny słownik tłumaczeń wbudowany bezpośrednio w kod
 val translationMap: Map<String, String> = mapOf(
     "Czwartek I tygodnia Adwentu" to "1 Czwartek Adwentu",
     "Piątek I tygodnia Adwentu" to "1 Piątek Adwentu",
@@ -501,6 +510,7 @@ fun main(args: Array<String>) {
 fun parseIcsToJsonAdvanced(icsContent: String): String {
     val events = mutableListOf<LiturgicalEvent>()
     val lines = icsContent.lines()
+    val dateParser = DateTimeFormatter.ofPattern("yyyyMMdd")
 
     var inEventBlock = false
     var currentSummary = ""
@@ -518,13 +528,12 @@ fun parseIcsToJsonAdvanced(icsContent: String): String {
             inEventBlock = false
             if (currentDtstart.isNotEmpty() && currentSummary.isNotEmpty()) {
 
-                // Krok 1: Wyczyść surową nazwę
-                val cleanedName = parseName(currentSummary)
+                val eventDate = LocalDate.parse(currentDtstart, dateParser)
+                val cycles = calculateLiturgicalCycles(eventDate)
 
-                // Krok 2: Spróbuj przetłumaczyć oczyszczoną nazwę
+                val cleanedName = parseName(currentSummary)
                 var finalName = translateName(cleanedName, translationMap)
 
-                // Krok 3: Zastosuj regułę specjalną dla NMP
                 if (finalName == "Najświętszej Maryi Panny") {
                     val day = currentDtstart.substring(6, 8)
                     val month = currentDtstart.substring(4, 6)
@@ -536,7 +545,14 @@ fun parseIcsToJsonAdvanced(icsContent: String): String {
                 val formattedDate = formatDate(currentDtstart)
 
                 if (finalName.isNotBlank()) {
-                    events.add(LiturgicalEvent(finalName, formattedDate, type, color))
+                    events.add(LiturgicalEvent(
+                        name = finalName,
+                        date = formattedDate,
+                        rok_litera = cycles.sundayCycle,
+                        rok_cyfra = cycles.weekdayCycle,
+                        type = type,
+                        color = color
+                    ))
                 }
             }
         } else if (inEventBlock) {
@@ -570,6 +586,8 @@ fun buildJson(events: List<LiturgicalEvent>): String {
 
         jsonBuilder.append("  \"$cleanedName\": {\n")
         jsonBuilder.append("    \"data\": \"${event.date}\",\n")
+        jsonBuilder.append("    \"rok_litera\": \"${event.rok_litera}\",\n")
+        jsonBuilder.append("    \"rok_cyfra\": \"${event.rok_cyfra}\",\n")
         jsonBuilder.append("    \"typ\": \"$cleanedType\",\n")
         jsonBuilder.append("    \"kolor\": \"$cleanedColor\"\n")
         jsonBuilder.append("  }")
@@ -587,11 +605,30 @@ fun buildJson(events: List<LiturgicalEvent>): String {
 
 // === Funkcje pomocnicze ===
 
-/**
- * NOWOŚĆ: Tłumaczy nazwę, jeśli znajdzie ją w słowniku. W przeciwnym razie zwraca oryginał.
- */
+data class LiturgicalCycles(val sundayCycle: String, val weekdayCycle: String)
+
+fun calculateLiturgicalCycles(eventDate: LocalDate): LiturgicalCycles {
+    val calendarYear = eventDate.year
+    val weekdayCycle = if (calendarYear % 2 != 0) "1" else "2" // Nieparzysty -> "1" (Rok I), Parzysty -> "2" (Rok II)
+    val dec3rd = LocalDate.of(calendarYear, 12, 3)
+    val dayIndex = dec3rd.dayOfWeek.value % 7
+    val firstSundayOfAdvent = dec3rd.minusDays(dayIndex.toLong())
+    val referenceYear = if (eventDate.isBefore(firstSundayOfAdvent)) {
+        calendarYear - 1
+    } else {
+        calendarYear
+    }
+    val sundayCycle = when (referenceYear % 3) {
+        0 -> "A"
+        1 -> "B"
+        2 -> "C"
+        else -> "Error"
+    }
+    return LiturgicalCycles(sundayCycle, weekdayCycle)
+}
+
 fun translateName(name: String, dictionary: Map<String, String>): String {
-    return dictionary[name] ?: name // Zwraca wartość ze słownika lub oryginalną nazwę, jeśli klucz nie istnieje
+    return dictionary[name] ?: name
 }
 
 fun formatDate(dateStr: String): String {
@@ -604,7 +641,6 @@ fun formatDate(dateStr: String): String {
 
 fun parseColor(summary: String): String {
     if (summary.isBlank()) return "Nieznany"
-    // Przeszukuje cały ciąg, aby znaleźć pierwszą pasującą ikonę
     return when {
         summary.contains("⚪") -> "Biały"
         summary.contains("🔴") -> "Czerwony"
@@ -629,25 +665,13 @@ fun parseType(summary: String): String {
     }
 }
 
-/**
- * Ostateczna wersja funkcji czyszczącej nazwę.
- */
 fun parseName(summary: String): String {
     var result = summary
-
-    // Krok 1: Usuń blok z rangą (np. "[W]") oraz następującą po nim spację.
     result = result.replace(Regex("\\[.*?\\]\\s*"), "")
-
-    // Krok 2: Usuń wszystkie znane ikony emoji reprezentujące kolor.
     val knownIcons = listOf("⚪", "🔴", "🟢", "🟣", "💗", "🩷")
     knownIcons.forEach { icon ->
         result = result.replace(icon, "")
     }
-
-    // Krok 3: Usuń wszystkie znaki zapytania.
     result = result.replace("?", "")
-
-    // Krok 4: Usuń wszelkie wiodące i końcowe białe znaki,
-    // a także zamień ewentualne wielokrotne spacje w środku na pojedynczą.
     return result.trim().replace(Regex("\\s+"), " ")
 }
