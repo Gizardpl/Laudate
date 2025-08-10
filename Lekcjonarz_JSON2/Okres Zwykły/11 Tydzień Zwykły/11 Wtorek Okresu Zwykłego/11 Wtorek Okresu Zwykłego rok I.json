@@ -48,12 +48,6 @@
       "moment": "komunia"
     },
     {
-      "numer": "692",
-      "piesn": "Gdzie miłość wzajemna i dobroć",
-      "opis": "Idealnie oddaje ducha dnia, wzywając do miłości wzajemnej, która jest znakiem obecności Boga i drogą do doskonałości.",
-      "moment": "komunia"
-    },
-    {
       "numer": "601",
       "piesn": "Dzięki, o Panie",
       "opis": "Prosta pieśń dziękczynna za dar miłości i obecności Boga, która jest odpowiedzią na Jego łaskę opisaną w czytaniach.",
@@ -69,6 +63,12 @@
       "numer": "528",
       "piesn": "Pan mnie woła",
       "opis": "Pieśń ta wzywa do czynnej miłości i miłosierdzia wobec potrzebujących, co jest praktycznym wymiarem nauk z dzisiejszych czytań.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Idealnie oddaje ducha dnia, wzywając do miłości wzajemnej, która jest znakiem obecności Boga i drogą do doskonałości.",
       "moment": "ogolne"
     }
   ]

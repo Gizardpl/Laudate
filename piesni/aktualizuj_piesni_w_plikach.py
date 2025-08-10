@@ -1,97 +1,99 @@
 import os
 import json
 
+# Na podstawie pliku z danymi od Gemini aktualizuje pieśni w docelowej lokalizacji
+
 # --- Konfiguracja ---
 # Nazwa pliku wejściowego zawierającego poprawione dane
-INPUT_FILE_WITH_CORRECTIONS = 'poprawione.json'
+NAZWA_PLIKU_Z_POPRAWKAMI = 'gotowe.json'
 
 # Ścieżka bazowa, gdzie znajduje się główny folder z lekcjonarzem
 # '../' oznacza jeden folder w górę od lokalizacji skryptu
-SOURCE_BASE_DIR = '../'
+KATALOG_BAZOWY_LEKCJONARZA = '../'
 
 
-def apply_corrections(corrections_filepath: str):
+def zastosuj_poprawki(sciezka_do_poprawek: str):
     """
     Wczytuje plik z poprawkami i aktualizuje odpowiednie pliki docelowe,
     nadpisując w nich sekcję 'piesniSugerowane'.
 
     Args:
-        corrections_filepath: Ścieżka do pliku JSON z poprawkami.
+        sciezka_do_poprawek (str): Ścieżka do pliku JSON z poprawkami.
     """
     # 1. Wczytaj plik z poprawkami
     try:
-        with open(corrections_filepath, 'r', encoding='utf-8') as f:
-            corrections_data = json.load(f)
-        print(f"Pomyślnie wczytano plik z poprawkami: '{corrections_filepath}'.")
+        with open(sciezka_do_poprawek, 'r', encoding='utf-8') as f:
+            dane_z_poprawkami = json.load(f)
+        print(f"Pomyślnie wczytano plik z poprawkami: '{sciezka_do_poprawek}'.")
     except FileNotFoundError:
-        print(f"BŁĄD KRYTYCZNY: Nie można znaleźć pliku z poprawkami: '{corrections_filepath}'. Przerwanie operacji.")
+        print(f"BŁĄD KRYTYCZNY: Nie można znaleźć pliku z poprawkami: '{sciezka_do_poprawek}'. Przerwanie operacji.")
         return
     except json.JSONDecodeError:
-        print(f"BŁĄD KRYTYCZNY: Plik '{corrections_filepath}' ma nieprawidłowy format JSON. Przerwanie operacji.")
+        print(f"BŁĄD KRYTYCZNY: Plik '{sciezka_do_poprawek}' ma nieprawidłowy format JSON. Przerwanie operacji.")
         return
     except Exception as e:
         print(f"Wystąpił nieoczekiwany błąd podczas odczytu pliku z poprawkami: {e}")
         return
 
-    if not isinstance(corrections_data, list):
+    if not isinstance(dane_z_poprawkami, list):
         print("BŁĄD KRYTYCZNY: Plik z poprawkami nie zawiera listy obiektów.")
         return
 
-    updated_files_count = 0
-    failed_files_count = 0
+    licznik_zaktualizowanych = 0
+    licznik_niepowodzen = 0
     
     # 2. Przetwórz każdy obiekt (każdą poprawkę) z pliku
-    for item in corrections_data:
-        relative_path = item.get("sciezka")
-        new_songs_data = item.get("piesniSugerowane")
+    for wpis in dane_z_poprawkami:
+        sciezka_wzgledna = wpis.get("sciezka")
+        nowe_dane_piesni = wpis.get("piesniSugerowane")
 
-        if not relative_path or new_songs_data is None:
-            print(f"Ostrzeżenie: Pomijam niekompletny wpis w pliku z poprawkami: {item}")
-            failed_files_count += 1
+        if not sciezka_wzgledna or nowe_dane_piesni is None:
+            print(f"Ostrzeżenie: Pomijam niekompletny wpis w pliku z poprawkami: {wpis}")
+            licznik_niepowodzen += 1
             continue
 
         # Zbuduj pełną ścieżkę do pliku, który ma zostać zaktualizowany
-        target_file_path = os.path.normpath(os.path.join(SOURCE_BASE_DIR, relative_path))
+        sciezka_pliku_docelowego = os.path.normpath(os.path.join(KATALOG_BAZOWY_LEKCJONARZA, sciezka_wzgledna))
 
         try:
             # Wczytaj zawartość oryginalnego pliku
-            with open(target_file_path, 'r', encoding='utf-8') as f:
-                original_file_data = json.load(f)
+            with open(sciezka_pliku_docelowego, 'r', encoding='utf-8') as f:
+                oryginalne_dane_pliku = json.load(f)
 
             # Podmień sekcję z pieśniami na nową, poprawioną wersję
-            original_file_data['piesniSugerowane'] = new_songs_data
+            oryginalne_dane_pliku['piesniSugerowane'] = nowe_dane_piesni
 
             # Zapisz (nadpisz) plik z powrotem z nowymi danymi
-            with open(target_file_path, 'w', encoding='utf-8') as f:
-                json.dump(original_file_data, f, indent=2, ensure_ascii=False)
+            with open(sciezka_pliku_docelowego, 'w', encoding='utf-8') as f:
+                json.dump(oryginalne_dane_pliku, f, indent=2, ensure_ascii=False)
             
-            updated_files_count += 1
-            print(f"OK: Zaktualizowano plik '{target_file_path}'")
+            licznik_zaktualizowanych += 1
+            print(f"OK: Zaktualizowano plik '{sciezka_pliku_docelowego}'")
 
         except FileNotFoundError:
-            print(f"BŁĄD: Nie znaleziono pliku docelowego: '{target_file_path}'. Pomijam.")
-            failed_files_count += 1
+            print(f"BŁĄD: Nie znaleziono pliku docelowego: '{sciezka_pliku_docelowego}'. Pomijam.")
+            licznik_niepowodzen += 1
         except KeyError:
-            print(f"BŁĄD: W pliku '{target_file_path}' brakuje klucza 'piesniSugerowane'. Nie można dokonać podmiany.")
-            failed_files_count += 1
+            print(f"BŁĄD: W pliku '{sciezka_pliku_docelowego}' brakuje klucza 'piesniSugerowane'. Nie można dokonać podmiany.")
+            licznik_niepowodzen += 1
         except Exception as e:
-            print(f"BŁĄD podczas przetwarzania pliku '{target_file_path}': {e}")
-            failed_files_count += 1
+            print(f"BŁĄD podczas przetwarzania pliku '{sciezka_pliku_docelowego}': {e}")
+            licznik_niepowodzen += 1
             
     print("\n--- Podsumowanie ---")
-    print(f"Pomyślnie zaktualizowano: {updated_files_count} plików.")
-    if failed_files_count > 0:
-        print(f"Nie udało się przetworzyć: {failed_files_count} plików (sprawdź komunikaty BŁĘDÓW/OSTRZEŻEŃ powyżej).")
+    print(f"Pomyślnie zaktualizowano: {licznik_zaktualizowanych} plików.")
+    if licznik_niepowodzen > 0:
+        print(f"Nie udało się przetworzyć: {licznik_niepowodzen} plików (sprawdź komunikaty BŁĘDÓW/OSTRZEŻEŃ powyżej).")
     print("Operacja zakończona.")
 
 
 def main():
     """Główna funkcja sterująca wykonaniem skryptu."""
     
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    corrections_file_path = os.path.join(script_dir, INPUT_FILE_WITH_CORRECTIONS)
+    folder_skryptu = os.path.dirname(os.path.abspath(__file__))
+    sciezka_do_pliku_poprawek = os.path.join(folder_skryptu, NAZWA_PLIKU_Z_POPRAWKAMI)
 
-    apply_corrections(corrections_file_path)
+    zastosuj_poprawki(sciezka_do_pliku_poprawek)
 
 
 if __name__ == '__main__':

@@ -30,45 +30,51 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Pieśń jest odpowiedzią na wezwanie Jezusa 'Pójdź za Mną!', skierowane do Mateusza i do każdego z nas.",
+      "numer": "618",
+      "piesn": "Pójdź do Jezusa",
+      "opis": "Pieśń jest bezpośrednim zaproszeniem dla wszystkich grzeszników i utrudzonych, których Jezus przyszedł powołać, jak celnika Mateusza.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Wobec grzechów niesprawiedliwości opisanych przez Amosa, ta pieśń jest prośbą o miłosierdzie, którego Bóg pragnie bardziej niż ofiary.",
+      "numer": "256",
+      "piesn": "O Miłości nieskończona",
+      "opis": "Pieśń o charakterze eucharystycznym podkreśla miłość ofiarną Chrystusa, która jest najdoskonalszym wyrazem miłosierdzia, jakiego pragnie Bóg.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę grzesznika, który, jak Mateusz, zostaje powołany i zaproszony do stołu z Jezusem.",
+      "numer": "271",
+      "piesn": "Przyjdźcie do mnie wszyscy",
+      "opis": "Pieśń eucharystyczna jest bezpośrednim echem słów Jezusa z Ewangelii, zapraszającego do siebie celników i grzeszników, by dać im pokrzepienie.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Jest to pieśń uwielbienia za dar Słowa Bożego, za którym tęskni dusza psalmisty i którego głód zapowiada prorok.",
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń jest aktem dziękczynienia za dar Bożego miłosierdzia i Jego obecności, która zaspokaja głód Słowa Pańskiego zapowiedziany przez Amosa.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
-      "opis": "Pieśń ta jest doskonałym komentarzem do słów Jezusa: 'Chcę raczej miłosierdzia niż ofiary'.",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Pieśń na rozesłanie przypomina, że zadaniem powołanych jest świadczenie o miłosierdziu Boga, którego On pragnie bardziej niż ofiary.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "486",
-      "piesn": "Panie, pragnienia ludzkich serc",
-      "opis": "Nawiązuje do psalmu, który mówi o tęsknocie duszy za Bogiem i Jego przykazaniami.",
+      "numer": "110",
+      "piesn": "Pokładam w Panu ufność",
+      "opis": "Nawiązuje do postawy grzesznika, który z głębokości woła do Pana i ufa Jego miłosierdziu, o którym mówi Ewangelia.",
       "moment": "ogolne"
     },
     {
-      "numer": "494",
-      "piesn": "Pójdź do Jezusa",
-      "opis": "Jest zaproszeniem skierowanym do grzeszników, których Jezus przyszedł powołać, a nie sprawiedliwych.",
+      "numer": "265",
+      "piesn": "Panie, pragnienia ludzkich serc",
+      "opis": "Wyraża tęsknotę za Bogiem i Jego Słowem, której głód, jak zapowiada prorok Amos, jest największym pragnieniem człowieka.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń ta, oparta na przypowieści o synu marnotrawnym, doskonale ilustruje powołanie grzeszników, o którym naucza Jezus.",
       "moment": "ogolne"
     }
   ]

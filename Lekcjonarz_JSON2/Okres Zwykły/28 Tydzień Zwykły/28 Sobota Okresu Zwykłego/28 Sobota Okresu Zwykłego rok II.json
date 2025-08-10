@@ -30,8 +30,8 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
       "opis": "Pieśń jest modlitwą do Ducha Świętego, który, jak obiecuje Jezus w Ewangelii, pouczy nas, co mamy mówić w godzinie próby.",
       "moment": "wejscie"
     },
@@ -42,9 +42,9 @@
       "moment": "ofiarowanie"
     },
     {
-      "numer": "220",
-      "piesn": "Przybądź, Stwórco, Duchu Boży",
-      "opis": "W Komunii przyjmujemy Tego, którego mamy wyznawać. Ta pieśń jest prośbą do Ducha Świętego o dary potrzebne do dawania świadectwa.",
+      "numer": "224",
+      "piesn": "Ludu kapłański",
+      "opis": "Pieśń ta podkreśla, że Kościół jest Ciałem Chrystusa, o czym mówi pierwsze czytanie, a Komunia Święta jest tego najpełniejszym znakiem.",
       "moment": "komunia"
     },
     {
@@ -60,9 +60,9 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "224",
-      "piesn": "Ludu kapłański",
-      "opis": "Pieśń podkreśla godność Ludu Bożego, który jest Ciałem Chrystusa, o czym z zachwytem pisze św. Paweł.",
+      "numer": "591",
+      "piesn": "Boże, obdarz Kościół Twój",
+      "opis": "Pieśń jest modlitwą o jedność Kościoła, który jest Ciałem Chrystusa, o czym z zachwytem pisze św. Paweł.",
       "moment": "ogolne"
     },
     {

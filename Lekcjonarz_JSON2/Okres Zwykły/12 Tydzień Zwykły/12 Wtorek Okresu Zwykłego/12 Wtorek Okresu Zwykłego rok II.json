@@ -12,8 +12,8 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 48 (47), 2-3b. 3c-4. 10-11 (R.: por. 9d)",
-      "opis": "Refren: Bóg swoje miasto umacnia na wieki.",
-      "tekst": "Wielki jest Pan i godzien wielkiej chwały *\nw mieście Boga naszego.\nŚwięta Jego góra, wspaniałe wzniesienie, *\nradością jest całej ziemi.\nRefren.\nGóra Syjon, kres północy, *\njest miastem wielkiego Króla.\nBóg w zamkach swoich *\nokazał się obroną.\nRefren.\nRozważamy, Boże, łaskawość Twoją *\nwe wnętrzu Twojej świątyni.\nJak imię Twe, Boże, †\ntak i chwała Twoja sięga po krańce ziemi. *\nPrawica Twoja pełna jest sprawiedliwości.\nRefren."
+      "opis": "",
+      "tekst": "Refren: Bóg swoje miasto umacnia na wieki.\nWielki jest Pan i godzien wielkiej chwały *\nw mieście Boga naszego.\nŚwięta Jego góra, wspaniałe wzniesienie, *\nradością jest całej ziemi.\nRefren.\nGóra Syjon, kres północy, *\njest miastem wielkiego Króla.\nBóg w zamkach swoich *\nokazał się obroną.\nRefren.\nRozważamy, Boże, łaskawość Twoją *\nwe wnętrzu Twojej świątyni.\nJak imię Twe, Boże, †\ntak i chwała Twoja sięga po krańce ziemi. *\nPrawica Twoja pełna jest sprawiedliwości.\nRefren."
     },
     {
       "typ": "AKLAMACJA",
@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
-      "piesn": "Bądź mi litościw",
-      "opis": "Pieśń jest parafrazą psalmu 51, który jest psalmem responsoryjnym tego dnia, i wyraża skruchę podobną do tej, którą okazał Achab.",
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń jest wyrazem głębokiej ufności w Bożą opiekę, którą okazał król Ezechiasz w obliczu zagrożenia.",
       "moment": "wejscie"
     },
     {
-      "numer": "113",
-      "piesn": "Wstanę i pójdę",
-      "opis": "Wobec grzechów opisanych w pierwszym czytaniu, ta pieśń jest aktem pokuty i prośbą o Boże miłosierdzie.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "'Złota reguła' z Ewangelii jest fundamentem przykazania miłości, które składamy Bogu w ofierze.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "692",
-      "piesn": "Gdzie miłość wzajemna i dobroć",
-      "opis": "Ewangelia wzywa do miłości nieprzyjaciół, a ta pieśń jest modlitwą o serce zdolne do takiej miłości.",
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Komunia z Chrystusem umacnia nas na wąskiej drodze prowadzącej do życia, o której naucza Ewangelia.[23]",
       "moment": "komunia"
     },
     {
       "numer": "595",
       "piesn": "Cały świat niech śpiewa",
-      "opis": "Jest to pieśń uwielbienia dla Boga, który jest miłosierny i odpuszcza grzechy tym, którzy się upokarzają, jak król Achab.",
+      "opis": "Psalm sławi Boga, który jest obroną swego miasta; pieśń ta jest radosnym uwielbieniem Jego potęgi i łaski.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "245",
-      "piesn": "Jezu, miłości Twej",
-      "opis": "Pieśń wyraża miłość do Chrystusa, która jest źródłem siły do wypełnienia przykazania miłości nieprzyjaciół.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jesteśmy posłani, by kroczyć wąską drogą; prosimy Boga, by nas na niej prowadził i umacniał.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "122",
-      "piesn": "Krzyżu Chrystusa",
-      "opis": "Miłość nieprzyjaciół znajduje swój najpełniejszy wyraz w Chrystusie na krzyżu, który modlił się za swoich prześladowców.",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Majestat Boga, który ratuje swój lud, opiewany jest w tej pieśni, nawiązującej do cudownej interwencji w pierwszym czytaniu.",
       "moment": "ogolne"
     },
     {
-      "numer": "200",
-      "piesn": "Jezu, ufam Tobie",
-      "opis": "W obliczu sądu Bożego i własnej grzeszności, ta pieśń jest aktem zawierzenia i zaufania miłosierdziu Bożemu.",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
+      "opis": "Wybór ciasnej bramy jest aktem uznania Chrystusa za naszego Wodza i Króla, który prowadzi nas do życia wiecznego.",
       "moment": "ogolne"
     }
   ]

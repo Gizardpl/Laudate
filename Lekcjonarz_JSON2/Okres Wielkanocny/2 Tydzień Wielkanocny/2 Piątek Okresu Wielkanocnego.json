@@ -44,7 +44,7 @@
     {
       "numer": "265",
       "piesn": "Panie, pragnienia ludzkich serc",
-      "opis": "Refren \"Przyjdź, Chlebie Żywy\" jest modlitwą o pokarm eucharystyczny, zapowiedziany przez rozmnożenie chleba.",
+      "opis": "Refren 'Przyjdź, Chlebie Żywy' jest modlitwą o pokarm eucharystyczny, zapowiedziany przez rozmnożenie chleba.",
       "moment": "komunia"
     },
     {
@@ -63,13 +63,13 @@
       "numer": "262",
       "piesn": "Pan wieczernik przygotował",
       "opis": "Nawiązuje do Uczty Pańskiej, której prefiguracją jest nakarmienie pięciu tysięcy mężczyzn na pustkowiu.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     },
     {
       "numer": "275",
       "piesn": "To Ty, o Panie, Chlebie nasz",
       "opis": "Identyfikuje Jezusa jako Chleb dający życie wieczne, co jest teologiczną głębią cudu rozmnożenia chleba.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     }
   ]
 }

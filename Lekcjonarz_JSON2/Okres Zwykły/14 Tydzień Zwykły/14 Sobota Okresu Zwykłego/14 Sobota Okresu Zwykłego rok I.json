@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Pieśń wyraża zaufanie do Boga w obliczu zagrożeń, o których Jezus mówi w Ewangelii: 'Nie bójcie się tych, którzy zabijają ciało'.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Prośba braci Józefa o przebaczenie jest wzorem dla naszej postawy skruchy, którą wyraża ta pieśń.",
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
+      "opis": "Prośba braci Józefa o przebaczenie jest wzorem dla naszej postawy skruchy, którą wyraża ta pieśń eucharystyczna.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wobec wezwania do odważnego wyznawania wiary, ta pieśń wyraża naszą świadomość słabości i potrzebę Bożej mocy.",
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Wobec wezwania do odważnego wyznawania wiary, ta pieśń eucharystyczna jest pokarmem dającym siłę i odwagę.",
       "moment": "komunia"
     },
     {
-      "numer": "506",
-      "piesn": "Wysławiajcie Pana",
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
       "opis": "Jest to radosne wypełnienie wezwania psalmisty, by sławić Pana i głosić Jego cuda, widoczne w historii Józefa.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
       "opis": "Pieśń jest mocną deklaracją wierności Bogu, do której wzywa Jezus, obiecując przyznanie się do nas przed Ojcem.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "419",
-      "piesn": "Gdzie miłość wzajemna",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
       "opis": "Przebaczenie, jakiego Józef udzielił braciom, jest fundamentem wspólnoty, o którym przypomina ta pieśń.",
       "moment": "ogolne"
     },
     {
-      "numer": "391",
+      "numer": "305",
       "piesn": "Z tej biednej ziemi",
-      "opis": "Historia patriarchów, kończąca się w Egipcie, ale z nadzieją na powrót do Ziemi Obiecanej, jest obrazem naszej ziemskiej pielgrzymki.",
+      "opis": "Historia patriarchów, kończąca się w Egipcie z nadzieją na powrót do Ziemi Obiecanej, jest obrazem naszej ziemskiej pielgrzymki.",
       "moment": "ogolne"
     }
   ]

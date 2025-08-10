@@ -36,9 +36,9 @@
       "moment": "wejscie"
     },
     {
-      "numer": "222",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Pieśń odzwierciedla misyjną działalność św. Pawła opisaną w pierwszym czytaniu, który głosił Ewangelię Żydom i poganom.",
+      "numer": "192",
+      "piesn": "Weselmy się, chrześcijanie",
+      "opis": "Ta mszalna pieśń wielkanocna w swojej zwrotce na ofiarowanie wprost wyraża charakter tego momentu liturgii.",
       "moment": "ofiarowanie"
     },
     {
@@ -58,12 +58,6 @@
       "piesn": "Zwycięzca śmierci",
       "opis": "Pieśń podkreśla triumf Chrystusa, który jest fundamentem misji Kościoła i radości wierzących.",
       "moment": "rozeslanie"
-    },
-    {
-      "numer": "192",
-      "piesn": "Weselmy się, chrześcijanie",
-      "opis": "Jest to uniwersalna pieśń wielkanocna, która dobrze wpisuje się w tematykę radości i zbawienia.",
-      "moment": "ogolne"
     },
     {
       "numer": "189",

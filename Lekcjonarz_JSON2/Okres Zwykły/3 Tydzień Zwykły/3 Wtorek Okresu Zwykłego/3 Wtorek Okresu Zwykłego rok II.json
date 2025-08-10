@@ -32,19 +32,19 @@
     {
       "numer": "5",
       "piesn": "Otwórzcie się szeroko",
-      "opis": "Pieśń ta jest parafrazą psalmu responsoryjnego (Ps 24), wzywającą do otwarcia bram dla Króla chwały.",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego (Ps 24), wzywającą do otwarcia bram dla Króla chwały, którego Arkę sprowadza Dawid.",
       "moment": "wejscie"
     },
     {
       "numer": "695",
       "piesn": "Przyjmij, o Najświętszy Panie",
-      "opis": "Jest to ofiarowanie darów w duchu posłuszeństwa woli Bożej, która czyni nas prawdziwą rodziną Jezusa.",
+      "opis": "Jest to ofiarowanie darów w duchu posłuszeństwa woli Bożej, która czyni nas prawdziwą rodziną Jezusa, o czym mówi Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "234",
-      "piesn": "Chwal, Syjonie, Zbawiciela",
-      "opis": "Sekwencja eucharystyczna sławi Chrystusa, Króla chwały, który gromadzi nas w jedną rodzinę przy swoim stole.",
+      "numer": "623",
+      "piesn": "Rodziną Bożą jesteśmy",
+      "opis": "Pieśń ta jest echem słów Jezusa, który określa swoją prawdziwą rodzinę jako tych, którzy pełnią wolę Ojca.",
       "moment": "komunia"
     },
     {
@@ -54,9 +54,9 @@
       "moment": "uwielbienie"
     },
     {
-      "numer": "623",
-      "piesn": "Rodziną Bożą jesteśmy",
-      "opis": "Pieśń ta jest echem słów Jezusa, który określa swoją prawdziwą rodzinę jako tych, którzy pełnią wolę Ojca.",
+      "numer": "629",
+      "piesn": "Tyś naszą drogą",
+      "opis": "Pieśń ta jest posłaniem, by iść drogą Chrystusa, czyli drogą pełnienia woli Bożej, aby stać się Jego rodziną.",
       "moment": "rozeslanie"
     },
     {

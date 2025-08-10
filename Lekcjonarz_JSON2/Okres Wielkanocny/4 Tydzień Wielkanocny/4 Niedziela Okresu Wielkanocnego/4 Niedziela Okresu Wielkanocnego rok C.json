@@ -38,7 +38,7 @@
     {
       "numer": "612",
       "piesn": "O Panie, Tyś moim Pasterzem",
-      "opis": "Pieśń ta jest parafrazą Psalmu 23, który choć nie jest psalmem responsoryjnym, tematycznie idealnie pasuje do Niedzieli Dobrego Pasterza.",
+      "opis": "Pieśń ta jest parafrazą Psalmu 23, który choć nie jest psalmem responsoryjnym, tematycznie idealnie pasuje do Niedzieli Dobrego Pasterza.[5]",
       "moment": "wejscie"
     },
     {
@@ -50,7 +50,7 @@
     {
       "numer": "615",
       "piesn": "Pan mój, Wódz i Pasterz",
-      "opis": "Jest to kolejna wersja Psalmu 23, która podkreśla osobistą więź z Chrystusem Dobrym Pasterzem, który daje życie wieczne.",
+      "opis": "Jest to kolejna wersja Psalmu 23, która podkreśla osobistą więź z Chrystusem Dobrym Pasterzem, który daje życie wieczne.[5]",
       "moment": "komunia"
     },
     {
@@ -68,14 +68,14 @@
     {
       "numer": "197",
       "piesn": "Zmartwychpowstał Pan prawdziwie",
-      "opis": "Wiara w Zmartwychwstałego Pana jest fundamentem życia wiecznego, które On daje swoim owcom.",
-      "moment": "ogólne"
+      "opis": "Wiara w Zmartwychwstałego Pana jest fundamentem życia wiecznego, które On daje swoim owcom.[6]",
+      "moment": "ogolne"
     },
     {
       "numer": "226",
       "piesn": "Złożyłeś, Panie, w dłoniach",
       "opis": "Pieśń o kapłaństwie, która dobrze wpisuje się w modlitwę o dobrych pasterzy dla Kościoła.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     }
   ]
 }

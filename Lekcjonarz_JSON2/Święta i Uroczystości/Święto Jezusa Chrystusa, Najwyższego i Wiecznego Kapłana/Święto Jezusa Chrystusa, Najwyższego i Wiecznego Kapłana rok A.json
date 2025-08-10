@@ -18,8 +18,8 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 40 (39), 7-8a. 8b-9. 10-11b. 17 (R.: por. 8a i 9a)",
-      "opis": "Refren: Przychodzę, Boże, pełnić Twoją wolę.",
-      "tekst": "Nie chciałeś ofiary krwawej ani z płodów ziemi, *\nlecz otwarłeś mi uszy;\nnie żądałeś całopalenia i ofiary za grzechy. *\nWtedy powiedziałem: «Oto przychodzę.\nRefren.\nW zwoju księgi jest o mnie napisane: *\nRadością jest dla mnie pełnić Twoją wolę, mój Boże,\na Twoje Prawo *\nmieszka w moim sercu».\nRefren.\nGłosiłem Twą sprawiedliwość w wielkim zgromadzeniu †\ni nie powściągałem warg moich, *\no czym Ty wiesz, Panie.\nSprawiedliwości Twej nie kryłem w głębi serca, *\ngłosiłem Twoją wierność i pomoc.\nRefren.\nNiech się radują i weselą w Tobie *\nwszyscy, którzy Ciebie szukają,\na ci, którzy pragną Twojej pomocy, *\nniech zawsze mówią: «Pan jest wielki».\nRefren."
+      "opis": "",
+      "tekst": "Refren: Przychodzę, Boże, pełnić Twoją wolę.\nNie chciałeś ofiary krwawej ani z płodów ziemi, *\nlecz otwarłeś mi uszy;\nnie żądałeś całopalenia i ofiary za grzechy. *\nWtedy powiedziałem: «Oto przychodzę.\nRefren.\nW zwoju księgi jest o mnie napisane: *\nRadością jest dla mnie pełnić Twoją wolę, mój Boże,\na Twoje Prawo *\nmieszka w moim sercu».\nRefren.\nGłosiłem Twą sprawiedliwość w wielkim zgromadzeniu †\ni nie powściągałem warg moich, *\no czym Ty wiesz, Panie.\nSprawiedliwości Twej nie kryłem w głębi serca, *\ngłosiłem Twoją wierność i pomoc.\nRefren.\nNiech się radują i weselą w Tobie *\nwszyscy, którzy Ciebie szukają,\na ci, którzy pragną Twojej pomocy, *\nniech zawsze mówią: «Pan jest wielki».\nRefren."
     },
     {
       "typ": "AKLAMACJA",
@@ -50,7 +50,7 @@
     {
       "numer": "234",
       "piesn": "Chwal, Syjonie, Zbawiciela",
-      "opis": "Sekwencja na Boże Ciało, która wychwala Chrystusa jako Kapłana i Ofiarę, co jest centralnym tematem dzisiejszej liturgii.",
+      "opis": "Sekwencja na Boże Ciało wychwala Chrystusa jako Kapłana i Ofiarę, co jest centralnym tematem dzisiejszej liturgii.",
       "moment": "komunia"
     },
     {
@@ -62,19 +62,19 @@
     {
       "numer": "222",
       "piesn": "Idźcie na cały świat",
-      "opis": "Pieśń misyjna, która przypomina, że kapłaństwo jest darem dla całego Kościoła, posłanego by głosić Ewangelię.",
+      "opis": "Pieśń misyjna przypomina, że kapłaństwo jest darem dla całego Kościoła, posłanego by głosić Ewangelię.",
       "moment": "rozeslanie"
     },
     {
       "numer": "259",
       "piesn": "O zbawcza Hostio",
-      "opis": "Krótki hymn eucharystyczny, który podkreśla ofiarniczy wymiar Mszy Świętej, nierozerwalnie związany z kapłaństwem Chrystusa.",
+      "opis": "Krótki hymn eucharystyczny podkreśla ofiarniczy wymiar Mszy Świętej, nierozerwalnie związany z kapłaństwem Chrystusa.",
       "moment": "ogolne"
     },
     {
       "numer": "688",
       "piesn": "Boże, lud Twój",
-      "opis": "Pieśń mszalna, która w swoich zwrotkach na poszczególne części Mszy św. wyraża wiarę w Chrystusową ofiarę uobecnianą przez kapłana.",
+      "opis": "Pieśń mszalna w swoich zwrotkach wyraża wiarę w Chrystusową ofiarę uobecnianą przez kapłana.",
       "moment": "ogolne"
     }
   ]

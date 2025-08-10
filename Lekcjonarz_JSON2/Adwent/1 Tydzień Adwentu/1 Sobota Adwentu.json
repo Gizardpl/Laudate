@@ -30,39 +30,39 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "566",
-      "piesn": "Patronie misji",
-      "opis": "Wspomnienie św. Franciszka Ksawerego, wielkiego misjonarza. Ta pieśń jest modlitwą przez jego wstawiennictwo i wprowadza w misyjny wymiar Ewangelii.",
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń wzywa do prostowania dróg życia, przygotowując się na przyjście Pana, który w Ewangelii lituje się nad tłumem i posyła uczniów z misją uzdrowienia.",
       "moment": "wejscie"
     },
     {
-      "numer": "225",
-      "piesn": "Nadziejo Izraela",
-      "opis": "Pieśń jest modlitwą o robotników na żniwo Pańskie, o co prosi Jezus w Ewangelii, co idealnie pasuje do ofiarowania.",
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "W Ewangelii Jezus posyła uczniów, by darmo dawali, co otrzymali; my w ofiarowaniu składamy dary, przygotowując się na przyjęcie największego Daru.",
       "moment": "ofiarowanie"
-    },
-    {
-      "numer": "222",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Pieśń ta jest muzycznym opracowaniem misyjnego nakazu Jezusa z Ewangelii, który posyła swoich uczniów do głoszenia królestwa.",
-      "moment": "komunia"
-    },
-    {
-      "numer": "622",
-      "piesn": "Radośnie Panu hymn śpiewajmy",
-      "opis": "Psalm responsoryjny wzywa do chwalenia Pana, a ta pieśń jest radosnym hymnem dziękczynnym za Jego dzieła zbawienia.",
-      "moment": "uwielbienie"
     },
     {
       "numer": "8",
       "piesn": "Przyjdź, Panie Jezu",
-      "opis": "Pieśń jest wołaniem o przyjście Pana, który lituje się nad tłumem i posyła swoich uczniów, by nieśli uzdrowienie i dobrą nowinę.",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, który lituje się nad tłumem jak nad owcami bez pasterza i który karmi nas swoim Ciałem.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest dziękczynieniem za Bożą pomoc i ocalenie, co jest odpowiedzią na obietnicę uzdrowienia z pierwszego czytania i cuda Jezusa w Ewangelii.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń ta jest bezpośrednim echem misyjnego nakazu Jezusa z Ewangelii, posyłającego uczniów do głoszenia i uzdrawiania.",
       "moment": "rozeslanie"
     },
     {
       "numer": "612",
       "piesn": "O Panie, Tyś moim Pasterzem",
-      "opis": "Ewangelia ukazuje Jezusa jako pasterza litującego się nad owcami. Ta pieśń wyraża naszą ufność w Jego pasterską opiekę.",
+      "opis": "Ewangelia ukazuje Jezusa jako pasterza litującego się nad owcami bez pasterza, a ta pieśń wyraża naszą ufność w Jego opiekę.",
       "moment": "ogolne"
     },
     {

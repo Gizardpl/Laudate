@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Wobec surowego sądu Bożego zapowiedzianego przez proroka Amosa, pieśń ta jest aktem skruchy i prośby o miłosierdzie.",
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń wzywająca do nawrócenia jest odpowiedzią na Boże oskarżenie z pierwszego czytania i psalmu.",
       "moment": "wejscie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Pójście za Jezusem wymaga ofiary i porzucenia wszystkiego. Ta pieśń jest wyrazem oddania się Chrystusowi jako naszemu Wodzowi.",
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Pójście za Jezusem wymaga ofiary i porzucenia wszystkiego, co symbolizuje ofiarowanie naszego życia podczas przygotowania darów.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory wobec radykalnych wymagań Jezusa, który 'nie ma miejsca, gdzie by głowę mógł położyć'.",
+      "numer": "244",
+      "piesn": "Jezu, Jezu, do mnie przyjdź",
+      "opis": "Pieśń eucharystyczna wyraża pragnienie zjednoczenia z Chrystusem, który w Ewangelii wzywa do radykalnego naśladowania Go.",
       "moment": "komunia"
     },
     {
-      "numer": "515",
-      "piesn": "Dzięki, o Panie",
-      "opis": "Psalm mówi, że ofiarą miłą Bogu jest dziękczynienie. Ta pieśń jest wyrazem wdzięczności za dar powołania.",
+      "numer": "107",
+      "piesn": "O Boże mój, o Zbawicielu mój",
+      "opis": "Pieśń jest uwielbieniem Boga, który karci grzesznika, ale i ukazuje drogę zbawienia tym, co postępują uczciwie.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
-      "piesn": "My chcemy Boga",
-      "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą wezwania 'Pójdź za Mną'.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Wezwanie Jezusa 'Pójdź za Mną' jest jednocześnie misyjnym posłaniem, które rozsyła nas do głoszenia Ewangelii.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Wobec grzechów wymienionych w pierwszym czytaniu i psalmie, ta pieśń jest prośbą o oczyszczenie i nowe serce.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Wobec grzechów wymienionych w pierwszym czytaniu, ta pieśń jest aktem skruchy i decyzją powrotu do Ojca.",
       "moment": "ogolne"
     },
     {
-      "numer": "425",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Wezwanie Jezusa do pójścia za Nim jest jednocześnie posłaniem do głoszenia Ewangelii, o czym przypomina ta pieśń.",
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "Wyraża pragnienie bliskości z Bogiem, które jest motywacją do porzucenia wszystkiego i pójścia za Jezusem.",
       "moment": "ogolne"
     }
   ]

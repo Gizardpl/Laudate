@@ -44,37 +44,31 @@
     {
       "numer": "621",
       "piesn": "Przykazanie nowe daję wam",
-      "opis": "Jest to idealna pieśń na obrzęd umycia nóg (Mandatum), gdyż jej tekst pochodzi bezpośrednio z Ewangelii opisującej to wydarzenie.",
+      "opis": "Pieśń jest muzycznym opracowaniem przykazania miłości, które jest centralnym punktem obrzędu umycia nóg (Mandatum).",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "242",
-      "piesn": "Jeden chleb",
-      "opis": "Pieśń podkreśla jednoczącą moc Eucharystii, ustanowionej w Wielki Czwartek, co jest głównym tematem drugiego czytania.",
+      "numer": "262",
+      "piesn": "Pan wieczernik przygotował",
+      "opis": "Pieśń bezpośrednio nawiązuje do Ostatniej Wieczerzy i ustanowienia Eucharystii, co jest centralnym wydarzeniem tego dnia.",
       "moment": "komunia"
     },
     {
       "numer": "274",
       "piesn": "Sławcie, usta, Ciało Pana",
-      "opis": "To tradycyjny hymn 'Pange Lingua', śpiewany podczas procesji z Najświętszym Sakramentem do ołtarza adoracji (ciemnicy).",
+      "opis": "Jest to tradycyjny i przepisany hymn na procesję z Najświętszym Sakramentem do ołtarza adoracji, zwanego Ciemnicą.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "778",
-      "piesn": "Zostań tu",
-      "opis": "Pieśń ta, nawiązująca do czuwania w Ogrójcu, jest doskonała na rozpoczęcie adoracji przy Ciemnicy, po zakończeniu Mszy Wieczerzy Pańskiej.",
-      "moment": "rozeslanie"
-    },
-    {
-      "numer": "262",
-      "piesn": "Pan wieczernik przygotował",
-      "opis": "Bezpośrednio nawiązuje do Ostatniej Wieczerzy i ustanowienia Eucharystii, co jest centralnym wydarzeniem tego dnia.",
+      "numer": "226",
+      "piesn": "Złożyłeś, Panie, w dłoniach",
+      "opis": "Pieśń podkreśla dar kapłaństwa, ustanowionego przez Chrystusa w Wielki Czwartek w celu sprawowania Eucharystii.",
       "moment": "ogolne"
     },
     {
-      "numer": "277",
-      "piesn": "U drzwi Twoich stoję, Panie",
-      "opis": "Wyraża osobistą wiarę i pragnienie przyjęcia Chrystusa w Komunii, co jest istotą celebracji Wielkiego Czwartku.",
+      "numer": "258",
+      "piesn": "O Święta Uczto!",
+      "opis": "Hymn ten w uroczysty sposób wysławia Eucharystię jako pokarm i zadatek przyszłej chwały, co jest istotą dzisiejszej uroczystości.",
       "moment": "ogolne"
     },
     {

@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Pieśń wyraża zaufanie Bogu, którego zabrakło uczniom w łodzi, a do którego wzywa prorok w obliczu kary.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Wobec zapowiedzi kary za grzechy z pierwszego czytania, ta pieśń jest prośbą o miłosierdzie i ocalenie.",
+      "numer": "117",
+      "piesn": "Zmiłuj się, Boże",
+      "opis": "Wobec zapowiedzi kary za grzechy z pierwszego czytania, ta pieśń pokutna jest prośbą o miłosierdzie i ocalenie.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
+      "numer": "257",
+      "piesn": "O mój Jezu, w Hostii skryty",
       "opis": "Wyraża postawę bojaźni i wiary wobec Jezusa, który ucisza burzę i objawia swoją boską moc.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
       "opis": "Jest to pieśń uwielbienia dla Boga, który jest sprawiedliwy, ale i pełen łaski, jak wyznaje psalmista.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Pieśń głosi panowanie Chrystusa nad żywiołami i całym stworzeniem, co objawiło się w uciszeniu burzy.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "426",
+      "numer": "200",
       "piesn": "Jezu, ufam Tobie",
       "opis": "Jest to pieśń o zaufaniu, które jest odpowiedzią na pytanie Jezusa: 'Czemu bojaźliwi jesteście, ludzie małej wiary?'.",
       "moment": "ogolne"
     },
     {
-      "numer": "101",
-      "piesn": "Boże, obmyj mnie",
-      "opis": "Wobec groźby sądu, o której mówi prorok Amos, ta pieśń pokutna prosi o oczyszczenie i nowe serce.",
+      "numer": "112",
+      "piesn": "Serce me do Ciebie wznoszę",
+      "opis": "Wobec groźby sądu, o której mówi prorok Amos, ta pieśń pokutna prosi o Boże prowadzenie i sprawiedliwość.",
       "moment": "ogolne"
     }
   ]

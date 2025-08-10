@@ -30,15 +30,15 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "565",
-      "piesn": "Ten, co pierwszy z uczniów Jana",
-      "opis": "Pieśń ku czci św. Andrzeja Apostoła, patrona dnia, jest najbardziej odpowiednia na rozpoczęcie liturgii jego święta.",
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pieśń jest radosnym hymnem na cześć przychodzącego Króla, którego sprawiedliwe i pełne pokoju rządy zapowiada prorok Izajasz i Psalmista.",
       "moment": "wejscie"
     },
     {
       "numer": "214",
       "piesn": "Duchu mądrości",
-      "opis": "Pierwsze czytanie mówi o Duchu Pańskim, który spocznie na Mesjaszu. Ta pieśń jest prośbą o dary tego samego Ducha.",
+      "opis": "Pierwsze czytanie mówi o Duchu Pańskim, który spocznie na Mesjaszu, a ta pieśń jest prośbą o dary tego samego Ducha.",
       "moment": "ofiarowanie"
     },
     {
@@ -48,27 +48,27 @@
       "moment": "komunia"
     },
     {
-      "numer": "2",
-      "piesn": "Niech się radują",
-      "opis": "Pieśń jest radosnym hymnem na cześć przychodzącego Króla, którego sprawiedliwe i pełne pokoju rządy zapowiada Izajasz i Psalmista.",
+      "numer": "604",
+      "piesn": "Głoś imię Pana",
+      "opis": "Jezus w Ewangelii wysławia Ojca, a ta pieśń jest majestatycznym hymnem na cześć Króla, którego sprawiedliwe rządy zapowiadają czytania.",
       "moment": "uwielbienie"
-    },
-    {
-      "numer": "222",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Zakończenie liturgii pieśnią o charakterze misyjnym przypomina o powołaniu św. Andrzeja i każdego z nas do głoszenia Ewangelii.",
-      "moment": "rozeslanie"
     },
     {
       "numer": "8",
       "piesn": "Przyjdź, Panie Jezu",
-      "opis": "W kontekście Adwentu i święta Apostoła, pieśń ta jest wołaniem o przyjście Tego, którego głosił św. Andrzej.",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, który objawia tajemnice królestwa prostaczkom i posyła nas, byśmy byli Jego świadkami.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "W kontekście adwentowego oczekiwania, pieśń ta wzywa do przygotowania serca na przyjęcie Tego, na którym spocznie Duch Pański.",
       "moment": "ogolne"
     },
     {
-      "numer": "573",
-      "piesn": "Chwała wam apostołowie",
-      "opis": "W święto Apostoła, ta pieśń oddaje cześć wszystkim dwunastu, którzy jako pierwsi zostali obdarzeni poznaniem tajemnic Bożych.",
+      "numer": "5",
+      "piesn": "Otwórzcie się szeroko",
+      "opis": "Pieśń wzywa do otwarcia bram dla Króla chwały, co nawiązuje do zapowiedzi przyjścia Mesjasza z pierwszego czytania.",
       "moment": "ogolne"
     }
   ]

@@ -38,43 +38,43 @@
     {
       "numer": "618",
       "piesn": "Pójdź do Jezusa",
-      "opis": "Pieśń jest zaproszeniem do spotkania z Jezusem, na wzór gościnności Abrahama, Marty i Marii.",
+      "opis": "Pieśń jest zaproszeniem do spotkania z Jezusem, na wzór gościnności Abrahama oraz prośby uczniów o naukę modlitwy.",
       "moment": "wejscie"
     },
     {
       "numer": "598",
       "piesn": "Cóż Ci, Jezu, damy",
-      "opis": "Wobec daru obecności Chrystusa, pieśń ta wyraża chęć ofiarowania Mu tego co najlepsze, podobnie jak Abraham.",
+      "opis": "W odpowiedzi na dar modlitwy 'Ojcze nasz', pieśń ta jest ofiarowaniem Bogu naszych serc i życia.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "264",
       "piesn": "Panie, dobry jak chleb",
-      "opis": "Eucharystia jest 'najlepszą cząstką', o której mówi Jezus w Ewangelii, pokarmem, który daje życie i jednoczy z Bogiem.",
+      "opis": "Modlitwa Pańska zawiera prośbę o chleb powszedni, a ta pieśń eucharystyczna wskazuje na Chrystusa jako prawdziwy Chleb z nieba.",
       "moment": "komunia"
     },
     {
       "numer": "585",
       "piesn": "Będę Cię wielbił",
-      "opis": "Uroczysty hymn jest wyrazem wdzięczności za dar Słowa Bożego i obecności Chrystusa w naszym życiu.",
+      "opis": "Jest to pieśń uwielbienia, która doskonale pasuje do psalmu responsoryjnego, sławiącego Pana, który wysłuchuje wzywających Go.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "692",
-      "piesn": "Gdzie miłość wzajemna i dobroć",
-      "opis": "Pieśń ta wzywa do postawy służby i miłości, która łączy w sobie aktywność Marty i zasłuchanie Marii.",
+      "numer": "205",
+      "piesn": "Nasze plany i nadzieje",
+      "opis": "Wytrwała modlitwa Abrahama jest wzorem ufności, do której zachęca ta pieśń w kontekście obietnicy Jezusa: 'Proście, a będzie wam dane'.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "627",
-      "piesn": "Ty, Boże, wszystko wiesz",
-      "opis": "Wyraża tęsknotę za Bogiem i pragnienie przebywania w Jego obecności, co jest istotą postawy Marii z Ewangelii.",
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Pieśń ta, mówiąc o opiece Bożej, jest wyrazem zaufania, które leży u podstaw każdej modlitwy wstawienniczej.",
       "moment": "ogolne"
     },
     {
-      "numer": "634",
-      "piesn": "Złącz, Panie, miłujących Cię",
-      "opis": "Nawiązuje do gościnności, która tworzy wspólnotę i otwiera na przyjęcie Boga, co jest motywem przewodnim czytań.",
+      "numer": "613",
+      "piesn": "Panie mój, cóż Ci oddać",
+      "opis": "Jest to pieśń dziękczynienia za dar modlitwy i pewność bycia wysłuchanym, o czym uczy Jezus w Ewangelii.",
       "moment": "ogolne"
     }
   ]

@@ -72,21 +72,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
-      "opis": "Klasyczny hymn do Ducha Świętego (Veni Creator Spiritus), który prosi o Jego dary i światło, pasuje do każdego momentu liturgii.",
-      "moment": "ogolne"
-    },
-    {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Jest to tekst Sekwencji z dzisiejszej Mszy, kluczowy dla zrozumienia tajemnicy dnia i darów Ducha Świętego.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "214",
       "piesn": "Duchu mądrości",
       "opis": "Pieśń-modlitwa o siedem darów Ducha Świętego, o których owoce mówi drugie czytanie, doskonale pasuje do tematyki dnia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Klasyczny hymn do Ducha Świętego (Veni Creator Spiritus), który prosi o Jego dary i światło, pasuje do każdego momentu liturgii.",
       "moment": "ogolne"
     }
   ]

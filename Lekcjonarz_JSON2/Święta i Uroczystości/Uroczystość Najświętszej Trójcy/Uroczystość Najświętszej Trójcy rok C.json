@@ -36,15 +36,15 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "230",
-      "piesn": "Światłości wieczna",
-      "opis": "Pieśń jest bezpośrednią modlitwą do Trójcy Świętej, co stanowi doskonałe wprowadzenie w tajemnicę dnia.",
+      "numer": "231",
+      "piesn": "Trójcy Najświętszej",
+      "opis": "Pieśń ta jest bezpośrednim aktem czci wobec Trójcy Świętej, co stanowi idealne wprowadzenie w tajemnicę dnia.",
       "moment": "wejscie"
     },
     {
       "numer": "229",
       "piesn": "Jeden w naturze",
-      "opis": "Pieśń w prosty sposób wyjaśnia tajemnicę Trójcy Świętej i ma charakter błagalny, co dobrze pasuje do ofiarowania.",
+      "opis": "Pieśń o charakterze doktrynalnym, która w prosty sposób przybliża tajemnicę Trójcy Świętej, jest odpowiednia na moment przygotowania darów.",
       "moment": "ofiarowanie"
     },
     {
@@ -54,9 +54,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn Te Deum jest wyrazem dziękczynienia, idealnym na uwielbienie po Komunii Świętej w tak wielką uroczystość.",
+      "numer": "230",
+      "piesn": "Światłości wieczna",
+      "opis": "Uroczysty hymn do Trójcy Świętej jest wzniosłą modlitwą uwielbienia, odpowiednią po przyjęciu Komunii Świętej.",
       "moment": "uwielbienie"
     },
     {
@@ -72,9 +72,9 @@
       "moment": "ogolne"
     },
     {
-      "numer": "231",
-      "piesn": "Trójcy Najświętszej",
-      "opis": "Pieśń ta w prostych słowach oddaje chwałę każdej z Osób Boskich za dzieło stworzenia, zbawienia i uświęcenia.",
+      "numer": "599",
+      "piesn": "Czego chcesz od nas, Panie",
+      "opis": "Pieśń ta jest hymnem dziękczynnym, wysławiającym Boga Stwórcę, co nawiązuje do psalmu i pierwszego czytania.",
       "moment": "ogolne"
     }
   ]

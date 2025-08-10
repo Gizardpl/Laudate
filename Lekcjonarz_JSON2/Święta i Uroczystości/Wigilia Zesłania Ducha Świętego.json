@@ -38,7 +38,7 @@
     {
       "numer": "775",
       "piesn": "W naszych ciemnościach",
-      "opis": "Pieśń doskonale oddaje charakter Wigilii jako czasu czuwania i prośby o światło Ducha Świętego, które ma rozproszyć mroki.",
+      "opis": "Pieśń doskonale oddaje charakter Wigilii jako czasu czuwania i prośby o światło Ducha Świętego.",
       "moment": "wejscie"
     },
     {
@@ -48,9 +48,9 @@
       "moment": "ofiarowanie"
     },
     {
-      "numer": "241",
-      "piesn": "Jam jest chlebem żywym",
-      "opis": "Nawiązuje do obietnicy Jezusa z Ewangelii o 'strumieniach wody żywej' (Duchu Świętym), które wypłyną z wierzącego w Niego.",
+      "numer": "772",
+      "piesn": "Ty jesteś źródłem życia",
+      "opis": "Nawiązuje do obietnicy Jezusa o 'strumieniach wody żywej', czyli Duchu Świętym, który jest źródłem życia.",
       "moment": "komunia"
     },
     {
@@ -66,15 +66,9 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Tekst Sekwencji z jutrzejszej uroczystości, wprowadzający wiernych w tajemnicę Pięćdziesiątnicy i darów Ducha.",
-      "moment": "ogolne"
-    },
-    {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
-      "opis": "Hymn ten, proszący Ducha Stworzyciela o odnowienie, współbrzmi z psalmem responsoryjnym 'Niech zstąpi Duch Twój i odnowi ziemię'.",
+      "numer": "214",
+      "piesn": "Duchu mądrości",
+      "opis": "Hymn ten, proszący Ducha o Jego dary, współbrzmi z psalmem responsoryjnym 'Niech zstąpi Duch Twój i odnowi ziemię'.",
       "moment": "ogolne"
     },
     {

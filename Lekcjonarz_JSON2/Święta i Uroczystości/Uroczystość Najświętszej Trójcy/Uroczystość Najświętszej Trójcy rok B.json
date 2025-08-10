@@ -54,9 +54,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest uroczystym dziękczynieniem, idealnym na uwielbienie po Komunii Świętej w tak wielką uroczystość.",
+      "numer": "228",
+      "piesn": "Ciebie wzywamy",
+      "opis": "Litania do Trójcy Świętej jest uroczystym dziękczynieniem, idealnym na uwielbienie po Komunii Świętej w tak wielką uroczystość.",
       "moment": "uwielbienie"
     },
     {
@@ -66,15 +66,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "228",
-      "piesn": "Ciebie wzywamy",
-      "opis": "Litania do Trójcy Świętej jest modlitwą, w której jako przybrane dzieci Boże (jak mówi drugie czytanie) wołamy do Ojca, Syna i Ducha Świętego.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "637",
       "piesn": "Ciebie, Boże, chwalimy",
       "opis": "Pieśń chwały, która wyraża wdzięczność Stwórcy za wszystkie dary, wpisuje się w radosny charakter uroczystości.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "230",
+      "piesn": "Światłości wieczna",
+      "opis": "Hymn do Trójcy Świętej, w którym jako przybrane dzieci Boże (jak mówi drugie czytanie) wołamy do Ojca, Syna i Ducha Świętego.",
       "moment": "ogolne"
     }
   ]

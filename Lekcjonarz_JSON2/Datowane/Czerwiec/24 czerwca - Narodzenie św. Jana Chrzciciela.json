@@ -44,13 +44,13 @@
     {
       "numer": "474",
       "piesn": "Janie Chrzcicielu",
-      "opis": "Jest to pieśń wprost dedykowana św. Janowi Chrzcicielowi, idealna na przygotowanie darów.",
+      "opis": "Jest to pieśń wprost dedykowana św. Janowi Chrzcicielowi, idealna na przygotowanie darów, w której prosimy go o wstawiennictwo.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "7",
       "piesn": "Przybądź, Panie",
-      "opis": "Nawiązuje do przygotowania drogi Panu, co było główną misją Jana Chrzciciela opisaną w Ewangelii.",
+      "opis": "Chociaż jest to pieśń adwentowa, jej refren 'Gotujmy drogę Panu' idealnie oddaje misję Jana, poprzednika Pańskiego, którego przyjmujemy w Komunii.",
       "moment": "komunia"
     },
     {
@@ -62,19 +62,19 @@
     {
       "numer": "11",
       "piesn": "Z powagą przygotujcie",
-      "opis": "Pieśń o przygotowaniu serc na przyjście Pana, co jest centralnym przesłaniem nauczania św. Jana Chrzciciela.",
+      "opis": "Pieśń o przygotowaniu serc na przyjście Pana jest posłaniem do naśladowania św. Jana Chrzciciela w prostowaniu ścieżek dla Chrystusa.",
       "moment": "rozeslanie"
     },
     {
       "numer": "106",
       "piesn": "Nawróć się, ludu",
-      "opis": "Wzywa do nawrócenia, co było głównym tematem głoszenia Jana Chrzciciela.",
+      "opis": "Pieśń ta wzywa do nawrócenia, co było głównym tematem głoszenia Jana Chrzciciela, przygotowującego lud na spotkanie z Mesjaszem.",
       "moment": "ogolne"
     },
     {
       "numer": "97",
       "piesn": "Bliskie jest królestwo Boże",
-      "opis": "Refren pieśni jest bezpośrednim cytatem z nauczania Jana Chrzciciela i Jezusa.",
+      "opis": "Refren pieśni jest bezpośrednim cytatem z nauczania Jana Chrzciciela i Jezusa, podkreślając centralne orędzie jego misji.",
       "moment": "ogolne"
     }
   ]

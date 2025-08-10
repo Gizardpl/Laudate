@@ -12,8 +12,8 @@
     {
       "typ": "PSALM RESPONSORYJNY",
       "sigla": "Ps 145,10-11.12-13ab.17-18",
-      "opis": "Refren:",
-      "tekst": "Niech wierni Twoi sławią Twe królestwo.\nNiech Cię wielbią, Panie, wszystkie Twoje dzieła\ni niech Cię błogosławią Twoi święci.\nNiech mówią o chwale Twojego królestwa\ni niech głoszą Twoją potęgę.\nAby synom ludzkim oznajmić Twoją potęgę\ni wspaniałość chwały Twojego królestwa.\nKrólestwo Twoje królestwem wszystkich wieków,\nprzez wszystkie pokolenia Twoje panowanie.\nPan jest sprawiedliwy na wszystkich swych drogach\ni łaskawy we wszystkich swoich dziełach.\nPan jest blisko wszystkich, którzy Go wzywają,\nwszystkich wzywających Go szczerze."
+      "opis": "",
+      "tekst": "Refren:\nNiech wierni Twoi sławią Twe królestwo.\nNiech Cię wielbią, Panie, wszystkie Twoje dzieła\ni niech Cię błogosławią Twoi święci.\nNiech mówią o chwale Twojego królestwa\ni niech głoszą Twoją potęgę.\nAby synom ludzkim oznajmić Twoją potęgę\ni wspaniałość chwały Twojego królestwa.\nKrólestwo Twoje królestwem wszystkich wieków,\nprzez wszystkie pokolenia Twoje panowanie.\nPan jest sprawiedliwy na wszystkich swych drogach\ni łaskawy we wszystkich swoich dziełach.\nPan jest blisko wszystkich, którzy Go wzywają,\nwszystkich wzywających Go szczerze."
     },
     {
       "typ": "AKLAMACJA",
@@ -32,7 +32,7 @@
     {
       "numer": "573",
       "piesn": "Chwała wam apostołowie",
-      "opis": "Pieśń sławi Apostołów, na których fundamencie zbudowany jest Kościół, co nawiązuje do pierwszego czytania.",
+      "opis": "Pieśń sławi Apostołów, na których fundamencie zbudowany jest Kościół, co nawiązuje do pierwszego czytania.[1][2][3]",
       "moment": "wejscie"
     },
     {
@@ -44,13 +44,13 @@
     {
       "numer": "239",
       "piesn": "Ja wiem, w Kogo ja wierzę",
-      "opis": "Tekst pieśni jest osobistym wyznaniem wiary, podobnym do tego, które złożył św. Bartłomiej w Ewangelii.",
+      "opis": "Tekst pieśni jest osobistym wyznaniem wiary, podobnym do tego, które złożył św. Bartłomiej w Ewangelii.[1][4]",
       "moment": "komunia"
     },
     {
       "numer": "597",
       "piesn": "Chwalcie Pana wszyscy",
-      "opis": "Pieśń jest hymnem pochwalnym, nawiązującym do psalmu responsoryjnego, wzywającego do wielbienia dzieł Pana.",
+      "opis": "Pieśń jest hymnem pochwalnym, nawiązującym do psalmu responsoryjnego, wzywającego do wielbienia dzieł Pana.[1][2]",
       "moment": "uwielbienie"
     },
     {
@@ -62,7 +62,7 @@
     {
       "numer": "311",
       "piesn": "Chrystus Wodzem",
-      "opis": "Pieśń podkreśla królewską godność Chrystusa, którą w Ewangelii wyznał św. Bartłomiej, mówiąc 'Ty jesteś królem Izraela'.",
+      "opis": "Pieśń podkreśla królewską godność Chrystusa, którą w Ewangelii wyznał św. Bartłomiej, mówiąc 'Ty jesteś królem Izraela'.[1][4][5]",
       "moment": "ogolne"
     },
     {

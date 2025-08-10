@@ -32,37 +32,37 @@
     {
       "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Pieśń ta jest parafrazą Psalmu 51, psalmu pokutnego Dawida, który jest psalmem responsoryjnym tego dnia.",
+      "opis": "Pieśń jest parafrazą Psalmu 51, który jest psalmem responsoryjnym tego dnia, wprowadzając w pokutny charakter liturgii.",
       "moment": "wejscie"
     },
     {
       "numer": "105",
       "piesn": "Najwyższego majestatu",
-      "opis": "Wyraża skruchę i żal za grzechy, które były udziałem króla Dawida w pierwszym czytaniu.",
+      "opis": "Wyraża skruchę i żal za grzechy, które były udziałem króla Dawida, co stanowi ofiarę skruszonego serca.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "100",
-      "piesn": "Boże litościwy, zmiłuj się nade mną!",
-      "opis": "Jest to kolejna wersja psalmu pokutnego, która jest modlitwą o przebaczenie i oczyszczenie z grzechu.",
+      "numer": "283",
+      "piesn": "Zbliżam się w pokorze",
+      "opis": "Pieśń eucharystyczna, której tytuł i treść idealnie oddają postawę skruszonego grzesznika przystępującego do Pana po przebaczenie.",
       "moment": "komunia"
     },
     {
       "numer": "107",
       "piesn": "O Boże mój, o Zbawicielu mój",
-      "opis": "Pieśń uwielbienia Boga, który jest Zbawicielem i odnawia serce grzesznika, tak jak odnowił serce Dawida.",
+      "opis": "Pieśń dziękczynna oparta na Psalmie 51, wyrażająca radość z otrzymanego przebaczenia i prośbę o czyste serce.",
       "moment": "uwielbienie"
     },
     {
       "numer": "97",
       "piesn": "Bliskie jest królestwo Boże",
-      "opis": "Nawiązuje do przypowieści o królestwie Bożym, które wzrasta jak zasiane ziarno i wymaga od nas nawrócenia.",
+      "opis": "Pieśń stanowi posłanie do nawrócenia i wiary w Ewangelię, co jest odpowiedzią na Boże miłosierdzie i przypowieści o Królestwie.",
       "moment": "rozeslanie"
     },
     {
       "numer": "117",
       "piesn": "Zmiłuj się, Boże",
-      "opis": "Prośba o zmiłowanie jest echem modlitwy Dawida po uświadomieniu sobie swojego grzechu.",
+      "opis": "Kolejna wersja psalmu pokutnego, która jest modlitwą o przebaczenie i oczyszczenie z grzechu.",
       "moment": "ogolne"
     },
     {

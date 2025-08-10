@@ -36,45 +36,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
-      "opis": "Pieśń wzywa do pójścia za Chrystusem, co jest głównym tematem Ewangelii i postawy Elizeusza.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Pieśń wzywa do pójścia za Chrystusem i głoszenia królestwa Bożego, co jest głównym tematem Ewangelii.",
       "moment": "wejscie"
     },
     {
-      "numer": "409",
-      "piesn": "Cóż Ci, Jezu, damy",
-      "opis": "Elizeusz złożył w ofierze woły, by pójść za Eliaszem. Ta pieśń jest ofiarowaniem naszego życia w odpowiedzi na powołanie.",
+      "numer": "632",
+      "piesn": "Wszystko Tobie oddać pragnę",
+      "opis": "Elizeusz złożył w ofierze woły, by pójść za Eliaszem, a ta pieśń o charakterze ofiarnym wyraża nasze oddanie się Bogu.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Wyraża postawę pokory wobec radykalnych wymagań pójścia za Jezusem, o których mowa w Ewangelii.",
+      "numer": "264",
+      "piesn": "Panie, dobry jak chleb",
+      "opis": "Pieśń eucharystyczna wyraża pragnienie zjednoczenia z Chrystusem, który w Ewangelii wzywa do radykalnego naśladowania Go.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
       "opis": "Jest to pieśń uwielbienia dla Boga, który jest naszym dziedzictwem i przeznaczeniem, jak wyznaje psalmista.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "476",
+      "numer": "638",
       "piesn": "My chcemy Boga",
       "opis": "Pieśń jest deklaracją wyboru Boga ponad wszystko, co jest istotą powołania Elizeusza i wezwania Jezusa.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "485",
-      "piesn": "Pan jest pasterzem moim",
-      "opis": "Psalm responsoryjny mówi o Bogu jako dziedzictwie. Ta pieśń jest wyrazem zaufania w Jego prowadzenie.",
+      "numer": "612",
+      "piesn": "O Panie, Tyś moim Pasterzem",
+      "opis": "Psalm responsoryjny mówi o Bogu jako dziedzictwie, a ta pieśń jest wyrazem zaufania w Jego prowadzenie.",
       "moment": "ogolne"
     },
     {
-      "numer": "281",
-      "piesn": "O Stworzycielu, Duchu, przyjdź",
-      "opis": "Drugie czytanie wzywa do postępowania według Ducha. Ta pieśń jest modlitwą o Jego dary i prowadzenie.",
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
+      "opis": "Drugie czytanie wzywa do postępowania według Ducha, a ta pieśń jest modlitwą o Jego dary i prowadzenie.",
       "moment": "ogolne"
     }
   ]

@@ -36,45 +36,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "619",
-      "piesn": "Pójdźmy do Pana",
-      "opis": "Pieśń ta jest uniwersalnym wezwaniem do gromadzenia się przed Bogiem, który w Ewangelii zaprasza wszystkich do swojej winnicy.",
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża postawę skruchy i prośby o miłosierdzie, co jest głównym tematem czytań o potrzebie przebaczenia.",
       "moment": "wejscie"
     },
     {
-      "numer": "586",
-      "piesn": "Błogosław Panie nas",
-      "opis": "Prośba o błogosławieństwo na 'pracę i znojny trud' nawiązuje do pracy robotników w winnicy z Ewangelii.",
+      "numer": "692",
+      "piesn": "Gdzie miłość wzajemna i dobroć",
+      "opis": "Treść pieśni bezpośrednio nawiązuje do obowiązku wzajemnego przebaczenia i miłości, o którym mówi Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "262",
-      "piesn": "Pan wieczernik przygotował",
-      "opis": "Pieśń podkreśla Bożą hojność i zaproszenie skierowane do wszystkich, co jest głównym przesłaniem przypowieści o robotnikach w winnicy.",
+      "numer": "201",
+      "piesn": "Ku Tobie, Panie",
+      "opis": "Pieśń jest modlitwą o przebaczenie i Boże miłosierdzie, które otrzymujemy w Komunii Świętej, by móc przebaczać innym.",
       "moment": "komunia"
     },
     {
       "numer": "199",
       "piesn": "Bądź uwielbiony, miłosierny Boże",
-      "opis": "Hymn ten wysławia Boże miłosierdzie i dobroć, które są niezrozumiałe dla ludzkiej logiki, jak ukazuje to Ewangelia.",
+      "opis": "Hymn ten jest doskonałym uwielbieniem miłosierdzia Bożego, które jest wychwalane w psalmie responsoryjnym.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "629",
-      "piesn": "Tyś naszą drogą",
-      "opis": "Pieśń wyraża pragnienie podążania za Chrystusem i Jego drogami, które, jak mówi pierwsze czytanie, są inne niż nasze.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Pieśń ta jest przypomnieniem przykazania miłości, którego szczytowym wyrazem jest gotowość do przebaczenia 'siedemdziesiąt siedem razy'.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "106",
-      "piesn": "Nawróć się, ludu",
-      "opis": "Wezwanie do nawrócenia z tej pieśni koresponduje z zachętą proroka Izajasza, by bezbożny porzucił swoją drogę.",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Klasyczna pieśń pokutna, która pomaga wzbudzić w sercu postawę skruszonego dłużnika z Ewangelii.",
       "moment": "ogolne"
     },
     {
-      "numer": "599",
-      "piesn": "Czego chcesz od nas, Panie",
-      "opis": "Pieśń jest odpowiedzią na hojność Boga, o której mówi Ewangelia, i uznaniem, że wszystko co mamy, jest Jego darem.",
+      "numer": "207",
+      "piesn": "O, miłosierdzia, miłosierdzia Panie",
+      "opis": "Pieśń jest gorącym błaganiem o miłosierdzie, które jest warunkiem otrzymania przebaczenia od Boga.",
       "moment": "ogolne"
     }
   ]

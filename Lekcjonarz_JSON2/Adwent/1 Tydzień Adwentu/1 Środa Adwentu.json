@@ -30,9 +30,9 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "565",
-      "piesn": "Ten, co pierwszy z uczniów Jana",
-      "opis": "Pieśń ku czci św. Andrzeja Apostoła, patrona dnia, jest najbardziej odpowiednia na rozpoczęcie liturgii jego święta.",
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Pierwsze czytanie zapowiada radosną ucztę mesjańską, a ta pieśń wzywa całe stworzenie do radości z powodu zbawienia, które przynosi Pan.",
       "moment": "wejscie"
     },
     {
@@ -44,19 +44,19 @@
     {
       "numer": "612",
       "piesn": "O Panie, Tyś moim Pasterzem",
-      "opis": "Pieśń ta jest parafrazą psalmu responsoryjnego, a obraz Pasterza, który zastawia stół, doskonale pasuje do Komunii Świętej.",
+      "opis": "Pieśń jest parafrazą psalmu responsoryjnego, a obraz Pasterza, który zastawia stół, doskonale pasuje do Komunii Świętej i cudu rozmnożenia chleba.",
       "moment": "komunia"
     },
     {
-      "numer": "2",
-      "piesn": "Niech się radują",
+      "numer": "622",
+      "piesn": "Radośnie Panu hymn śpiewajmy",
       "opis": "Pieśń jest wyrazem radości z przyjścia Pana i Jego zbawczych dzieł, opisanych w pierwszym czytaniu i Ewangelii.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "222",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Zakończenie liturgii pieśnią o charakterze misyjnym przypomina o powołaniu św. Andrzeja i każdego z nas do głoszenia Ewangelii.",
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest prośbą o przyjście Pana, który jako jedyny może nasycić głód ludzkich serc, co symbolizuje cud rozmnożenia chleba.",
       "moment": "rozeslanie"
     },
     {
@@ -66,9 +66,9 @@
       "moment": "ogolne"
     },
     {
-      "numer": "573",
-      "piesn": "Chwała wam apostołowie",
-      "opis": "W święto Apostoła, ta pieśń oddaje cześć wszystkim dwunastu, na których fundamencie zbudowany jest Kościół.",
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "W kontekście adwentowym, ta pieśń przypomina, że Pan przychodzi, by nas zbawić i nakarmić, jak to uczynił nad Jeziorem Galilejskim.",
       "moment": "ogolne"
     }
   ]

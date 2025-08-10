@@ -38,7 +38,7 @@
     {
       "numer": "695",
       "piesn": "Przyjmij, o Najświętszy Panie",
-      "opis": "Pieśń eucharystyczna, która nawiązuje do ofiary Baranka Paschalnego i ofiary pochwalnej, o której śpiewa psalmista.",
+      "opis": "Pieśń eucharystyczna nawiązuje do ofiary Baranka Paschalnego i ofiary pochwalnej, o której śpiewa psalmista.",
       "moment": "ofiarowanie"
     },
     {
@@ -48,8 +48,8 @@
       "moment": "komunia"
     },
     {
-      "numer": "611",
-      "piesn": "Ojcze z niebios",
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
       "opis": "Pieśń jest dziękczynieniem za dar zbawienia, który jest owocem Paschy Chrystusa, zapowiedzianej w pierwszym czytaniu.",
       "moment": "uwielbienie"
     },

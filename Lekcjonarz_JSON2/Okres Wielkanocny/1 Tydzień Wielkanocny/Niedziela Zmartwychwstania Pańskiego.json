@@ -50,13 +50,13 @@
     {
       "numer": "186",
       "piesn": "Niech w święto radosne",
-      "opis": "Jest to tekst obowiązkowej Sekwencji na dzisiejszą uroczystość, która mówi o \"Paschalnej Ofierze\".",
+      "opis": "Jest to tekst obowiązkowej Sekwencji na dzisiejszą uroczystość, która mówi o 'Paschalnej Ofierze'.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "179",
       "piesn": "Chrystus zmartwychwstał jest",
-      "opis": "Pieśń ta opowiada historię pustego grobu, nawiązując do Ewangelii i jednocząc wiernych we wspólnym wyznaniu wiary.",
+      "opis": "Pieśń ta opowiada historię pustego grobu, nawiązując do Ewangelii i jednocząc wiernych we wspólnym wyznaniu wiary.[10][11][12][13][14]",
       "moment": "komunia"
     },
     {
@@ -75,19 +75,19 @@
       "numer": "197",
       "piesn": "Zmartwychpowstał Pan prawdziwie",
       "opis": "Refren pieśni jest odpowiedzią na wielkanocne pozdrowienie, co czyni ją szczególnie odpowiednią na ten dzień.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     },
     {
       "numer": "188",
       "piesn": "Otrzyjcie już łzy",
-      "opis": "Pieśń ta opowiada o wydarzeniach poranka wielkanocnego, w tym o świadectwie niewiast, co łączy się z postacią Marii Magdaleny z Ewangelii.",
-      "moment": "ogólne"
+      "opis": "Pieśń ta opowiada o wydarzeniach poranka wielkanocnego, w tym o świadectwie niewiast, co łączy się z postacią Marii Magdaleny z Ewangelii.[10][11][12][13][14]",
+      "moment": "ogolne"
     },
     {
       "numer": "184",
       "piesn": "Nie zna śmierci Pan żywota",
       "opis": "Utwór w sposób majestatyczny głosi fundamentalną prawdę o zwycięstwie życia nad śmiercią.",
-      "moment": "ogólne"
+      "moment": "ogolne"
     }
   ]
 }

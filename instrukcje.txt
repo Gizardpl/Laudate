@@ -83,7 +83,7 @@ Ciebie, Boże, chwalimy
 
 Format odpowiedzi
 
-Twoja odpowiedź musi być gotowa do bezpośredniego wklejenia do istniejącego pliku JSON. Ma ona przypominać kod JSON, ale nie może być w pełni zamkniętym, kompletnym plikiem.
+Twoja odpowiedź musi być gotowa do bezpośredniego wklejenia do istniejącego pliku JSON. Ma ona przypominać kod JSON, ale nie może być w pełni zamkniętym, kompletnym plikiem (ma nie zawierać początkowych "[" oraz zamykających "]".
 
 Nie zwracaj żadnych wstępów, zakończeń ani dodatkowych wyjaśnień. Twoja odpowiedź ma być wyłącznie sekwencją obiektów.
 
@@ -94,12 +94,6 @@ Rozpocznij całą odpowiedź od przecinka ,.
 Zwróć sekwencję obiektów JSON (każdy dla jednego dnia), oddzielonych przecinkami. Po ostatnim obiekcie nie umieszczaj przecinka.
 
 Przykład poprawnego formatu odpowiedzi dla dwóch dni:
-
-code
-Json
-download
-content_copy
-expand_less
 
 ,
 {
@@ -128,6 +122,7 @@ expand_less
 Nie zwracaj oryginalnych pól: urlCzytania, tytul_dnia, czy_datowany, czytania.
 
 Zwróć jedynie dwa pola w każdym obiekcie: sciezka (przekopiowana bezbłędnie z danych wejściowych) oraz piesniSugerowane (wypełnione przez Ciebie zgodnie z powyższymi zasadami).
+PAMIĘTAJ że pieśni które znajdują się w obiektach w danych wejściowych, nie koniecznie są najlepsze - jeśli znajdziesz pieśń która będzie lepiej pasowała w tym przypadku, to zmień tą pieśń na lepszą - efektem końcowym mają być obiekty z pieśniami które zostały bardzo mądrze dobrane, pasujące i korespondujące z momentem w liturgii i dniem oraz liturgią słowa.
 
 SEKCJA 2: OPIS
 

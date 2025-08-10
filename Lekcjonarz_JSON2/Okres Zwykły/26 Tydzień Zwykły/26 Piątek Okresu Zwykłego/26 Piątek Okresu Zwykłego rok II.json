@@ -48,9 +48,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest aktem uwielbienia majestatu Boga, o którym z taką mocą mówi pierwsze czytanie.",
+      "numer": "590",
+      "piesn": "Boże mocny, Boże cudów",
+      "opis": "Hymn ten jest aktem uwielbienia majestatu Boga, o którym z taką mocą mówi pierwsze czytanie.",
       "moment": "uwielbienie"
     },
     {
@@ -60,15 +60,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "590",
-      "piesn": "Boże mocny, Boże cudów",
-      "opis": "Pieśń wychwala Boga za Jego cuda i moc, co jest tematem rozmowy Boga z Hiobem.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "628",
       "piesn": "Ty, wszechmocny Panie",
       "opis": "Pieśń podkreśla wszechmoc i opatrzność Boga, co jest pocieszeniem w kontekście ludzkiej małości ukazanej w Księdze Hioba.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Pieśń jest wyrazem wdzięczności i uwielbienia dla Boga, którego wielkość objawia się w stworzeniu.",
       "moment": "ogolne"
     }
   ]

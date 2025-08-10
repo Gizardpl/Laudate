@@ -42,8 +42,8 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
+      "numer": "220",
+      "piesn": "Przybądź, Stwórco, Duchu Boży",
       "opis": "To uroczyste wezwanie Ducha Stworzyciela, aby napełnił serca wiernych, jest idealnym rozpoczęciem liturgii Zesłania Ducha Świętego.",
       "moment": "wejscie"
     },
@@ -60,9 +60,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "227",
-      "piesn": "Chwała Ojcu i Synowi",
-      "opis": "Zesłanie Ducha Świętego jest objawieniem Trójcy Świętej, dlatego doksologia jest odpowiednią pieśnią na uwielbienie.",
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Hymn uwielbienia i prośby do Ducha Świętego o uświęcenie jest godnym dziękczynieniem po Komunii Świętej.",
       "moment": "uwielbienie"
     },
     {
@@ -70,12 +70,6 @@
       "piesn": "Pamiątkę dnia świątecznego",
       "opis": "Pieśń wprost opisuje wydarzenia z Dziejów Apostolskich, przypominając o darach Ducha Świętego i posłaniu apostołów na cały świat.",
       "moment": "rozeslanie"
-    },
-    {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Jest to śpiewana wersja Sekwencji, kluczowego tekstu liturgicznego tego dnia, proszącego o dary Ducha Świętego.",
-      "moment": "ogolne"
     },
     {
       "numer": "216",

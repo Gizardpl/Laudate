@@ -32,19 +32,19 @@
     {
       "numer": "96",
       "piesn": "Bądź mi litościw",
-      "opis": "Pieśń pokutna, która jest odpowiedzią na wezwanie do nawrócenia i oczyszczenia, zawarte w pierwszym czytaniu.",
+      "opis": "Pieśń pokutna jest odpowiedzią na wezwanie do nawrócenia i oczyszczenia, zawarte w pierwszym czytaniu.",
       "moment": "wejscie"
     },
     {
-      "numer": "303",
-      "piesn": "Twemu Sercu cześć składamy",
+      "numer": "122",
+      "piesn": "Krzyżu Chrystusa",
       "opis": "Ofiarą miłą Bogu jest nasze życie, a ta pieśń nawiązuje do konieczności wzięcia krzyża, o której mówi Ewangelia.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "699",
       "piesn": "Panie, nie jestem godzien",
-      "opis": "Pieśń wyraża postawę pokory, która jest warunkiem prawdziwej pobożności, w przeciwieństwie do czczych ofiar potępionych przez Izajasza.",
+      "opis": "Pieśń eucharystyczna wyraża postawę pokory, która jest warunkiem prawdziwej pobożności, w przeciwieństwie do czczych ofiar potępionych przez Izajasza.",
       "moment": "komunia"
     },
     {

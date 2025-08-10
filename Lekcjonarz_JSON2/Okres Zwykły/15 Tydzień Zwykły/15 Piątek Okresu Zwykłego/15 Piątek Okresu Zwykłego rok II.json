@@ -38,18 +38,18 @@
     {
       "numer": "102",
       "piesn": "Boże, w dobroci",
-      "opis": "Jest to pieśń dziękczynna za dar życia i uzdrowienia, o którym mówi pierwsze czytanie i psalm.",
+      "opis": "Jest to pieśń dziękczynna o charakterze ofiarnym, nawiązująca do daru życia i uzdrowienia z pierwszego czytania i psalmu.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "699",
       "piesn": "Panie, nie jestem godzien",
-      "opis": "Pieśń wyraża postawę pokory wobec Jezusa, który jest 'czymś większym niż świątynia' i ma moc uzdrawiania.",
+      "opis": "Pieśń eucharystyczna wyraża postawę pokory wobec Jezusa, który jest 'czymś większym niż świątynia' i ma moc uzdrawiania.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
       "opis": "Hymn ten jest pieśnią chwały dla Boga za Jego cuda, wierność i dar życia, o którym opowiada historia króla Ezechiasza.",
       "moment": "uwielbienie"
     },

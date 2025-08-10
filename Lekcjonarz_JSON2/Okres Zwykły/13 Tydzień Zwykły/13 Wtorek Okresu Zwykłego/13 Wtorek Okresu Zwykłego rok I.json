@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "96",
+      "numer": "608",
       "piesn": "Kto się w opiekę",
       "opis": "Pieśń wyraża zaufanie Bogu w obliczu zagrożeń, tak jak Lot został ocalony od zagłady, a uczniowie uratowani na jeziorze.",
       "moment": "wejscie"
     },
     {
-      "numer": "118",
-      "piesn": "Bądź mi litościw",
-      "opis": "Wobec sądu nad Sodomą i Gomorą, ta pieśń pokutna jest prośbą o Boże miłosierdzie i ocalenie.",
+      "numer": "111",
+      "piesn": "Przepuść, Panie",
+      "opis": "Wobec sądu nad Sodomą i Gomorą, ta krótka suplikacja jest wołaniem o Boże miłosierdzie i ocalenie.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "236",
-      "piesn": "Panie, nie jestem godzien",
+      "numer": "257",
+      "piesn": "O mój Jezu, w Hostii skryty",
       "opis": "Wyraża postawę bojaźni i wiary wobec Jezusa, który ucisza burzę i objawia swoją boską moc.",
       "moment": "komunia"
     },
     {
-      "numer": "402",
-      "piesn": "Błogosław, duszo moja, Pana",
-      "opis": "Psalmista pragnie postępować w prawdzie Bożej. Ta pieśń jest uwielbieniem za Bożą łaskawość, która nas prowadzi.",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
+      "opis": "Psalmista pragnie postępować w prawdzie Bożej, a ta pieśń jest uwielbieniem za Bożą łaskawość, która nas prowadzi.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "406",
-      "piesn": "Chrystus Wodzem, Chrystus Królem",
+      "numer": "311",
+      "piesn": "Chrystus Wodzem",
       "opis": "Pieśń głosi panowanie Chrystusa nad żywiołami i całym stworzeniem, co objawiło się w uciszeniu burzy.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "426",
+      "numer": "200",
       "piesn": "Jezu, ufam Tobie",
       "opis": "Jest to pieśń o zaufaniu, które jest odpowiedzią na pytanie Jezusa: 'Czemu bojaźliwi jesteście, ludzie małej wiary?'.",
       "moment": "ogolne"
     },
     {
-      "numer": "427",
-      "piesn": "Jezu, Tyś jest światłością",
-      "opis": "W życiowych burzach i ciemnościach grzechu, Jezus jest naszą światłością i pewnym ratunkiem.",
+      "numer": "594",
+      "piesn": "Być bliżej Ciebie chcę",
+      "opis": "W życiowych burzach i ciemnościach grzechu, pragniemy być blisko Jezusa, który jest naszym ratunkiem.",
       "moment": "ogolne"
     }
   ]

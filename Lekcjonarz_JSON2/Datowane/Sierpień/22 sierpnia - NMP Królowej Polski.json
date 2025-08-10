@@ -1,75 +1,75 @@
 {
-    "urlCzytania": "https://www.paulus.org.pl/u69,nmp-krolowej-wspomnienie-obowiazkowe",
-    "tytul_dnia": "22 sierpnia - NMP Królowej Polski",
-    "czy_datowany": false,
-    "czytania": [
-      {
-        "typ": "PIERWSZE CZYTANIE",
-        "sigla": "Iz 9, 1-3. 5-6",
-        "opis": "Syn został nam dany",
-        "tekst": "Naród kroczący w ciemnościach ujrzał światłość wielką; nad mieszkańcami kraju mroków światło zabłysło. Pomnożyłeś radość, zwiększyłeś wesele. Rozradowali się przed Tobą, jak się radują w żniwa, jak się weselą przy podziale łupu. Bo złamałeś jego ciężkie jarzmo i drążek na jego ramieniu, pręt jego ciemięzcy, jak w dniu porażki Madianitów. Albowiem Dziecię nam się narodziło, Syn został nam dany, na Jego barkach spoczęła władza. Nazwano Go imieniem: «Przedziwny Doradca, Bóg Mocny, Odwieczny Ojciec, Książę Pokoju». Wielkie będzie Jego panowanie w pokoju bez granic na tronie Dawida i nad jego królestwem, które On utwierdzi i umocni prawem i sprawiedliwością, odtąd i na wieki. Zazdrosna miłość Pana Zastępów tego dokona.\nOto słowo Boże"
-      },
-      {
-        "typ": "PSALM RESPONSORYJNY",
-        "sigla": "Ps 113 (112), 1b-2. 3-4. 5-6. 7-8",
-        "opis": "",
-        "tekst": "Refren: Niech imię Pana będzie pochwalone.\nChwalcie, słudzy Pańscy, * chwalcie imię Pana.\nNiech imię Pana będzie błogosławione * teraz i na wieki.\nRefren.\nOd wschodu aż do zachodu słońca * niech będzie pochwalone imię Pana.\nPan jest wywyższony ponad wszystkie ludy, * ponad niebiosa sięga Jego chwała.\nRefren.\nKto jest jak nasz Pan Bóg, * który mieszka w górze\ni w dół spogląda * na niebo i na ziemię?\nRefren.\nPodnosi z prochu nędzarza * i dźwiga z gnoju ubogiego,\nby go posadzić wśród książąt, * wśród książąt swojego ludu.\nRefren."
-      },
-      {
-        "typ": "AKLAMACJA",
-        "sigla": "Łk 1, 28",
-        "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
-        "tekst": "Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławiona jesteś między niewiastami."
-      },
-      {
-        "typ": "EWANGELIA",
-        "sigla": "Łk 1, 26-38",
-        "opis": "Maryja pocznie i porodzi Syna",
-        "tekst": "Bóg posłał anioła Gabriela do miasta w Galilei, zwanego Nazaret, do Dziewicy poślubionej mężowi imieniem Józef, z rodu Dawida; a Dziewicy było na imię Maryja. Wszedłszy do Niej, anioł rzekł: «Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławiona jesteś między niewiastami». Ona zmieszała się na te słowa i rozważała, co by miało znaczyć to pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga. Oto poczniesz i porodzisz Syna, któremu nadasz imię Jezus. Będzie On wielki i zostanie nazwany Synem Najwyższego, a Pan Bóg da Mu tron Jego praojca, Dawida. Będzie panował nad domem Jakuba na wieki, a Jego panowaniu nie będzie końca». Na to Maryja rzekła do anioła: «Jakże się to stanie, skoro nie znam męża?» Anioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i moc Najwyższego okryje Cię cieniem. Dlatego też Święte, które się narodzi, będzie nazwane Synem Bożym. A oto również krewna Twoja, Elżbieta, poczęła w swej starości syna i jest już w szóstym miesiącu ta, którą miano za niepłodną. Dla Boga bowiem nie ma nic niemożliwego». Na to rzekła Maryja: «Oto ja służebnica Pańska, niech mi się stanie według słowa twego». Wtedy odszedł od Niej anioł.\nOto słowo Pańskie"
-      }
-    ],
-    "piesniSugerowane": [
-      {
-        "numer": "344",
-        "piesn": "Królowej Anielskiej śpiewajmy",
-        "opis": "Pieśń wprost tytułuje Maryję Królową Anielską, co doskonale oddaje charakter dzisiejszego wspomnienia.",
-        "moment": "wejscie"
-      },
-      {
-        "numer": "323",
-        "piesn": "Boga Rodzico",
-        "opis": "Pieśń podkreśla macierzyństwo Boże Maryi, które jest podstawą Jej królewskiej godności.",
-        "moment": "ofiarowanie"
-      },
-      {
-        "numer": "356",
-        "piesn": "Matko Niebieskiego Pana",
-        "opis": "Ta pieśń jest hołdem dla Maryi jako Matki Króla niebios, co bezpośrednio łączy się z Jej tytułem Królowej.",
-        "moment": "komunia"
-      },
-      {
-        "numer": "402",
-        "piesn": "Z dawna Polski Tyś Królową",
-        "opis": "Pieśń ta, jako hymn do Królowej Polski, jest idealna na uwielbienie w dniu wspomnienia NMP Królowej.",
-        "moment": "uwielbienie"
-      },
-      {
-        "numer": "321",
-        "piesn": "Błękitne rozwińmy sztandary",
-        "opis": "Dynamiczna pieśń maryjna o charakterze królewskim, wzywająca do oddania czci Maryi jako Królowej.",
-        "moment": "rozeslanie"
-      },
-      {
-        "numer": "327",
-        "piesn": "Ciebie na wieki",
-        "opis": "Pieśń ta wychwala Maryję jako Królową nieba, co jest głównym tematem dzisiejszej liturgii.",
-        "moment": "ogolne"
-      },
-      {
-        "numer": "384",
-        "piesn": "Pozdrowiona bądź, Królowo",
-        "opis": "Jest to parafraza antyfony 'Salve Regina', która wprost zwraca się do Maryi jako Królowej.",
-        "moment": "ogolne"
-      }
-    ]
-  }
+  "urlCzytania": "https://www.paulus.org.pl/u69,nmp-krolowej-wspomnienie-obowiazkowe",
+  "tytul_dnia": "22 sierpnia - NMP Królowej Polski",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "Iz 9, 1-3. 5-6",
+      "opis": "Syn został nam dany",
+      "tekst": "Naród kroczący w ciemnościach ujrzał światłość wielką; nad mieszkańcami kraju mroków światło zabłysło. Pomnożyłeś radość, zwiększyłeś wesele. Rozradowali się przed Tobą, jak się radują w żniwa, jak się weselą przy podziale łupu. Bo złamałeś jego ciężkie jarzmo i drążek na jego ramieniu, pręt jego ciemięzcy, jak w dniu porażki Madianitów. Albowiem Dziecię nam się narodziło, Syn został nam dany, na Jego barkach spoczęła władza. Nazwano Go imieniem: «Przedziwny Doradca, Bóg Mocny, Odwieczny Ojciec, Książę Pokoju». Wielkie będzie Jego panowanie w pokoju bez granic na tronie Dawida i nad jego królestwem, które On utwierdzi i umocni prawem i sprawiedliwością, odtąd i na wieki. Zazdrosna miłość Pana Zastępów tego dokona.\nOto słowo Boże"
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Ps 113 (112), 1b-2. 3-4. 5-6. 7-8",
+      "opis": "",
+      "tekst": "Refren: Niech imię Pana będzie pochwalone.\nChwalcie, słudzy Pańscy, * chwalcie imię Pana.\nNiech imię Pana będzie błogosławione * teraz i na wieki.\nRefren.\nOd wschodu aż do zachodu słońca * niech będzie pochwalone imię Pana.\nPan jest wywyższony ponad wszystkie ludy, * ponad niebiosa sięga Jego chwała.\nRefren.\nKto jest jak nasz Pan Bóg, * który mieszka w górze\ni w dół spogląda * na niebo i na ziemię?\nRefren.\nPodnosi z prochu nędzarza * i dźwiga z gnoju ubogiego,\nby go posadzić wśród książąt, * wśród książąt swojego ludu.\nRefren."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Łk 1, 28",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławiona jesteś między niewiastami."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 1, 26-38",
+      "opis": "Maryja pocznie i porodzi Syna",
+      "tekst": "Bóg posłał anioła Gabriela do miasta w Galilei, zwanego Nazaret, do Dziewicy poślubionej mężowi imieniem Józef, z rodu Dawida; a Dziewicy było na imię Maryja. Wszedłszy do Niej, anioł rzekł: «Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławiona jesteś między niewiastami». Ona zmieszała się na te słowa i rozważała, co by miało znaczyć to pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga. Oto poczniesz i porodzisz Syna, któremu nadasz imię Jezus. Będzie On wielki i zostanie nazwany Synem Najwyższego, a Pan Bóg da Mu tron Jego praojca, Dawida. Będzie panował nad domem Jakuba na wieki, a Jego panowaniu nie będzie końca». Na to Maryja rzekła do anioła: «Jakże się to stanie, skoro nie znam męża?» Anioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i moc Najwyższego okryje Cię cieniem. Dlatego też Święte, które się narodzi, będzie nazwane Synem Bożym. A oto również krewna Twoja, Elżbieta, poczęła w swej starości syna i jest już w szóstym miesiącu ta, którą miano za niepłodną. Dla Boga bowiem nie ma nic niemożliwego». Na to rzekła Maryja: «Oto ja służebnica Pańska, niech mi się stanie według słowa twego». Wtedy odszedł od Niej anioł.\nOto słowo Pańskie"
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "344",
+      "piesn": "Królowej Anielskiej śpiewajmy",
+      "opis": "Pieśń wprost tytułuje Maryję Królową Anielską, co doskonale oddaje charakter dzisiejszego wspomnienia.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "323",
+      "piesn": "Boga Rodzico",
+      "opis": "Pieśń podkreśla macierzyństwo Boże Maryi, które jest podstawą Jej królewskiej godności.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "356",
+      "piesn": "Matko Niebieskiego Pana",
+      "opis": "Ta pieśń jest hołdem dla Maryi jako Matki Króla niebios, co bezpośrednio łączy się z Jej tytułem Królowej.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "402",
+      "piesn": "Z dawna Polski Tyś Królową",
+      "opis": "Pieśń ta, jako hymn do Królowej Polski, jest idealna na uwielbienie w dniu wspomnienia NMP Królowej.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "321",
+      "piesn": "Błękitne rozwińmy sztandary",
+      "opis": "Dynamiczna pieśń maryjna o charakterze królewskim, wzywająca do oddania czci Maryi jako Królowej.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "327",
+      "piesn": "Ciebie na wieki",
+      "opis": "Pieśń ta wychwala Maryję jako Królową nieba, co jest głównym tematem dzisiejszej liturgii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "384",
+      "piesn": "Pozdrowiona bądź, Królowo",
+      "opis": "Jest to parafraza antyfony 'Salve Regina', która wprost zwraca się do Maryi jako Królowej.",
+      "moment": "ogolne"
+    }
+  ]
+}

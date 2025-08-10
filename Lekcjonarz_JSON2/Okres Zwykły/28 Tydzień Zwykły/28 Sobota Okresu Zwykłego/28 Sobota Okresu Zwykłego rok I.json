@@ -42,15 +42,15 @@
       "moment": "ofiarowanie"
     },
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
-      "opis": "Pieśń jest modlitwą do Ducha Świętego, który, jak obiecuje Jezus w Ewangelii, pouczy nas, co mamy mówić w godzinie próby.",
+      "numer": "239",
+      "piesn": "Ja wiem, w Kogo ja wierzę",
+      "opis": "Pieśń jest osobistym wyznaniem wiary w Boga, który jest wierny swoim obietnicom, jak pokazuje historia Abrahama.",
       "moment": "komunia"
     },
     {
-      "numer": "220",
-      "piesn": "Przybądź, Stwórco, Duchu Boży",
-      "opis": "Dziękczynienie za dar Ducha Świętego, który jest zadatkiem naszego dziedzictwa i umocnieniem w dawaniu świadectwa.",
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Dziękczynienie za dar Ducha Świętego, który, jak obiecuje Jezus, pouczy nas, co mamy mówić w godzinie próby.",
       "moment": "uwielbienie"
     },
     {
@@ -60,15 +60,15 @@
       "moment": "rozeslanie"
     },
     {
-      "numer": "239",
-      "piesn": "Ja wiem, w Kogo ja wierzę",
-      "opis": "Pieśń jest osobistym wyznaniem wiary w Boga, który jest wierny swoim obietnicom, jak pokazuje historia Abrahama.",
-      "moment": "ogolne"
-    },
-    {
       "numer": "772",
       "piesn": "Ty jesteś źródłem życia",
       "opis": "Pieśń jest wezwaniem do Ducha Świętego, który jest źródłem życia i mocy do dawania świadectwa, jak uczy Ewangelia.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "582",
+      "piesn": "O dobry Jezu",
+      "opis": "Pieśń o pójściu za powołaniem jest zachętą do dawania świadectwa, do którego wzywa Ewangelia.",
       "moment": "ogolne"
     }
   ]

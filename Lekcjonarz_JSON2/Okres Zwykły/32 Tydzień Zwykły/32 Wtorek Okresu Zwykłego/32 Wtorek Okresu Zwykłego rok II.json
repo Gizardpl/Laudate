@@ -38,7 +38,7 @@
     {
       "numer": "632",
       "piesn": "Wszystko Tobie oddać pragnę",
-      "opis": "Wobec słów Jezusa 'słudzy nieużyteczni jesteśmy', ta pieśń jest aktem pokornego ofiarowania Bogu całego siebie, uznając, że wszystko od Niego pochodzi.",
+      "opis": "Wobec słów Jezusa 'słudzy nieużyteczni jesteśmy', ta pieśń jest aktem pokornego ofiarowania Bogu całego siebie.",
       "moment": "ofiarowanie"
     },
     {
@@ -48,9 +48,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "586",
-      "piesn": "Błogosław Panie nas",
-      "opis": "Dziękczynienie za łaskę Boga, która poucza nas, jak żyć rozumnie i sprawiedliwie, o czym mówi pierwsze czytanie.",
+      "numer": "601",
+      "piesn": "Dzięki, o Panie",
+      "opis": "Pieśń jest dziękczynieniem za łaskę Boga, która, jak uczy pierwsze czytanie, poucza nas jak żyć sprawiedliwie.",
       "moment": "uwielbienie"
     },
     {
@@ -62,13 +62,13 @@
     {
       "numer": "608",
       "piesn": "Kto się w opiekę",
-      "opis": "Psalm mówi o ufności w Pana i czynieniu dobra. Ta pieśń jest wyrazem tej ufności, która prowadzi do zbawienia.",
+      "opis": "Psalm mówi o ufności w Pana i czynieniu dobra, a ta pieśń jest wyrazem tej ufności, która prowadzi do zbawienia.",
       "moment": "ogolne"
     },
     {
       "numer": "591",
       "piesn": "Boże, obdarz Kościół Twój",
-      "opis": "Pierwsze czytanie zawiera wskazania dla wspólnoty Kościoła. Ta pieśń jest modlitwą o jedność i pokój w Kościele.",
+      "opis": "Pierwsze czytanie zawiera wskazania dla wspólnoty Kościoła, a ta pieśń jest modlitwą o jedność i pokój w Kościele.",
       "moment": "ogolne"
     }
   ]

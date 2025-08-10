@@ -48,9 +48,9 @@
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Hymn 'Te Deum' jest wyrazem chwały dla Boga Stwórcy, którego wielkość i piękno poznajemy przez Jego dzieła, jak poucza pierwsze czytanie.",
+      "numer": "637",
+      "piesn": "Ciebie, Boże, chwalimy",
+      "opis": "Pieśń chwały, która wyraża wdzięczność Stwórcy za wszystkie dary, w tym za piękno stworzenia, które głosi Jego chwałę.",
       "moment": "uwielbienie"
     },
     {
@@ -62,13 +62,13 @@
     {
       "numer": "587",
       "piesn": "Boże, dlatego dałeś nam życie",
-      "opis": "Pieśń jest wyznaniem wiary w Boga Stwórcę, którego poznajemy przez otaczający nas świat, co jest głównym tematem Księgi Mądrości.",
+      "opis": "Pieśń jest wyznaniem wiary w Boga Stwórcę, którego poznajemy przez otaczający nas świat.",
       "moment": "ogolne"
     },
     {
-      "numer": "637",
-      "piesn": "Ciebie, Boże, chwalimy",
-      "opis": "Pieśń chwały, która wyraża wdzięczność Stwórcy za wszystkie dary, w tym za piękno stworzenia, które głosi Jego chwałę.",
+      "numer": "99",
+      "piesn": "Boże, coś przyrzekł",
+      "opis": "Prośba o oczyszczenie serca jest odpowiedzią na wezwanie Jezusa do czystości wewnętrznej, a nie tylko zewnętrznej.",
       "moment": "ogolne"
     }
   ]

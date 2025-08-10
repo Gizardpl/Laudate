@@ -44,13 +44,13 @@
     {
       "numer": "598",
       "piesn": "Cóż Ci, Jezu, damy",
-      "opis": "Pieśń jest wyrazem dziękczynienia za łaski, co koresponduje z dziękczynieniem Jezusa Ojcu w Ewangelii.",
+      "opis": "Pieśń o charakterze ofiarnym jest wyrazem dziękczynienia za łaski, co koresponduje z dziękczynieniem Jezusa Ojcu w Ewangelii.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "271",
       "piesn": "Przyjdźcie do mnie wszyscy",
-      "opis": "Tekst pieśni jest bezpośrednim nawiązaniem do słów Jezusa z Ewangelii, zapraszającego do siebie utrudzonych i obciążonych.",
+      "opis": "Tekst pieśni eucharystycznej jest bezpośrednim nawiązaniem do słów Jezusa z Ewangelii, zapraszającego do siebie utrudzonych i obciążonych.",
       "moment": "komunia"
     },
     {
@@ -60,21 +60,21 @@
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
+      "numer": "585",
+      "piesn": "Będę Cię wielbił",
       "opis": "Jest to hymn uwielbienia, który dobrze oddaje nastrój dziękczynienia i wysławiania Boga obecny w psalmie i Ewangelii.",
       "moment": "uwielbienie"
     },
     {
       "numer": "613",
       "piesn": "Panie mój, cóż Ci oddać mogę",
-      "opis": "Pieśń dziękczynna, która jest odpowiedzią na zaproszenie Jezusa z Ewangelii, by przyjąć Jego jarzmo i znaleźć ukojenie.",
+      "opis": "Pieśń dziękczynna jest odpowiedzią na zaproszenie Jezusa z Ewangelii, by przyjąć Jego jarzmo i znaleźć ukojenie.",
       "moment": "uwielbienie"
     },
     {
       "numer": "634",
       "piesn": "Złącz, Panie, miłujących Cię",
-      "opis": "Pieśń na rozesłanie, która podkreśla jedność wiernych w Chrystusie, który jest cichy i pokornego serca.",
+      "opis": "Pieśń na rozesłanie podkreśla jedność wiernych w Chrystusie, który jest cichy i pokornego serca.",
       "moment": "rozeslanie"
     },
     {

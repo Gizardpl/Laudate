@@ -13,7 +13,7 @@
       "typ": "PIERWSZE CZYTANIE krótsze",
       "sigla": "Rdz 1, 1. 26-31a",
       "opis": "",
-      "tekst": "nNa początku Bóg stworzył niebo i ziemię. Potem rzekł Bóg: «Uczyńmy człowieka na Nasz obraz, podobnego Nam. Niech panuje nad rybami morskimi, nad ptactwem podniebnym, nad bydłem, nad ziemią i nad wszystkimi zwierzętami pełzającymi po ziemi!» Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył: stworzył mężczyznę i niewiastę.\n\nPo czym Bóg im błogosławił, mówiąc do nich: «Bądźcie płodni i rozmnażajcie się, abyście zaludnili ziemię i uczynili ją sobie poddaną; abyście panowali nad ptactwem podniebnym, nad rybami morskimi i nad wszystkimi zwierzętami pełzającymi po ziemi». I rzekł Bóg: «Oto wam daję wszelką roślinę przynoszącą ziarno po całej ziemi i wszelkie drzewo, którego owoc ma w sobie nasienie: dla was będą one pokarmem. A dla wszelkiego zwierzęcia polnego i dla wszelkiego ptactwa podniebnego, i dla wszystkiego, co się porusza po ziemi i ma w sobie pierwiastek życia, będzie pokarmem wszelka trawa zielona». I tak się stało. A Bóg widział, że wszystko, co uczynił, było bardzo dobre.\n\nOto słowo Boże."
+      "tekst": "Na początku Bóg stworzył niebo i ziemię. Potem rzekł Bóg: «Uczyńmy człowieka na Nasz obraz, podobnego Nam. Niech panuje nad rybami morskimi, nad ptactwem podniebnym, nad bydłem, nad ziemią i nad wszystkimi zwierzętami pełzającymi po ziemi!» Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył: stworzył mężczyznę i niewiastę.\n\nPo czym Bóg im błogosławił, mówiąc do nich: «Bądźcie płodni i rozmnażajcie się, abyście zaludnili ziemię i uczynili ją sobie poddaną; abyście panowali nad ptactwem podniebnym, nad rybami morskimi i nad wszystkimi zwierzętami pełzającymi po ziemi». I rzekł Bóg: «Oto wam daję wszelką roślinę przynoszącą ziarno po całej ziemi i wszelkie drzewo, którego owoc ma w sobie nasienie: dla was będą one pokarmem. A dla wszelkiego zwierzęcia polnego i dla wszelkiego ptactwa podniebnego, i dla wszystkiego, co się porusza po ziemi i ma w sobie pierwiastek życia, będzie pokarmem wszelka trawa zielona». I tak się stało. A Bóg widział, że wszystko, co uczynił, było bardzo dobre.\n\nOto słowo Boże."
     },
     {
       "typ": "1 PSALM RESPONSORYJNY",
@@ -132,51 +132,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "193",
-      "piesn": "Wesoły nam dzień dziś nastał",
-      "opis": "Ta pieśń jest kwintesencją radości wielkanocnej i powinna zabrzmieć jako pierwsza po uroczystym 'Gloria' i 'Alleluja'.",
-      "moment": "wejscie"
-    },
-    {
-      "numer": "198",
-      "piesn": "Zwycięzca śmierci",
-      "opis": "Pieśń ta wspaniale podkreśla triumf Chrystusa nad śmiercią i grzechem, co jest centralnym tematem tej nocy i pasuje do ofiarowania.",
-      "moment": "ofiarowanie"
-    },
-    {
       "numer": "179",
       "piesn": "Chrystus zmartwychwstał jest",
-      "opis": "Opowiadając historię poranka wielkanocnego, pieśń ta jest doskonałą medytacją podczas przyjmowania Ciała Zmartwychwstałego Pana.",
-      "moment": "komunia"
-    },
-    {
-      "numer": "184",
-      "piesn": "Nie zna śmierci Pan żywota",
-      "opis": "Jest to radosny hymn o zwycięstwie życia nad śmiercią, idealny na uwielbienie po Komunii Świętej.",
-      "moment": "uwielbienie"
-    },
-    {
-      "numer": "173",
-      "piesn": "Alleluja! Biją dzwony",
-      "opis": "Dźwięk dzwonów ogłaszających Zmartwychwstanie jest motywem przewodnim tej pieśni, co czyni ją idealną na radosne rozesłanie.",
-      "moment": "rozeslanie"
-    },
-    {
-      "numer": "185",
-      "piesn": "Niech w radosne święto",
-      "opis": "Tekst tej pieśni to sekwencja wielkanocna, która streszcza całą teologię Zmartwychwstania i może być śpiewana w dowolnym momencie.",
-      "moment": "ogolne"
+      "opis": "Radosny hymn wielkanocny, który po raz pierwszy rozbrzmiewa po uroczystym Gloria, ogłaszając Zmartwychwstanie Pańskie.",
+      "moment": "ofiarowanie"
     },
     {
       "numer": "197",
       "piesn": "Zmartwychpowstał Pan prawdziwie",
-      "opis": "Ta pieśń jest uroczystym wyznaniem wiary w Zmartwychwstanie Chrystusa, co jest fundamentem całej liturgii Wigilii Paschalnej.",
+      "opis": "Pieśń jest uroczystym wyznaniem wiary w Zmartwychwstałego Pana, którego Ciało przyjmujemy jako zadatek naszego zmartwychwstania.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "198",
+      "piesn": "Zwycięzca śmierci",
+      "opis": "Tryumfalny hymn o zwycięstwie Chrystusa nad śmiercią, piekłem i szatanem, idealny na dziękczynienie po Komunii Świętej.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "191",
+      "piesn": "Wesel się, Królowo miła",
+      "opis": "Tradycyjna antyfona wielkanocna do Najświętszej Maryi Panny, która stanowi uroczyste zakończenie liturgii Wigilii Paschalnej.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "193",
+      "piesn": "Wesoły nam dzień dziś nastał",
+      "opis": "Klasyczna i radosna pieśń wielkanocna, która w prostych słowach opiewa radość poranka Zmartwychwstania.",
       "moment": "ogolne"
     },
     {
-      "numer": "192",
-      "piesn": "Weselmy się, chrześcijanie",
-      "opis": "Pieśń mszalna ze zwrotkami na różne części Mszy, doskonale nadaje się jako całościowe opracowanie muzyczne liturgii.",
+      "numer": "188",
+      "piesn": "Otrzyjcie już łzy",
+      "opis": "Pieśń ta bezpośrednio wzywa do porzucenia smutku Wielkiego Piątku na rzecz radości płynącej ze Zmartwychwstania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "173",
+      "piesn": "Alleluja! Biją dzwony",
+      "opis": "Motyw bijących dzwonów doskonale oddaje atmosferę radości i triumfu, która wybucha w trakcie Wigilii Paschalnej.",
       "moment": "ogolne"
     }
   ]

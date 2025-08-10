@@ -42,45 +42,39 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "217",
-      "piesn": "O Stworzycielu, Duchu",
-      "opis": "Ten starożytny hymn jest uroczystą prośbą do Ducha Stworzyciela o nawiedzenie i napełnienie serc wiernych, co idealnie rozpoczyna liturgię Zesłania.",
+      "numer": "218",
+      "piesn": "Pamiątkę dnia świątecznego",
+      "opis": "Pieśń ta opowiada o wydarzeniu Pięćdziesiątnicy opisanym w Dziejach Apostolskich, wprowadzając wiernych w tajemnicę dnia.",
       "moment": "wejscie"
     },
     {
       "numer": "214",
       "piesn": "Duchu mądrości",
-      "opis": "Pieśń prosi o siedmiorakie dary Ducha, co łączy się z drugim czytaniem, mówiącym o różnych darach łaski dla wspólnego dobra.",
+      "opis": "Pieśń jest modlitwą o siedem darów Ducha, które są potrzebne do budowania Kościoła, o czym mówi drugie czytanie.",
       "moment": "ofiarowanie"
     },
     {
       "numer": "221",
       "piesn": "Przyjdź, Duchu Święty, napełnij me serce",
-      "opis": "Jest to osobiste wezwanie Ducha Świętego, którego Jezus tchnął na apostołów w Ewangelii, aby zamieszkał w sercu wierzącego.",
+      "opis": "Osobista prośba o napełnienie Duchem Świętym, którego Jezus tchnął na apostołów w Ewangelii, aby zamieszkał w sercu wierzącego.",
       "moment": "komunia"
     },
     {
-      "numer": "636",
-      "piesn": "Ciebie, Boga, wysławiamy",
-      "opis": "Uroczysty hymn dziękczynny 'Te Deum' jest odpowiedni na zakończenie okresu wielkanocnego, wielbiąc Boga za dar Ducha Świętego.",
+      "numer": "215",
+      "piesn": "Duchu Najświętszy",
+      "opis": "Hymn uwielbienia i prośby do Ducha Świętego o uświęcenie jest godnym dziękczynieniem po Komunii Świętej.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "218",
-      "piesn": "Pamiątkę dnia świątecznego",
-      "opis": "Tekst tej pieśni opowiada o wydarzeniu Pięćdziesiątnicy, nawiązując do Dziejów Apostolskich i posłania uczniów z Ewangelii.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Zesłanie Ducha Świętego jest początkiem misji Kościoła, dlatego pieśń o posłaniu apostołów jest odpowiednia na zakończenie liturgii.",
       "moment": "rozeslanie"
-    },
-    {
-      "numer": "219",
-      "piesn": "Przybądź, Duchu Święty, ześlij z nieba",
-      "opis": "Pieśń ta jest muzyczną wersją Sekwencji, która stanowi serce liturgii słowa w tym dniu, wyjaśniając działanie Ducha Świętego.",
-      "moment": "ogolne"
     },
     {
       "numer": "772",
       "piesn": "Ty jesteś źródłem życia",
-      "opis": "Nawiązuje do Ducha Świętego jako źródła życia, który odnawia oblicze ziemi, co jest myślą przewodnią psalmu responsoryjnego.",
+      "opis": "Pieśń nawiązuje do Ducha Świętego jako źródła życia, który odnawia oblicze ziemi, co jest myślą przewodnią psalmu responsoryjnego.",
       "moment": "ogolne"
     },
     {

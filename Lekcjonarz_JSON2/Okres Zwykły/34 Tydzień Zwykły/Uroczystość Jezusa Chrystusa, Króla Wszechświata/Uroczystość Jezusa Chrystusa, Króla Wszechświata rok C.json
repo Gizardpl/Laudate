@@ -38,43 +38,43 @@
     {
       "numer": "311",
       "piesn": "Chrystus Wodzem",
-      "opis": "Pieśń jest aklamacją na cześć Chrystusa Króla, co doskonale wprowadza w charakter uroczystości, której czytania mówią o Jego wiecznym panowaniu.",
+      "opis": "Pieśń jest aklamacją na cześć Chrystusa Króla, co doskonale wprowadza w charakter uroczystości.",
       "moment": "wejscie"
     },
     {
       "numer": "312",
       "piesn": "Idziesz przez wieki",
-      "opis": "W tej pieśni prosimy Chrystusa Króla, by władał naszymi sercami. Jest to odpowiedź na Jego królowanie z krzyża, opisane w Ewangelii.",
+      "opis": "W tej pieśni prosimy Chrystusa Króla, by władał naszymi sercami w odpowiedzi na Jego królowanie z krzyża.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "109",
-      "piesn": "Pan Jezus grzechy nasze",
-      "opis": "Pieśń ta łączy tajemnicę krzyża z królewską godnością Chrystusa, który na krzyżu pokonał śmierć i otworzył nam niebo, jak obiecał dobremu łotrowi.",
+      "numer": "248",
+      "piesn": "Jezusowi cześć i chwała",
+      "opis": "Pieśń ta łączy królewską chwałę Chrystusa z Jego ofiarą na krzyżu, przez którą nas zbawił i otworzył nam drogę do swego królestwa.",
       "moment": "komunia"
     },
     {
       "numer": "316",
       "piesn": "Na Twojej, Chryste",
-      "opis": "Hymn ten jest wyrazem uwielbienia i dziękczynienia za królowanie Chrystusa, który przez krew krzyża wprowadził pokój, o czym mówi drugie czytanie.",
+      "opis": "Hymn ten jest wyrazem uwielbienia za królowanie Chrystusa, który przez krew krzyża wprowadził pokój.",
       "moment": "uwielbienie"
     },
     {
       "numer": "318",
       "piesn": "O Chryste Królu",
-      "opis": "Pieśń ta jest aktem zawierzenia Chrystusowi Królowi i prośbą o prowadzenie do Jego wiecznego królestwa, o które prosił dobry łotr.",
+      "opis": "Pieśń ta jest aktem zawierzenia Chrystusowi Królowi i prośbą o prowadzenie do Jego wiecznego królestwa.",
       "moment": "rozeslanie"
     },
     {
       "numer": "309",
       "piesn": "Bóg nad swym ludem",
-      "opis": "Pieśń łączy królowanie Chrystusa z Jego miłosierdziem, które objawiło się w pełni na krzyżu wobec skruszonego złoczyńcy.",
+      "opis": "Pieśń łączy królowanie Chrystusa z Jego miłosierdziem, które objawiło się w pełni na krzyżu.",
       "moment": "ogolne"
     },
     {
       "numer": "315",
       "piesn": "Króluj nam, Chryste",
-      "opis": "Pieśń o charakterze programowym, w której wierni deklarują swoje poddanie się królowaniu Chrystusa, Króla ukrzyżowanego.",
+      "opis": "Pieśń o charakterze programowym, w której wierni deklarują swoje poddanie się królowaniu Chrystusa.",
       "moment": "ogolne"
     }
   ]

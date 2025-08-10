@@ -30,45 +30,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "619",
-      "piesn": "Pójdźmy do Pana",
-      "opis": "Pieśń ta jest zaproszeniem do chwalenia Pana za Jego zbawcze dzieła, o których mówi psalm.",
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń ta wyraża postawę nawrócenia i uniżenia przed Panem, do której wzywa pierwsze czytanie.",
       "moment": "wejscie"
     },
     {
-      "numer": "632",
-      "piesn": "Wszystko Tobie oddać pragnę",
-      "opis": "Wyraża postawę Piotra i apostołów, którzy opuścili wszystko, by pójść za Jezusem.",
+      "numer": "104",
+      "piesn": "Do Ciebie, Panie",
+      "opis": "Jest to pieśń o charakterze pokutnym, która dobrze oddaje ducha Listu św. Jakuba, wzywającego do oczyszczenia serc.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "264",
-      "piesn": "Panie, dobry jak chleb",
-      "opis": "Ukazuje Eucharystię jako zapowiedź życia wiecznego, które jest nagrodą za wierność Ewangelii.",
+      "numer": "289",
+      "piesn": "Kiedyś, o Jezu",
+      "opis": "Nawiązuje do sceny z Ewangelii, gdzie Jezus stawia dziecko za wzór i utożsamia się z nim.",
       "moment": "komunia"
     },
     {
-      "numer": "595",
-      "piesn": "Cały świat niech śpiewa",
-      "opis": "Jest to radosna pieśń chwały, która jest odpowiedzią na wezwanie psalmu do głoszenia zbawienia Pana.",
+      "numer": "608",
+      "piesn": "Kto się w opiekę",
+      "opis": "Jest to pieśń o zaufaniu Panu, które jest odpowiedzią na wezwanie psalmu: 'Zrzuć swą troskę na Pana'.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "222",
-      "piesn": "Idźcie na cały świat",
-      "opis": "Pieśń ta jest echem misyjnego powołania, które wymaga opuszczenia wszystkiego dla Ewangelii.",
+      "numer": "633",
+      "piesn": "Za rękę weź mnie, Panie",
+      "opis": "Jest to prośba o Boże prowadzenie drogą pokory i służby, którą Jezus wskazuje jako drogę do wielkości.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "596",
-      "piesn": "Chrystus, Chrystus, to nadzieja",
-      "opis": "Podkreśla, że nadzieja w łasce Chrystusa jest fundamentem życia chrześcijańskiego, jak uczy św. Piotr.",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Pieśń pokutna, która jest odpowiedzią na Boże wezwanie do uniżenia się i uznania swojej nędzy.",
       "moment": "ogolne"
     },
     {
-      "numer": "1",
-      "piesn": "Błogosławieni",
-      "opis": "Nawiązuje do postawy świętości i ubóstwa, które prowadzą do nagrody w niebie.",
+      "numer": "100",
+      "piesn": "Boże litościwy, zmiłuj się nade mną!",
+      "opis": "Jest to modlitwa o miłosierdzie, które jest potrzebne w walce z pychą i żądzami, o których mówi św. Jakub.",
       "moment": "ogolne"
     }
   ]

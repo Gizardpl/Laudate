@@ -36,45 +36,45 @@
   ],
   "piesniSugerowane": [
     {
-      "numer": "619",
-      "piesn": "Pójdźmy do Pana",
-      "opis": "Pieśń ta jest zaproszeniem do oddania czci Panu, którego sprawiedliwość i wierność opiewa psalm.",
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń wzywa do wydawania dobrych owoców, co jest głównym tematem Ewangelii, która uczy, że po owocach poznaje się drzewo.",
       "moment": "wejscie"
     },
     {
-      "numer": "114",
-      "piesn": "Wydawajcie owoce",
-      "opis": "Nawiązuje bezpośrednio do Ewangelii, która mówi o poznawaniu drzewa po owocach i człowieka po czynach.",
+      "numer": "102",
+      "piesn": "Boże, w dobroci",
+      "opis": "Pieśń wyraża postawę skruchy i prośby o czyste serce, z którego, jak uczy Jezus, człowiek wydobywa dobro.",
       "moment": "ofiarowanie"
-    },
-    {
-      "numer": "700",
-      "piesn": "Przygotuję Ci serce",
-      "opis": "Jest to modlitwa o czyste serce, z którego, jak uczy Jezus, wydobywa się dobro.",
-      "moment": "komunia"
     },
     {
       "numer": "198",
       "piesn": "Zwycięzca śmierci",
-      "opis": "Pieśń ta jest dziękczynieniem za zwycięstwo nad śmiercią i grzechem, o którym mówi drugie czytanie.",
+      "opis": "Pieśń o zwycięstwie Chrystusa nad śmiercią i grzechem, o którym mówi drugie czytanie, jest źródłem siły do wydawania dobrych owoców.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Hymn ten jest odpowiedzią na wezwanie psalmu, by dziękować Panu i głosić Jego łaskawość.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "586",
-      "piesn": "Błogosław Panie nas",
-      "opis": "Jest to prośba o błogosławieństwo, aby trud wiernych nie był daremny, jak zapewnia św. Paweł.",
+      "numer": "639",
+      "piesn": "Nie rzucim, Chryste",
+      "opis": "Pieśń jest deklaracją wierności Chrystusowi i Jego nauce, by być dobrym drzewem wydającym dobre owoce.",
       "moment": "rozeslanie"
     },
     {
-      "numer": "627",
-      "piesn": "Ty, Boże, wszystko wiesz",
-      "opis": "Podkreśla, że Bóg zna serce człowieka, co jest kluczowe w kontekście Jezusowej nauki o obłudzie.",
+      "numer": "96",
+      "piesn": "Bądź mi litościw",
+      "opis": "Wobec Jezusowego wezwania do usunięcia belki z własnego oka, ta pieśń pokutna jest wyrazem uznania własnej grzeszności.",
       "moment": "ogolne"
     },
     {
-      "numer": "107",
-      "piesn": "O Boże mój, o Zbawicielu mój",
-      "opis": "Jest to prośba o czyste serce i prawego ducha, by móc wydawać dobre owoce.",
+      "numer": "621",
+      "piesn": "Przykazanie nowe daję wam",
+      "opis": "Miłość jest najdoskonalszym owocem dobrego serca, o którym naucza Ewangelia.",
       "moment": "ogolne"
     }
   ]

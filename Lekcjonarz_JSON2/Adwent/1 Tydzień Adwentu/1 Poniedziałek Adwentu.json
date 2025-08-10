@@ -32,31 +32,31 @@
     {
       "numer": "2",
       "piesn": "Niech się radują",
-      "opis": "Pieśń jest radosnym wezwaniem, które koresponduje z refrenem psalmu 'Idźmy z radością na spotkanie Pana'.",
+      "opis": "Pieśń jest radosnym wezwaniem, które koresponduje z refrenem psalmu 'Idźmy z radością na spotkanie Pana' i proroctwem Izajasza o pielgrzymce narodów.",
       "moment": "wejscie"
     },
     {
-      "numer": "699",
-      "piesn": "Panie, nie jestem godzien",
-      "opis": "Słowa setnika z Ewangelii, pełne wiary i pokory, stanowią doskonałe przygotowanie serc na przyjęcie darów ołtarza.",
+      "numer": "277",
+      "piesn": "U drzwi Twoich stoję, Panie",
+      "opis": "Słowa setnika z Ewangelii 'Panie, nie jestem godzien' znajdują swoje rozwinięcie w tej eucharystycznej pieśni, wyrażającej pokorę przed przyjściem Pana.",
       "moment": "ofiarowanie"
     },
     {
-      "numer": "8",
-      "piesn": "Przyjdź, Panie Jezu",
-      "opis": "Pieśń wyraża tęsknotę za przyjściem Pana, którego wiarę i moc podziwiamy w Ewangelii o uzdrowieniu sługi setnika.",
+      "numer": "241",
+      "piesn": "Jam jest chlebem żywym",
+      "opis": "Wobec wielkiej wiary setnika, który prosi o uzdrowienie, my z wiarą przyjmujemy Chleb Życia, który daje uzdrowienie duszy.",
       "moment": "komunia"
     },
     {
-      "numer": "4",
-      "piesn": "Oto Pan przybywa",
-      "opis": "Pieśń ta, jako dziękczynienie, podkreśla, że Pan przychodzi, by zbawić wszystkich, także pogan, o czym mówi Jezus w Ewangelii.",
+      "numer": "598",
+      "piesn": "Cóż Ci, Jezu, damy",
+      "opis": "Dziękczynienie za dar wiary, tak wielkiej jak u setnika, i za obietnicę wejścia do królestwa niebieskiego dla wszystkich narodów.",
       "moment": "uwielbienie"
     },
     {
-      "numer": "1",
-      "piesn": "Błogosławieni",
-      "opis": "Pierwsze czytanie mówi o królestwie pokoju, a pieśń o błogosławieństwach dla czyniących pokój jest doskonałym posłaniem na zakończenie.",
+      "numer": "222",
+      "piesn": "Idźcie na cały świat",
+      "opis": "Proroctwo Izajasza o wszystkich narodach i słowa Jezusa o przychodzących ze wschodu i zachodu posyłają nas, by głosić Ewangelię całemu światu.",
       "moment": "rozeslanie"
     },
     {
