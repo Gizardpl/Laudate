@@ -1,0 +1,153 @@
+{
+  "url": "https://liturgia.wiara.pl/doc/413347.III-Niedziela-Adwentu-rok-C",
+  "tytul_dnia": "3 Niedziela Adwentu rok C",
+  "czy_datowany": false,
+  "czytania": [
+    {
+      "typ": "PIERWSZE CZYTANIE",
+      "sigla": "So 3, 14-17",
+      "opis": "Bóg jest wśród swojego ludu",
+      "tekst": "Wyśpiewuj, Córo Syjońska! Podnieś radosny okrzyk, Izraelu! Ciesz się i wesel z całego serca, Córo Jeruzalem! Oddalił Pan wyroki na ciebie, usunął twego nieprzyjaciela; Król Izraela, Pan, jest pośród ciebie, nie będziesz już bała się złego.\nOwego dnia powiedzą Jerozolimie: «Nie bój się, Syjonie! Niech nie słabną twe ręce!» Pan, twój Bóg, jest pośród ciebie, Mocarz, który zbawia, uniesie się weselem nad tobą, odnowi cię swoją miłością, wzniesie okrzyk radości.\nOto słowo Boże."
+    },
+    {
+      "typ": "PSALM RESPONSORYJNY",
+      "sigla": "Iz 12, 2. 3 i 4bcd. 5-6 (R.: por. 6)",
+      "opis": "",
+      "tekst": "Refren: Głośmy z weselem: Bóg jest między nami.\nOto Bóg jest moim zbawieniem! *\nJemu zaufam i bać się nie będę.\nPan jest moją pieśnią i mocą, *\ni on stał się moim zbawieniem.\nRefren.\nWy zaś z weselem czerpać będziecie wodę *\nze zdrojów zbawienia.\nChwalcie Pana, wzywajcie Jego imienia! †\nUkażcie narodom Jego dzieła, *\nprzypominajcie, że Jego imię jest chwalebne.\nRefren.\nŚpiewajcie Panu, bo czynów wspaniałych dokonał! *\ni cała ziemia niech o tym się dowie.\nWznoś okrzyki i wołaj radośnie, mieszkanko Syjonu, *\nbo wielki jest wśród ciebie Święty Izraela.\nRefren."
+    },
+    {
+      "typ": "DRUGIE CZYTANIE",
+      "sigla": "Flp 4, 4-7",
+      "opis": "Pan jest blisko",
+      "tekst": "Bracia:\nRadujcie się zawsze w Panu; jeszcze raz powtarzam: radujcie się! Niech będzie znana wszystkim ludziom wasza wyrozumiała łagodność: Pan jest blisko!\nO nic się już nie martwcie, ale w każdej sprawie wasze prośby przedstawiajcie Bogu w modlitwie i błaganiu z dziękczynieniem. A pokój Boży, który przewyższa wszelki umysł, będzie strzegł waszych serc i myśli w Chrystusie Jezusie.\nOto słowo Boże."
+    },
+    {
+      "typ": "AKLAMACJA",
+      "sigla": "Iz 61, 1",
+      "opis": "Aklamacja: Alleluja, alleluja, alleluja.",
+      "tekst": "Duch Pański nade mną,\nposłał mnie, abym głosił dobrą nowinę ubogim."
+    },
+    {
+      "typ": "EWANGELIA",
+      "sigla": "Łk 3, 10-18",
+      "opis": "Zapowiedź nowego chrztu",
+      "tekst": "Gdy Jan nauczał nad Jordanem, pytały go tłumy: «Cóż mamy czynić?» On im odpowiadał: «Kto ma dwie suknie, niech się podzieli z tym, który nie ma; a kto ma żywność, niech tak samo czyni».\nPrzyszli także celnicy, żeby przyjąć chrzest, i rzekli do niego: «Nauczycielu, co mamy czynić?» On im powiedział: «Nie pobierajcie nic więcej ponad to, co wam wyznaczono».\nPytali go też i żołnierze: «a my co mamy czynić?» On im odpowiedział: «Na nikim pieniędzy nie wymuszajcie i nikogo nie uciskajcie, lecz poprzestawajcie na waszym żołdzie».\nGdy więc lud oczekiwał z napięciem i wszyscy snuli domysły w swych sercach co do Jana, czy nie jest Mesjaszem, on tak przemówił do wszystkich: «Ja was chrzczę wodą; lecz idzie mocniejszy ode mnie, któremu nie jestem godzien rozwiązać rzemyka u sandałów. on będzie was chrzcił Duchem Świętym i ogniem. Ma on wiejadło w ręku dla oczyszczenia swego omłotu: pszenicę zbierze do spichlerza, a plewy spali w ogniu nieugaszonym».\nWiele też innych napomnień dawał ludowi i głosił dobrą nowinę.\nOto słowo Pańskie."
+    }
+  ],
+  "piesniSugerowane": [
+    {
+      "numer": "2",
+      "piesn": "Niech się radują",
+      "opis": "Refren 'Niech się radują niebiosa i ziemia, bo Pan królować przychodzi' doskonale oddaje radosny charakter Niedzieli Gaudete, o czym mówią czytania.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "14",
+      "piesn": "Córko syjońska",
+      "opis": "Radosne wezwanie do Jerozolimy, by powitała swojego Króla, co jest echem proroctwa Sofoniasza.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "3",
+      "piesn": "Oto Pan Bóg przyjdzie",
+      "opis": "Pieśń zapowiada przyjście Pana, który, jak mówi pierwsze czytanie, 'jest pośród ciebie, Mocarz, który zbawia'.",
+      "moment": "wejscie"
+    },
+    {
+      "numer": "114",
+      "piesn": "Wydawajcie owoce",
+      "opis": "Pieśń jest odpowiedzią na pytanie tłumów z Ewangelii 'Cóż mamy czynić?', wzywając do uczynków miłości i nawrócenia.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "106",
+      "piesn": "Nawróć się, ludu",
+      "opis": "Pieśń jest wezwaniem do pokuty i nawrócenia, co stanowiło centralne orędzie Jana Chrzciciela.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "113",
+      "piesn": "Wstanę i pójdę",
+      "opis": "Pieśń wyraża postawę nawrócenia, do którego wzywał Jan Chrzciciel, aby godnie przyjąć nadchodzącego Pana.",
+      "moment": "ofiarowanie"
+    },
+    {
+      "numer": "7",
+      "piesn": "Przybądź, Panie",
+      "opis": "Refren 'Gotujmy drogę Panu, prostujmy ścieżki Jego' to istota nauczania Jana Chrzciciela i przygotowanie na przyjęcie Chrystusa w Komunii.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "8",
+      "piesn": "Przyjdź, Panie Jezu",
+      "opis": "Pieśń jest wołaniem o przyjście Pana, który chrzci Duchem Świętym i ogniem, jak zapowiada Jan.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "26",
+      "piesn": "Pragniemy Ciebie",
+      "opis": "Pieśń wyraża adwentową tęsknotę za Zbawicielem, którego poprzednikiem był Jan Chrzciciel.",
+      "moment": "komunia"
+    },
+    {
+      "numer": "701",
+      "piesn": "Chrystus Pan karmi nas",
+      "opis": "Psalm responsoryjny jest kantykiem z Księgi Izajasza, a ta pieśń, oparta na Magnificat, również jest wyrazem radości w Bogu Zbawicielu.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "597",
+      "piesn": "Chwalcie Pana wszyscy",
+      "opis": "Radosna Niedziela Adwentu jest okazją do wielbienia Boga za Jego wierność i zbawcze dzieła.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "13",
+      "piesn": "Boże wieczny, Boże żywy",
+      "opis": "Adwentowa pieśń błagalna, która w Niedzielę Radości nabiera charakteru ufnego oczekiwania na bliskie już przyjście Pana.",
+      "moment": "uwielbienie"
+    },
+    {
+      "numer": "4",
+      "piesn": "Oto Pan przybywa",
+      "opis": "Pieśń wzywa do prostowania dróg życia, co jest echem nauczania Jana Chrzciciela i posłaniem na dalsze dni Adwentu.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "475",
+      "piesn": "Zwiastun wschodzącego Słońca",
+      "opis": "Pieśń o Janie Chrzcicielu, który jest kluczową postacią Ewangelii, stanowi doskonałe podsumowanie liturgii.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "16",
+      "piesn": "Głos wdzięczny z nieba wychodzi",
+      "opis": "Pieśń mówi o Zbawicielu, którego nadejście zwiastował Jan Chrzciciel, wzywający do nawrócenia.",
+      "moment": "rozeslanie"
+    },
+    {
+      "numer": "768",
+      "piesn": "Pan blisko jest",
+      "opis": "Ta krótka, medytacyjna pieśń jest powtórzeniem słów z drugiego czytania 'Pan jest blisko!' i zachęca do radosnego oczekiwania.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "11",
+      "piesn": "Z powagą przygotujcie",
+      "opis": "Pieśń nawołuje do przygotowania serc dla nadchodzącego Pana, co jest głównym tematem nauczania Jana Chrzciciela w Ewangelii.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "97",
+      "piesn": "Bliskie jest królestwo Boże",
+      "opis": "Refren pieśni 'nawracajmy się i wierzmy w Ewangelię' jest streszczeniem wezwania Jana Chrzciciela.",
+      "moment": "ogolne"
+    },
+    {
+      "numer": "1",
+      "piesn": "Błogosławieni",
+      "opis": "Ewangelia wzywa do dzielenia się z ubogimi, a pieśń o błogosławieństwach podkreśla wartość miłosierdzia.",
+      "moment": "ogolne"
+    }
+  ]
+}

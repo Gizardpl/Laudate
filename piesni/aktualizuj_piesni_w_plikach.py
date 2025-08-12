@@ -5,7 +5,7 @@ import json
 
 # --- Konfiguracja ---
 # Nazwa pliku wejściowego zawierającego poprawione dane
-NAZWA_PLIKU_Z_POPRAWKAMI = 'gotowe.json'
+NAZWA_PLIKU_Z_POPRAWKAMI = 'nowe.json'
 
 # Ścieżka bazowa, gdzie znajduje się główny folder z lekcjonarzem
 # '../' oznacza jeden folder w górę od lokalizacji skryptu

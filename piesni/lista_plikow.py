@@ -50,7 +50,7 @@ def stworz_liste_plikow_json(folder_zrodlowy: str, plik_docelowy: str):
 def main():
     """Główna funkcja skryptu."""
     # Konfiguracja
-    folder_do_przeszukania = '../Lekcjonarz_JSON2'
+    folder_do_przeszukania = '../NiesprawdzoneDni'
     nazwa_pliku_wynikowego = 'lista.json'
     
     # Wywołanie funkcji
