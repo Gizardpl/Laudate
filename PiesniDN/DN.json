@@ -1,0 +1,4226 @@
+[
+  {
+    "tytul": "Litania do Ducha Świętego",
+    "numerDN": "57"
+  },
+  {
+    "tytul": "Litania do Matki Boga i ludzi",
+    "numerDN": "85.6"
+  },
+  {
+    "tytul": "Litania do Matki Boskiej Piekarskiej",
+    "numerDN": "85.5"
+  },
+  {
+    "tytul": "Litania do Najdroższej Krwi Chrystusa Pana",
+    "numerDN": "47"
+  },
+  {
+    "tytul": "Litania do Najświętszego Imienia Jezus",
+    "numerDN": "46"
+  },
+  {
+    "tytul": "Litania do Najświętszego Serca Pana Jezusa",
+    "numerDN": "54.1a-c"
+  },
+  {
+    "tytul": "Litania do św. Józefa",
+    "numerDN": "90.1"
+  },
+  {
+    "tytul": "Litania do Wszystkich Świętych obrzędowa",
+    "numerDN": "89.1"
+  },
+  {
+    "tytul": "Litania do Wszystkich Świętych na procesje",
+    "numerDN": "89.2"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP",
+    "numerDN": "85.1a-f"
+  },
+  {
+    "tytul": "Litania o Historii Zbawienia",
+    "numerDN": "48"
+  },
+  {
+    "tytul": "Litania o Jezusie Chrystusie, Bogu i Człowieku",
+    "numerDN": "49"
+  },
+  {
+    "tytul": "Litania o Jezusie Chrystusie, Odkupicielu",
+    "numerDN": "50"
+  },
+  {
+    "tytul": "Litania przy konającym",
+    "numerDN": "39.2"
+  },
+  {
+    "tytul": "Litania za chorego",
+    "numerDN": "34.4"
+  },
+  {
+    "tytul": "Litania za zmarłych",
+    "numerDN": "40.2"
+  },
+  {
+    "tytul": "Acclamatio post consecrationem",
+    "numerDN": "158"
+  },
+  {
+    "tytul": "Ach! Ja Matka, tak żałosna",
+    "numerDN": "67.4"
+  },
+  {
+    "tytul": "Ach, mój Jezu, jak Ty klęczysz",
+    "numerDN": "487"
+  },
+  {
+    "tytul": "Ach, mój Jezu, ukochany",
+    "numerDN": "488"
+  },
+  {
+    "tytul": "Ach, Ojcze pełen litości",
+    "numerDN": "983"
+  },
+  {
+    "tytul": "Ach, ubogi żłobie",
+    "numerDN": "377"
+  },
+  {
+    "tytul": "Ach, witajże pożądana",
+    "numerDN": "378"
+  },
+  {
+    "tytul": "A czemuż mój Jezus",
+    "numerDN": "379"
+  },
+  {
+    "tytul": "Adeste fideles",
+    "numerDN": "380"
+  },
+  {
+    "tytul": "Adoremus in aeternum",
+    "numerDN": "631"
+  },
+  {
+    "tytul": "Adoro te devote",
+    "numerDN": "632"
+  },
+  {
+    "tytul": "Aklamacja na zakończenie embolizmu",
+    "numerDN": "23.19"
+  },
+  {
+    "tytul": "Aklamacja po przeistoczeniu I",
+    "numerDN": "23.13"
+  },
+  {
+    "tytul": "Aklamacja po przeistoczeniu II",
+    "numerDN": "23.14"
+  },
+  {
+    "tytul": "Aklamacja po przeistoczeniu III",
+    "numerDN": "23.15"
+  },
+  {
+    "tytul": "Aklamacja po przeistoczeniu IV",
+    "numerDN": "23.16"
+  },
+  {
+    "tytul": "Alleluja, alleluja! Cały świat",
+    "numerDN": "192"
+  },
+  {
+    "tytul": "Alleluja, alleluja! Chwalcie Pana",
+    "numerDN": "193"
+  },
+  {
+    "tytul": "Alleluja, alleluja. Zdrowaś Maryjo",
+    "numerDN": "34.3"
+  },
+  {
+    "tytul": "Alleluja! Biją dzwony",
+    "numerDN": "545"
+  },
+  {
+    "tytul": "Alleluja! Bóg wskrzesił Chrystusa",
+    "numerDN": "6.15"
+  },
+  {
+    "tytul": "Alleluja! Jezus żyje, już",
+    "numerDN": "546"
+  },
+  {
+    "tytul": "Alleluja! Jezus żyje, On",
+    "numerDN": "547"
+  },
+  {
+    "tytul": "Alleluja (...) O dniu radosny",
+    "numerDN": "548"
+  },
+  {
+    "tytul": "Alleluja! Zbawienie, chwała i moc",
+    "numerDN": "6.14"
+  },
+  {
+    "tytul": "Alleluja! Zbawienie, chwała i moc",
+    "numerDN": "7.8"
+  },
+  {
+    "tytul": "Alleluja! Żyw już jest",
+    "numerDN": "549"
+  },
+  {
+    "tytul": "Alma Redemptoris Mater",
+    "numerDN": "741"
+  },
+  {
+    "tytul": "Myśmy się chlubić powinni",
+    "numerDN": "70.1"
+  },
+  {
+    "tytul": "Aniele, Duchu wspaniały",
+    "numerDN": "950"
+  },
+  {
+    "tytul": "Aniele, Stróżu duszy",
+    "numerDN": "951"
+  },
+  {
+    "tytul": "Aniele ziemski bez winy",
+    "numerDN": "943"
+  },
+  {
+    "tytul": "Anieli w niebie śpiewają",
+    "numerDN": "381"
+  },
+  {
+    "tytul": "Anielską pieśń dzwon grał",
+    "numerDN": "742"
+  },
+  {
+    "tytul": "Anielskie Twe wejrzenie",
+    "numerDN": "743"
+  },
+  {
+    "tytul": "Aniołów chóry",
+    "numerDN": "744"
+  },
+  {
+    "tytul": "Anioł Pański",
+    "numerDN": "1.6a"
+  },
+  {
+    "tytul": "Anioł Pański B",
+    "numerDN": "1.6b"
+  },
+  {
+    "tytul": "Anioł Pański V",
+    "numerDN": "1.6c"
+  },
+  {
+    "tytul": "Anioł Pański, otoczony",
+    "numerDN": "382"
+  },
+  {
+    "tytul": "Anioł Pasterzom mówił",
+    "numerDN": "383"
+  },
+  {
+    "tytul": "A pod krzyżem Matka stała",
+    "numerDN": "537"
+  },
+  {
+    "tytul": "Archanioł Boży, Gabriel",
+    "numerDN": "341"
+  },
+  {
+    "tytul": "Attende Domine",
+    "numerDN": "462"
+  },
+  {
+    "tytul": "Ave Regina coelorum",
+    "numerDN": "745"
+  },
+  {
+    "tytul": "Ave verum Corpus",
+    "numerDN": "633"
+  },
+  {
+    "tytul": "A wczora z wieczora",
+    "numerDN": "384"
+  },
+  {
+    "tytul": "Barbaro błogosławiona",
+    "numerDN": "963"
+  },
+  {
+    "tytul": "Barbaro święta, Perło Jezusowa",
+    "numerDN": "964"
+  },
+  {
+    "tytul": "Bądź, Matko, sercem tej wspólnoty",
+    "numerDN": "746"
+  },
+  {
+    "tytul": "Bądź mi litościw, Boże nieskończony",
+    "numerDN": "463"
+  },
+  {
+    "tytul": "Bądź pochwalon na wieki",
+    "numerDN": "634"
+  },
+  {
+    "tytul": "Bądź pozdrowiona, błogosławiona",
+    "numerDN": "747"
+  },
+  {
+    "tytul": "Bądź pozdrowiona, Królowo niebieska",
+    "numerDN": "748"
+  },
+  {
+    "tytul": "Bądź pozdrowiona, Maryjo",
+    "numerDN": "83.3"
+  },
+  {
+    "tytul": "Bądź pozdrowiona, o Maryjo",
+    "numerDN": "749"
+  },
+  {
+    "tytul": "Bądź pozdrowione, Serce mego Pana",
+    "numerDN": "696"
+  },
+  {
+    "tytul": "Bądź pozdrowiony, Jezu",
+    "numerDN": "194"
+  },
+  {
+    "tytul": "Bądź pozdrowiony, święty Jacenty",
+    "numerDN": "938"
+  },
+  {
+    "tytul": "Bądźże pozdrowiona, Hostyjo żywa",
+    "numerDN": "635"
+  },
+  {
+    "tytul": "Betlejem święte",
+    "numerDN": "385"
+  },
+  {
+    "tytul": "Będę Cię wielbił, mój Panie",
+    "numerDN": "195"
+  },
+  {
+    "tytul": "Biedny, kto Ciebie nie zna od powicia",
+    "numerDN": "750"
+  },
+  {
+    "tytul": "Bliskie jest Królestwo Boże",
+    "numerDN": "464"
+  },
+  {
+    "tytul": "Błogi czas nam teraz świeci",
+    "numerDN": "697"
+  },
+  {
+    "tytul": "Błogosławcie Pana, wszystkie dzieła Pańskie",
+    "numerDN": "2.7"
+  },
+  {
+    "tytul": "Błogosławcie Pana, wszystkie dzieła Pańskie",
+    "numerDN": "306"
+  },
+  {
+    "tytul": "Błogosław, duszo moja, Pana",
+    "numerDN": "307"
+  },
+  {
+    "tytul": "Błogosławieni, którzy zostali wezwani",
+    "numerDN": "258"
+  },
+  {
+    "tytul": "Błogosławieni ubodzy i cisi",
+    "numerDN": "196"
+  },
+  {
+    "tytul": "Błogosławieni ubodzy w duchu",
+    "numerDN": "197"
+  },
+  {
+    "tytul": "Błogosławieni ubodzy w duchu",
+    "numerDN": "198"
+  },
+  {
+    "tytul": "Błogosławiona jesteś, Maryjo",
+    "numerDN": "751"
+  },
+  {
+    "tytul": "Błogosławiona Jesteś, Maryjo, któraś",
+    "numerDN": "83.12"
+  },
+  {
+    "tytul": "Błogosławiona jesteś między niewiastami",
+    "numerDN": "83.7"
+  },
+  {
+    "tytul": "Błogosławione serca, które płoną",
+    "numerDN": "968"
+  },
+  {
+    "tytul": "Błogosławiony i jedyny Władco",
+    "numerDN": "308"
+  },
+  {
+    "tytul": "Błogosławiony i jedyny Władco",
+    "numerDN": "611"
+  },
+  {
+    "tytul": "Błogosławiony jesteś, Boże",
+    "numerDN": "1.2"
+  },
+  {
+    "tytul": "Błogosławiony jesteś, Panie",
+    "numerDN": "0"
+  },
+  {
+    "tytul": "Błogosławiony, komu odpuszczone są winy",
+    "numerDN": "465"
+  },
+  {
+    "tytul": "Błogosławiony Pan, Bóg Izraela",
+    "numerDN": "2.12"
+  },
+  {
+    "tytul": "Błogosław, Panie, nas",
+    "numerDN": "334"
+  },
+  {
+    "tytul": "Boga chwalcie, pozdrawiajcie",
+    "numerDN": "752"
+  },
+  {
+    "tytul": "Boga naszego chwalcie",
+    "numerDN": "6.10"
+  },
+  {
+    "tytul": "Bogarodzico, przeczysta Panno",
+    "numerDN": "753"
+  },
+  {
+    "tytul": "Bogarodzico, wniebowzięta Pani",
+    "numerDN": "754"
+  },
+  {
+    "tytul": "Bogu Ojcu, przez Jezusa Chrystusa",
+    "numerDN": "259"
+  },
+  {
+    "tytul": "Bogurodzica, Dziewica",
+    "numerDN": "755"
+  },
+  {
+    "tytul": "Bolejąca Matka stała",
+    "numerDN": "538"
+  },
+  {
+    "tytul": "Boska dobroci",
+    "numerDN": "64.2"
+  },
+  {
+    "tytul": "Boże, coś Polskę",
+    "numerDN": "335"
+  },
+  {
+    "tytul": "Boże, coś przyrzekł",
+    "numerDN": "466"
+  },
+  {
+    "tytul": "Boże, dobrotliwy Panie",
+    "numerDN": "981"
+  },
+  {
+    "tytul": "Boże Dziecię, witaj nam",
+    "numerDN": "386"
+  },
+  {
+    "tytul": "Boże, kocham Cię",
+    "numerDN": "199"
+  },
+  {
+    "tytul": "Boże, korne modły swe",
+    "numerDN": "978"
+  },
+  {
+    "tytul": "Boże litościwy, zmiłuj się nade mną",
+    "numerDN": "467"
+  },
+  {
+    "tytul": "Boże, lud Twój czcią przejęty",
+    "numerDN": "181"
+  },
+  {
+    "tytul": "Boże mocny, Boże cudów",
+    "numerDN": "200"
+  },
+  {
+    "tytul": "Boże, mój Boże, szukam Ciebie",
+    "numerDN": "2.5"
+  },
+  {
+    "tytul": "Boże mój, spragniony jestem Ciebie",
+    "numerDN": "260"
+  },
+  {
+    "tytul": "Boże, obdarz Kościół Twój",
+    "numerDN": "201"
+  },
+  {
+    "tytul": "Boże, Ojcze wszechmogący",
+    "numerDN": "468"
+  },
+  {
+    "tytul": "Boże, Sędzio sprawiedliwy",
+    "numerDN": "984"
+  },
+  {
+    "tytul": "Boże, Sędzio sprawiedliwy",
+    "numerDN": "985"
+  },
+  {
+    "tytul": "Boże, Stwórco nasz, Panie",
+    "numerDN": "182"
+  },
+  {
+    "tytul": "Boże, w dobroci",
+    "numerDN": "202"
+  },
+  {
+    "tytul": "Boże, wejrzyj ku wspomożeniu memu",
+    "numerDN": "2.1"
+  },
+  {
+    "tytul": "Boże wieczny, Boże żywy",
+    "numerDN": "342"
+  },
+  {
+    "tytul": "Boże, z Twoich rąk żyjemy",
+    "numerDN": "976"
+  },
+  {
+    "tytul": "Bóg jest miłością, zbawieniem darzy",
+    "numerDN": "261"
+  },
+  {
+    "tytul": "Bóg miłosierny",
+    "numerDN": "41.2"
+  },
+  {
+    "tytul": "Bóg nad swym ludem zmiłował się",
+    "numerDN": "203"
+  },
+  {
+    "tytul": "Bóg się rodzi, gwiazda wschodzi",
+    "numerDN": "455"
+  },
+  {
+    "tytul": "Bóg się rodzi, moc truchleje",
+    "numerDN": "387"
+  },
+  {
+    "tytul": "Bóg się z Panny narodził",
+    "numerDN": "388"
+  },
+  {
+    "tytul": "Bracia, patrzcie jeno",
+    "numerDN": "389"
+  },
+  {
+    "tytul": "Brzmi cichej godziny",
+    "numerDN": "756"
+  },
+  {
+    "tytul": "Budujemy Kościół Boży",
+    "numerDN": "626"
+  },
+  {
+    "tytul": "Być bliżej Ciebie chcę",
+    "numerDN": "204"
+  },
+  {
+    "tytul": "Była cicha i piękna",
+    "numerDN": "757"
+  },
+  {
+    "tytul": "By wywyższyć swe stworzenia",
+    "numerDN": "636"
+  },
+  {
+    "tytul": "Całaś piękna jest, Maryjo",
+    "numerDN": "758"
+  },
+  {
+    "tytul": "Całym Cię sercem chwalić będę, Panie",
+    "numerDN": "6.4a"
+  },
+  {
+    "tytul": "Całym Cię sercem chwalić będę, Panie B",
+    "numerDN": "6.4b"
+  },
+  {
+    "tytul": "Cały świat niech śpiewa tę pieśń",
+    "numerDN": "309"
+  },
+  {
+    "tytul": "Cecylio, Panno śpiewna",
+    "numerDN": "960"
+  },
+  {
+    "tytul": "* Chciałbym ja dziś wyśpiewać",
+    "numerDN": "001"
+  },
+  {
+    "tytul": "Chlebem życia posileni",
+    "numerDN": "310"
+  },
+  {
+    "tytul": "Chryste Królu, przed Tobą padamy",
+    "numerDN": "612"
+  },
+  {
+    "tytul": "Chryste Królu, Tobie cześć",
+    "numerDN": "613"
+  },
+  {
+    "tytul": "Chryste łaskawy, Władco",
+    "numerDN": "627"
+  },
+  {
+    "tytul": "Chryste, Synu Boga żywego",
+    "numerDN": "2.10"
+  },
+  {
+    "tytul": "Chryste, wszechświata Stwórco",
+    "numerDN": "971"
+  },
+  {
+    "tytul": "Chryste, zbawienie ludzkości",
+    "numerDN": "390"
+  },
+  {
+    "tytul": "Chrystus, Chrystus to nadzieja",
+    "numerDN": "205"
+  },
+  {
+    "tytul": "Chrystus cierpiał za nas",
+    "numerDN": "489"
+  },
+  {
+    "tytul": "Chrystus Król do nas przychodzi",
+    "numerDN": "343"
+  },
+  {
+    "tytul": "Chrystus Królem",
+    "numerDN": "614"
+  },
+  {
+    "tytul": "Chrystusowi cześć i chwała",
+    "numerDN": "615"
+  },
+  {
+    "tytul": "Chrystus Pan jest mój żywot",
+    "numerDN": "986"
+  },
+  {
+    "tytul": "Chrystus Pan karmi nas",
+    "numerDN": "262"
+  },
+  {
+    "tytul": "Chrystus Pan w niebo wstępuje",
+    "numerDN": "582"
+  },
+  {
+    "tytul": "Chrystus Pan zmartwychwstał",
+    "numerDN": "550"
+  },
+  {
+    "tytul": "Chrystus zmartwychwstan jest",
+    "numerDN": "551"
+  },
+  {
+    "tytul": "Chwalcie łąki umajone",
+    "numerDN": "759"
+  },
+  {
+    "tytul": "Chwalcie, o dziatki",
+    "numerDN": "6.11"
+  },
+  {
+    "tytul": "Chwalcie Pana wszyscy",
+    "numerDN": "206"
+  },
+  {
+    "tytul": "Chwalmy niewysłowiony",
+    "numerDN": "637"
+  },
+  {
+    "tytul": "Chwal, Syjonie, Zbawiciela",
+    "numerDN": "638"
+  },
+  {
+    "tytul": "Chwała bądź Bogu w Trójcy Jedynemu",
+    "numerDN": "154"
+  },
+  {
+    "tytul": "Chwała Ci, Kościele święty",
+    "numerDN": "628"
+  },
+  {
+    "tytul": "Chwała Ci równa w godności",
+    "numerDN": "603"
+  },
+  {
+    "tytul": "Chwała i dziękczynienie",
+    "numerDN": "639"
+  },
+  {
+    "tytul": "Chwała i dziękczynienie",
+    "numerDN": "640"
+  },
+  {
+    "tytul": "*Chwała, moc i dziękczynienie",
+    "numerDN": "002"
+  },
+  {
+    "tytul": "Chwała niech będzie Tobie",
+    "numerDN": "14.6"
+  },
+  {
+    "tytul": "Chwała Ojcu i Synowi",
+    "numerDN": "604"
+  },
+  {
+    "tytul": "*Chwała Tobie, Jezu Chryste",
+    "numerDN": "003"
+  },
+  {
+    "tytul": "Chwała wam, Apostołowie",
+    "numerDN": "966"
+  },
+  {
+    "tytul": "Cicha noc, święta noc",
+    "numerDN": "392"
+  },
+  {
+    "tytul": "Cicha noc, święta noc",
+    "numerDN": "391"
+  },
+  {
+    "tytul": "Ciebie, Boga, wysławiamy",
+    "numerDN": "311"
+  },
+  {
+    "tytul": "Ciebie, Boże, wielbimy",
+    "numerDN": "312"
+  },
+  {
+    "tytul": "Ciebie całą duszą pragnę",
+    "numerDN": "263"
+  },
+  {
+    "tytul": "Ciebie, Chryste, wyznajemy",
+    "numerDN": "616"
+  },
+  {
+    "tytul": "Ciebie chwalimy, wiekuisty Panie",
+    "numerDN": "915"
+  },
+  {
+    "tytul": "Ciebie na wieki wychwalać będziemy",
+    "numerDN": "760"
+  },
+  {
+    "tytul": "Cierniami uwieńczoną",
+    "numerDN": "490"
+  },
+  {
+    "tytul": "Cieszcie się dzisiaj",
+    "numerDN": "956"
+  },
+  {
+    "tytul": "Cieszmy się i pod niebiosy",
+    "numerDN": "393"
+  },
+  {
+    "tytul": "Ciesz się, Królowo Anielska",
+    "numerDN": "552"
+  },
+  {
+    "tytul": "Cokolwiek w świecie jest",
+    "numerDN": "987"
+  },
+  {
+    "tytul": "Com przyrzekł Bogu",
+    "numerDN": "207"
+  },
+  {
+    "tytul": "Co nam nakazuje nasza wiara",
+    "numerDN": "183"
+  },
+  {
+    "tytul": "Cóż Ci, Jezu, damy",
+    "numerDN": "617"
+  },
+  {
+    "tytul": "Credo III",
+    "numerDN": "175"
+  },
+  {
+    "tytul": "Cuda nad cuda",
+    "numerDN": "641"
+  },
+  {
+    "tytul": "Czego chcesz od nas, Panie",
+    "numerDN": "313"
+  },
+  {
+    "tytul": "Czekam na Ciebie",
+    "numerDN": "344"
+  },
+  {
+    "tytul": "Cześć Maryi",
+    "numerDN": "761"
+  },
+  {
+    "tytul": "Cześć oddawajmy świętej Katarzynie",
+    "numerDN": "962"
+  },
+  {
+    "tytul": "Cześć śpiewajmy Franciszkowi",
+    "numerDN": "953"
+  },
+  {
+    "tytul": "Cześć Tobie, naszej krainy Patronie",
+    "numerDN": "911"
+  },
+  {
+    "tytul": "Cześć winną Tobie, Stróżu mój Aniele",
+    "numerDN": "952"
+  },
+  {
+    "tytul": "Czyńmy świętej Annie dzięki",
+    "numerDN": "924"
+  },
+  {
+    "tytul": "Daj mi Jezusa",
+    "numerDN": "762"
+  },
+  {
+    "tytul": "Dałeś nam Chleb z nieba",
+    "numerDN": "264"
+  },
+  {
+    "tytul": "Dałeś nam przykład, o Jezu",
+    "numerDN": "469"
+  },
+  {
+    "tytul": "Dlaczego dzisiaj wśród nocy dnieje",
+    "numerDN": "394"
+  },
+  {
+    "tytul": "Dnia każdego, Boga mego",
+    "numerDN": "763"
+  },
+  {
+    "tytul": "Do Betlejemu, pełni radości",
+    "numerDN": "395"
+  },
+  {
+    "tytul": "Dobranoc, Głowo święta",
+    "numerDN": "491"
+  },
+  {
+    "tytul": "Dobry Jezu, a nasz Panie",
+    "numerDN": "988"
+  },
+  {
+    "tytul": "Dobry Jezu, racz wysłuchać",
+    "numerDN": "698"
+  },
+  {
+    "tytul": "Do Ciebie, Matko, szafarko łask",
+    "numerDN": "764"
+  },
+  {
+    "tytul": "Do Ciebie, odwieczny Panie",
+    "numerDN": "184.1-8"
+  },
+  {
+    "tytul": "Do Ciebie, Panie, pokornie wołamy",
+    "numerDN": "470"
+  },
+  {
+    "tytul": "Do Ciebie wznoszę serce me",
+    "numerDN": "208"
+  },
+  {
+    "tytul": "Do Ciebie z serca wołamy, Panie",
+    "numerDN": "989"
+  },
+  {
+    "tytul": "Do Królowej Różańcowej",
+    "numerDN": "765"
+  },
+  {
+    "tytul": "Dom Boży pełen chwały",
+    "numerDN": "629"
+  },
+  {
+    "tytul": "Do Serca Twego, Pani świata",
+    "numerDN": "766"
+  },
+  {
+    "tytul": "Do szopy, hej pasterze",
+    "numerDN": "396"
+  },
+  {
+    "tytul": "Do Twej dążym kaplicy",
+    "numerDN": "767"
+  },
+  {
+    "tytul": "Duchem Świętym kierowany",
+    "numerDN": "921"
+  },
+  {
+    "tytul": "Duch Pański napełnił okrąg ziemi",
+    "numerDN": "586"
+  },
+  {
+    "tytul": "Duchu Najświętszy",
+    "numerDN": "587"
+  },
+  {
+    "tytul": "Duchu Ogniu, Duchu Żarze",
+    "numerDN": "588"
+  },
+  {
+    "tytul": "Duchu Święty, przyjdź, prosimy",
+    "numerDN": "589"
+  },
+  {
+    "tytul": "Duszo Chrystusowa, uświęcaj mnie",
+    "numerDN": "265"
+  },
+  {
+    "tytul": "Duszo moja, niech pieśń twoja",
+    "numerDN": "900"
+  },
+  {
+    "tytul": "Duszo moja, słuchaj Pana",
+    "numerDN": "980"
+  },
+  {
+    "tytul": "Dzieciątko się narodziło",
+    "numerDN": "397"
+  },
+  {
+    "tytul": "Dzieci hebrajskie",
+    "numerDN": "69.2"
+  },
+  {
+    "tytul": "Dziecina mała",
+    "numerDN": "398"
+  },
+  {
+    "tytul": "Dzień ten nam sam Pan Bóg sprawił",
+    "numerDN": "60.3"
+  },
+  {
+    "tytul": "Dzień to jest dziś wesela",
+    "numerDN": "400"
+  },
+  {
+    "tytul": "Dziękczynne pieśni śpiewajmy wspólnie",
+    "numerDN": "314"
+  },
+  {
+    "tytul": "Dzięki, o Panie, składamy dzięki",
+    "numerDN": "315"
+  },
+  {
+    "tytul": "Dzięki, Tobie, Boże",
+    "numerDN": "316"
+  },
+  {
+    "tytul": "Dziękujemy Ci, Ojcze nasz",
+    "numerDN": "317"
+  },
+  {
+    "tytul": "Dziękujmy zawsze za wszystko Bogu Ojcu",
+    "numerDN": "318"
+  },
+  {
+    "tytul": "Dzisiaj pozdrawiamy, Maryjo, Ciebie",
+    "numerDN": "768"
+  },
+  {
+    "tytul": "Dzisiaj w Betlejem",
+    "numerDN": "399"
+  },
+  {
+    "tytul": "Dziś Chrystus, Król wiecznej chwały",
+    "numerDN": "553"
+  },
+  {
+    "tytul": "Dziś koniec roku zeszłemu",
+    "numerDN": "452"
+  },
+  {
+    "tytul": "Dziś moją duszę",
+    "numerDN": "41.9"
+  },
+  {
+    "tytul": "Dziś radośnie wysławiajmy",
+    "numerDN": "969"
+  },
+  {
+    "tytul": "Dzwoneczku nasz miły",
+    "numerDN": "769"
+  },
+  {
+    "tytul": "Gdy Izrael wychodził z Egiptu",
+    "numerDN": "7.6"
+  },
+  {
+    "tytul": "Gdy ja sobie to rozważam",
+    "numerDN": "492"
+  },
+  {
+    "tytul": "Gdy już wychodzimy teraz",
+    "numerDN": "770"
+  },
+  {
+    "tytul": "Gdy mnie ranna zorza budzi",
+    "numerDN": "151"
+  },
+  {
+    "tytul": "Gdy pośród życia burzy",
+    "numerDN": "209"
+  },
+  {
+    "tytul": "Gdy się Chrystus rodzi",
+    "numerDN": "401"
+  },
+  {
+    "tytul": "Gdy śliczna Panna",
+    "numerDN": "402"
+  },
+  {
+    "tytul": "Gdyśmy przyszli do kościoła",
+    "numerDN": "771"
+  },
+  {
+    "tytul": "Gdy trwoga nas ogarnia",
+    "numerDN": "772"
+  },
+  {
+    "tytul": "Gdy w ciężkich walkach siły słabną",
+    "numerDN": "773"
+  },
+  {
+    "tytul": "Gdy widzę Ciebie krwią oblanego",
+    "numerDN": "493"
+  },
+  {
+    "tytul": "Gdy wieczorne zejdą zorze",
+    "numerDN": "155"
+  },
+  {
+    "tytul": "Gdzie miłość wzajemna i dobroć",
+    "numerDN": "210"
+  },
+  {
+    "tytul": "Gdzie szukać nam opieki",
+    "numerDN": "185.1-8"
+  },
+  {
+    "tytul": "Gdzie w uroczystej cichości",
+    "numerDN": "642"
+  },
+  {
+    "tytul": "Gdzież duszy ojczyzna",
+    "numerDN": "990"
+  },
+  {
+    "tytul": "Gdzież jest Jezus, ma pociecha",
+    "numerDN": "266"
+  },
+  {
+    "tytul": "Gloria, gloria zawołajmy",
+    "numerDN": "403"
+  },
+  {
+    "tytul": "Głos wdzięczny z nieba wychodzi",
+    "numerDN": "345"
+  },
+  {
+    "tytul": "Głoście usta cud bez miary",
+    "numerDN": "643"
+  },
+  {
+    "tytul": "Głoś imię Pana",
+    "numerDN": "211"
+  },
+  {
+    "tytul": "Godzinki o Niepokalanym Poczęciu NMP",
+    "numerDN": "84"
+  },
+  {
+    "tytul": "Gorzkie żale",
+    "numerDN": "67"
+  },
+  {
+    "tytul": "Gorzkie żale, przybywajcie",
+    "numerDN": "67.1"
+  },
+  {
+    "tytul": "Grzechem Adama ludzie uwikłani",
+    "numerDN": "346"
+  },
+  {
+    "tytul": "Gwiazdo morza głębokiego",
+    "numerDN": "83.2"
+  },
+  {
+    "tytul": "Gwiazdo morza, któraś Pana",
+    "numerDN": "774"
+  },
+  {
+    "tytul": "Gwiazdo śliczna, wspaniała",
+    "numerDN": "775"
+  },
+  {
+    "tytul": "Gwiazdo śliczna, wspaniała",
+    "numerDN": "776"
+  },
+  {
+    "tytul": "Gwiazdo zaranna, śliczna Jutrzenko",
+    "numerDN": "777"
+  },
+  {
+    "tytul": "Hejnał wszyscy zaśpiewajmy",
+    "numerDN": "347"
+  },
+  {
+    "tytul": "Hej, w dzień narodzenia",
+    "numerDN": "404"
+  },
+  {
+    "tytul": "Hołd Tobie, sława i cześć",
+    "numerDN": "69.4"
+  },
+  {
+    "tytul": "Hosanna Synowi Dawidowemu",
+    "numerDN": "69.1"
+  },
+  {
+    "tytul": "Idzie, idzie Bóg prawdziwy",
+    "numerDN": "644"
+  },
+  {
+    "tytul": "Idziesz przez wieki",
+    "numerDN": "618"
+  },
+  {
+    "tytul": "Idźcie na cały świat",
+    "numerDN": "212"
+  },
+  {
+    "tytul": "Idźmy, tulmy się jak dziatki",
+    "numerDN": "778"
+  },
+  {
+    "tytul": "Jadwigo święta, z cnót swoich przesławna",
+    "numerDN": "957"
+  },
+  {
+    "tytul": "Ja jestem zmartwychwstanie",
+    "numerDN": "41.14"
+  },
+  {
+    "tytul": "Jakaż to gwiazda błyszczy na wschodzie",
+    "numerDN": "456"
+  },
+  {
+    "tytul": "Jak Cię witał niegdyś lud",
+    "numerDN": "494"
+  },
+  {
+    "tytul": "Jak miłe przybytki nam dał",
+    "numerDN": "630"
+  },
+  {
+    "tytul": "Jak przedziwne imię Pana",
+    "numerDN": "319"
+  },
+  {
+    "tytul": "Jak szczęśliwa Polska cała",
+    "numerDN": "779"
+  },
+  {
+    "tytul": "Jakże pójdziemy za Tobą, Chrystusie",
+    "numerDN": "267"
+  },
+  {
+    "tytul": "Jam gościem na tym świecie",
+    "numerDN": "991"
+  },
+  {
+    "tytul": "Jam jest Chlebem żywym",
+    "numerDN": "268"
+  },
+  {
+    "tytul": "Jam jest pasterz dobry",
+    "numerDN": "213"
+  },
+  {
+    "tytul": "Jasnogórska można Pani",
+    "numerDN": "780"
+  },
+  {
+    "tytul": "Jasnogórska Pani, Tyś naszą Hetmanką",
+    "numerDN": "781"
+  },
+  {
+    "tytul": "Ja sobie wybrałem za obronę",
+    "numerDN": "925"
+  },
+  {
+    "tytul": "Ja wiem, w kogo ja wierzę",
+    "numerDN": "645"
+  },
+  {
+    "tytul": "Jeden chleb, co zmienia się w Chrystusa Ciało",
+    "numerDN": "269"
+  },
+  {
+    "tytul": "Jeden w naturze",
+    "numerDN": "605"
+  },
+  {
+    "tytul": "Jedyny Dawco zbawienia",
+    "numerDN": "495"
+  },
+  {
+    "tytul": "Jerozolimo, chwal Pana",
+    "numerDN": "83.9"
+  },
+  {
+    "tytul": "Jeszcze raz pozdrowić muszę",
+    "numerDN": "156"
+  },
+  {
+    "tytul": "Jeśli chcesz szukać Patrona",
+    "numerDN": "922"
+  },
+  {
+    "tytul": "Jezu Chryste, Panie miły",
+    "numerDN": "496"
+  },
+  {
+    "tytul": "Jezu Chryste, Zmartwychwstanie i życie",
+    "numerDN": "554"
+  },
+  {
+    "tytul": "Jezu drogi, Tyś miłością",
+    "numerDN": "270"
+  },
+  {
+    "tytul": "Jezu, gdy patrzę",
+    "numerDN": "699"
+  },
+  {
+    "tytul": "Jezu, Gościu upragniony",
+    "numerDN": "646"
+  },
+  {
+    "tytul": "Jezu, Jezu, do mnie przyjdź",
+    "numerDN": "271"
+  },
+  {
+    "tytul": "Jezu, Jezu, do mnie przyjdź",
+    "numerDN": "272"
+  },
+  {
+    "tytul": "Jezu kochany, chcę dziś na nowo",
+    "numerDN": "64.4"
+  },
+  {
+    "tytul": "Jezu, Królu najwdzięczniejszy",
+    "numerDN": "619"
+  },
+  {
+    "tytul": "Jezu, ma radości",
+    "numerDN": "214"
+  },
+  {
+    "tytul": "Jezu, miłe Dzieciątko",
+    "numerDN": "405"
+  },
+  {
+    "tytul": "Jezu miłosierny",
+    "numerDN": "471"
+  },
+  {
+    "tytul": "Jezu, miłości Twej",
+    "numerDN": "700"
+  },
+  {
+    "tytul": "Jezu, miłości Twej",
+    "numerDN": "701"
+  },
+  {
+    "tytul": "Jezu, na zabicie okrutne",
+    "numerDN": "67.3"
+  },
+  {
+    "tytul": "Jezusa narodzonego wszyscy witajmy",
+    "numerDN": "406"
+  },
+  {
+    "tytul": "Jezusa ukrytego mam w Sakramencie czcić",
+    "numerDN": "647"
+  },
+  {
+    "tytul": "Jezu, Serca Twego wdzięki",
+    "numerDN": "702"
+  },
+  {
+    "tytul": "Jezus malusieńki",
+    "numerDN": "407"
+  },
+  {
+    "tytul": "Jezusowi cześć i chwała",
+    "numerDN": "273"
+  },
+  {
+    "tytul": "Jezu, Ty płakałeś",
+    "numerDN": "41.20"
+  },
+  {
+    "tytul": "Jezu, w Hostii utajony",
+    "numerDN": "274"
+  },
+  {
+    "tytul": "Jezu, w Ogrójcu mdlejący",
+    "numerDN": "992"
+  },
+  {
+    "tytul": "* Jezu, zostań w nas",
+    "numerDN": "004"
+  },
+  {
+    "tytul": "Jeżeli domu sam Pan nie zbuduje",
+    "numerDN": "83.6"
+  },
+  {
+    "tytul": "Jeżeli szukasz cudów Antoniego",
+    "numerDN": "917"
+  },
+  {
+    "tytul": "Józefie, święty Patronie",
+    "numerDN": "901"
+  },
+  {
+    "tytul": "Judzką krainę noc okryła",
+    "numerDN": "408"
+  },
+  {
+    "tytul": "Jutrznia niedzielna",
+    "numerDN": "2"
+  },
+  {
+    "tytul": "Już Chrystus życie zakończył",
+    "numerDN": "74.1"
+  },
+  {
+    "tytul": "Już cię żegnam, najmilszy",
+    "numerDN": "539"
+  },
+  {
+    "tytul": "Jużem pracował dość",
+    "numerDN": "497"
+  },
+  {
+    "tytul": "Już gościsz, Jezu, w sercu mym",
+    "numerDN": "320"
+  },
+  {
+    "tytul": "Już majowe świecą zorze",
+    "numerDN": "782"
+  },
+  {
+    "tytul": "Już Maryja w niebo wzięta",
+    "numerDN": "783"
+  },
+  {
+    "tytul": "Już od rana rozśpiewana",
+    "numerDN": "784"
+  },
+  {
+    "tytul": "* Już się nie bój dłużej",
+    "numerDN": "005"
+  },
+  {
+    "tytul": "Już się zbliżył miesiąc maj",
+    "numerDN": "785"
+  },
+  {
+    "tytul": "Już słońce schodzi ogniste",
+    "numerDN": "6.1"
+  },
+  {
+    "tytul": "Już w łonie matki",
+    "numerDN": "919"
+  },
+  {
+    "tytul": "Kainowa zbrodnia wstrząsnęła światem",
+    "numerDN": "967"
+  },
+  {
+    "tytul": "Kapłanem Jezus Chrystus jest",
+    "numerDN": "737"
+  },
+  {
+    "tytul": "Kapłanów swoich dał nam Bóg",
+    "numerDN": "738"
+  },
+  {
+    "tytul": "Każda żyjąca dusza",
+    "numerDN": "703"
+  },
+  {
+    "tytul": "* Każdy górnik Ciebie zna",
+    "numerDN": "006"
+  },
+  {
+    "tytul": "Kiedy ranne wstają zorze",
+    "numerDN": "152"
+  },
+  {
+    "tytul": "Kiedy razem się schodzimy",
+    "numerDN": "275"
+  },
+  {
+    "tytul": "Kiedyś, o Jezu",
+    "numerDN": "704"
+  },
+  {
+    "tytul": "Kiedy z Egiptu Izrael wychodził",
+    "numerDN": "6.12"
+  },
+  {
+    "tytul": "Kłaniam się Tobie",
+    "numerDN": "648"
+  },
+  {
+    "tytul": "Kłaniamy się Tobie, Chryste",
+    "numerDN": "498"
+  },
+  {
+    "tytul": "Kochajmy Pana",
+    "numerDN": "705"
+  },
+  {
+    "tytul": "Kocham Cię, Jezu, ach, tu na ziemi",
+    "numerDN": "276"
+  },
+  {
+    "tytul": "* Kościół to nie tylko dom",
+    "numerDN": "007"
+  },
+  {
+    "tytul": "Króla wznoszą się znamiona",
+    "numerDN": "499"
+  },
+  {
+    "tytul": "Królowej Anielskiej śpiewajmy",
+    "numerDN": "786"
+  },
+  {
+    "tytul": "Królowo nieba, Panno Maryjo",
+    "numerDN": "555"
+  },
+  {
+    "tytul": "Królowo ziem polskich",
+    "numerDN": "787"
+  },
+  {
+    "tytul": "Królująca w niebie",
+    "numerDN": "85.9"
+  },
+  {
+    "tytul": "Króluj nam, Chryste",
+    "numerDN": "620"
+  },
+  {
+    "tytul": "Króluj nam, Chryste",
+    "numerDN": "621"
+  },
+  {
+    "tytul": "Królu mej duszy",
+    "numerDN": "993"
+  },
+  {
+    "tytul": "Królu mocy niezmierzonej",
+    "numerDN": "974"
+  },
+  {
+    "tytul": "Krzyknijmy wszyscy zgodnymi głosami",
+    "numerDN": "965"
+  },
+  {
+    "tytul": "Krzyżu Chrystusa, bądźże pochwalony",
+    "numerDN": "500"
+  },
+  {
+    "tytul": "Krzyżu Chrystusa, bądźże pochwalony",
+    "numerDN": "501"
+  },
+  {
+    "tytul": "Krzyżu mój, Krzyżu",
+    "numerDN": "502"
+  },
+  {
+    "tytul": "Krzyżu święty, nade wszystko",
+    "numerDN": "503"
+  },
+  {
+    "tytul": "Książę niebieski, święty Michale",
+    "numerDN": "948"
+  },
+  {
+    "tytul": "Książę niezłomny, święty Kazimierzu",
+    "numerDN": "898"
+  },
+  {
+    "tytul": "Kto jest sługą Matki Świętej",
+    "numerDN": "540"
+  },
+  {
+    "tytul": "* Kto los swój złożył w ręce Boga",
+    "numerDN": "008"
+  },
+  {
+    "tytul": "Kto się w opiekę",
+    "numerDN": "215"
+  },
+  {
+    "tytul": "Kto się w opiekę",
+    "numerDN": "216"
+  },
+  {
+    "tytul": "Któryś za nas cierpiał rany",
+    "numerDN": "67.5a"
+  },
+  {
+    "tytul": "Któryś za nas cierpiał rany B",
+    "numerDN": "67.5b"
+  },
+  {
+    "tytul": "Któż o tej dobie",
+    "numerDN": "409"
+  },
+  {
+    "tytul": "Ku Tobie, czysta",
+    "numerDN": "788"
+  },
+  {
+    "tytul": "Lament serdeczny",
+    "numerDN": "504"
+  },
+  {
+    "tytul": "Litania do Matki Boga i ludzi",
+    "numerDN": "85.6"
+  },
+  {
+    "tytul": "Litania do Matki Boskiej Piekarskiej",
+    "numerDN": "85.5"
+  },
+  {
+    "tytul": "Litania do Najświętszego Serca Pana Jezusa",
+    "numerDN": "54.1a"
+  },
+  {
+    "tytul": "Litania do Najświętszego Serca Pana Jezusa B",
+    "numerDN": "54.1b"
+  },
+  {
+    "tytul": "Litania do Najświętszego Serca Pana Jezusa C",
+    "numerDN": "54.1c"
+  },
+  {
+    "tytul": "Litania do Wszystkich Świętych obrzędowa",
+    "numerDN": "89.1"
+  },
+  {
+    "tytul": "Litania do Wszystkich Świętych na procesje",
+    "numerDN": "89.2"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP",
+    "numerDN": "85.1a"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP B",
+    "numerDN": "85.1b"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP V",
+    "numerDN": "85.1c"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP D",
+    "numerDN": "85.1d"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP E",
+    "numerDN": "85.1e"
+  },
+  {
+    "tytul": "Litania Loretańska do NMP F",
+    "numerDN": "85.1f"
+  },
+  {
+    "tytul": "* Lud Twój, Panie, lud pielgrzymi",
+    "numerDN": "009"
+  },
+  {
+    "tytul": "Ludu kapłański, ludu królewski",
+    "numerDN": "217"
+  },
+  {
+    "tytul": "Ludu, mój ludu",
+    "numerDN": "505"
+  },
+  {
+    "tytul": "Lulajże, Jezuniu",
+    "numerDN": "410"
+  },
+  {
+    "tytul": "Łask Pośredniczko",
+    "numerDN": "789"
+  },
+  {
+    "tytul": "Marana tha! Przybądź, Panie Jezu",
+    "numerDN": "348"
+  },
+  {
+    "tytul": "Marana tha! Przyjdź, Jezu Panie",
+    "numerDN": "349"
+  },
+  {
+    "tytul": "Maria Regina mundi",
+    "numerDN": "790"
+  },
+  {
+    "tytul": "Maryję uwielbiać",
+    "numerDN": "791"
+  },
+  {
+    "tytul": "Maryjo, coś jest w niebie",
+    "numerDN": "792"
+  },
+  {
+    "tytul": "Maryjo, ja Twe dziecię",
+    "numerDN": "793"
+  },
+  {
+    "tytul": "Maryjo, Królowo Polski",
+    "numerDN": "794"
+  },
+  {
+    "tytul": "Maryjo, Królowo Polski",
+    "numerDN": "795"
+  },
+  {
+    "tytul": "Maryjo, Królowo Polski",
+    "numerDN": "796"
+  },
+  {
+    "tytul": "Maryjo, Królowo Polski, (...) uproś",
+    "numerDN": "797"
+  },
+  {
+    "tytul": "Maryjo, majowy kwiecie",
+    "numerDN": "798"
+  },
+  {
+    "tytul": "Maryjo, Maryjo! Nad słońce jaśniejsza",
+    "numerDN": "799"
+  },
+  {
+    "tytul": "Maryjo, Matko, gdy pozdrawiam Ciebie",
+    "numerDN": "800"
+  },
+  {
+    "tytul": "* Maryjo, Matko, Królowo Pokoju",
+    "numerDN": "010"
+  },
+  {
+    "tytul": "Maryjo, przyjmij dzięki",
+    "numerDN": "801"
+  },
+  {
+    "tytul": "Maryjo z dnia Zwiastowania",
+    "numerDN": "802"
+  },
+  {
+    "tytul": "Matko, Królowo, wspierać chciej w niedoli",
+    "numerDN": "803"
+  },
+  {
+    "tytul": "Matko litości, witaj nam",
+    "numerDN": "804"
+  },
+  {
+    "tytul": "Matko Najświętsza, do Serca Twego",
+    "numerDN": "805"
+  },
+  {
+    "tytul": "Matko nasza, dzieci Twoje",
+    "numerDN": "806"
+  },
+  {
+    "tytul": "Matko nasza, Matko Boża",
+    "numerDN": "807"
+  },
+  {
+    "tytul": "Matko niebieskiego Pana",
+    "numerDN": "808"
+  },
+  {
+    "tytul": "Matko Odkupiciela, z niewiast najsławniejsza",
+    "numerDN": "809"
+  },
+  {
+    "tytul": "Matko Odkupiciela, z niewiast najsławniejsza",
+    "numerDN": "810"
+  },
+  {
+    "tytul": "Matko Piekarska",
+    "numerDN": "811"
+  },
+  {
+    "tytul": "Matko Pocieszenia",
+    "numerDN": "812"
+  },
+  {
+    "tytul": "Matko Pomocy Nieustającej",
+    "numerDN": "813"
+  },
+  {
+    "tytul": "Matko potężna",
+    "numerDN": "814"
+  },
+  {
+    "tytul": "Matko Różańca Świętego",
+    "numerDN": "815"
+  },
+  {
+    "tytul": "Matko usłysz modły dzieci",
+    "numerDN": "816"
+  },
+  {
+    "tytul": "Mądrości, która z ust Bożych wypływasz",
+    "numerDN": "350"
+  },
+  {
+    "tytul": "Mędrcy świata, monarchowie",
+    "numerDN": "457"
+  },
+  {
+    "tytul": "Miałem ci ja w sercu",
+    "numerDN": "218"
+  },
+  {
+    "tytul": "* Mili chrześcijanie, wszyscy się śpieszcie",
+    "numerDN": "011"
+  },
+  {
+    "tytul": "Miłosierdziem Twoim, Panie",
+    "numerDN": "219"
+  },
+  {
+    "tytul": "Miłość nieskończona",
+    "numerDN": "706"
+  },
+  {
+    "tytul": "Miłość tu jest cel kochania",
+    "numerDN": "649"
+  },
+  {
+    "tytul": "Miłuję Pana, albowiem usłyszał",
+    "numerDN": "41.17"
+  },
+  {
+    "tytul": "Minęły cienie i mroki nocy",
+    "numerDN": "556"
+  },
+  {
+    "tytul": "Missa mundi",
+    "numerDN": "173.1-5"
+  },
+  {
+    "tytul": "Missa VIII De angelis",
+    "numerDN": "174.1-5"
+  },
+  {
+    "tytul": "Mizerna, cicha, stajenka licha",
+    "numerDN": "411"
+  },
+  {
+    "tytul": "Mocarzu niebios, święty Michale",
+    "numerDN": "949"
+  },
+  {
+    "tytul": "Mój Odkupiciel, Chrystus Zmartwychwstały",
+    "numerDN": "41.12"
+  },
+  {
+    "tytul": "Msza I",
+    "numerDN": "160.1-4"
+  },
+  {
+    "tytul": "Msza II",
+    "numerDN": "161.1-4"
+  },
+  {
+    "tytul": "Msza III",
+    "numerDN": "162.1-4"
+  },
+  {
+    "tytul": "Msza IV",
+    "numerDN": "163.1-4"
+  },
+  {
+    "tytul": "Msza V",
+    "numerDN": "164.1-4"
+  },
+  {
+    "tytul": "Msza VI",
+    "numerDN": "165.1-4"
+  },
+  {
+    "tytul": "Msza VII",
+    "numerDN": "166.1-3"
+  },
+  {
+    "tytul": "Msza VIII",
+    "numerDN": "167.1-5"
+  },
+  {
+    "tytul": "Msza IX",
+    "numerDN": "168.1-5"
+  },
+  {
+    "tytul": "Msza X",
+    "numerDN": "169.1-4"
+  },
+  {
+    "tytul": "Msza XI",
+    "numerDN": "170.1-4"
+  },
+  {
+    "tytul": "Msza roratnia",
+    "numerDN": "340.1-5"
+  },
+  {
+    "tytul": "Msza wielkopostna",
+    "numerDN": "461.1-3"
+  },
+  {
+    "tytul": "My chcemy Boga, Panno święta",
+    "numerDN": "336"
+  },
+  {
+    "tytul": "Najdroższy Jezu",
+    "numerDN": "506"
+  },
+  {
+    "tytul": "Najsłodszy Jezu",
+    "numerDN": "609"
+  },
+  {
+    "tytul": "Najświętsza Panno, o Matko Boża",
+    "numerDN": "817"
+  },
+  {
+    "tytul": "Najświętsze Serce Boże, poświęcamy Ci",
+    "numerDN": "707"
+  },
+  {
+    "tytul": "Najświętsze Serce Boże, przyjm serca",
+    "numerDN": "708"
+  },
+  {
+    "tytul": "Najświętsze Serce Jezusa mego",
+    "numerDN": "709"
+  },
+  {
+    "tytul": "Najwyższemu Panu chwała",
+    "numerDN": "37"
+  },
+  {
+    "tytul": "Najwyższemu Panu chwała",
+    "numerDN": "321"
+  },
+  {
+    "tytul": "Nakarmiłeś lud Twój, o Panie",
+    "numerDN": "322"
+  },
+  {
+    "tytul": "Na przyjście Chrystusa Króla",
+    "numerDN": "351"
+  },
+  {
+    "tytul": "Narodził się Jezus Chrystus",
+    "numerDN": "412"
+  },
+  {
+    "tytul": "Narodził się Jezus w stajni ubogi",
+    "numerDN": "413"
+  },
+  {
+    "tytul": "Narodził się nam Zbawiciel",
+    "numerDN": "414"
+  },
+  {
+    "tytul": "Na stopniach Twego",
+    "numerDN": "186.1-8"
+  },
+  {
+    "tytul": "* Nasza Pani Piekarska",
+    "numerDN": "012"
+  },
+  {
+    "tytul": "Na świętej uczcie Baranka",
+    "numerDN": "558"
+  },
+  {
+    "tytul": "Na Twe słowo się zbliżamy",
+    "numerDN": "187"
+  },
+  {
+    "tytul": "Na Twojej, Chryste, świętej skroni",
+    "numerDN": "622"
+  },
+  {
+    "tytul": "Naucz nas, Panie",
+    "numerDN": "220"
+  },
+  {
+    "tytul": "Nawróć się, ludu, w pokorze",
+    "numerDN": "472"
+  },
+  {
+    "tytul": "Nazareński, śliczny kwiecie",
+    "numerDN": "710"
+  },
+  {
+    "tytul": "Niebiosa, rosę spuśćcie nam z góry",
+    "numerDN": "352"
+  },
+  {
+    "tytul": "Niebiosa, rosę ślijcie nam z góry",
+    "numerDN": "353"
+  },
+  {
+    "tytul": "Niebo, ziemia, Świat i morze",
+    "numerDN": "650"
+  },
+  {
+    "tytul": "Nie było miejsca dla Ciebie",
+    "numerDN": "415"
+  },
+  {
+    "tytul": "Niechaj będzie głośno wszędzie",
+    "numerDN": "416"
+  },
+  {
+    "tytul": "Niechaj będzie pochwalony, od nas wszystkich",
+    "numerDN": "651"
+  },
+  {
+    "tytul": "Niechaj będzie pochwalony Przenajświętszy",
+    "numerDN": "652"
+  },
+  {
+    "tytul": "Niechaj będzie uwielbiony",
+    "numerDN": "323"
+  },
+  {
+    "tytul": "Niechaj Serce Jezusowe",
+    "numerDN": "711"
+  },
+  {
+    "tytul": "Niechaj sławią Cię narody",
+    "numerDN": "324"
+  },
+  {
+    "tytul": "Niech Aniołowie zawiodą cię do raju",
+    "numerDN": "41.13"
+  },
+  {
+    "tytul": "Niech będzie błogosławiony",
+    "numerDN": "83.8"
+  },
+  {
+    "tytul": "Niech będzie Bóg uwielbiony",
+    "numerDN": "653"
+  },
+  {
+    "tytul": "Niech błogosławiony będzie Bóg",
+    "numerDN": "178"
+  },
+  {
+    "tytul": "Niech cały świat z radością sławi Boga",
+    "numerDN": "325"
+  },
+  {
+    "tytul": "Niech Cię, Boże, wielbią wszystkie ludy",
+    "numerDN": "326"
+  },
+  {
+    "tytul": "Niech Cię chwali, Boże",
+    "numerDN": "221"
+  },
+  {
+    "tytul": "Niech dzieci Kościoła",
+    "numerDN": "2.8"
+  },
+  {
+    "tytul": "Niech dziś z naszych serc",
+    "numerDN": "712"
+  },
+  {
+    "tytul": "Niech imię Pańskie będzie błogosławione",
+    "numerDN": "6.6"
+  },
+  {
+    "tytul": "Niech nam błogosławi",
+    "numerDN": "818"
+  },
+  {
+    "tytul": "Niech Pełna Łaski wstawia się za nami",
+    "numerDN": "83.13"
+  },
+  {
+    "tytul": "Niech przyjdzie, Panie, Twoje królestwo",
+    "numerDN": "7.12"
+  },
+  {
+    "tytul": "Niech rozbrzmiewa Bożej chwały pieśń",
+    "numerDN": "87.4"
+  },
+  {
+    "tytul": "Niech się radują niebiosa i ziemia",
+    "numerDN": "354"
+  },
+  {
+    "tytul": "Niech w święto radosne",
+    "numerDN": "79.8"
+  },
+  {
+    "tytul": "Niech ziemia i niebo",
+    "numerDN": "277"
+  },
+  {
+    "tytul": "Niech żyje Jezus",
+    "numerDN": "337"
+  },
+  {
+    "tytul": "Nie nam, o Panie",
+    "numerDN": "6.13"
+  },
+  {
+    "tytul": "Nieogarniony całym światem, Boże",
+    "numerDN": "188"
+  },
+  {
+    "tytul": "Nie opuszczaj nas, (...) Jezu",
+    "numerDN": "713"
+  },
+  {
+    "tytul": "Nie opuszczaj nas, (...) Matko",
+    "numerDN": "819"
+  },
+  {
+    "tytul": "Nie płacz już, dziecino",
+    "numerDN": "820"
+  },
+  {
+    "tytul": "Niepojęte dary dla nas daje",
+    "numerDN": "417"
+  },
+  {
+    "tytul": "Niepokalanej Pani Cherubów",
+    "numerDN": "821"
+  },
+  {
+    "tytul": "Nierozdzielna Trójco Święta",
+    "numerDN": "606"
+  },
+  {
+    "tytul": "Nieskończona, najśliczniejsza",
+    "numerDN": "714"
+  },
+  {
+    "tytul": "Nieszpory ku czci Najświętszej Maryi Panny",
+    "numerDN": "83"
+  },
+  {
+    "tytul": "Nieszpory na niedziele i święta",
+    "numerDN": "5"
+  },
+  {
+    "tytul": "Nieszpory niedzielne",
+    "numerDN": "53-0"
+  },
+  {
+    "tytul": "Nie tak bystro płynie rzeka",
+    "numerDN": "453"
+  },
+  {
+    "tytul": "Nie tu ojczyzna",
+    "numerDN": "994"
+  },
+  {
+    "tytul": "Nie zna śmierci Pan żywota",
+    "numerDN": "559"
+  },
+  {
+    "tytul": "Nim czas się począł",
+    "numerDN": "7.1"
+  },
+  {
+    "tytul": "Niosę w darze Tobie, Chryste",
+    "numerDN": "222"
+  },
+  {
+    "tytul": "Niwy polskiej cudny kwiecie",
+    "numerDN": "939"
+  },
+  {
+    "tytul": "Noc ciemna i zimna",
+    "numerDN": "418"
+  },
+  {
+    "tytul": "Noc nadeszła pożądana",
+    "numerDN": "60.2"
+  },
+  {
+    "tytul": "Nowa Jutrzenko Kościoła świętego",
+    "numerDN": "944"
+  },
+  {
+    "tytul": "Nowy rok bieży",
+    "numerDN": "454"
+  },
+  {
+    "tytul": "O Anno, łaskiś pełna",
+    "numerDN": "927"
+  },
+  {
+    "tytul": "O Anno i Joachimie",
+    "numerDN": "926"
+  },
+  {
+    "tytul": "O Boże, dary Ci niesiemy",
+    "numerDN": "977"
+  },
+  {
+    "tytul": "* O Boże, dzięki Ci składamy",
+    "numerDN": "013"
+  },
+  {
+    "tytul": "O Boże mój, o Zbawicielu mój",
+    "numerDN": "473"
+  },
+  {
+    "tytul": "O Boże przedwieczny",
+    "numerDN": "995"
+  },
+  {
+    "tytul": "O Chryste Królu, Władco świata",
+    "numerDN": "623"
+  },
+  {
+    "tytul": "O Chryste, nasz Panie",
+    "numerDN": "176"
+  },
+  {
+    "tytul": "O człowiecze, wspomnij sobie",
+    "numerDN": "459"
+  },
+  {
+    "tytul": "Od bram dalekich wschodu słońca",
+    "numerDN": "419"
+  },
+  {
+    "tytul": "Od jutrzenki Ty jesteś piękniejsza",
+    "numerDN": "822"
+  },
+  {
+    "tytul": "O dobry Jezu, Ty chcesz",
+    "numerDN": "972"
+  },
+  {
+    "tytul": "O dobry Jezu mój",
+    "numerDN": "278"
+  },
+  {
+    "tytul": "Od rana wzywam Cię, Boże",
+    "numerDN": "153"
+  },
+  {
+    "tytul": "Odszedł Pasterz od nas",
+    "numerDN": "74.2"
+  },
+  {
+    "tytul": "O duszo wszelka, nabożna",
+    "numerDN": "507"
+  },
+  {
+    "tytul": "O duszo wszelka, nabożna",
+    "numerDN": "508"
+  },
+  {
+    "tytul": "Ofiara krzyża spełniona",
+    "numerDN": "509"
+  },
+  {
+    "tytul": "Ofiarujmy chwałę w wierze",
+    "numerDN": "560"
+  },
+  {
+    "tytul": "O Franciszku, Ojcze nas, ubogich",
+    "numerDN": "954"
+  },
+  {
+    "tytul": "O Gospodzie uwielbiona",
+    "numerDN": "355"
+  },
+  {
+    "tytul": "O grobie chwalebny",
+    "numerDN": "74.3"
+  },
+  {
+    "tytul": "Ogrodzie Oliwny",
+    "numerDN": "510"
+  },
+  {
+    "tytul": "O gwiazdo betlejemska",
+    "numerDN": "420"
+  },
+  {
+    "tytul": "O, jak są miłe Twe przybytki, Panie",
+    "numerDN": "715"
+  },
+  {
+    "tytul": "O, jak są wielkie dary Twoje",
+    "numerDN": "942"
+  },
+  {
+    "tytul": "Ojciec nam powierzył Słowo",
+    "numerDN": "654"
+  },
+  {
+    "tytul": "Ojcze, Boże wszechmogący",
+    "numerDN": "S11"
+  },
+  {
+    "tytul": "Ojcze Kolbe, Tyś na ziemi",
+    "numerDN": "932"
+  },
+  {
+    "tytul": "Ojcze Kolbe, Tyś włączony",
+    "numerDN": "933"
+  },
+  {
+    "tytul": "Ojcze Kolbe, w blasku niebios",
+    "numerDN": "934"
+  },
+  {
+    "tytul": "Ojcze, modlimy się do Ciebie",
+    "numerDN": "223"
+  },
+  {
+    "tytul": "Ojcze nasz",
+    "numerDN": "23.18"
+  },
+  {
+    "tytul": "Ojcze, Stwórco wszechświata",
+    "numerDN": "590"
+  },
+  {
+    "tytul": "Ojcze z niebios",
+    "numerDN": "224"
+  },
+  {
+    "tytul": "O Jezu mój, o Zbawco mój",
+    "numerDN": "512"
+  },
+  {
+    "tytul": "O Jezu, nasz Zbawicielu",
+    "numerDN": "60.1"
+  },
+  {
+    "tytul": "O Jezu słodki, dobry mój Panie",
+    "numerDN": "279"
+  },
+  {
+    "tytul": "O Józefie, coś szukał gospody",
+    "numerDN": "421"
+  },
+  {
+    "tytul": "O Józefie ukochany",
+    "numerDN": "902"
+  },
+  {
+    "tytul": "O Józefie ukochany",
+    "numerDN": "903"
+  },
+  {
+    "tytul": "O Krwi i Wodo",
+    "numerDN": "716"
+  },
+  {
+    "tytul": "O Krwi najdroższa",
+    "numerDN": "513"
+  },
+  {
+    "tytul": "O, której berła",
+    "numerDN": "823"
+  },
+  {
+    "tytul": "O Maryjo, bez grzechu poczęta",
+    "numerDN": "824"
+  },
+  {
+    "tytul": "O Maryjo, czemu biegniesz w niebo",
+    "numerDN": "825"
+  },
+  {
+    "tytul": "O Maryjo, Królowo nasza",
+    "numerDN": "826"
+  },
+  {
+    "tytul": "O Maryjo, kwiecie biały",
+    "numerDN": "827"
+  },
+  {
+    "tytul": "O Maryjo, Matko Boga",
+    "numerDN": "828"
+  },
+  {
+    "tytul": "O Maryjo, Matko Boga",
+    "numerDN": "829"
+  },
+  {
+    "tytul": "O Maryjo, moja radość",
+    "numerDN": "830"
+  },
+  {
+    "tytul": "O Maryjo, nasza Pani",
+    "numerDN": "831"
+  },
+  {
+    "tytul": "O Maryjo, przyjm w ofierze",
+    "numerDN": "832"
+  },
+  {
+    "tytul": "O Maryjo, świata Pani",
+    "numerDN": "833"
+  },
+  {
+    "tytul": "O Maryjo, Tobie chwała",
+    "numerDN": "834"
+  },
+  {
+    "tytul": "O Maryjo, witam Cię",
+    "numerDN": "835"
+  },
+  {
+    "tytul": "O Maryjo, wspomnij na mnie",
+    "numerDN": "836"
+  },
+  {
+    "tytul": "O Matko, dzięki za hojne dary",
+    "numerDN": "837"
+  },
+  {
+    "tytul": "O Matko miłościwa",
+    "numerDN": "838"
+  },
+  {
+    "tytul": "O milcząca Hostio biała",
+    "numerDN": "655"
+  },
+  {
+    "tytul": "O mili Królowie",
+    "numerDN": "458"
+  },
+  {
+    "tytul": "O Najświętsza Matko Boża",
+    "numerDN": "839"
+  },
+  {
+    "tytul": "O Najświętsza Rodzico",
+    "numerDN": "840"
+  },
+  {
+    "tytul": "O, niewysłowione szczęście zajaśniało",
+    "numerDN": "717"
+  },
+  {
+    "tytul": "O Panie, naucz nas",
+    "numerDN": "280"
+  },
+  {
+    "tytul": "O Panie, otwierasz rękę swoją",
+    "numerDN": "656"
+  },
+  {
+    "tytul": "O Panie, Ty nam dajesz",
+    "numerDN": "281"
+  },
+  {
+    "tytul": "O Panie, Tyś moim pasterzem",
+    "numerDN": "282"
+  },
+  {
+    "tytul": "O Panie, ześlij swego Ducha",
+    "numerDN": "225"
+  },
+  {
+    "tytul": "O Panie, z nami w czasie chrztu",
+    "numerDN": "474"
+  },
+  {
+    "tytul": "O Przedwieczny nasz Panie",
+    "numerDN": "226"
+  },
+  {
+    "tytul": "O Przenajświętsza Perło",
+    "numerDN": "610"
+  },
+  {
+    "tytul": "O salutaris Hostia",
+    "numerDN": "657"
+  },
+  {
+    "tytul": "O Serce Boga mego",
+    "numerDN": "718"
+  },
+  {
+    "tytul": "O Serce Boże, skryte w Hostii",
+    "numerDN": "719"
+  },
+  {
+    "tytul": "O Serce Jezusa, u Ciebie schronienia",
+    "numerDN": "720"
+  },
+  {
+    "tytul": "O Serce Maryi, Niepokalane",
+    "numerDN": "841"
+  },
+  {
+    "tytul": "O Stanisławie, kwiecie wybrany",
+    "numerDN": "945"
+  },
+  {
+    "tytul": "O Stworzycielu Duchu, przyjdź",
+    "numerDN": "591"
+  },
+  {
+    "tytul": "O świcie szukam Ciebie, Boże",
+    "numerDN": "2.4"
+  },
+  {
+    "tytul": "O święci Anno, Joachimie",
+    "numerDN": "928"
+  },
+  {
+    "tytul": "O święta Uczto, gdzie swoim Ciałem",
+    "numerDN": "283"
+  },
+  {
+    "tytul": "O święta Uczto, gdzie swoim Ciałem",
+    "numerDN": "284"
+  },
+  {
+    "tytul": "O święta Uczto, Uczto wspólnoty",
+    "numerDN": "285"
+  },
+  {
+    "tytul": "O święta Uczto, w której pożywamy",
+    "numerDN": "286"
+  },
+  {
+    "tytul": "O tajemniczy Płomieniu",
+    "numerDN": "592"
+  },
+  {
+    "tytul": "Oto Chleb Aniołów",
+    "numerDN": "287"
+  },
+  {
+    "tytul": "Otoczon gronem świętych Aniołów",
+    "numerDN": "583"
+  },
+  {
+    "tytul": "Otocz pomocą, Matko, swe dzieci",
+    "numerDN": "842"
+  },
+  {
+    "tytul": "Oto drzewo Krzyża",
+    "numerDN": "73.1"
+  },
+  {
+    "tytul": "Oto dzień, który Pan uczynił",
+    "numerDN": "561"
+  },
+  {
+    "tytul": "Oto dzień, w którym Pan nasz zmartwychwstał",
+    "numerDN": "562"
+  },
+  {
+    "tytul": "Oto ja służebnica Pańska",
+    "numerDN": "83.5"
+  },
+  {
+    "tytul": "Oto jest Baranek Boży",
+    "numerDN": "288"
+  },
+  {
+    "tytul": "Oto jest Kapłan wielki",
+    "numerDN": "979"
+  },
+  {
+    "tytul": "Oto już bledną mroczne cienie nocy",
+    "numerDN": "2.3"
+  },
+  {
+    "tytul": "Oto Pan Bóg przyjdzie",
+    "numerDN": "356"
+  },
+  {
+    "tytul": "Oto Pan Bóg przyjdzie",
+    "numerDN": "357"
+  },
+  {
+    "tytul": "Oto Panna pocznie",
+    "numerDN": "340.5"
+  },
+  {
+    "tytul": "Oto Panna pocznie",
+    "numerDN": "358"
+  },
+  {
+    "tytul": "Oto Pan przybywa",
+    "numerDN": "359"
+  },
+  {
+    "tytul": "Oto święte Ciało Pana",
+    "numerDN": "289"
+  },
+  {
+    "tytul": "Otrzyjcie już łzy, płaczący",
+    "numerDN": "563"
+  },
+  {
+    "tytul": "* Otwórzcie drzwi Chrystusowi",
+    "numerDN": "014"
+  },
+  {
+    "tytul": "O zbawcza Hostio",
+    "numerDN": "658"
+  },
+  {
+    "tytul": "Ozdobo młodzi, święty Stanisławie",
+    "numerDN": "946"
+  },
+  {
+    "tytul": "Padnijmy twarzą na ziemię",
+    "numerDN": "475"
+  },
+  {
+    "tytul": "Pamiątkę dnia świątecznego",
+    "numerDN": "593"
+  },
+  {
+    "tytul": "Pan Bóg wzbudził dla nas moc zbawczą",
+    "numerDN": "2.11"
+  },
+  {
+    "tytul": "Panie, co mieszkasz na wysokim niebie",
+    "numerDN": "461.1"
+  },
+  {
+    "tytul": "Panie, daj zmarłym wieczne spoczywanie",
+    "numerDN": "996"
+  },
+  {
+    "tytul": "Panie, dobry jak chleb",
+    "numerDN": "290"
+  },
+  {
+    "tytul": "Panie i Boże, grzeszników chroń",
+    "numerDN": "291"
+  },
+  {
+    "tytul": "Panie Jezu, Chryste",
+    "numerDN": "157"
+  },
+  {
+    "tytul": "Panie mój, cóż Ci oddać mogę",
+    "numerDN": "327"
+  },
+  {
+    "tytul": "Panie, nogi Twe całuję",
+    "numerDN": "514"
+  },
+  {
+    "tytul": "Panie, pragnienia ludzkich serc",
+    "numerDN": "292"
+  },
+  {
+    "tytul": "Panie, Ty Jesteś naszym życiem i zbawieniem",
+    "numerDN": "2.13"
+  },
+  {
+    "tytul": "Panie, Ty widzisz, krzyża się nie lękam",
+    "numerDN": "S15"
+  },
+  {
+    "tytul": "Panie, umocnij wiarę naszą",
+    "numerDN": "227"
+  },
+  {
+    "tytul": "Pani, w ofierze",
+    "numerDN": "843"
+  },
+  {
+    "tytul": "Pan jest blisko, już przychodzi",
+    "numerDN": "360"
+  },
+  {
+    "tytul": "Pan jest wielkim Bogiem",
+    "numerDN": "328"
+  },
+  {
+    "tytul": "Pan Jezus grzechy nasze",
+    "numerDN": "516"
+  },
+  {
+    "tytul": "Pan Jezus już się zbliża",
+    "numerDN": "293"
+  },
+  {
+    "tytul": "Pan, mój Wódz i Pasterz mój",
+    "numerDN": "228"
+  },
+  {
+    "tytul": "Pan nie opuszcza nigdy",
+    "numerDN": "329"
+  },
+  {
+    "tytul": "Pan rozciągnie moc swego berła",
+    "numerDN": "7.3"
+  },
+  {
+    "tytul": "Pan uczynił wielkie rzeczy",
+    "numerDN": "294"
+  },
+  {
+    "tytul": "Pan wieczernik przygotował",
+    "numerDN": "295"
+  },
+  {
+    "tytul": "Pan zmartwychwstał i jest z nami",
+    "numerDN": "564"
+  },
+  {
+    "tytul": "Pan z nieba i łona Ojca",
+    "numerDN": "422"
+  },
+  {
+    "tytul": "Pan zstąpił z nieba",
+    "numerDN": "659"
+  },
+  {
+    "tytul": "Parce Domine",
+    "numerDN": "476"
+  },
+  {
+    "tytul": "Pasterze bieżeli, gdy głos usłyszeli",
+    "numerDN": "423"
+  },
+  {
+    "tytul": "Pasterze mili, coście widzieli",
+    "numerDN": "424"
+  },
+  {
+    "tytul": "Pater noster",
+    "numerDN": "159"
+  },
+  {
+    "tytul": "Pełna świętości",
+    "numerDN": "844"
+  },
+  {
+    "tytul": "Pierworodny spośród stworzeń",
+    "numerDN": "624"
+  },
+  {
+    "tytul": "Pieśnią wesela witamy",
+    "numerDN": "845"
+  },
+  {
+    "tytul": "Pieśń wdzięczności śpiewaj Panu",
+    "numerDN": "330"
+  },
+  {
+    "tytul": "* Pij twój kielich z Bożej woli",
+    "numerDN": "015"
+  },
+  {
+    "tytul": "Płaczcie Anieli, płaczcie Duchy święte",
+    "numerDN": "517"
+  },
+  {
+    "tytul": "Płacz, płacz kto żyw",
+    "numerDN": "518"
+  },
+  {
+    "tytul": "Płacz, płacz kto żyw",
+    "numerDN": "519"
+  },
+  {
+    "tytul": "Płaczże dzisiaj, duszo wszelka",
+    "numerDN": "520"
+  },
+  {
+    "tytul": "Pobłogosław, Jezu drogi",
+    "numerDN": "721"
+  },
+  {
+    "tytul": "Pobłogosław, Jezu drogi",
+    "numerDN": "721"
+  },
+  {
+    "tytul": "Pobłogosław lud Twój, Panie",
+    "numerDN": "660"
+  },
+  {
+    "tytul": "Pobłogosław, Matko, wierne dzieci Twe",
+    "numerDN": "846"
+  },
+  {
+    "tytul": "Pobożni ludzie, w głos Pana chwalcie",
+    "numerDN": "910"
+  },
+  {
+    "tytul": "Pobożnych dusze żyją",
+    "numerDN": "997"
+  },
+  {
+    "tytul": "Pochwalon bądź, o mój Jezu",
+    "numerDN": "661"
+  },
+  {
+    "tytul": "Podnieście w górę bramy",
+    "numerDN": "340.2"
+  },
+  {
+    "tytul": "Pod sztandarem Twym stajemy",
+    "numerDN": "847"
+  },
+  {
+    "tytul": "Pod Twą obronę, Ojcze na niebie",
+    "numerDN": "229"
+  },
+  {
+    "tytul": "Pod Twoją obronę",
+    "numerDN": "85.2"
+  },
+  {
+    "tytul": "Pod Twój płaszcz się uciekamy",
+    "numerDN": "848"
+  },
+  {
+    "tytul": "Po górach, dolinach",
+    "numerDN": "849"
+  },
+  {
+    "tytul": "Pokarmie Aniołów",
+    "numerDN": "662"
+  },
+  {
+    "tytul": "Pokładam w Panu ufność mą",
+    "numerDN": "230"
+  },
+  {
+    "tytul": "Pokłon Tobie",
+    "numerDN": "663"
+  },
+  {
+    "tytul": "Pokropisz hizopem, Panie",
+    "numerDN": "179"
+  },
+  {
+    "tytul": "Pokropisz hizopem, Panie",
+    "numerDN": "180"
+  },
+  {
+    "tytul": "Pomiędzy lud swój idzie sam",
+    "numerDN": "296"
+  },
+  {
+    "tytul": "Pomnij, Maryjo, Matko miła",
+    "numerDN": "850"
+  },
+  {
+    "tytul": "Pomnij, o Najświętsza Panno",
+    "numerDN": "851"
+  },
+  {
+    "tytul": "Posypmy głowy popiołem",
+    "numerDN": "460"
+  },
+  {
+    "tytul": "Potężny Boże, na ziemi i niebie",
+    "numerDN": "231"
+  },
+  {
+    "tytul": "Po upadku człowieka grzesznego",
+    "numerDN": "361"
+  },
+  {
+    "tytul": "Powiedzcie, pasterze mili",
+    "numerDN": "425"
+  },
+  {
+    "tytul": "* Pozdrawiam Cię, Anno Święta",
+    "numerDN": "016"
+  },
+  {
+    "tytul": "Pozdrawiam Cię, o Maryjo",
+    "numerDN": "852"
+  },
+  {
+    "tytul": "Pozwól mi Twe męki śpiewać",
+    "numerDN": "521"
+  },
+  {
+    "tytul": "Pozwól mi Twe męki śpiewać",
+    "numerDN": "522"
+  },
+  {
+    "tytul": "Pójdę za Jezusem",
+    "numerDN": "461.3"
+  },
+  {
+    "tytul": "Pójdźcie błogosławić Pana",
+    "numerDN": "664"
+  },
+  {
+    "tytul": "Pójdź do Jezusa",
+    "numerDN": "665"
+  },
+  {
+    "tytul": "Pójdźmy do Pana z winnym pokłonem",
+    "numerDN": "232"
+  },
+  {
+    "tytul": "Pójdźmy, pokłońmy się Panu",
+    "numerDN": "233"
+  },
+  {
+    "tytul": "Pójdźmy wszyscy do stajenki",
+    "numerDN": "426"
+  },
+  {
+    "tytul": "Pójdźmy wszyscy oddać cześć",
+    "numerDN": "723"
+  },
+  {
+    "tytul": "* Prosił mój Jezus Jana Chrzciciela",
+    "numerDN": "017"
+  },
+  {
+    "tytul": "Przebłaganie Najśw. Serca Jezusowego (I)",
+    "numerDN": "54.3"
+  },
+  {
+    "tytul": "Przebłaganie Najśw. Serca Jezusowego (II)",
+    "numerDN": "54.4"
+  },
+  {
+    "tytul": "Przed Bożym tronem",
+    "numerDN": "666"
+  },
+  {
+    "tytul": "Przed obliczem Pana",
+    "numerDN": "7.5"
+  },
+  {
+    "tytul": "Przed Oczy Twoje, Panie",
+    "numerDN": "477"
+  },
+  {
+    "tytul": "Przed tak wielkim Sakramentem",
+    "numerDN": "667"
+  },
+  {
+    "tytul": "Przed tak wielkim Sakramentem",
+    "numerDN": "668"
+  },
+  {
+    "tytul": "Przed tak wielkim Sakramentem",
+    "numerDN": "669"
+  },
+  {
+    "tytul": "Przed Twojego dziś ołtarza tronem",
+    "numerDN": "297"
+  },
+  {
+    "tytul": "Przed Twym tronem upadamy",
+    "numerDN": "189"
+  },
+  {
+    "tytul": "Przed wieki wybrana",
+    "numerDN": "853"
+  },
+  {
+    "tytul": "Przepuść, Panie, przepuść ludowi Twojemu",
+    "numerDN": "54.3"
+  },
+  {
+    "tytul": "Przeradosna i miłosna",
+    "numerDN": "854"
+  },
+  {
+    "tytul": "Przesłodkie jest Serce Jezusa",
+    "numerDN": "724"
+  },
+  {
+    "tytul": "Prześliczna Panno nad panny",
+    "numerDN": "855"
+  },
+  {
+    "tytul": "Przez chrztu świętego wielki dar",
+    "numerDN": "234"
+  },
+  {
+    "tytul": "Przez czyśćcowe upalenia",
+    "numerDN": "998"
+  },
+  {
+    "tytul": "Przez lądy i morza",
+    "numerDN": "935"
+  },
+  {
+    "tytul": "Przez Twoją Krew, o Chryste",
+    "numerDN": "14.7"
+  },
+  {
+    "tytul": "Przez Twoje święte Zmartwychpowstanie",
+    "numerDN": "565"
+  },
+  {
+    "tytul": "Przybądźcie, Święci Boży",
+    "numerDN": "41.11"
+  },
+  {
+    "tytul": "Przybądźcie z nieba",
+    "numerDN": "41.10"
+  },
+  {
+    "tytul": "Przybądź, Duchu Stworzycielu",
+    "numerDN": "594"
+  },
+  {
+    "tytul": "Przybądź, Duchu Święty",
+    "numerDN": "595"
+  },
+  {
+    "tytul": "Przybądź, Panie, bo czekamy",
+    "numerDN": "362"
+  },
+  {
+    "tytul": "Przybądź, Stwórco, Duchu Boży",
+    "numerDN": "596"
+  },
+  {
+    "tytul": "Przybieżeli do Betlejem pasterze",
+    "numerDN": "427"
+  },
+  {
+    "tytul": "Przygotuję Ci serce, o Chryste",
+    "numerDN": "298"
+  },
+  {
+    "tytul": "Przyjdźcie do mnie wszyscy",
+    "numerDN": "235"
+  },
+  {
+    "tytul": "Przyjdź do nas, przyjdź",
+    "numerDN": "363"
+  },
+  {
+    "tytul": "Przyjdź, Duchu Święty",
+    "numerDN": "597"
+  },
+  {
+    "tytul": "Przyjdź królestwo Twoje, Panie",
+    "numerDN": "6.9"
+  },
+  {
+    "tytul": "Przykazanie nowe daję wam",
+    "numerDN": "299"
+  },
+  {
+    "tytul": "Przykazanie nowe daję wam",
+    "numerDN": "300"
+  },
+  {
+    "tytul": "Przylecieli Aniołowie",
+    "numerDN": "428"
+  },
+  {
+    "tytul": "Przy obchodzie",
+    "numerDN": "739"
+  },
+  {
+    "tytul": "Przy obchodzie",
+    "numerDN": "740"
+  },
+  {
+    "tytul": "Przy onej górze świecą się zorze",
+    "numerDN": "429"
+  },
+  {
+    "tytul": "Przystąpcie bliżej, grzesznicy",
+    "numerDN": "523"
+  },
+  {
+    "tytul": "Przystąpię do ołtarza Bożego",
+    "numerDN": "236"
+  },
+  {
+    "tytul": "Przystąpmy do szopy",
+    "numerDN": "430"
+  },
+  {
+    "tytul": "Racz być, Chryste, przebłaganym",
+    "numerDN": "959"
+  },
+  {
+    "tytul": "Racz przyjąć uwielbienie",
+    "numerDN": "190"
+  },
+  {
+    "tytul": "Racz wiekuiste dać odpoczywanie",
+    "numerDN": "999"
+  },
+  {
+    "tytul": "Radosna Światłości",
+    "numerDN": "599"
+  },
+  {
+    "tytul": "Radośnie Panu hymn śpiewajmy",
+    "numerDN": "331"
+  },
+  {
+    "tytul": "Radujcie się",
+    "numerDN": "364"
+  },
+  {
+    "tytul": "Raduj się, nieba Królowo",
+    "numerDN": "566"
+  },
+  {
+    "tytul": "Raduj się, nieba Królowo",
+    "numerDN": "567"
+  },
+  {
+    "tytul": "Raduj się, ziemio",
+    "numerDN": "365"
+  },
+  {
+    "tytul": "Regina caeli laetare",
+    "numerDN": "568"
+  },
+  {
+    "tytul": "Rochu święty, dla Twej chwały",
+    "numerDN": "936"
+  },
+  {
+    "tytul": "Rodzino Święta, opieki Twej trzeba",
+    "numerDN": "448"
+  },
+  {
+    "tytul": "Rodzino święta, ozdobo i chwało",
+    "numerDN": "449"
+  },
+  {
+    "tytul": "Rodzino święta, proszę",
+    "numerDN": "450"
+  },
+  {
+    "tytul": "Rodzino święta, wśród rodzin jedyna",
+    "numerDN": "451"
+  },
+  {
+    "tytul": "Rolniku sławny, święty Izydorze",
+    "numerDN": "914"
+  },
+  {
+    "tytul": "Rorate caeli",
+    "numerDN": "366"
+  },
+  {
+    "tytul": "Rozkwitnęła się lilija",
+    "numerDN": "431"
+  },
+  {
+    "tytul": "Rozmyślajmy dziś, wierni chrześcijanie",
+    "numerDN": "524"
+  },
+  {
+    "tytul": "Rozmyślajmy dziś, wierni chrześcijanie",
+    "numerDN": "64.3"
+  },
+  {
+    "tytul": "Rozpłyńcie się, me źrenice",
+    "numerDN": "525"
+  },
+  {
+    "tytul": "Rzekł Pan do Pana mego",
+    "numerDN": "6.3a"
+  },
+  {
+    "tytul": "Rzekł Pan do Pana mego B",
+    "numerDN": "6.3b"
+  },
+  {
+    "tytul": "Rzekł Pan do Pana mego C",
+    "numerDN": "7.4"
+  },
+  {
+    "tytul": "Rzućmy się wszyscy społem",
+    "numerDN": "670"
+  },
+  {
+    "tytul": "Salve Regina, mater misericordiae",
+    "numerDN": "856"
+  },
+  {
+    "tytul": "Salve Regina, zawitaj Królowo",
+    "numerDN": "857"
+  },
+  {
+    "tytul": "Serce Jezusa, ciche, pokorne",
+    "numerDN": "725"
+  },
+  {
+    "tytul": "Serce Jezusa, miłości tronie",
+    "numerDN": "726"
+  },
+  {
+    "tytul": "Serce Jezusa, Wszechwładco dusz",
+    "numerDN": "727"
+  },
+  {
+    "tytul": "Serce me do Ciebie wznoszę",
+    "numerDN": "237"
+  },
+  {
+    "tytul": "Serce Najświętsze, Tobie niebo całe",
+    "numerDN": "728"
+  },
+  {
+    "tytul": "Serce Przeczystej Dziewicy",
+    "numerDN": "858"
+  },
+  {
+    "tytul": "Serce Twe, Jezu, miłością goreje",
+    "numerDN": "729"
+  },
+  {
+    "tytul": "Serce Zbawiciela, pełne Bożej chwały",
+    "numerDN": "730"
+  },
+  {
+    "tytul": "Serdeczna Matko",
+    "numerDN": "859"
+  },
+  {
+    "tytul": "Skądże, Jezu miły",
+    "numerDN": "731"
+  },
+  {
+    "tytul": "Składamy Ci, Ojcze",
+    "numerDN": "238"
+  },
+  {
+    "tytul": "Skończone nasze rozważania",
+    "numerDN": "87.5"
+  },
+  {
+    "tytul": "Skosztujcie i zobaczcie, jak dobry jest Pan",
+    "numerDN": "301"
+  },
+  {
+    "tytul": "Sławcie usta Ciało Pana",
+    "numerDN": "671"
+  },
+  {
+    "tytul": "Sław, języku, bój chwalebny",
+    "numerDN": "526"
+  },
+  {
+    "tytul": "Sław, języku, Tajemnicę",
+    "numerDN": "672"
+  },
+  {
+    "tytul": "Sławna Matko Zbawiciela",
+    "numerDN": "860"
+  },
+  {
+    "tytul": "Sławna Matko Zbawiciela",
+    "numerDN": "861"
+  },
+  {
+    "tytul": "Sławny w męczenników gronie",
+    "numerDN": "907"
+  },
+  {
+    "tytul": "Słodki Chlebie anielski",
+    "numerDN": "673"
+  },
+  {
+    "tytul": "Słonko zaszło za górami",
+    "numerDN": "158"
+  },
+  {
+    "tytul": "Słowiczki już śpiewają",
+    "numerDN": "862"
+  },
+  {
+    "tytul": "Słuchaj głosu Gabriela",
+    "numerDN": "87.2"
+  },
+  {
+    "tytul": "Słychać głos strażnika",
+    "numerDN": "367"
+  },
+  {
+    "tytul": "Słyszę z nieba muzykę",
+    "numerDN": "432"
+  },
+  {
+    "tytul": "Spojrzyj z nieba wysokiego",
+    "numerDN": "239"
+  },
+  {
+    "tytul": "Spuśćcie nam na ziemskie niwy",
+    "numerDN": "368"
+  },
+  {
+    "tytul": "Spuśćcie nam na ziemskie niwy",
+    "numerDN": "369"
+  },
+  {
+    "tytul": "Spuśćcie rosę, niebiosa",
+    "numerDN": "340.1"
+  },
+  {
+    "tytul": "Stała Matka boleściwa",
+    "numerDN": "541"
+  },
+  {
+    "tytul": "Stała Matka boleściwa",
+    "numerDN": "542"
+  },
+  {
+    "tytul": "Stanę pod krzyżem",
+    "numerDN": "527"
+  },
+  {
+    "tytul": "Stworzycielu gwiazd świecących",
+    "numerDN": "370"
+  },
+  {
+    "tytul": "Stwórca chleba, Stwórca wina",
+    "numerDN": "240"
+  },
+  {
+    "tytul": "Stwórco gwiaździstych przestworzy",
+    "numerDN": "371"
+  },
+  {
+    "tytul": "Stwórco światłości najlepszy",
+    "numerDN": "6.2"
+  },
+  {
+    "tytul": "Suplikacje",
+    "numerDN": "339"
+  },
+  {
+    "tytul": "Synu Boży narodzony",
+    "numerDN": "674"
+  },
+  {
+    "tytul": "Szczęśliwi ludzie szukający Boga",
+    "numerDN": "970"
+  },
+  {
+    "tytul": "* Szczęśliwy człowiek, który ufa Tobie",
+    "numerDN": "018"
+  },
+  {
+    "tytul": "Szczęśliwy i nie zna kaźni",
+    "numerDN": "6.5a"
+  },
+  {
+    "tytul": "Szczęśliwy i nie zna kaźni B",
+    "numerDN": "6.5b"
+  },
+  {
+    "tytul": "Szczęśliwy i nie zna kaźni C",
+    "numerDN": "6.5c"
+  },
+  {
+    "tytul": "Szczęśliwy, kto sobie Patrona",
+    "numerDN": "904"
+  },
+  {
+    "tytul": "Szukajcie tego, co w górze",
+    "numerDN": "569"
+  },
+  {
+    "tytul": "Śliczna Panienka Jezusa zrodziła",
+    "numerDN": "433"
+  },
+  {
+    "tytul": "Śliczny Jezu, miły Panie",
+    "numerDN": "528"
+  },
+  {
+    "tytul": "Śpiewajcie Panu pieśń nową",
+    "numerDN": "2.9"
+  },
+  {
+    "tytul": "Śpiewajcie Panu z weselem",
+    "numerDN": "60.4"
+  },
+  {
+    "tytul": "* Śpiewajmy Pokornej",
+    "numerDN": "019"
+  },
+  {
+    "tytul": "Śpiewaj, śpiewaj sercem całym",
+    "numerDN": "332"
+  },
+  {
+    "tytul": "Śpiewa mi słowiczek",
+    "numerDN": "863"
+  },
+  {
+    "tytul": "Śpijże już po twoim boju",
+    "numerDN": "1000"
+  },
+  {
+    "tytul": "Światło na oświecenie pogan",
+    "numerDN": "600"
+  },
+  {
+    "tytul": "Światło na oświecenie pogan",
+    "numerDN": "601"
+  },
+  {
+    "tytul": "Światłość wiekuista niechaj im świeci",
+    "numerDN": "1001"
+  },
+  {
+    "tytul": "Święta Anno, witam Cię",
+    "numerDN": "929"
+  },
+  {
+    "tytul": "Święta Anno, żegnam Cię",
+    "numerDN": "930"
+  },
+  {
+    "tytul": "Święta Maryjo, usłysz nas",
+    "numerDN": "864"
+  },
+  {
+    "tytul": "Święta myśl jest modlić się",
+    "numerDN": "1002"
+  },
+  {
+    "tytul": "Święta Panno, Tyś nad wszystkie",
+    "numerDN": "865"
+  },
+  {
+    "tytul": "Święty Antoni, cudotwórco Boży",
+    "numerDN": "918"
+  },
+  {
+    "tytul": "Święty Boże, Święty Mocny",
+    "numerDN": "339"
+  },
+  {
+    "tytul": "Święty Jacku, nasz Patronie",
+    "numerDN": "940"
+  },
+  {
+    "tytul": "Święty Jacku, Patronie nasz",
+    "numerDN": "941"
+  },
+  {
+    "tytul": "Święty Janie Nepomucki",
+    "numerDN": "916"
+  },
+  {
+    "tytul": "Święty Józefie, w niebie uwielbiony",
+    "numerDN": "905"
+  },
+  {
+    "tytul": "Święty(...), Patronie nasz",
+    "numerDN": "973"
+  },
+  {
+    "tytul": "Święty Rochu, nasz Patronie",
+    "numerDN": "937"
+  },
+  {
+    "tytul": "Święty, Święty, Święty (...) zawsze Święty",
+    "numerDN": "675"
+  },
+  {
+    "tytul": "Święty Wojciechu, Patronie nasz",
+    "numerDN": "908"
+  },
+  {
+    "tytul": "Tam, w niebieskiej krainie",
+    "numerDN": "866"
+  },
+  {
+    "tytul": "Tantum ergo Sacramentum",
+    "numerDN": "676"
+  },
+  {
+    "tytul": "Tantum ergo Sacramentum",
+    "numerDN": "677"
+  },
+  {
+    "tytul": "Tantum ergo Sacramentum",
+    "numerDN": "678"
+  },
+  {
+    "tytul": "Tobie, Boże, wznosim pienia",
+    "numerDN": "1003"
+  },
+  {
+    "tytul": "Tobie ja żyję, Tobie umieram",
+    "numerDN": "302"
+  },
+  {
+    "tytul": "Tobie ja żyję, z Ciebie Krynicy",
+    "numerDN": "303"
+  },
+  {
+    "tytul": "Tobie, Królowo, śpiewamy",
+    "numerDN": "867"
+  },
+  {
+    "tytul": "Tobie nad pomysł",
+    "numerDN": "372"
+  },
+  {
+    "tytul": "Tobie niech zabrzmi, Boże",
+    "numerDN": "923"
+  },
+  {
+    "tytul": "* To Ty, o Panie, Chlebie nasz",
+    "numerDN": "020"
+  },
+  {
+    "tytul": "Trójcy Najświętszej naszą cześć",
+    "numerDN": "607"
+  },
+  {
+    "tytul": "Tryumfy Króla niebieskiego",
+    "numerDN": "434"
+  },
+  {
+    "tytul": "Trzej młodzieńcy w piecu ognistym",
+    "numerDN": "2.6"
+  },
+  {
+    "tytul": "Twemu Sercu cześć składamy",
+    "numerDN": "732"
+  },
+  {
+    "tytul": "Twemu Sercu cześć składamy",
+    "numerDN": "733"
+  },
+  {
+    "tytul": "Twoja cześć, chwała",
+    "numerDN": "679"
+  },
+  {
+    "tytul": "Twych, Panie, łask",
+    "numerDN": "241"
+  },
+  {
+    "tytul": "Ty, Boże, wszystko wiesz",
+    "numerDN": "242"
+  },
+  {
+    "tytul": "Ty, coś najdroższe na tym świecie",
+    "numerDN": "906"
+  },
+  {
+    "tytul": "Ty, coś Synem Bożym jest",
+    "numerDN": "529"
+  },
+  {
+    "tytul": "Ty, któryś gorzko na krzyżu umierał",
+    "numerDN": "530"
+  },
+  {
+    "tytul": "Tylko Bóg mi dopomoże",
+    "numerDN": "243"
+  },
+  {
+    "tytul": "Tysiąckroć bądź pozdrowiona",
+    "numerDN": "868"
+  },
+  {
+    "tytul": "Tysiąckroć bądź pozdrowiona",
+    "numerDN": "869"
+  },
+  {
+    "tytul": "Tysiąc razy pozdrawiamy Ciebie",
+    "numerDN": "870"
+  },
+  {
+    "tytul": "* Tyś w wieczerniku Chlebem się stał",
+    "numerDN": "021"
+  },
+  {
+    "tytul": "Ty, wszechmocny Panie",
+    "numerDN": "244"
+  },
+  {
+    "tytul": "Ty wyzwoliłeś nas, Panie",
+    "numerDN": "338"
+  },
+  {
+    "tytul": "Ucieczko grzesznych, Matko litości",
+    "numerDN": "871"
+  },
+  {
+    "tytul": "Ucieszyła mnie wieść pożądana",
+    "numerDN": "83.4"
+  },
+  {
+    "tytul": "Uczcie się ode mnie",
+    "numerDN": "245"
+  },
+  {
+    "tytul": "U drzwi Twoich stoję, Panie",
+    "numerDN": "680"
+  },
+  {
+    "tytul": "Ufność miałem nawet wtedy, gdy mówiłem",
+    "numerDN": "41.18"
+  },
+  {
+    "tytul": "Uklęknij na kolana",
+    "numerDN": "681"
+  },
+  {
+    "tytul": "Umiłowałeś swój Kościół",
+    "numerDN": "37.5"
+  },
+  {
+    "tytul": "Uniżam się z największą czcią",
+    "numerDN": "682"
+  },
+  {
+    "tytul": "Upadnij na kolana",
+    "numerDN": "683"
+  },
+  {
+    "tytul": "Urząd zbawienia ludzkiego",
+    "numerDN": "373"
+  },
+  {
+    "tytul": "Usłysz, Jezu, prośby moje",
+    "numerDN": "304"
+  },
+  {
+    "tytul": "Usłysz, Panie dobrotliwy",
+    "numerDN": "478"
+  },
+  {
+    "tytul": "Ustrój ołtarz Twój, Syjonie",
+    "numerDN": "602"
+  },
+  {
+    "tytul": "Uwielbiaj, duszo moja, sławę Pana",
+    "numerDN": "6.7a"
+  },
+  {
+    "tytul": "Uwielbiaj, duszo moja, sławę Pana B",
+    "numerDN": "6.7b"
+  },
+  {
+    "tytul": "Uwielbiaj, duszo moja, sławę Pana C",
+    "numerDN": "6.7c"
+  },
+  {
+    "tytul": "Uwielbiajmy zawsze, wszędzie",
+    "numerDN": "684"
+  },
+  {
+    "tytul": "Veni Creator Spiritus",
+    "numerDN": "598"
+  },
+  {
+    "tytul": "W chwale Bożej, na niebiosach",
+    "numerDN": "961"
+  },
+  {
+    "tytul": "W czasie świętym, adwentowym",
+    "numerDN": "374"
+  },
+  {
+    "tytul": "W drogę pokoju",
+    "numerDN": "982"
+  },
+  {
+    "tytul": "W dzień Bożego Narodzenia",
+    "numerDN": "435"
+  },
+  {
+    "tytul": "Wejrzyj na nas, przebacz nam grzechy",
+    "numerDN": "479"
+  },
+  {
+    "tytul": "Wesel się, Królowo miła",
+    "numerDN": "570"
+  },
+  {
+    "tytul": "Wesel się, Królowo rajska",
+    "numerDN": "571"
+  },
+  {
+    "tytul": "Wesel się, ludu strapiony",
+    "numerDN": "572"
+  },
+  {
+    "tytul": "Wesel się, nieba Królowo",
+    "numerDN": "573"
+  },
+  {
+    "tytul": "Wesołą nowinę, bracia, słuchajcie",
+    "numerDN": "436"
+  },
+  {
+    "tytul": "Wesoły nam dzień dziś nastał",
+    "numerDN": "574"
+  },
+  {
+    "tytul": "We wielkiej sławie jest miasto Trzebnica",
+    "numerDN": "958"
+  },
+  {
+    "tytul": "Wezwania do Ducha Świętego",
+    "numerDN": "37.2"
+  },
+  {
+    "tytul": "Wezwania do Matki Bożej",
+    "numerDN": "85.7a"
+  },
+  {
+    "tytul": "Wezwania do Matki Bożej B",
+    "numerDN": "85.7b"
+  },
+  {
+    "tytul": "Wezwania do Matki Miłosierdzia",
+    "numerDN": "85.8"
+  },
+  {
+    "tytul": "Wezwania do św. Jadwigi (I)",
+    "numerDN": "96.1"
+  },
+  {
+    "tytul": "Wezwania do św. Jadwigi (II)",
+    "numerDN": "96.2"
+  },
+  {
+    "tytul": "Weź w swą opiekę",
+    "numerDN": "872"
+  },
+  {
+    "tytul": "W głębi serca mego",
+    "numerDN": "873"
+  },
+  {
+    "tytul": "W gniewu dzień",
+    "numerDN": "1004"
+  },
+  {
+    "tytul": "Wiatr w przelocie skonał, chyży",
+    "numerDN": "543"
+  },
+  {
+    "tytul": "Widziałem wodę płynącą",
+    "numerDN": "177"
+  },
+  {
+    "tytul": "Wieczna miłość jest mój Jezus",
+    "numerDN": "685"
+  },
+  {
+    "tytul": "Wieczny odpoczynek",
+    "numerDN": "41.5"
+  },
+  {
+    "tytul": "Wielbi dusza moja Pana",
+    "numerDN": "7.11"
+  },
+  {
+    "tytul": "Wielbię Ciebie",
+    "numerDN": "686"
+  },
+  {
+    "tytul": "Wielbij, duszo moja, Pana",
+    "numerDN": "6.8"
+  },
+  {
+    "tytul": "Wielbimy Krzyż Twój, Panie",
+    "numerDN": "73.2"
+  },
+  {
+    "tytul": "Wielki Boże, patrząc z góry",
+    "numerDN": "975"
+  },
+  {
+    "tytul": "Wielkie rzeczy uczynił mi Wszechmocny",
+    "numerDN": "7.10"
+  },
+  {
+    "tytul": "Wielki przed Bogiem klejnocie",
+    "numerDN": "912"
+  },
+  {
+    "tytul": "Wierzymy w Ciebie, Chryste",
+    "numerDN": "246"
+  },
+  {
+    "tytul": "Więzień w czyśćcu zatrzymany",
+    "numerDN": "1005"
+  },
+  {
+    "tytul": "Wisi na krzyżu",
+    "numerDN": "531"
+  },
+  {
+    "tytul": "Witaj, Boże, utajony",
+    "numerDN": "687"
+  },
+  {
+    "tytul": "Witaj, dniu pierwszy",
+    "numerDN": "2.2"
+  },
+  {
+    "tytul": "Witaj, Gwiazdo morska",
+    "numerDN": "83.1a"
+  },
+  {
+    "tytul": "Witaj, Gwiazdo morska",
+    "numerDN": "83.1b"
+  },
+  {
+    "tytul": "Witaj, jasny Królewiczu",
+    "numerDN": "899"
+  },
+  {
+    "tytul": "Witaj, Jezu, w tej świętości",
+    "numerDN": "688"
+  },
+  {
+    "tytul": "Witaj, Jezu ukochany",
+    "numerDN": "437"
+  },
+  {
+    "tytul": "Witaj, Jutrzenko, rano powstająca",
+    "numerDN": "874"
+  },
+  {
+    "tytul": "Witaj, Kostko Stanisławie",
+    "numerDN": "947"
+  },
+  {
+    "tytul": "Witaj, Królowo, Gwiazdo niebieska",
+    "numerDN": "875"
+  },
+  {
+    "tytul": "Witaj, Królowo, Matko litości",
+    "numerDN": "876"
+  },
+  {
+    "tytul": "Witaj, Królowo, Matko miłosierdzia",
+    "numerDN": "877"
+  },
+  {
+    "tytul": "Witaj, Królowo nieba",
+    "numerDN": "878"
+  },
+  {
+    "tytul": "Witaj, Krynico",
+    "numerDN": "734"
+  },
+  {
+    "tytul": "Witaj, Maryjo, śliczna Pani",
+    "numerDN": "879"
+  },
+  {
+    "tytul": "Witaj, Matko uwielbiona",
+    "numerDN": "544"
+  },
+  {
+    "tytul": "Witajmy Jezusa nam narodzonego",
+    "numerDN": "438"
+  },
+  {
+    "tytul": "Witaj nam, witaj, Zbawco nasz, Boże",
+    "numerDN": "735"
+  },
+  {
+    "tytul": "Witaj, Ojcze ukochany",
+    "numerDN": "955"
+  },
+  {
+    "tytul": "Witaj, Pani, matko Matki Jezusa",
+    "numerDN": "931"
+  },
+  {
+    "tytul": "Witaj, Pani, my poddani",
+    "numerDN": "880"
+  },
+  {
+    "tytul": "Witaj, prześliczna, Niepokalana",
+    "numerDN": "881"
+  },
+  {
+    "tytul": "Witaj, Święta i poczęta niepokalanie",
+    "numerDN": "882"
+  },
+  {
+    "tytul": "Witaj, Święta i poczęta niepokalanie",
+    "numerDN": "883"
+  },
+  {
+    "tytul": "Witaj, święty Stanisławie",
+    "numerDN": "913"
+  },
+  {
+    "tytul": "Witaj, witaj dniu święty",
+    "numerDN": "584"
+  },
+  {
+    "tytul": "Witajże, Dzieciątko, z Panny narodzone",
+    "numerDN": "439"
+  },
+  {
+    "tytul": "Witam Cię, witam",
+    "numerDN": "689"
+  },
+  {
+    "tytul": "Wiwat dzisiaj Boskiej istności",
+    "numerDN": "440"
+  },
+  {
+    "tytul": "Wjeżdża Król nasz, Jezus cichy",
+    "numerDN": "69.3"
+  },
+  {
+    "tytul": "W Kościele od wieków czcimy Sebastiana",
+    "numerDN": "897"
+  },
+  {
+    "tytul": "W krainie życia",
+    "numerDN": "41.16"
+  },
+  {
+    "tytul": "Wkrótce już ujrzę Ja",
+    "numerDN": "884"
+  },
+  {
+    "tytul": "W krzyżu cierpienie",
+    "numerDN": "532"
+  },
+  {
+    "tytul": "W łaskawości niepojęty",
+    "numerDN": "1006"
+  },
+  {
+    "tytul": "W majestacie na niebieskim tronie",
+    "numerDN": "690"
+  },
+  {
+    "tytul": "W Mądrość Przedwieczną",
+    "numerDN": "608"
+  },
+  {
+    "tytul": "Wnijdę do Twego ołtarza, Boże",
+    "numerDN": "247"
+  },
+  {
+    "tytul": "W Ogrójcu Jezus klęczy",
+    "numerDN": "533"
+  },
+  {
+    "tytul": "Wojciechu, Patronie polskiego narodu",
+    "numerDN": "909"
+  },
+  {
+    "tytul": "Woli Bożej się poddawaj",
+    "numerDN": "461.2"
+  },
+  {
+    "tytul": "W Sakramencie utajony",
+    "numerDN": "691"
+  },
+  {
+    "tytul": "W Sakramencie utajony",
+    "numerDN": "692"
+  },
+  {
+    "tytul": "W smutnym Ogrodzie Oliwnym",
+    "numerDN": "87.3"
+  },
+  {
+    "tytul": "Wspomnij, o Królowo miła",
+    "numerDN": "885"
+  },
+  {
+    "tytul": "Wspomnij sobie, o Maryjo",
+    "numerDN": "1007"
+  },
+  {
+    "tytul": "Wstał Pan Chrystus z martwych ninie",
+    "numerDN": "575"
+  },
+  {
+    "tytul": "Wstanę i pójdę do mojego Ojca",
+    "numerDN": "480"
+  },
+  {
+    "tytul": "Wstań, który śpisz",
+    "numerDN": "481"
+  },
+  {
+    "tytul": "Wszechmocny Panie, wiekuisty Boże",
+    "numerDN": "248"
+  },
+  {
+    "tytul": "Wszystka moja nadzieja",
+    "numerDN": "249"
+  },
+  {
+    "tytul": "Wszystkie nasze dzienne sprawy",
+    "numerDN": "159"
+  },
+  {
+    "tytul": "Wszystko co żyje, niech wielbi Pana",
+    "numerDN": "333"
+  },
+  {
+    "tytul": "Wszystko dobrze, co Bóg czyni",
+    "numerDN": "250"
+  },
+  {
+    "tytul": "Wszystko Tobie dziś oddaję",
+    "numerDN": "251"
+  },
+  {
+    "tytul": "Wszystko Tobie oddać pragnę",
+    "numerDN": "252"
+  },
+  {
+    "tytul": "Wśród nocnej ciszy",
+    "numerDN": "441"
+  },
+  {
+    "tytul": "W tym świętym czasie oczekiwania",
+    "numerDN": "375"
+  },
+  {
+    "tytul": "Wydawajcie owoce godne nawrócenia",
+    "numerDN": "482"
+  },
+  {
+    "tytul": "Wysławiajmy Chrysta Pana",
+    "numerDN": "576"
+  },
+  {
+    "tytul": "Wysłuchaj, Panie",
+    "numerDN": "483"
+  },
+  {
+    "tytul": "Wy wszyscy, którzy zostaliście ochrzczeni",
+    "numerDN": "14.5"
+  },
+  {
+    "tytul": "Wyznanie wiary I",
+    "numerDN": "171"
+  },
+  {
+    "tytul": "Wyznanie wiary II",
+    "numerDN": "172"
+  },
+  {
+    "tytul": "Wzięta do nieba Maryja, Królowa",
+    "numerDN": "886"
+  },
+  {
+    "tytul": "W żłobie leży",
+    "numerDN": "442"
+  },
+  {
+    "tytul": "W żłobie leży",
+    "numerDN": "443"
+  },
+  {
+    "tytul": "W żłóbku na sianie",
+    "numerDN": "444"
+  },
+  {
+    "tytul": "Zacznijcie wargi nasze",
+    "numerDN": "84.1"
+  },
+  {
+    "tytul": "Zakrólował Pan",
+    "numerDN": "Til"
+  },
+  {
+    "tytul": "Zaprowadź, Panno miła",
+    "numerDN": "887"
+  },
+  {
+    "tytul": "Za rękę weź mnie, Panie",
+    "numerDN": "253"
+  },
+  {
+    "tytul": "Zastanów się, o człowiecze",
+    "numerDN": "64.1"
+  },
+  {
+    "tytul": "Zaświtał blaskiem promiennym",
+    "numerDN": "585"
+  },
+  {
+    "tytul": "Zawitaj, Ciało i Krwi Jezusa",
+    "numerDN": "305"
+  },
+  {
+    "tytul": "Zawitaj, Królowo Różańca świętego",
+    "numerDN": "888"
+  },
+  {
+    "tytul": "Zawitaj, Matko Różańca świętego",
+    "numerDN": "889"
+  },
+  {
+    "tytul": "Zawitaj, Ukrzyżowany",
+    "numerDN": "534"
+  },
+  {
+    "tytul": "Zbliżam się k Tobie",
+    "numerDN": "535"
+  },
+  {
+    "tytul": "Zbliżam się w pokorze",
+    "numerDN": "693"
+  },
+  {
+    "tytul": "Zbliżam się w pokorze",
+    "numerDN": "694"
+  },
+  {
+    "tytul": "Z Bogiem, z Bogiem każda sprawa",
+    "numerDN": "254"
+  },
+  {
+    "tytul": "Z dalekiej Fatimy",
+    "numerDN": "890"
+  },
+  {
+    "tytul": "Z dawna Polski Tyś Królową",
+    "numerDN": "891"
+  },
+  {
+    "tytul": "Zdrowaś bądź, Maryja",
+    "numerDN": "376"
+  },
+  {
+    "tytul": "Zdrowaś Maryjo, Bogarodzico",
+    "numerDN": "892"
+  },
+  {
+    "tytul": "Zdrowaś Maryjo, łaski pełna",
+    "numerDN": "83.11"
+  },
+  {
+    "tytul": "Zdrowaś Maryjo, łaski pełna",
+    "numerDN": "340.4"
+  },
+  {
+    "tytul": "Zebrani przed Twoim ołtarzem",
+    "numerDN": "87.1"
+  },
+  {
+    "tytul": "Ze wzgórz Częstochowy",
+    "numerDN": "893"
+  },
+  {
+    "tytul": "Z głębi mojego serca",
+    "numerDN": "484"
+  },
+  {
+    "tytul": "Z głębokości ja wołam",
+    "numerDN": "1008"
+  },
+  {
+    "tytul": "Z głębokości wołam do Ciebie",
+    "numerDN": "41.3"
+  },
+  {
+    "tytul": "Zjawiło się nam dziś coś nowego",
+    "numerDN": "445"
+  },
+  {
+    "tytul": "Złączmy razem swoje głosy",
+    "numerDN": "894"
+  },
+  {
+    "tytul": "Złącz, Panie, miłujących Cię",
+    "numerDN": "255"
+  },
+  {
+    "tytul": "* Złożyłeś, Panie, w dłoniach kapłana",
+    "numerDN": "022"
+  },
+  {
+    "tytul": "Złóżcie troski, żałujący",
+    "numerDN": "577"
+  },
+  {
+    "tytul": "Złóżcie troski, żałujący",
+    "numerDN": "578"
+  },
+  {
+    "tytul": "Zmarły człowiecze",
+    "numerDN": "1009"
+  },
+  {
+    "tytul": "Zmartwychpowstał Pan prawdziwie",
+    "numerDN": "579"
+  },
+  {
+    "tytul": "Zmartwychwstał Zbawca nasz",
+    "numerDN": "580"
+  },
+  {
+    "tytul": "Zmartwychwstał z grobu Pan",
+    "numerDN": "79.7"
+  },
+  {
+    "tytul": "Zmiłuj się, Boże, zmiłuj nad grzesznikiem",
+    "numerDN": "485"
+  },
+  {
+    "tytul": "Zmiłuj się nade mną, Boże",
+    "numerDN": "41.6"
+  },
+  {
+    "tytul": "Zmiłuj się, Panie",
+    "numerDN": "536"
+  },
+  {
+    "tytul": "Zmiłuj się, Stwórco",
+    "numerDN": "486"
+  },
+  {
+    "tytul": "Z narodzenia Pana",
+    "numerDN": "446"
+  },
+  {
+    "tytul": "Z nieba wysokiego",
+    "numerDN": "447"
+  },
+  {
+    "tytul": "Z pokorą upadamy",
+    "numerDN": "191"
+  },
+  {
+    "tytul": "Z radością śpiewajcie Panu",
+    "numerDN": "256"
+  },
+  {
+    "tytul": "Zróbcie Mu miejsce",
+    "numerDN": "695"
+  },
+  {
+    "tytul": "Z śląskich kopalń",
+    "numerDN": "895"
+  },
+  {
+    "tytul": "Z tej biednej ziemi",
+    "numerDN": "736"
+  },
+  {
+    "tytul": "Z Tobą, Jezu, chcemy żyć",
+    "numerDN": "625"
+  },
+  {
+    "tytul": "Z Twojego boku, Chryste",
+    "numerDN": "257"
+  },
+  {
+    "tytul": "Zwiastun wschodzącego słońca",
+    "numerDN": "920"
+  },
+  {
+    "tytul": "Zwycięzca śmierci, piekła i szatana",
+    "numerDN": "581"
+  },
+  {
+    "tytul": "Z wyroków nieba Maryja się rodzi",
+    "numerDN": "896"
+  },
+  {
+    "tytul": "Żal duszę ściska",
+    "numerDN": "67.2"
+  }
+]

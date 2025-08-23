@@ -1,0 +1,30 @@
+Adwent {Adw}
+Środa popielcowa {Śr. Pop.}
+Wielki Post {W. Post}
+Pieśni wielkanocne {Wielk.}
+Pieśni do Miłosierdzia Bożego {M. B.}
+Wniebowstąpienie Pańskie {Wnieb. P.}
+Pieśni do Ducha Świętego {D. Św.}
+Do Jezusa wiecznego Kapłana {Jez. w. Kapł.}
+Pieśni do Trójcy Świętej {Tr. Św.}
+Pieśni Eucharystyczne {Euch.}
+Pieśni do Serca Jezusa {S. Jez.}
+Przemienienie Pańskie {Przem. P.}
+Pieśni Jezusa Chrystusa, Króla Wszechświata {J. Chr. Króla}
+Pieśni do Najświętszej Maryi Panny {NMP}
+Pieśni do Świętego Józefa {Św. Józ.}
+Pieśni ku czci świętych Archaniołów {Św. Arch.}
+Pieśni ku czci świętych Aniołów Stróżów {Św. An. Str.}
+Pieśni o Świętych {o Św.}
+Pieśni przygodne {Przygod.}
+Hymny {Hym.}
+Pieśni za zmarłych {Za zm.}
+Pieśni Mszalne {Mszal.}
+Pieśni z Taize {Taize}
+Boże Narodzenie {B. N.}
+Świętej Rodziny {Św. Rodz.}
+Koniec Roku {K. Roku}
+Objawienie Pańskie {Obj. P.}
+Wielki Piątek {W. Pt.}
+Dni Krzyżowe {Dn. Krzyż.}
+Uwielbienie {Uwielb.}

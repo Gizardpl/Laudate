@@ -1,0 +1,5 @@
+DN.json zawiera spis treści śpiewnika DN
+piesni.json to kompletny spis pieśni BEZ DN
+piesni_zaktualizowany.json to kompletny spis pieśni Z DN (aktualnie projekt korzysta z tego pliku)
+
+puste.json to lista pieśni z które nie zawierają tekstów
