@@ -98,7 +98,7 @@ def _extract_section_objects(soup: BeautifulSoup, upper_label: str, title_normal
 
     items: List[Dict[str, str]] = []
     items.append({
-        "tytuł": title_normal,
+        "tytul": title_normal,
         "sigla": sigla,
         "tekst": first_text,
     })
@@ -110,7 +110,7 @@ def _extract_section_objects(soup: BeautifulSoup, upper_label: str, title_normal
         second_content_p = maybe_albo_p.find_next_sibling("p")
         second_text = _text_in_order(second_content_p) if second_content_p else ""
         items.append({
-            "tytuł": f"{title_normal} 2",
+            "tytul": f"{title_normal} 2",
             "sigla": sigla,
             "tekst": second_text,
         })
