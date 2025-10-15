@@ -2,17 +2,17 @@ import json
 
 # --- Konfiguracja ---
 # Nazwa nowego parametru, który zostanie dodany do każdego obiektu.
-NEW_PARAMETER_NAME = "numerED"
+NEW_PARAMETER_NAME = "numerNT2"
 
 # Domyślna wartość dla nowego parametru.
 NEW_PARAMETER_VALUE = ""
 
 # Nazwa parametru, po którym zostanie wstawiony nowy parametr.
-AFTER_PARAMETER = "numerSAK"
+AFTER_PARAMETER = "numerNT2"
 
 # Nazwa pliku wejściowego i wyjściowego
 INPUT_FILE = "piesni1.json"
-OUTPUT_FILE = "piesni2.json"
+OUTPUT_FILE = "piesni1.json"
 # --- Koniec Konfiguracji ---
 
 def add_parameter_to_json(input_file, output_file, new_param_name, new_param_value, after_param):
