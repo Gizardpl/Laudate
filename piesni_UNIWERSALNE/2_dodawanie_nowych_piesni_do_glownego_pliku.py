@@ -9,20 +9,20 @@ from collections import OrderedDict
 # ==============================================================================
 
 # Plik JSON zawierający nowe pieśni do dodania lub zaktualizowania.
-NEW_SONGS_FILENAME = 'ED.json'
+NEW_SONGS_FILENAME = 'NT2.json'
 
 # Plik JSON z główną bazą pieśni, który będzie celem operacji.
 MAIN_SONGS_INPUT_FILENAME = 'piesni1.json'
 
 # Nazwa pliku wyjściowego, który zostanie utworzony z połączonymi danymi.
-MAIN_SONGS_OUTPUT_FILENAME = 'piesni2.json'
+MAIN_SONGS_OUTPUT_FILENAME = 'piesni1.json'
 
 # Nazwa klucza (parametru) oznaczającego tytuł pieśni w OBU plikach.
 TITLE_PARAM_NAME = 'tytul'
 
 # Nazwa klucza (parametru) oznaczającego numer pieśni w pliku z NOWYMI pieśniami.
 # Skrypt wyszuka tego samego klucza w pliku głównym.
-NUMBER_PARAM_NAME = 'numerED'
+NUMBER_PARAM_NAME = 'numerNT2'
 
 # Kodowanie znaków używane do odczytu i zapisu plików.
 FILE_ENCODING = 'utf-8'
