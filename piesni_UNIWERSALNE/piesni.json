@@ -86,7 +86,7 @@
     },
     {
         "tytul": "Czekam na Ciebie, Jezu",
-        "tekst": "1. Czekam na Ciebie, Jezu mój mały,\nciche błagania ku niebu ślę.\nTwojego przyjścia czeka świat cały,\nsercem gorącym przyzywa Cię.\nSpójrz, tęsknimy na tej ziemi,\nprzybądź, Jezu, pociesz nas!\nSzczerze kochać Cię będziemy,\nprzyjdź, o Jezu, bo już czas!\n\n2. Usłysz, Maryjo, głos Twoich dzieci,\nTyś naszą Matką na każdy dzień.\nO, daj nam Słońce, które rozświeci\ngrzechu i błędu straszliwy cień.\nWciąż tęsknimy na tej ziemi,\ndaj nam Zbawcę, Dziecię Twe.\nMy dla Niego żyć pragniemy,\nJemu damy serca swe.",
+        "tekst": "1. Czekam na Ciebie, Jezu mój mały, * ciche błagania ku niebu ślę. * Twojego przyjścia czeka świat cały, * sercem gorącym przyzywa Cię. * Spójrz, tęsknimy na tej ziemi, * przybądź, Jezu, pociesz nas! * Szczerze kochać Cię będziemy, * przyjdź, o Jezu, bo już czas!\n2. Usłysz, Maryjo, głos Twoich dzieci, * Tyś naszą Matką na każdy dzień. * O, daj nam Słońce, które rozświeci * grzechu i błędu straszliwy cień. * Wciąż tęsknimy na tej ziemi, * daj nam Zbawcę, Dziecię Twe. * My dla Niego żyć pragniemy, * Jemu damy serca swe.",
         "numerSAK2020": "6",
         "numerDN": "344",
         "numerSiedl": "15",
@@ -140,9 +140,9 @@
         "numerDN": "346",
         "numerSiedl": "17",
         "numerSAK": "24",
-        "numerED": "",
+        "numerED": "443",
         "numerNT1": "",
-        "numerNT2": "",
+        "numerNT2": "157",
         "kategoria": "Adwent",
         "kategoriaSkr": "Adw",
         "tagi": [
@@ -2096,7 +2096,7 @@
     },
     {
         "tytul": "Rozpłyńcie się, me źrenice",
-        "tekst": "1. Rozpłyńcie się me źrenice\nToczcie smutnych łez krynice!\nZa Jezusem w krzyża drodze,\nŻe tak dla nas cierpi srodze.\nJezu nasz,\nUsłysz nas! Zmiłuj się nad nami!\n\n2. Przez Twe, Jezu, umęczenie\nDaj nam z grzechów nawrócenie,\nPrzez Twoją śmierć gorzką, krwawą,\nDaj nam żal i skruchę prawą.\nJezu nasz,\nUsłysz nas! Zmiłuj się nad nami!\n\n3. Byłeś Jezu biczowany,\nCierniem ukoronowany,\nZbity, plwany i zelżony,\nNa śmierć krzyża osądzony.\nJezu nasz,\nUsłysz nas! Zmiłuj się nad nami!\n\n4. Któż Ci, Jezu nasz kochany,\nZadać mógł tak srogie rany?\nMy, my, ach my, to grzesznicy.\nZatwardziali bezbożnicy.\nJezu nasz,\nUsłysz nas! Zmiłuj się nad nami!\n\n5. Do Ciebie już chcemy śpieszyć,\nCiebie kochać, a nie grzeszyć,\nNad grzechami łzy wylewać,\nCnotliwie żyć, Ciebie wzywać.\nJezu nasz,\nUsłysz nas! Zmiłuj się nad nami!",
+        "tekst": "1. Rozpłyńcie się, me źrenice, w gorzkich łez wylewajcie zdroje,\nBijcie, w piersi me, grzesznice, serce, ach, serce moje!\n\n2. Jezus na krzyżu umiera, słońce się w mroku ukrywa,\nZiemia się z trwogi rozpiera, skały pękają, o dziwa!\n\n3. Umierasz, o mój Kochany, za moje grzechy, niewdzięczność,\nA ja, z sercem jak głaz twardy, nie czuję skruchy, wdzięczności.\n\n4. Lecz u stóp krzyża Twojego, o Jezu, padam skruszony,\nObmyj mnie we Krwi Twej drogiej, i bądź mi, Panie, miłościw.",
         "numerSAK2020": "142",
         "numerDN": "525",
         "numerSiedl": "",
@@ -2106,10 +2106,7 @@
         "numerNT2": "",
         "kategoria": "Wielki Post",
         "kategoriaSkr": "W. Post",
-        "tagi": [
-            "Pasyjne",
-            "2 część WP"
-        ]
+        "tagi": []
     },
     {
         "tytul": "Ty, któryś gorzko",
@@ -2643,17 +2640,19 @@
     },
     {
         "tytul": "Królu, Boże Abrahama",
-        "tekst": "1. Królu, Boże Abrahama,\nTyś jest moc i dobroć sama!\nWejrzyj na to ludzkie plemię,\nA daj żyzny deszcz na ziemię.\n\n2. Niechaj zna lud prawowierny,\nŻeś Ty jest Bóg miłosierny,\nA my Cię za ten dar wielki\nBędziem wielbić na czas wszelki.\n\n3. Zlitujże się nad strapionym,\nDrogą Krwią Twą odkupionym:\nZlitujże się, zlituj Panie!\nNiech się łaska Twoja stanie.",
-        "numerSAK2020": "184",
-        "numerDN": "",
+        "tekst": "1. Królu, Boże Abrahama,\nTyś jest moc i dobroć sama!\nWejrzyj na to ludzkie plemię,\nA daj żyzny deszcz na ziemię.\n\n2. Niechaj zna lud prawowierny,\nŻeś Ty jest Bóg miłosierny,\nA my Cię za ten dar wielki\nBędziem wielbić na czas wszelki.\n\n3. Zlitujże się nad strapionym,\nDrogą Krwią Twą odkupionym:\nZlitujże się, zlituj Panie!\nNiech się łaska Twoja stanie.\n\n4. Zwróć się do nas, Ojcze miły!\nDzieci Cię Twe obstąpiły.\nJeżeliśmy łaski godni,\nMasz chleb w ręku, a my głodni.\n\n5. Oddal piorun, grad i szkody,\nOddal wichry, wylew wody!\nDaj nam pokój, zdrowie, chleba,\nA po śmierci użycz nieba.",
+        "numerSAK2020": "",
+        "numerDN": "974",
         "numerSiedl": "",
-        "numerSAK": "182",
+        "numerSAK": "",
         "numerED": "",
         "numerNT1": "",
         "numerNT2": "",
         "kategoria": "Dni Krzyżowe",
         "kategoriaSkr": "Dn. Krzyż.",
-        "tagi": []
+        "tagi": [
+            "żniwa"
+        ]
     },
     {
         "tytul": "Wielki Boże, patrząc z góry",
@@ -3039,9 +3038,9 @@
         "numerDN": "635",
         "numerSiedl": "233",
         "numerSAK": "207",
-        "numerED": "",
+        "numerED": "576",
         "numerNT1": "",
-        "numerNT2": "",
+        "numerNT2": "348",
         "kategoria": "Eucharystyczne",
         "kategoriaSkr": "Euch.",
         "tagi": [
@@ -3937,15 +3936,12 @@
         "numerDN": "292",
         "numerSiedl": "265",
         "numerSAK": "259",
-        "numerED": "",
+        "numerED": "607",
         "numerNT1": "",
         "numerNT2": "",
         "kategoria": "Eucharystyczne",
         "kategoriaSkr": "Euch.",
-        "tagi": [
-            "Komunia Święta",
-            "Dziękczynienie"
-        ]
+        "tagi": []
     },
     {
         "tytul": "Pobłogosław lud Twój",
@@ -4835,7 +4831,7 @@
         "numerDN": "331",
         "numerSiedl": "622",
         "numerSAK": "308",
-        "numerED": "",
+        "numerED": "213",
         "numerNT1": "",
         "numerNT2": "",
         "kategoria": "Uwielbienie",
@@ -8971,17 +8967,17 @@
     {
         "tytul": "Złącz, Panie, miłujących Cię",
         "tekst": "1. Złącz, Panie, miłujących Cię, * złącz w jedną drogę wiele dróg. * Wszak jedna miłość wiedzie nas, * a Bogiem wszystkich jeden Bóg.\n2. Ze wszech stron świata dąży lud, * by ujrzeć Ojca twarzą w twarz, * na górny Syjon, w Jego dom. * Wszak mieszkań wiele dla nas ma.\n3. Bogu Zwycięzcy wieczny hołd! * Niech Panu wieków chwała brzmi! * Bo w naszych sercach Święty Duch * wieczyste 'Sanctus' śpiewa Ci.",
-        "numerSAK2020": "603",
+        "numerSAK2020": "",
         "numerDN": "255",
         "numerSiedl": "634",
-        "numerSAK": "565",
+        "numerSAK": "",
         "numerED": "",
         "numerNT1": "",
         "numerNT2": "",
-        "kategoria": "Okolicznościowe",
-        "kategoriaSkr": "Okol.",
+        "kategoria": "Przygodne",
+        "kategoriaSkr": "Przygod.",
         "tagi": [
-            "Jedność"
+            "Wejście/Przygotowanie darów"
         ]
     },
     {
@@ -9277,22 +9273,6 @@
         "kategoriaSkr": "Przygod.",
         "tagi": [
             "Wejście/Przygotowanie darów"
-        ]
-    },
-    {
-        "tytul": "Bóg jest miłością",
-        "tekst": "1. Bóg jest miłością zbawieniem duszy,\nI kocha bardzo, mnie dziecię swe.\n\nRefren: Więc śpiewaj duszo ma: Bóg jest miłością,\nBóg jest miłością, miłuje mnie.\n\n2. Jezusa posłał, wiernego Zbawcę,\nAby do nieba wprowadził mnie. Ref\n\n3. I dał nam Matkę Swojego Syna,\nAby od złego chroniła nas. Ref.\n\n4. Kochany Jezu łzy nam ocierasz,\nGdy serce boli, utulasz żal.\n\n5. Cóż oddam Panu za wszystkie dary,\nKtórymi co dzień obdarza mnie?\n\n6. Chcę Ciebie kochać miłością wielką,\nTak długo póki tu będę żyć. Ref.",
-        "numerSAK2020": "623",
-        "numerDN": "261",
-        "numerSiedl": "760",
-        "numerSAK": "576",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Przygodne",
-        "kategoriaSkr": "Przygod.",
-        "tagi": [
-            "Komunia Święta"
         ]
     },
     {
@@ -9790,20 +9770,6 @@
     },
     {
         "tytul": "Pan jest blisko",
-        "tekst": "Antyfona: Pan jest blisko, już przychodzi, * by zbawienie ludziom dać.\n1. Wysłuchaj Pasterzu prośby ludu Twego * i prowadź nas jak naród wybrany. Ant.\n2. Ty, który panujesz nad narodami * okaż się ludowi Twemu. Ant.\n3. Panie, wzbudź potęgę Twoją * i przybądź, by nas zbawić. Ant.\n4. O Boże, odnów ducha naszego, * abyśmy byli zbawieni. Ant.",
-        "numerSAK2020": "",
-        "numerDN": "360",
-        "numerSiedl": "6",
-        "numerSAK": "",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Adwent",
-        "kategoriaSkr": "Adw",
-        "tagi": []
-    },
-    {
-        "tytul": "Pan jest blisko",
         "tekst": "Już przyjdzie Pan, Zbawiciel nasz, * Drogę Jemu sprawcie!\nPrzyjdzie żądany Mesjasz, * Gospodę przyprawcie.\nPrzyjdzie, przyjdzie nasz Zbawiciel,\nWszyscy zaśpiewajcie:\nPrzyjdzie, przyjdzie Odkupiciel\nChwałę Jemu dajcie.",
         "numerSAK2020": "",
         "numerDN": "",
@@ -9840,7 +9806,7 @@
         "numerSiedl": "769",
         "numerSAK": "609",
         "numerED": "541",
-        "numerNT1": "",
+        "numerNT1": "375.1",
         "numerNT2": "",
         "kategoria": "z Taize",
         "kategoriaSkr": "Taize",
@@ -13476,22 +13442,6 @@
         ]
     },
     {
-        "tytul": "Złącz, Panie, miłujących Cię",
-        "tekst": "1. Złącz, Panie, miłujących Cię, * złącz w jedną drogę wiele dróg. * Wszak jedna miłość wiedzie nas, * a Bogiem wszystkich jeden Bóg.\n2. Ze wszech stron świata dąży lud, * by ujrzeć Ojca twarzą w twarz, * na górny Syjon, w Jego dom. * Wszak mieszkań wiele dla nas ma.\n3. Bogu Zwycięzcy wieczny hołd! * Niech Panu wieków chwała brzmi! * Bo w naszych sercach Święty Duch * wieczyste 'Sanctus' śpiewa Ci.",
-        "numerSAK2020": "",
-        "numerDN": "255",
-        "numerSiedl": "634",
-        "numerSAK": "",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Przygodne",
-        "kategoriaSkr": "Przygod.",
-        "tagi": [
-            "Wejście/Przygotowanie darów"
-        ]
-    },
-    {
         "tytul": "Z radością śpiewajcie Panu",
         "tekst": "Ref. Z radością śpiewajcie Panu wszystkie ziemie;\nSłużcie Panu z weselem!\n\n1. Wśród wesela, radości!\nSawajcie przed Jego obliczem.\n\n2. Wiedzcie, że Pan jest Bogiem,\nOn nas stworzył, my Jego własnością, my lud Jego, owce Jego pastwiska.\n\n3. Wstępujcie w bramy Jego z pieśniami, z hymnami w Jego przedsionki:\nChwalcie i błogosławcie Jego imię.\n\n4. Albowiem dobry jest Pan, miłosierdzie Jego trwa na wieki,\nA wierność Jego przez pokolenia.",
         "numerSAK2020": "",
@@ -13679,20 +13629,6 @@
         "tagi": [
             "Komunia Święta"
         ]
-    },
-    {
-        "tytul": "Panie, pragnienia ludzkich serc",
-        "tekst": "Refren: Panie, pragnienia ludzkich serc * Ty zaspokoisz sam. * Przyjdź, Chlebie Żywy, Zbawco nasz, * Pszeniczny Darze, przyjdź!\n1. Jak pasterz woła owce swe * i znają jego głos, * tak wzywasz nas, rodzinę swą, * za Tobą chcemy iść! \nRef.\n2. Z radością więc śpiewamy Ci * ten dziękczynienia hymn. * Godnymi czynisz dzisiaj nas * niebieski dzielić Chleb. \nRef.\n3. Ty, Panie, dajesz siebie nam, * by naszym życiem być. * Jak braciom służyć, naucz, jak * miłością, prawdą żyć. \nRef.",
-        "numerSAK2020": "265",
-        "numerDN": "292",
-        "numerSiedl": "265",
-        "numerSAK": "259",
-        "numerED": "607",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Eucharystyczne",
-        "kategoriaSkr": "Euch.",
-        "tagi": []
     },
     {
         "tytul": "Przed Twojego dziś ołtarza tronem",
@@ -13982,22 +13918,6 @@
         ]
     },
     {
-        "tytul": "Radośnie Panu hymn śpiewajmy",
-        "tekst": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! * I dobroć Jego wysławiajmy. Alleluja!\n\n1. Wychwalajcie ze mną dzieła Bożej mocy. Alleluja!\nWychwalajcie Pana nad wszystko na wieki. Alleluja!\n\n2. Wychwalajcie Pana, aniołowie Pańscy. Alleluja!\nWychwalajcie Pana, zastępy niebieskie. Alleluja!\n\n3. Wychwalajcie Pana, słońce i księżycu. Alleluja!\nWychwalajcie Pana, wszystkie gwiazdy nieba. Alleluja!\n\n4. Wychwalajcie Pana, cztery pory roku. Alleluja!\nWychwalajcie Pana, pogody i słoty. Alleluja!\n\n5. Wychwalajcie Pana, rzeki, oceany. Alleluja!\nWychwalajcie Pana, pagórki i góry. Alleluja!\n\n6. Wychwalajcie Pana, rośliny, zwierzęta. Alleluja!\nNiech wychwala Pana, cały rodzaj ludzki. Alleluja!\n\n7. Wychwalajcie Pana, ludzie sprawiedliwi. Alleluja!\nWychwalajcie Pana, pokorni i święci. Alleluja!\n\n8. Wychwalajcie Pana, kapłani Kościoła. Alleluja!\nNiech cały Lud Boży sławi Jego dobroć. Alleluja!\n\n9. Wychwalajcie Ojca, wraz z Synem i Duchem. Alleluja!\nWychwalajmy Pana, Stwórcę nieba, ziemi. Alleluja!\n\n10. Wychwalajmy Boga, który rządzi światem. Alleluja!\nWychwalajmy Boga, nad wszystko na wieki. Alleluja! \nRef.",
-        "numerSAK2020": "321",
-        "numerDN": "331",
-        "numerSiedl": "622",
-        "numerSAK": "308",
-        "numerED": "213",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Uwielbienie",
-        "kategoriaSkr": "Uwielb.",
-        "tagi": [
-            "Dziękczynienie"
-        ]
-    },
-    {
         "tytul": "Święty Boże, Święty mocny",
         "tekst": "1. Święty Boże, Święty mocny, Święty nieśmiertelny. * Ratuj dusze z mąk czyśćcowych, boś jest miłosierny.\n2. Jezu, przepuść i wysłuchaj, zmiłuj się nad nami. * Ratuj dusze z mąk czyśćcowych Twymi zasługami.\n3. Matko, uproś i przebłagaj, przyczyń się za nami. * Ratuj dusze z mąk czyśćcowych Twymi przyczynami.\n4. Święci Pańscy, Boga proście, wstawcie się za nami. * Dusze z czyśćca wyratujcie, niech się cieszą z Wami.",
         "numerSAK2020": "",
@@ -14009,20 +13929,6 @@
         "numerNT2": "",
         "kategoria": "za zmarłych",
         "kategoriaSkr": "Za zm.",
-        "tagi": []
-    },
-    {
-        "tytul": "Czekam na Ciebie",
-        "tekst": "1. Czekam na Ciebie, Jezu mój mały, * ciche błagania ku niebu ślę. * Twojego przyjścia czeka świat cały, * sercem gorącym przyzywa Cię. * Spójrz, tęsknimy na tej ziemi, * przybądź, Jezu, pociesz nas! * Szczerze kochać Cię będziemy, * przyjdź, o Jezu, bo już czas!\n2. Usłysz, Maryjo, głos Twoich dzieci, * Tyś naszą Matką na każdy dzień. * O, daj nam Słońce, które rozświeci * grzechu i błędu straszliwy cień. * Wciąż tęsknimy na tej ziemi, * daj nam Zbawcę, Dziecię Twe. * My dla Niego żyć pragniemy, * Jemu damy serca swe.",
-        "numerSAK2020": "",
-        "numerDN": "344",
-        "numerSiedl": "15",
-        "numerSAK": "22",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Adwent",
-        "kategoriaSkr": "Adw",
         "tagi": []
     },
     {
@@ -17706,22 +17612,6 @@
         ]
     },
     {
-        "tytul": "Królu, Boże Abrahama",
-        "tekst": "1. Królu, Boże Abrahama,\nTyś jest moc i dobroć sama!\nWejrzyj na to ludzkie plemię,\nA daj żyzny deszcz na ziemię.\n\n2. Niechaj zna lud prawowierny,\nŻeś Ty jest Bóg miłosierny,\nA my Cię za ten dar wielki\nBędziem wielbić na czas wszelki.\n\n3. Zlitujże się nad strapionym,\nDrogą Krwią Twą odkupionym:\nZlitujże się, zlituj Panie!\nNiech się łaska Twoja stanie.\n\n4. Zwróć się do nas, Ojcze miły!\nDzieci Cię Twe obstąpiły.\nJeżeliśmy łaski godni,\nMasz chleb w ręku, a my głodni.\n\n5. Oddal piorun, grad i szkody,\nOddal wichry, wylew wody!\nDaj nam pokój, zdrowie, chleba,\nA po śmierci użycz nieba.",
-        "numerSAK2020": "",
-        "numerDN": "974",
-        "numerSiedl": "",
-        "numerSAK": "",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Dni Krzyżowe",
-        "kategoriaSkr": "Dn. Krzyż.",
-        "tagi": [
-            "żniwa"
-        ]
-    },
-    {
         "tytul": "O Boże, dary Ci niesiemy",
         "tekst": "1. O Boże, dary Ci niesiemy.\nKłosy, snopy, ziarna, które rodzi ziemia,\nI chleb nasz powszedni, którym nas obdzielasz.\nCały najlepszy plon. Niesiemy w darze chleb,\nTrud, pracę naszych rąk.\nPrzyjm ofiarę czystych serc.\n\n2. O Boże, dary Ci niesiemy.\nWinne grona cierpień, mękę i krew swoją,\nKtóre w tej ofierze staną się Krwią Twoją,\nCały najlepszy plon. Niesiemy wina smak,\nMiłości naszej znak.\nPrzyjm ofiarę czystych serc.",
         "numerSAK2020": "",
@@ -18045,7 +17935,7 @@
         "numerSiedl": "1",
         "numerSAK": "",
         "numerED": "485",
-        "numerNT1": "133",
+        "numerNT1": "135",
         "numerNT2": "",
         "kategoria": "Adwent",
         "kategoriaSkr": "Adw",
@@ -21458,20 +21348,6 @@
         "numerNT2": "",
         "kategoria": "Świętej Rodziny",
         "kategoriaSkr": "Św. Rodz.",
-        "tagi": []
-    },
-    {
-        "tytul": "Rozpłyńcie się, me źrenice",
-        "tekst": "1. Rozpłyńcie się, me źrenice, w gorzkich łez wylewajcie zdroje,\nBijcie, w piersi me, grzesznice, serce, ach, serce moje!\n\n2. Jezus na krzyżu umiera, słońce się w mroku ukrywa,\nZiemia się z trwogi rozpiera, skały pękają, o dziwa!\n\n3. Umierasz, o mój Kochany, za moje grzechy, niewdzięczność,\nA ja, z sercem jak głaz twardy, nie czuję skruchy, wdzięczności.\n\n4. Lecz u stóp krzyża Twojego, o Jezu, padam skruszony,\nObmyj mnie we Krwi Twej drogiej, i bądź mi, Panie, miłościw.",
-        "numerSAK2020": "142",
-        "numerDN": "525",
-        "numerSiedl": "",
-        "numerSAK": "148",
-        "numerED": "",
-        "numerNT1": "",
-        "numerNT2": "",
-        "kategoria": "Wielki Post",
-        "kategoriaSkr": "W. Post",
         "tagi": []
     },
     {
@@ -25266,20 +25142,6 @@
         "tagi": ""
     },
     {
-        "tytul": "Grzechem Adama ludzie uwikłani",
-        "tekst": "",
-        "numerSAK2020": "",
-        "numerDN": "",
-        "numerSiedl": "",
-        "numerSAK": "",
-        "numerED": "443",
-        "numerNT1": "",
-        "numerNT2": "157",
-        "kategoria": "",
-        "kategoriaSkr": "",
-        "tagi": ""
-    },
-    {
         "tytul": "Jak błyskawica znak Twój zajaśnieje",
         "tekst": "",
         "numerSAK2020": "",
@@ -26479,20 +26341,6 @@
         "numerED": "574",
         "numerNT1": "",
         "numerNT2": "",
-        "kategoria": "",
-        "kategoriaSkr": "",
-        "tagi": ""
-    },
-    {
-        "tytul": "Bądźże pozdrowiona",
-        "tekst": "",
-        "numerSAK2020": "",
-        "numerDN": "",
-        "numerSiedl": "",
-        "numerSAK": "",
-        "numerED": "576",
-        "numerNT1": "",
-        "numerNT2": "348",
         "kategoria": "",
         "kategoriaSkr": "",
         "tagi": ""
@@ -29368,20 +29216,6 @@
         "tagi": ""
     },
     {
-        "tytul": "Błogosławieni",
-        "tekst": "",
-        "numerSAK2020": "",
-        "numerDN": "",
-        "numerSiedl": "",
-        "numerSAK": "",
-        "numerED": "",
-        "numerNT1": "135",
-        "numerNT2": "",
-        "kategoria": "",
-        "kategoriaSkr": "",
-        "tagi": ""
-    },
-    {
         "tytul": "Błogosławiony człowiek Psalm 1",
         "tekst": "",
         "numerSAK2020": "",
@@ -31602,20 +31436,6 @@
         "numerSAK": "",
         "numerED": "",
         "numerNT1": "374.2",
-        "numerNT2": "",
-        "kategoria": "",
-        "kategoriaSkr": "",
-        "tagi": ""
-    },
-    {
-        "tytul": "Pan jest mocą",
-        "tekst": "",
-        "numerSAK2020": "",
-        "numerDN": "",
-        "numerSiedl": "",
-        "numerSAK": "",
-        "numerED": "",
-        "numerNT1": "375.1",
         "numerNT2": "",
         "kategoria": "",
         "kategoriaSkr": "",

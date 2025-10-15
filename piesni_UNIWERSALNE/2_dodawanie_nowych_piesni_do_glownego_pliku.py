@@ -6,6 +6,7 @@ from collections import OrderedDict
 # ==============================================================================
 # KONFIGURACJA
 # Zdefiniuj nazwy plików oraz parametry, które będą używane w skrypcie.
+# Aby dodać nowe pieśni to w docelowym pliku muszą już istnieć parametry numeru tego śpiewnika (NUMBER_PARAM_NAME)
 # ==============================================================================
 
 # Plik JSON zawierający nowe pieśni do dodania lub zaktualizowania.
