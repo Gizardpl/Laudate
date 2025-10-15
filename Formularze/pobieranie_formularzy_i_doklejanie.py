@@ -16,6 +16,7 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 }
 
+PLIK_Z_LINKAMI = "linki.json"
 
 SEKCJE: List[tuple] = [
     ("ANTYFONA NA WEJŚCIE", "Antyfona na wejście"),
@@ -161,7 +162,7 @@ def write_formularz_to_day_file(day_file: Path, formularz: List[Dict[str, str]])
 
 def main() -> None:
     base_dir = Path(__file__).resolve().parent
-    links_path = base_dir / "linki.json"
+    links_path = base_dir / PLIK_Z_LINKAMI
 
     links = load_links(links_path)
     if not isinstance(links, dict):
